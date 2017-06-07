@@ -1,6 +1,9 @@
 # handbook
 The Niteo Handbook
 
+Use label [Bug](#label_bug) for whatevr.
+
+
 
 
 Issue Labels
