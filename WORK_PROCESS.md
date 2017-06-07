@@ -16,7 +16,7 @@ In other words, our Product Backlog only includes the top part of the official S
 
 ## Urgent production fixes
 
-If we need to fix an urgent bug, we use the Scrum Priority Lane approach: the User Story gets written and then if the Product Owner decides it really is urgent, the User Story is added to the top of WIP column and labeled with (Priority Lane)[#label_priority_lane] so that everyone knows it is an exceptional and urgent issue and the whole team needs to focus on getting it to column Done ASAP.
+If we need to fix an urgent bug, we use the Scrum Priority Lane approach: the User Story gets written and then if the Product Owner decides it really is urgent, the User Story is added to the top of WIP column and labeled with [Priority Lane)[#label_priority_lane] so that everyone knows it is an exceptional and urgent issue and the whole team needs to focus on getting it to column Done ASAP.
 
 
 ## Ongoing Tasks
