@@ -21,7 +21,7 @@ If we need to fix an urgent bug, we use the Scrum Priority Lane approach: the Us
 
 ## Ongoing Tasks
 
-Sometimes the result of the User Story is an agreement that we should do a certain task periodically, over a large span of time. Such tasks are created in whichever repo is the most appropriate and labeled with [Ongoing](#label_ongoing) label.
+Sometimes the result of a User Story is an agreement that we should do a certain task periodically, over a longer period of time. Such tasks are created in whichever repo is the most appropriate and labeled with [Ongoing](#label_ongoing) label.
 
 
 ## Sprint Timeline
