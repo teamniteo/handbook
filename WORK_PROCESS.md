@@ -6,8 +6,8 @@ Our work process is based on Scrum, but modified slightly to apply better to our
 
 The rough outline goes like so: Everyone creates issues in various repos. The issues are labeled as [Bug](#label_bug), [Cleanup](#label_cleanup), [Feature](#label_feature) and [Marketing](#label_marketing). @dmurko, who acts as a Product Owner and the current Scrum Master (we iterate between @karantan and @dz0ny), along with the issue author, create User Stories from these issues and put them on our [Product Backlog]((https://github.com/niteoweb/operations/projects/1)). What this means is that they create an issue in the [Operations](https://github.com/niteoweb/operations/) repo, enter the required information (we have a [template](https://github.com/niteoweb/operations/blob/master/.github/ISSUE_TEMPLATE.md) for that) and apply appropriate labels to the new issue:
  * one of [Bug](#label_bug), [Cleanup](#label_cleanup), [Feature](#label_feature) or [Marketing](#label_marketing)
- * one of project labels (EBN](#label_ebn), [DMON](#label_dmon)) OR if the User Story is not project specific, the (Operations](#label_operations) label
- * (Product Backlog](#label_product_backlog) label
+ * one of project labels ([EBN](#label_ebn), [DMON](#label_dmon)) OR if the User Story is not project specific, the [Operations](#label_operations) label
+ * [Product Backlog](#label_product_backlog) label
 
 Then they go to our [Kanban Board](https://github.com/niteoweb/operations/projects/1) and add the newly created User Story issue to the Product Backlog column.
 
