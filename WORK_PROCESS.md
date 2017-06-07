@@ -26,9 +26,9 @@ Sometimes the result of the User Story is an agreement that we should do a certa
 
 ## Sprint Timeline
 
-Our sprints are 2 weeks long. They start on a Wednesday 10am CEST with the Sprint Planning meeting. They end on a Tuesday two weeks later with Sprint Review and Sprint Retrospective meetings held at 10am CEST.
+Our sprints are two weeks long. They start on a Wednesday 10am CEST with the **Sprint Planning** meeting. They end on a Tuesday two weeks later with **Sprint Review** and **Sprint Retrospective** meetings held at 10am CEST.
 
-On the Wednesday in the middle of the sprint we hold the <a name="product_backlog_refinement_meeting"></a>Product Backlog Refinement meeting at 10am CEST.
+On the Wednesday in the middle of the sprint we hold the <a name="product_backlog_refinement_meeting"></a>**Product Backlog Refinement** meeting at 10am CEST.
 
 All other days we hold the Daily Standup meeting at 10am CEST.
 
