@@ -24,15 +24,6 @@ If we need to fix an urgent bug, we use the Scrum Priority Lane approach: the Us
 Sometimes the result of a User Story is an agreement that we should do a certain task periodically, over a longer period of time. Such tasks are created in whichever repo is the most appropriate and labeled with [Ongoing](#label_ongoing) label.
 
 
-## Sprint Timeline
-
-Our sprints are two weeks long. They start on a Wednesday 10am CEST with the **Sprint Planning** meeting. They end on a Tuesday two weeks later with **Sprint Review** and **Sprint Retrospective** meetings held at 10am CEST.
-
-On the Wednesday in the middle of the sprint we hold the <a name="product_backlog_refinement_meeting"></a>**Product Backlog Refinement** meeting at 10am CEST.
-
-All other days we hold the Daily Standup meeting at 10am CEST.
-
-
 ## Issue Labels
 
 We use the following labels across all our repos:
@@ -62,5 +53,40 @@ The following labels are used only in Operations repo for tickets not included i
  * All [Ongoing](#label_ongoing) tasks: [click!](https://github.com/search?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Ongoing%22+org%3Aniteoweb&type=)
  * All [Sanity Checks](#label_sanity_check) tasks: [click!](https://github.com/search?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Sanity+Check%22+org%3Aniteoweb&type=)
  * All [Support](#label_support) aka. maintenance tasks: [click!](https://github.com/search?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Support%22+org%3Aniteoweb&type=)
+
+
+# Scrum
+
+Sprint length: two weeks.
+
+Story Points commitment: 35 total, at least 7 should be bugfixes and cleanup.
+
+
+## Schedule
+
+Our sprints start on a Wednesday 10am CEST with the [Sprint Planning](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint_planning) meeting. They end on a Tuesday two weeks later with [Sprint Review and Sprint Retrospective](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint_review_and_retrospective) meetings held at 10am CEST.
+
+On the Wednesday in the middle of the sprint we hold the <a name="product_backlog_refinement_meeting"></a>[Product Backlog Refinement](https://en.wikipedia.org/wiki/Scrum_(software_development)#Backlog_refinement) meeting at 10am CEST.
+
+All other days we hold the [Daily Standup](https://en.wikipedia.org/wiki/Scrum_(software_development)#Daily_scrum) meeting at 10am CEST.
+
+
+## Scrum on GitHub
+
+Some of ideas are taken from https://colloq.io/blog/the-tools-we-use-to-stay-afloat.
+
+Our Kanban Board is at https://github.com/niteoweb/operations/projects/1. By clicking on the `Show Menu` you get an additional sidebar that displays the main information about the sprint, such as the **Sprint Goal**, our capacity for the sprint, committed story points and the **Burndown Chart**.
+
+
+### Team Capacity
+
+To have a quick overview of who is available to work in the current sprint we use the following rule:
+ * people who are away are not included in the sprint
+ * people who are swamped with maintenance, support and ongoing work are not included in the sprint so they can focus on their work
+ * people who can commit about half of their time to the sprint work have a "single finger" icon
+ * people who can commit most of their time to the sprint work have a "double fingers" icon
+
+
+
 
 
