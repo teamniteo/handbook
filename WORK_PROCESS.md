@@ -2,16 +2,21 @@
 
 Our work process is based on Scrum, but modified slightly to apply better to our specific needs:
  * we don't do customer projects, we are our own Product Owners,
- * we don't want to use additional tools other than GitHub Issues which we already use.
+ * we don't want to use additional tools other than GitHub Issues which we already use,
+ * we work asynchronously, so we try to keep scheduled meetings to the bare minimum.
 
 The rough outline goes like so: Everyone creates issues in various repos. The issues are labeled as [Bug](#label_bug), [Cleanup](#label_cleanup), [Feature](#label_feature) and [Marketing](#label_marketing). @dmurko, who acts as a Product Owner and the current Scrum Master (we iterate between @karantan and @dz0ny), along with the issue author, create User Stories from these issues and put them on our [Product Backlog]((https://github.com/niteoweb/operations/projects/1)). What this means is that they create an issue in the [Operations](https://github.com/niteoweb/operations/) repo, enter the required information (we have a [template](https://github.com/niteoweb/operations/blob/master/.github/ISSUE_TEMPLATE.md) for that) and apply appropriate labels to the new issue:
  * one of [Bug](#label_bug), [Cleanup](#label_cleanup), [Feature](#label_feature) or [Marketing](#label_marketing)
  * one of project labels ([EBN](#label_ebn), [DMON](#label_dmon)) OR if the User Story is not project specific, the [Operations](#label_operations) label
  * [Product Backlog](#label_product_backlog) label
 
-Then they go to our [Kanban Board](https://github.com/niteoweb/operations/projects/1) and add the newly created User Story issue to the Product Backlog column.
+The author, the Product Owner and the Scrum Master, over the course of the following days and weeks refine the User Story so that it includes all needed information. When refinement is done the Scrum Master applies the [Needs Story Points](#label_needs_story_points) label. From this point on, whoever participated so far cast their votes on how much Story Points should this User Story have. The Scrum Master should also invite anyone else to cast their vote.
 
-In other words, our Product Backlog only includes the top part of the official Scrum Product Backlog -- the well defined, ready to be worked on, User Stories. The non-well defined issues are spread around our repositories and can be considered as ideas. Some of these can be labeled with the [Needs User Story](#label_needs_user_story) label so that we are reminded about the importance of these issues and we convert them into proper User Stories under the Operations repo during the [Product Backlog Refinement meeting](#product_backlog_refinement_meeting).
+After a few days, the Scrum Master decides, based on cast votes, the Story Points for the User Story. The Story is then added by the Scrum Master to our [Kanban Board](https://github.com/niteoweb/operations/projects/1) into the Product Backlog into an appropriate position -- agreed with Product Master.
+
+In other words, our Product Backlog only includes the top part of the official Scrum Product Backlog -- the well defined, ready to be worked on, User Stories. The non-well defined issues are spread around our repositories and can be considered as ideas. Some of these can be labeled with the [Needs User Story](#label_needs_user_story) label so that we are reminded about the importance of these issues.
+
+If you are passionate about a User Story, make sure to poke Scrum Master and other to confirm it all the information it needs so that voting can begin. Without votes the User Story cannot be included into the next sprint.
 
 
 ## Urgent production fixes
@@ -34,6 +39,7 @@ We use the following labels across all our repos:
  * <a name="label_ongoing"></a>**Ongoing**: long-running tasks, see (Ongoing Tasks)[#ongoing-tasks]
  * <a name="label_support"></a>**Support**: user-facing maintenance work, not included in sprints, such as fixing subscription problems, resetting passwords, re-enabling accounts, etc.
  * <a name="label_needs_user_story"></a>**Needs User Story**: an arbitrary issue in any repo that needs to be converted into a User Story
+* <a name="label_needs_story_points"></a>**Needs Story Points**: in the process of Story Points voting
 
 The following labels are used only in Operations repo to manage the Scrum Board:
  * <a name="label_priority_lane"></a>**Priority Lane**: User Stories injected into the current sprint due to urgency
