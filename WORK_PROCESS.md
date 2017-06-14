@@ -36,7 +36,7 @@ We use the following labels across all our repos:
  * <a name="label_bug"></a>**Bug**: a user-facing or support-facing annoyance
  * <a name="label_feature"></a>**Feature**: a user-facing or support-facing improvement, addition
  * <a name="label_cleanup"></a>**Cleanup**: something that increases our velocity
- * <a name="label_ongoing"></a>**Ongoing**: long-running tasks, see (Ongoing Tasks)[#ongoing-tasks]
+ * <a name="label_ongoing"></a>**Ongoing**: long-running tasks, see [Ongoing Tasks](#ongoing-tasks)
  * <a name="label_support"></a>**Support**: user-facing maintenance work, not included in sprints, such as fixing subscription problems, resetting passwords, re-enabling accounts, etc.
  * <a name="label_needs_user_story"></a>**Needs User Story**: an arbitrary issue in any repo that needs to be converted into a User Story
 * <a name="label_needs_story_points"></a>**Needs Story Points**: in the process of Story Points voting
