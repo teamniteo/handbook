@@ -12,7 +12,7 @@ Undefined issues are created in various repositories. Support issues, being reac
 In Operations repository when you open an issue, it has a template that helps you define the User Story. User Story in this step is labeled with `Needs User Story`, a descriptive label, project label and department label. The Scrum Master and Product Owner assign people from whom they want to receive feedback for better definition of the User Story. Once these people post their feedback, they unassign themselves from the User Story. Once the Scrum Master and Product Owner agree that the User Stories well defined, they remove the label `Needs User Story` and label it `Needs Story Points`.
 
 **Story Point Estimation**
-[Story Point](https://agilefaq.wordpress.com/2007/11/13/what-is-a-story-point/) is an arbitrary measure used by Scrum teams. This is used to measure the effort required to implement a story. We use: 1, 2, 3, 5, 13, 20, 40, 100
+[Story Point](https://agilefaq.wordpress.com/2007/11/13/what-is-a-story-point/) is an arbitrary measure used by Scrum teams. This is used to measure the effort required to implement a story. We use: 1, 2, 3, 5, 8, 13, 20, 40, 100
 
 In the step `Needs Story Points`, Scrum Master assigns the User Story to people from whom s/he wants to receive Story Point estimation. Once these people post their story point estimation, they unassign themselves from the User Story. The Scrum Master then adds the agreed numbered Story Point label to the title (http://unicode.org/emoji/charts/full-emoji-list.html#keycap), removes the `Needs Story Points` label and adds label `Product Backlog`. This User Story can now be added to Kanban Board Product Backlog for review on next sprint.
 
