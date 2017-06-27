@@ -31,25 +31,33 @@ Sometimes the result of a User Story is an agreement that we should do a certain
 
 ## Issue Labels
 
-We use the following labels across all our repos:
- * <a name="label_sanity_check"></a>**Sanity Check**: Results of automatic checks of production data, more on TODO.
- * <a name="label_bug"></a>**Bug**: a user-facing or support-facing annoyance
+Descriptive labels:
+
  * <a name="label_feature"></a>**Feature**: a user-facing or support-facing improvement, addition
  * <a name="label_cleanup"></a>**Cleanup**: something that increases our velocity
- * <a name="label_ongoing"></a>**Ongoing**: long-running tasks, see [Ongoing Tasks](#ongoing-tasks)
- * <a name="label_support"></a>**Support**: user-facing maintenance work, not included in sprints, such as fixing subscription problems, resetting passwords, re-enabling accounts, etc.
- * <a name="label_needs_user_story"></a>**Needs User Story**: an arbitrary issue in any repo that needs to be converted into a User Story
-* <a name="label_needs_story_points"></a>**Needs Story Points**: in the process of Story Points voting
+ * <a name="label_bug"></a>**Bug**: a user-facing or support-facing annoyance
+ * <a name="label_ongoing"></a>**Ongoing**: long-running tasks, are not in sprints, see [Ongoing Tasks](#ongoing-tasks)
+ * <a name="label_sanity_check"></a>**Sanity Check**: Results of automatic checks of production data, more on TODO.
 
-The following labels are used only in Operations repo to manage the Scrum Board:
- * <a name="label_priority_lane"></a>**Priority Lane**: User Stories injected into the current sprint due to urgency
- * <a name="label_marketing"></a>**Marketing**: a marketing related task, such as setting up ad campaigns, writing blog posts, ...
- * <a name="label_product_backlog"></a>**Product Backlog**: all User Stories that can be considered for inclusion in the next sprint
+Project labels:
+
  * <a name="label_ebn"></a>**EBN**: User Stories for the Easy Blog Networks project
  * <a name="label_dmon"></a>**DMON**: User Stories for the Easy Domain Monitor / Indexation Check project
 
-The following labels are used only in Operations repo for tickets not included in sprints:
+Department labels:
+
+ * <a name="label_operations”></a>**Operations**: operations related task, such as adding and improving internal docs, processes, …
+ * <a name="label_marketing"></a>**Marketing**: a marketing related task, such as setting up ad campaigns, writing blog posts, ...
+ * <a name="label_support"></a>**Support**: user-facing maintenance work, not included in sprints, such as fixing subscription problems, resetting passwords, re-enabling accounts, etc.
  * <a name="label_people"></a>**People**: internally-facing maintenance work, not included in sprints, such as hiring, onboarding, ...
+
+Scrum labels:
+
+* <a name="label_needs_user_story"></a>**Needs User Story**: when User Story is first opened, it needs to be defined by all stakeholders
+* <a name="label_needs_story_points"></a>**Needs Story Points**: in the process of Story Points voting
+* <a name="label_product_backlog"></a>**Product Backlog**: when User Story is defined and has story points, it gets marked for Product Backlog
+* <a name="label_priority_lane"></a>**Priority Lane**: User Stories injected into the current sprint due to urgency
+* <a name="label_retrospective”></a>`Retrospective`: issues that describe the sprint retrospective
 
 
 ## Useful Lists
