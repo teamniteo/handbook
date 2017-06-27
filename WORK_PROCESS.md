@@ -1,22 +1,20 @@
 # Work Process
 
-Our work process is based on Scrum, but modified slightly to apply better to our specific needs:
+Our development process is based on Scrum, but modified slightly to apply better to our specific needs:
+
  * we don't do customer projects, we are our own Product Owners,
- * we don't want to use additional tools other than GitHub Issues which we already use,
+ * we currently don't use additional tools other than GitHub Issues which we already use,
  * we work asynchronously, so we try to keep scheduled meetings to the bare minimum.
 
-The rough outline goes like so: Everyone creates issues in various repos. The issues are labeled as [Bug](#label_bug), [Cleanup](#label_cleanup), [Feature](#label_feature) and [Marketing](#label_marketing). @dmurko, who acts as a Product Owner and the current Scrum Master (we iterate between @karantan and @dz0ny), along with the issue author, create User Stories from these issues and put them on our [Product Backlog]((https://github.com/niteoweb/operations/projects/1)). What this means is that they create an issue in the [Operations](https://github.com/niteoweb/operations/) repo, enter the required information (we have a [template](https://github.com/niteoweb/operations/blob/master/.github/ISSUE_TEMPLATE.md) for that) and apply appropriate labels to the new issue:
- * one of [Bug](#label_bug), [Cleanup](#label_cleanup), [Feature](#label_feature) or [Marketing](#label_marketing)
- * one of project labels ([EBN](#label_ebn), [DMON](#label_dmon)) OR if the User Story is not project specific, the [Operations](#label_operations) label
- * [Product Backlog](#label_product_backlog) label
+Undefined issues are created in various repositories. Support issues stay in project-related repositories and are not included in any sprints. Any kind of development work goes into sprints. Sprint is managed from the Operations repository.
 
-The author, the Product Owner and the Scrum Master, over the course of the following days and weeks refine the User Story so that it includes all needed information. When refinement is done the Scrum Master applies the [Needs Story Points](#label_needs_story_points) label. From this point on, whoever participated so far cast their votes on how much Story Points should this User Story have. The Scrum Master should also invite anyone else to cast their vote.
+In Operations repository when you open an issue, it has a template that helps you define the User Story. User Story in this step is labeled with `Needs User Story`, a descriptive label, project label and department label. The Scrum Master and Product Owner assign people from whom they want to receive feedback for better definition of the User Story. Once they agree it's well defined, they remove the label `Needs User Story` and label it `Needs Story Points`.
 
-After a few days, the Scrum Master decides, based on cast votes, the Story Points for the User Story. The Story is then added by the Scrum Master to our [Kanban Board](https://github.com/niteoweb/operations/projects/1) into the Product Backlog into an appropriate position -- agreed with Product Master.
+In the step `Needs Story Points`, Scrum Master assigns the User Story to people from whom s/he wants to receive Story Point estimation. Once this is agreed, s/he adds a Story Point label to the title (http://unicode.org/emoji/charts/full-emoji-list.html#keycap), removes the `Needs Story Points` label and adds label `Product Backlog`. This User Story can now be added to Kanban Board Product Backlog for review on next sprint.
 
-In other words, our Product Backlog only includes the top part of the official Scrum Product Backlog -- the well defined, ready to be worked on, User Stories. The non-well defined issues are spread around our repositories and can be considered as ideas. Some of these can be labeled with the [Needs User Story](#label_needs_user_story) label so that we are reminded about the importance of these issues.
+If we need to fix an urgent bug, we use the Scrum Priority Lane approach. This means that the User Story still needs to get written and if the Product Owner decides it really is urgent, the User Story is added to the top of Work In Progress column and labeled with `Priority Lane` so that everyone knows this is exceptional and the whole team needs to focus on getting this User Story to Done ASAP.
 
-If you are passionate about a User Story, make sure to poke Scrum Master and other to confirm it all the information it needs so that voting can begin. Without votes the User Story cannot be included into the next sprint.
+We also have the `Ongoing` label for ongoing tasks. These tasks do not get included in sprints, but we acknowledge them by decreasing our sprint story points limit.
 
 
 ## Urgent production fixes
