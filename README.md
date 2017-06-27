@@ -9,9 +9,33 @@ Use label [Bug](#label_bug) for whatevr.
 Issue Labels
 ------------
 
-We use the following labels:
+Descriptive labels:
 
- * <a name="label_bug"></a>`bug`: falasdasd 
+ * `Feature`: new features
+ * `Cleanup`: cleanup
+ * `Bug`: bug
+ * `Ongoing`: ongoing tasks, are not in scrum
+
+
+Project labels:
+
+ * `EBN`: Easy Blog Networks project 
+ * `DMON`: Easy Domain Monitor project 
+
+Department labels:
+
+ * `Operations`: Operations
+ * `Marketing`: Marketing
+ * `Support`: Support
+ * `People`: People
+
+Scrum labels:
+
+ * `Needs User Story`: when User Story is first opened, it needs to be defined by all stakeholders
+ * `Needs Story Points`: when User Story is defined, it needs story points from potential champions
+ * `Product Backlog`: when User Story is defined and has story points, it gets marked for Product Backlog
+ * `Priority Lane`: if there is a user story that needs to be done urgently
+ * `Retrospective`: issues that describe the sprint retrospective
 
 
 
