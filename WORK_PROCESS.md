@@ -46,7 +46,7 @@ Project labels:
 
 Department labels:
 
- * <a name="label_operations”></a>**Operations**: operations related task, such as adding and improving internal docs, processes, …
+ * <a name="label_operations"></a>**Operations**: operations related task, such as adding and improving internal docs, processes, …
  * <a name="label_marketing"></a>**Marketing**: a marketing related task, such as setting up ad campaigns, writing blog posts, ...
  * <a name="label_support"></a>**Support**: user-facing maintenance work, not included in sprints, such as fixing subscription problems, resetting passwords, re-enabling accounts, etc.
  * <a name="label_people"></a>**People**: internally-facing maintenance work, not included in sprints, such as hiring, onboarding, ...
@@ -57,7 +57,7 @@ Scrum labels:
 * <a name="label_needs_story_points"></a>**Needs Story Points**: in the process of Story Points voting
 * <a name="label_product_backlog"></a>**Product Backlog**: when User Story is defined and has story points, it gets marked for Product Backlog
 * <a name="label_priority_lane"></a>**Priority Lane**: User Stories injected into the current sprint due to urgency
-* <a name="label_retrospective”></a>`Retrospective`: issues that describe the sprint retrospective
+* <a name="label_retrospective"></a>`Retrospective`: issues that describe the sprint retrospective
 
 
 ## Useful Lists
