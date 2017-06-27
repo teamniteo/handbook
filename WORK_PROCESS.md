@@ -1,27 +1,31 @@
+
 # Work Process
 
-Our development process is based on Scrum, but modified slightly to apply better to our specific needs:
+Our development process is based on [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)), but modified slightly to apply better to our specific needs:
 
- * we don't do customer projects, we are our own Product Owners,
- * we currently don't use additional tools other than GitHub Issues which we already use,
+ * we don't do customer projects, so we are our own Product Owners,
+ * we currently use only GitHub for sprint management,
  * we work asynchronously, so we try to keep scheduled meetings to the bare minimum.
 
 Undefined issues are created in various repositories. Support issues, being reactionary, stay in project-related repositories and are not included in sprints. All other tasks go into sprints. Sprint is managed from the [Operations repository](https://github.com/niteoweb/operations/issues).
 
-In Operations repository when you open an issue, it has a template that helps you define the User Story. User Story in this step is labeled with `Needs User Story`, a descriptive label, project label and department label. The Scrum Master and Product Owner assign people from whom they want to receive feedback for better definition of the User Story. Once they agree it's well defined, they remove the label `Needs User Story` and label it `Needs Story Points`.
+In Operations repository when you open an issue, it has a template that helps you define the User Story. User Story in this step is labeled with `Needs User Story`, a descriptive label, project label and department label. The Scrum Master and Product Owner assign people from whom they want to receive feedback for better definition of the User Story. Once these people post their feedback, they unassign themselves from the User Story. Once the Scrum Master and Product Owner agree that the User Stories well defined, they remove the label `Needs User Story` and label it `Needs Story Points`.
 
-In the step `Needs Story Points`, Scrum Master assigns the User Story to people from whom s/he wants to receive Story Point estimation. Once this is agreed, s/he adds a Story Point label to the title (http://unicode.org/emoji/charts/full-emoji-list.html#keycap), removes the `Needs Story Points` label and adds label `Product Backlog`. This User Story can now be added to Kanban Board Product Backlog for review on next sprint.
+**Story Point Estimation**
+[Story Point](https://agilefaq.wordpress.com/2007/11/13/what-is-a-story-point/) is an arbitrary measure used by Scrum teams. This is used to measure the effort required to implement a story. We use: 1, 2, 3, 5, 13, 20, 40, 100
 
-To summarize:
+In the step `Needs Story Points`, Scrum Master assigns the User Story to people from whom s/he wants to receive Story Point estimation. Once these people post their story point estimation, they unassign themselves from the User Story. The Scrum Master then adds the agreed numbered Story Point label to the title (http://unicode.org/emoji/charts/full-emoji-list.html#keycap), removes the `Needs Story Points` label and adds label `Product Backlog`. This User Story can now be added to Kanban Board Product Backlog for review on next sprint.
 
-1. `Needs User Story` - needs better description, Scrum Master requests feedback and input from all stakeholders
+**User Story Steps Summary:**
+
+1. `Needs User Story` - needs well defined User Story, Scrum Master requests feedback and input from all stakeholders
 2. `Needs Story Points` - needs story points estimation, Scrum Master requests input from people with knowledge about the task
-3. `Product Backlog` - well defined User Story that can go in the next sprint
+3. `Product Backlog` - well-defined User Story that can go in the next sprint
 
 We also have the `Ongoing` label for ongoing tasks. These tasks do not get included in sprints, but we acknowledge them by decreasing our sprint story points limit.
 
 
-## Urgent production fixes
+## Urgent Production Fixes
 
 If we need to fix an urgent bug, we use the Scrum Priority Lane approach: the User Story gets written and then if the Product Owner decides it really is urgent, the User Story is added to the top of WIP column and labeled with [Priority Lane](#label_priority_lane) so that everyone knows it is an exceptional and urgent issue and the whole team needs to focus on getting it to column Done ASAP.
 
@@ -101,6 +105,9 @@ To have a quick overview of who is available to work in the current sprint we us
  * people who are swamped with maintenance, support and ongoing work are not included in the sprint so they can focus on their work
  * people who can commit about half of their time to the sprint work have a "single finger" icon
  * people who can commit most of their time to the sprint work have a "double fingers" icon
+
+
+
 
 
 
