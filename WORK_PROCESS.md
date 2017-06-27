@@ -79,7 +79,7 @@ Scrum labels:
 
 Sprint length: two weeks.
 
-Story Points commitment: 35 total, at least 7 should be bugfixes and cleanup.
+Story Points commitment: 50 total when all hands on deck, at least 10 should be bugfixes and cleanup.
 
 
 ## Schedule
