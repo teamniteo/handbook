@@ -55,7 +55,7 @@ Scrum labels:
 * <a name="label_needs_story_points"></a>**Needs Story Points**: in the process of Story Points voting
 * <a name="label_product_backlog"></a>**Product Backlog**: when User Story is defined and has story points, it gets marked for Product Backlog
 * <a name="label_priority_lane"></a>**Priority Lane**: User Stories injected into the current sprint due to urgency
-* <a name="label_retrospective"></a>`Retrospective`: issues that describe the sprint retrospective
+* <a name="label_retrospective"></a>**Retrospective**: issues that describe the sprint retrospective
 
 
 ## Useful Lists
