@@ -120,7 +120,7 @@ On your first day
 
 * [ ] Join the Daily Standup meeting.
 * [ ] [Choose your first task](https://intra.niteoweb.com/operations/how-to-find-work)! We strive to enable everyone to do something valuable the very first day. For developers, this means pushing something into production, for support staff answering a few support questions and for marketing publishing the first ad.
-
+```
 
 # [Email Template] First Email
 
