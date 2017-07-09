@@ -7,6 +7,15 @@ Congratulations on completing the interview process, and joining us here at Nite
 Before you can start the onboarding process, you need to have a GitHub account. If you don't have one yet, sign up at https://github.com/join. Use a short and preferably lowercase username, with no special characters. See a few of our usernames, to get an idea: @dmurko, @dz0ny, @marbeann, @zupo. Let the person who led the interview process know what your GitHub username is.
 
 
+## Trial Period
+
+We don't believe in long interview processes with tricky questions and unrealistic tasks. We rather hire someone for a trial period to see if we fit nicely together.
+
+The trial period lasts somewhere between 3 to 6 months. Normally, the trialist receives roughly 70% of the salary others earn in a similar position (there can be exceptions).
+
+The trialist is not included in [profit sharing](https://github.com/niteoweb/handbook/blob/master/PROFIT_SHARING.md) and other [benefits](https://github.com/niteoweb/handbook/blob/master/BENEFITS.md) and does not get a [severance](#lay-off--severance-policy) package.
+
+
 ## Getting Started
 
 Throughout your first few days at Niteo, it is important to focus on the onboarding issue. The onboarding issue is specific to you, for an idea what is in there, please see the template below. This guide will help you understand what is in the onboarding issue, and why we are asking you to complete the items on the issue.
@@ -18,7 +27,7 @@ Usually, it takes about ten working days to get through the onboarding issue, bu
 That is it! Go to your onboarding issue and start checking things off!
 
 
-# PeopleOps checklist
+## PeopleOps checklist
 
 A member of the @niteoweb/peopleops team will do the following to start the onboarding process:
 
@@ -26,6 +35,19 @@ A member of the @niteoweb/peopleops team will do the following to start the onbo
 * Create an onboarding issue based on the template below and assign it to the new team member.
 * Send the first email (see First Email email template below).
 * Create @teamniteo.com email address and send over credentials (see Niteo Email Account email template below).
+
+
+## Lay Off / Severance Policy
+
+While many of us are good friends, we are still a business, not a family. Unlike a family, people join and leave us from time to time. Whenever we have to let someone go, this is how we do it.
+
+* The person needs to know at least 1 month in advance that their position could be canceled in the near term.
+* The person needs to know that if we will be hiring for the same position again in the future, they will have priority over completely new people.
+* All Partners need to agree with cancellation.
+* When cancellation is agreed, the person should be notified immediately. From this point onwards, the person is no longer required to work, but is encouraged to take their time to hand off to other people in the company anything they feel is valuable. After hand-off is finished they are free to do whatever.
+* Everyone is entitled to a severance package according to the following formula:
+  * up to one year: 1 month base salary,
+  * more than one year: 2 months base salary + 1 month for each additional year, up to max 12 months total.
 
 
 # Onboarding Issue Template
