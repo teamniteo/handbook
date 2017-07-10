@@ -44,7 +44,7 @@ While many of us are good friends, we are still a business, not a family. Unlike
 * The person needs to know at least 1 month in advance that their position could be canceled in the near term.
 * The person needs to know that if we will be hiring for the same position again in the future, they will have priority over completely new people.
 * All Partners need to agree with cancellation.
-* When cancellation is agreed, the person should be notified immediately. From this point onwards, the person is no longer required to work, but is encouraged to take their time to hand off to other people in the company anything they feel is valuable. After hand-off is finished they are free to do whatever.
+* When cancellation is agreed, the person should be notified immediately. From this point onwards, the person is no longer required to work, but is encouraged to take their time to hand off to other people in the Niteo anything they feel is valuable. After hand-off is finished they are free to do whatever.
 * Every Nitean (except Trialists) is entitled to a severance package according to the following formula:
   * up to one year: 1 month base salary,
   * more than one year: 2 months base salary + 1 month for each additional year, up to max 12 months total.
@@ -59,7 +59,7 @@ Hello and welcome to Niteo! If you have not done so yet, please read https://git
 Gearing up
 ==========
 
-* [ ] A member of the @niteoweb/peopleops team will create your very own `<initials>@teamniteo.com` email address. Use it for all company-related communication, internally and with third-party contacts. Please speak up if you would prefer a different address.
+* [ ] A member of the @niteoweb/peopleops team will create your very own `<initials>@teamniteo.com` email address. Use it for all Niteo-related communication, internally and with third-party contacts. Please speak up if you would prefer a different address.
 * [ ] Set up S/MIME email encryption for your @teamniteo email address. Generate a [free Comodo Certificate](https://www.comodo.com/home/email-security/free-email-certificate.php). There were some problems with the Comodo's form on Chrome in the past, try using Firefox if nothing happens. Now, you’ll need to Google on how to configure S/MIME encryption for your email client. We all use desktop-based (not Web-based) email clients, and you should too. Our favorites are Apple Mail and Mozilla Thunderbird, but feel free to use your own as long as it supports S/MIME encryption. Verify that encryption works by emailing someone from the @niteoweb/peopleops team.
 * [ ] Now that encryption is configured, you need to configure the OpenVPN secure tunnel so you can connect to our internal services. First, install the `Tunnelblick` app if you are on a Mac or the `openvpn` package on Linux. When done ask @zupo (by posting a comment to this issue) to email you the OpenVPN configuration files --  normally you just double-click them and follow instructions.
 * [ ] When you manage to connect to our VPN you will then be able to access https://intra.niteoweb.com/. Ask @niteoweb/peopleops to create an account for you by posting a comment to this issue -- login credentials should arrive in a separate email.
@@ -81,10 +81,10 @@ Time for some reading up to do!
 * [ ] [Security policy](https://intra.niteoweb.com/operations/security-policy): guidelines to protect our data and ourselves.
 * [ ] [Salary policy](https://intra.niteoweb.com/people/salary-policy): how to track your working hours.
 * [ ] [How to find work](https://intra.niteoweb.com/operations/how-to-find-work) after you are done with your current task.
-* [ ] [Company Goals](https://intra.niteoweb.com/operations/company-goals) guide us on what we're doing in this quarter.
+* [ ] [Our Goals](https://intra.niteoweb.com/operations/company-goals) guide us on what we're doing in this quarter.
 * [ ] [How we work in NiteoWeb](https://blog.niteoweb.com/how-we-work-in-niteoweb/) blog post. Follow the links in the post.
 * [ ] Watch the initial [State of Niteo](http://videos.niteoweb.com.s3.amazonaws.com/IRL%231%2F%5BIRL%231%5D%20State%20of%20NW.mp4) talk ([slides](http://videos.niteoweb.com.s3.amazonaws.com/IRL%231%2F%5BIRL%231%5D%20State%20of%20NW%20-%20SLIDES.pdf)) from our first In-Real-Life meet. Then watch [the most recent one](http://videos.niteoweb.com.s3.amazonaws.com/IRL%233%2F%5BIRL%233%5D%20State%20of%20Niteo.mp4).
-* [ ] Read a few of our most recent [Company Newsletters](https://intra.niteoweb.com/operations/company-newsletter) to catch up with recent events.
+* [ ] Read a few of our most recent [Newsletters](https://intra.niteoweb.com/operations/company-newsletter) to catch up with recent events.
 * [ ] Thoroughly read [our Handbook](https://github.com/niteoweb/handbook).
 * [ ] Learn about our currently active projects:
     * [ ] http://docs.niteoweb.com/ebn/
