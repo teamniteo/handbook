@@ -13,7 +13,7 @@ We don't believe in long interview processes with tricky questions and unrealist
 
 The trial period lasts somewhere between 3 to 6 months. Normally, the trialist receives roughly 70% of the salary others earn in a similar position (there can be exceptions).
 
-The trialist is not included in [profit sharing](https://github.com/niteoweb/handbook/blob/master/PROFIT_SHARING.md) and other [benefits](https://github.com/niteoweb/handbook/blob/master/BENEFITS.md) and does not get a [severance](#lay-off--severance-policy) package.
+The trialist is not included in [profit sharing](https://github.com/niteoweb/handbook/blob/master/profit-sharing.md) and other [benefits](https://github.com/niteoweb/handbook/blob/master/benefits.md) and does not get a [severance](#lay-off--severance-policy) package.
 
 
 ## Getting Started
@@ -53,7 +53,7 @@ While many of us are good friends, we are still a business, not a family. Unlike
 # Onboarding Issue Template
 
 ```
-Hello and welcome to Niteo! If you have not done so yet, please read https://github.com/niteoweb/handbook/blob/master/ONBOARDING.md to get an idea of what this is.
+Hello and welcome to Niteo! If you have not done so yet, please read https://github.com/niteoweb/handbook/blob/master/onboarding.md to get an idea of what this is.
 
 
 Gearing up
@@ -150,7 +150,7 @@ On your first day
 Hey!
 
 Welcome to Niteo! We keep everything related to work on GitHub so I will be short:
-* read https://github.com/niteoweb/handbook/blob/master/ONBOARDING.md,
+* read https://github.com/niteoweb/handbook/blob/master/onboarding.md,
 * open <LINK TO ONBOARDING ISSUE> and start at the top.
 
 
