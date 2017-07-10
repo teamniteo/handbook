@@ -45,7 +45,7 @@ While many of us are good friends, we are still a business, not a family. Unlike
 * The person needs to know that if we will be hiring for the same position again in the future, they will have priority over completely new people.
 * All Partners need to agree with cancellation.
 * When cancellation is agreed, the person should be notified immediately. From this point onwards, the person is no longer required to work, but is encouraged to take their time to hand off to other people in the company anything they feel is valuable. After hand-off is finished they are free to do whatever.
-* Everyone is entitled to a severance package according to the following formula:
+* Every Nitean (except Trialists) is entitled to a severance package according to the following formula:
   * up to one year: 1 month base salary,
   * more than one year: 2 months base salary + 1 month for each additional year, up to max 12 months total.
 
