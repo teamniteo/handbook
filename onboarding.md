@@ -65,7 +65,7 @@ Gearing up
 * [ ] When you manage to connect to our VPN you will then be able to access https://intra.niteoweb.com/. Ask @niteoweb/peopleops to create an account for you by posting a comment to this issue -- login credentials should arrive in a separate email.
 * [ ] Ask @niteoweb/peopleops to create your [Team Member Page](https://intra.niteoweb.com/people/team-members) for you on Intra.
 * [ ] Sign up on GitHub.com and ask @niteoweb/peopleops to add you to Niteo organization by posting a comment with your GitHub username on this ticket.
-* [ ] [Sign up](https://join.slack.com/niteoweb/signup) to Slack, our Team Chat.
+* [ ] [Sign up](https://join.slack.com/niteoweb/signup) to Slack, our Team Chat. Use the same username as you do on GitHub.
 * [ ] Introduce yourself by saying Hi and writing a sentence about yourself in the #operations Slack channel.
 * [ ] Read [Using Slack](https://intra.niteoweb.com/operations/using-slack). It's recommended to take a few hours to read through old messages in main channels to start getting an idea of how we function.
 * [ ] Set up your [email signature](https://intra.niteoweb.com/operations/email-signatures). Google how to do it for your email client of choice. Choose whatever title you want.
