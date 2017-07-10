@@ -31,7 +31,7 @@ That is it! Go to your onboarding issue and start checking things off!
 
 A member of the @niteoweb/peopleops team will do the following to start the onboarding process:
 
-* Grant `Collaborator` read-only access to the `operations` and `handbook` repositories.
+* Add the new team member to the [@niteoweb/trialists](https://github.com/orgs/niteoweb/teams/trialists) group so they get access to [niteoweb/operations](https://github.com/niteoweb/operations) and [niteoweb/handbook](https://github.com/niteoweb/handbook) repositories.
 * Create an onboarding issue based on the template below and assign it to the new team member.
 * Send the first email (see First Email email template below).
 * Create @teamniteo.com email address and send over credentials (see Niteo Email Account email template below).
