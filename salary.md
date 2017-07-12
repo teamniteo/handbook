@@ -9,7 +9,7 @@ While salaries are currently still private information (as per voting on [IRL#2]
 
 ## Current Company Salaries (January 2017)
 
-All amounts are gross (total cost to the company). Some people take care of their own taxes and some are paid directly by the company, however the gross salary is the same.
+All amounts are gross (total cost to the company). Some people take care of their own taxes and for some the company pays them, however the gross salary is the same.
 
 **Minimum salary:** 650 EUR
 
