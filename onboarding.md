@@ -104,36 +104,47 @@ TODO
 
 
 Developers Onboarding [REMOVE IF NOT APPLICABLE]
----------------------
+------------------
 
-* [ ] Join the #development channel on Slack.
-* [ ] Read https://www.atlassian.com/git/tutorials/comparing-workflows#feature-branch-workflow.
-* [ ] [Mac users] Glance over https://blog.niteoweb.com/a-devs-macbook-from-scratch/.
-* [ ] Glance over [Fluent Python](http://books.niteoweb.com.s3.amazonaws.com/tech/Python/Fluent_Python.pdf).
-* [ ] Read [Expert Python Programing](http://books.niteoweb.com.s3.amazonaws.com/tech/Python/Expert%20Python%20Programming/Expert%20Python%20Programming%20(info@niteoweb.com).pdf) (pass: info@niteoweb.com) chapters 10 and 11
+### Light reading and listening
 * [ ] Give podcasts a try - listen to 5 episodes to see if they work for you: we recommend starting with Podcast.__init__, FLOSS Weekly and/or The Tim Ferris Show.
 * [ ] Subscribe to http://planetpython.org/ RSS. If you do not have an RSS reader, you can [use IFTTT to send RSS feed into your inbox](https://ifttt.com/applets/147561p-rss-feed-to-email).
-* [ ] Study [python-requests.org](http://python-requests.org) for an example of beautiful code, good API design and docs that are a pleasure to read.
-* [ ] Watch https://www.youtube.com/watch?v=NKSW6pDX3Dc.
-* [ ] We build our apps based on the https://12factor.net/ methodology. Make sure you understand it.
-* [ ] Glance over https://devcenter.heroku.com/categories/heroku-architecture.
-* [ ] Read https://docs.travis-ci.com/user/for-beginners.
-* [ ] Watch https://www.youtube.com/watch?v=4GZcW19c4GM.
-* [ ] Read http://pylonsproject.org/about-pylons-project.html.
+
+### Python
+* [ ] Glance over [Fluent Python](http://books.niteoweb.com.s3.amazonaws.com/tech/Python/Fluent_Python.pdf).
+* [ ] Read [Expert Python Programing](http://books.niteoweb.com.s3.amazonaws.com/tech/Python/Expert%20Python%20Programming/Expert%20Python%20Programming%20(info@niteoweb.com).pdf) (pass: info@niteoweb.com) chapters 10 (Documentation) and 11 (Test-Driven Development).
+* [ ] Glance over [Python typing](https://docs.python.org/3/library/typing.html).
+* [ ] Read [makefiles in python projects](https://krzysztofzuraw.com/blog/2016/makefiles-in-python-projects.html).
+* [ ] Read about [mocking](https://www.toptal.com/python/an-introduction-to-mocking-in-python).
+
+### Pyramid - Web framework
 * [ ] Read https://trypyramid.com/.
 * [ ] Read http://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tour.html.
 * [ ] Follow http://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html.
-* [ ] Read https://chameleon.readthedocs.io/en/latest/.
-* [ ] Follow http://pythoncentral.io/introductory-tutorial-python-sqlalchemy/.
-* [ ] Read http://pythoncentral.io/sqlalchemy-orm-examples/.
-* [ ] Read http://pythoncentral.io/sqlalchemy-association-tables/.
-* [ ] Glance over http://docs.buildout.org/en/latest/.
-* [ ] Glance over https://docs.python.org/3/library/typing.html.
-* [ ] Read https://krzysztofzuraw.com/blog/2016/makefiles-in-python-projects.html.
-* [ ] Read https://www.toptal.com/python/an-introduction-to-mocking-in-python.
+* [ ] Read about [Chameleon](https://chameleon.readthedocs.io/en/latest/) template engine.
+* [ ] Read about [Pylons (Legacy web framework)](http://pylonsproject.org/about-pylons-project.html).
+
+### Sqlalchemy - SQL toolkit
+* [ ] Follow the [introduction tutorial](http://pythoncentral.io/introductory-tutorial-python-sqlalchemy/).
+* [ ] Read over [ORM examples](http://pythoncentral.io/sqlalchemy-orm-examples/).
+* [ ] Read about [Association tables](http://pythoncentral.io/sqlalchemy-association-tables/).
+
+### Test, build and deployment
+* [ ] Read about [Travis Continous Integration](https://docs.travis-ci.com/user/for-beginners) service.
+* [ ] Watch [Learn How We Deliver. Continuously., by Nejc Zupan](https://www.youtube.com/watch?v=4GZcW19c4GM)
+* [ ] Glance over [Buildout](http://docs.buildout.org/en/latest/).
+* [ ] Glance over [Heroko](https://devcenter.heroku.com/categories/heroku-architecture) deployment.
+
+### Development Process
+* [ ] Join the #development channel on Slack.
+* [ ] We build our apps based on the [Twelve-Factor](https://12factor.net) methodology. Make sure you understand it.
+* [ ] Read about [git workflow](https://www.atlassian.com/git/tutorials/comparing-workflows#feature-branch-workflow).
 * [ ] Read about our [Development Process](http://docs.niteoweb.com/pyramid_bimt/process.html).
+* [ ] Watch [UncleBob Expecting Professionalism](https://www.youtube.com/watch?v=BSaAMQVq01E).
+* [ ] Study [python-requests](http://python-requests.org) for an example of beautiful code, good API design and docs that are a pleasure to read.
+* [ ] Watch [PDB Like a Pro by Philip Bauer](https://www.youtube.com/watch?v=NKSW6pDX3Dc).
+* [ ] Glance over [devs-macbook-from-scratch](https://blog.niteoweb.com/a-devs-macbook-from-scratch/) (mostly aimed at Mac users).
 * [ ] Make sure all [Prerequisites](http://docs.niteoweb.com/pyramid_bimt/develop.html#prerequisites) are taken care of.
-* [ ] Watch https://www.youtube.com/watch?v=BSaAMQVq01E.
 * [ ] Ask @niteoweb/peopleops to give you access to the [pyramid_bimt](https://github.com/niteoweb/pyramid_bimt) repository by posting a comment on this issue.
 
 
