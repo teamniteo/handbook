@@ -7,14 +7,19 @@ Our development process is based on [Scrum](https://en.wikipedia.org/wiki/Scrum_
  * we currently use only GitHub for sprint management,
  * we work asynchronously, so we try to keep scheduled meetings to the bare minimum.
 
-Undefined issues are created in various repositories. Support issues, being reactionary, stay in project-related repositories and are not included in sprints. All other tasks go into sprints. Sprint is managed from the [Operations repository](https://github.com/niteoweb/operations/issues).
+Undefined issues are created in various repositories. Support issues, being reactionary, stay in project-related repositories and are not included in sprints. When undefined issues in various repositories are to be moved into a sprint, Scrum Master creates a User Story and links to the original issue in the Acceptance Criteria. Sprint is managed from the [Operations repository](https://github.com/niteoweb/operations/issues).
 
 In Operations repository when you open an issue, it has a template that helps you define the User Story. User Story in this step is labeled with `Needs User Story`, a descriptive label, project label and department label. The Scrum Master and Product Owner assign people from whom they want to receive feedback for better definition of the User Story. Once these people post their feedback, they unassign themselves from the User Story. Once the Scrum Master and Product Owner agree that the User Stories well defined, they remove the label `Needs User Story` and label it `Needs Story Points`.
 
-**Story Point Estimation**
-[Story Point](https://agilefaq.wordpress.com/2007/11/13/what-is-a-story-point/) is an arbitrary measure used by Scrum teams. This is used to measure the effort required to implement a story. We use: 1️⃣, 2️⃣, 3️⃣, 5️⃣, 8️⃣, 1️⃣3️⃣, 2️⃣0️⃣, 4️⃣0️⃣, 1️⃣0️⃣0️⃣
+Important:
 
-In the step `Needs Story Points`, Scrum Master assigns the User Story to people from whom s/he wants to receive Story Point estimation. Once these people post their story point estimation, they unassign themselves from the User Story. The Scrum Master then adds the agreed numbered Story Point label to the title (http://unicode.org/emoji/charts/full-emoji-list.html#keycap), removes the `Needs Story Points` label and adds label `Product Backlog`. This User Story can now be added to Kanban Board Product Backlog for review on next sprint.
+* you are only assigned to a ticket when you need to do something: give feedback, vote on Story Points or are the champion working on the User Story
+* unassign yourself when you have done the above task
+
+**Story Point Estimation**
+[Story Point](https://agilefaq.wordpress.com/2007/11/13/what-is-a-story-point/) is an arbitrary measure used by Scrum teams to indicate the effort required to implement a User Story. One full time member on sprint should be able to do 10 Story Points. To label a User Story, we use [unicode emoticon numbers](http://unicode.org/emoji/charts/full-emoji-list.html#keycap) in title of the issue: 1️⃣, 2️⃣, 3️⃣, 5️⃣, 8️⃣, 1️⃣3️⃣, 2️⃣0️⃣, 4️⃣0️⃣, 1️⃣0️⃣0️⃣
+
+In the step `Needs Story Points`, Scrum Master assigns the User Story to people from whom s/he wants to receive Story Point estimations. Once these people post their story point estimation, they unassign themselves from the User Story. The Scrum Master then adds the agreed numbered Story Point label to the title, removes the `Needs Story Points` label and adds label `Product Backlog`. This User Story can now be added to Kanban Board Product Backlog for review on next sprint.
 
 **User Story Steps Summary:**
 
@@ -79,7 +84,7 @@ Scrum labels:
 
 Sprint length: two weeks.
 
-Story Points commitment: 50 total when all hands on deck, at least 10 should be bugfixes and cleanup.
+Story Points commitment: 10 for each full-time member on the sprint and at least 10 for bugfixes and cleanup.
 
 
 ## Schedule
