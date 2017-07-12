@@ -2,8 +2,36 @@ WIP: If you have a better name, please suggest it!
 
 # How We Manage Documentation
 
-intra.niteoweb.com - General documentation, minutes of meetings, knowledge base
-Resilio - Works similar to DropBox, but is much more secure as encrypts all data locally and it does not require a central server. Used for storing operations and projects files, that are being actively used.
-JungleDisk - Archive of no-longer-needed operations and projects files. All files can be accessed TTW or via an installable client software.
-github.com/niteoweb - Code repository and ticketing system for all our projects. You do not work on something unless a ticket for your task exists.
-docs.niteoweb.com - Technical documentation for projects, generated automatically by Sphinx on every code change. Also a ton of books and videos from our past events.
+We use the following services for storing information:
+
+- **GitHub** - Code repository and ticketing system for all our projects, also hosts this Handbook where we write all company processes that can be publicly published.
+- **Intra** - Project documentation, team members profiles, reports and anything else that cannot be publicly published on the Handbook.
+- **Resilio** - Works similar to Dropbox, but is much more secure as encrypts all data locally and it does not require a central server. Used for storing operations and projects files, that are being actively used.
+- **JungleDisk** - Archive of no-longer-needed operations and projects files. Files can be accessed on demand.
+- **Docs** - Technical documentation for projects, generated automatically by Sphinx on every code change. Also a ton of books and videos from our past events.
+
+# What Goes Where?
+
+Guidelines on which information goes where.
+
+## All Tasks
+
+- Any and all tasks need a GitHub issue, either in project repository or under one of the department ones, like Operations or Marketing.
+
+## Development
+
+- TODO
+
+## Support
+
+- Checklists, support documentation and other support documents should be posted to Intra, in the specific project folder.
+- General documentation should be posted to Handbook.
+
+## Marketing
+
+- Advertising reports and links to private spreadsheets should be posted on Intra, in the specific project folder.
+
+## Operations
+
+- Finance reports and meeting minutes should be posted on Intra.
+- Company work processes and general documentation should be posted to Handbook.
