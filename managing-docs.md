@@ -1,5 +1,3 @@
-WIP: If you have a better name, please suggest it!
-
 # How We Manage Documentation
 
 We use the following services for storing information:
