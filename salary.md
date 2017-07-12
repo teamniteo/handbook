@@ -7,8 +7,9 @@ Because we live in different parts of the world, have different lifestyles and d
 While salaries are currently still private information (as per voting on [IRL#2](https://intra.niteoweb.com/operations/irl-2)), **we highly encourage salary discussion** between Niteans. Everyone is free to ask and answer (or not) questions about salaries to help them decide on what would be a fair salary for them. Everyone is also free to propose that someone should have a higher/lower salary or that we should increase minimum salary (which is the only way to increase the maximum salary).
 
 
-## Current Company Salarie
-s (January 2017)
+## Current Company Salaries (January 2017)
+
+All amounts are gross (total cost to the company). Some people take care of their own taxes and some are paid directly by the company, however the gross salary is the same.
 
 **Minimum salary:** 650 EUR
 
