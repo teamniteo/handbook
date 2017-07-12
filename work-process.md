@@ -58,10 +58,10 @@ Project labels:
 
 Department labels:
 
- * <a name="label_operations"></a>**Operations**: operations related task, such as adding and improving internal docs, processes, …
- * <a name="label_marketing"></a>**Marketing**: a marketing related task, such as setting up ad campaigns, writing blog posts, ...
+ * <a name="label_operations"></a>**Operations**: operations related task, such as adding and improving internal docs, processes, etc.
+ * <a name="label_marketing"></a>**Marketing**: a marketing related task, such as setting up ad campaigns, writing blog posts, etc.
  * <a name="label_support"></a>**Support**: user-facing maintenance work, not included in sprints, such as fixing subscription problems, resetting passwords, re-enabling accounts, etc.
- * <a name="label_people"></a>**People**: internally-facing maintenance work, not included in sprints, such as hiring, onboarding, ...
+ * <a name="label_people"></a>**People**: internally-facing maintenance work, not included in sprints, such as hiring, onboarding, etc.
 
 Scrum labels:
 
