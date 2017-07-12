@@ -69,7 +69,7 @@ Gearing up
 * [ ] Introduce yourself by saying Hi and writing a sentence about yourself in the #operations Slack channel.
 * [ ] Read [Using Slack](https://intra.niteoweb.com/operations/using-slack). It's recommended to take a few hours to read through old messages in main channels to start getting an idea of how we function.
 * [ ] Set up your [email signature](https://intra.niteoweb.com/operations/email-signatures). Google how to do it for your email client of choice. Choose whatever title you want.
-* [ ] Upload your photo for your @niteoweb.com email on [Gravatar](https://en.gravatar.com/). Please use a photo where your face is visible. We are a remote team and having a cat for the avatar does not help in building a relationship with others.
+* [ ] Upload your photo for your @teamniteo.com email on [Gravatar](https://en.gravatar.com/). Please use a photo where your face is visible. We are a remote team and having a cat for the avatar does not help in building a relationship with others.
 * [ ] Add your @teamniteo.com email to your [GitHub account](https://help.github.com/articles/adding-an-email-address-to-your-github-account/).
 
 
