@@ -18,12 +18,13 @@ If you’re reading this just after joining Niteo, it’s particularly on you, a
 
 ## Sections
 
-* [Niteo](https://github.com/niteoweb/handbook/blob/master/niteo.md)
+* [About Niteo - Vision & Values](https://github.com/niteoweb/handbook/blob/master/niteo.md)
 * [Onboarding](https://github.com/niteoweb/handbook/blob/master/onboarding.md)
 * [Work Process](https://github.com/niteoweb/handbook/blob/master/work-process.md)
 * [Profit Sharing](https://github.com/niteoweb/handbook/blob/master/profit-sharing.md)
 * [Benefits](https://github.com/niteoweb/handbook/blob/master/benefits.md)
 * [Salary](https://github.com/niteoweb/handbook/blob/master/salary.md)
+* [Managing Docs](https://github.com/niteoweb/handbook/blob/master/managing-docs.md)
 
 
 The Handbook is inspired by [GitLab's](https://about.gitlab.com/handbook/) and [Basecamps's](https://github.com/basecamp/handbook) handbooks.
