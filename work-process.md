@@ -1,7 +1,7 @@
 
 # Work Process
 
-Our development process is based on [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)), but modified slightly to apply better to our specific needs:
+Our work process is based on [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)), but modified slightly to apply better to our specific needs:
 
  * we don't do customer projects, so we are our own Product Owners,
  * we currently use only GitHub for sprint management,
