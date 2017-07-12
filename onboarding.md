@@ -4,7 +4,7 @@
 
 Congratulations on completing the interview process, and joining us here at Niteo. We are very much looking forward to having you on the team! This page is designed to help you navigate the onboarding process from reading the Handbook to completing the so-called "onboarding issue". Regardless of your role, we all use GitHub for tracking what we do, and if you come from a non-technical background, this might be new to you! The onboarding issue is a single issue that tracks everything that needs to be done for a successful onboarding. At times the onboarding issue might feel overwhelming so if you have any additional questions along the way, post a comment on your issue and @mention someone from the @niteoweb/peopleops team. Alternatively, when you are a further down the onboarding issue, you are always welcome to ask questions in the #operations channel on Slack.
 
-Before you can start the onboarding process, you need to have a GitHub account. If you don't have one yet, sign up at https://github.com/join. Use a short and preferably lowercase username, with no special characters. See a few of our usernames, to get an idea: @dmurko, @dz0ny, @marbeann, @zupo. Let the person who led the interview process know what your GitHub username is.
+Before you can start the onboarding process, you need to have a GitHub account. If you don't have one yet, sign up at https://github.com/join. Use a short and preferably lowercase username, with no special characters. See a few of our usernames, to get an idea: @dmurko, @dz0ny, @marbeann, @zupo. Let the person who led the interview process know what your GitHub username is. When you signup to Slack, make sure to use the same username/handle as on GitHub.
 
 
 ## Trial Period
