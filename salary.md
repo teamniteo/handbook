@@ -1,6 +1,6 @@
 # Salary
 
-## Setting your salary
+## Setting Your Salary
 
 Because we live in different parts of the world, have different lifestyles and different tax laws it's almost impossible for the company to set a fair salary for everyone. Therefore, **we give the biggest weight to your own proposal** for your salary. We have a maximum salary cap which is five times that of the current minimum salary in the company. We also publish founders' salaries as a benchmark.
 
@@ -34,7 +34,7 @@ We've set the founder's salary as a middle-class salary in Ljubljana, Slovenia. 
 You can request a change to your salary sometime in the last month of the quarter. This way we'll have time to finalize the agreement by the end of the quarter, so it goes into effect in the new one.
 
 
-## Working hours
+## Working Hours
 
 Each month everyone is expected to work (on average) 7.5 hours per working day in that month (lunch time not included). Any additional hours are considered as overtime hours and are worth 130% of your hourly wage (which is your monthly salary divided by 150).
 
