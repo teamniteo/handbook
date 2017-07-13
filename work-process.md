@@ -71,6 +71,17 @@ Scrum labels:
 * <a name="label_priority_lane"></a>**Priority Lane**: User Stories injected into the current sprint due to urgency
 * <a name="label_retrospective"></a>**Retrospective**: issues that describe the sprint retrospective
 
+## Sprint Retrospective
+
+After each sprint, we do a retrospective. We think about:
+
+* What went well during the sprint?
+* What went wrong during the sprint?
+* What could we do differently to improve?
+* Other comments.
+
+We also add a note on how many Story Points we assigned, how many were done and the distribution between the departments and types of User Stories.
+
 
 ## Useful Lists
 
@@ -111,11 +122,5 @@ To have a quick overview of who is available to work in the current sprint we us
  * people who are swamped with maintenance, support and ongoing work are not included in the sprint so they can focus on their work
  * people who can commit about half of their time to the sprint work have a "single finger" icon
  * people who can commit most of their time to the sprint work have a "double fingers" icon
-
-
-
-
-
-
 
 
