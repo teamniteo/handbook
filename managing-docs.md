@@ -7,6 +7,7 @@ We use the following services for storing information:
 - **Resilio** - Works similar to Dropbox, but is much more secure as encrypts all data locally and it does not require a central server. Used for storing operations and projects files, that are being actively used.
 - **JungleDisk** - Archive of no-longer-needed operations and projects files. Files can be accessed on demand.
 - **[Docs](http://docs.niteoweb.com)** - Technical documentation for projects, generated automatically by Sphinx on every code change. Also a ton of books and videos from our past events.
+- **1Password** - All passwords are stored in 1Password team account.
 
 # What Goes Where?
 
