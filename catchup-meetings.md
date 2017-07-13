@@ -10,10 +10,14 @@ Meetings are once per week, at an agreed scheduled time and they can be on Zoom.
 
 ## Common Things To Discuss
 
+Feedback:
+
 * Feedback for the last week of work. Any blockers we can remove?
 * Questions, feedback, ideas or concerns you might have.
 * Do you need any help at the moment with your work?
 * Do you get enough feedback on your work?
+ 
+Work: 
  
 * What could we do to make your work easier?
 * Do you feel over-worked, under-worked, or just the right workload?
@@ -23,10 +27,14 @@ Meetings are once per week, at an agreed scheduled time and they can be on Zoom.
 * Your goals for the future. In what direction do you want to develop your skills?
 * What are your plans for the weekend? :)
 
+Company:
+
 * What should we be doing and are not?
 * What is the #1 Problem at our company? Why?
 * Are we doing a good job explaining where we want to go and how we're doing right now?
 * Half-baked ideas for projects, the company or anything else.
+ 
+Action Plan:
  
 * What will you do till the next meeting?
 * What will your senior do till the next meeting?
