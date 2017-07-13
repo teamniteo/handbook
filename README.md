@@ -16,15 +16,25 @@ Please do help keep these documents up to date! And by up to date, we're not jus
 If you’re reading this just after joining Niteo, it’s particularly on you, actually. It’s harder for us slowly-boiled frogs who’ve been with Niteo for long years to spot our broken ways. Please take advantage of that glorious, shiny ignorance of being new, and question things.
 
 
-## Sections
+## Company
 
 * [About Niteo - Vision & Values](https://github.com/niteoweb/handbook/blob/master/niteo.md)
+* History (TODO)
+
+## People
 * [Onboarding](https://github.com/niteoweb/handbook/blob/master/onboarding.md)
-* [Work Process](https://github.com/niteoweb/handbook/blob/master/work-process.md)
 * [Profit Sharing](https://github.com/niteoweb/handbook/blob/master/profit-sharing.md)
 * [Benefits](https://github.com/niteoweb/handbook/blob/master/benefits.md)
 * [Salary](https://github.com/niteoweb/handbook/blob/master/salary.md)
+* [Catchup Meetings](https://github.com/niteoweb/handbook/blob/master/catchup-meetings.md)
+
+## Work
+* [How We Work](https://github.com/niteoweb/handbook/blob/master/how-we-work.md)
+* Who Does What (TODO)
+* [Work Process](https://github.com/niteoweb/handbook/blob/master/work-process.md)
 * [Managing Docs](https://github.com/niteoweb/handbook/blob/master/managing-docs.md)
+
+
 
 
 The Handbook is inspired by [GitLab's](https://about.gitlab.com/handbook/) and [Basecamps's](https://github.com/basecamp/handbook) handbooks.
