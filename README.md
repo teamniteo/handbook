@@ -32,6 +32,7 @@ If you’re reading this just after joining Niteo, it’s particularly on you, a
 * [How We Work](https://github.com/niteoweb/handbook/blob/master/how-we-work.md)
 * Who Does What (TODO)
 * [Daily Standup](https://github.com/niteoweb/handbook/blob/master/standup.md)
+* [Using Slack](https://github.com/niteoweb/handbook/blob/master/using-slack.md)
 * [Security Policy](https://github.com/niteoweb/handbook/blob/master/security.md)
 * [Managing Docs](https://github.com/niteoweb/handbook/blob/master/managing-docs.md)
 * [Work Process](https://github.com/niteoweb/handbook/blob/master/work-process.md)
