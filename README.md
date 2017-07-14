@@ -33,6 +33,7 @@ If you’re reading this just after joining Niteo, it’s particularly on you, a
 * Who Does What (TODO)
 * [Work Process](https://github.com/niteoweb/handbook/blob/master/work-process.md)
 * [Managing Docs](https://github.com/niteoweb/handbook/blob/master/managing-docs.md)
+* [Handling Support Requests](https://github.com/niteoweb/handbook/blob/master/support.md)
 
 
 
