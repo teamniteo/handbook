@@ -30,7 +30,7 @@ If you’re reading this just after joining Niteo, it’s particularly on you, a
 
 ## Work
 * [How We Work](https://github.com/niteoweb/handbook/blob/master/how-we-work.md)
-* [Who Does What] (https://github.com/niteoweb/handbook/blob/master/who-does-what.md)
+* [Who Does What](https://github.com/niteoweb/handbook/blob/master/who-does-what.md)
 * [Daily Standup](https://github.com/niteoweb/handbook/blob/master/standup.md)
 * [Using Slack](https://github.com/niteoweb/handbook/blob/master/using-slack.md)
 * [Security Policy](https://github.com/niteoweb/handbook/blob/master/security.md)
