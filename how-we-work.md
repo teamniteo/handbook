@@ -4,7 +4,7 @@ Niteo is a distributed team spread around the World. While we rent office space 
 
 ## Communication
 
-Instant messaging is done through Slack on different channels (operations, support, development etc.). We have daily standups at 9AM UTC on Zoom.us when everyone has a minute or two to say what they’re working on and if they need any help. Once a week, senior team members have [“catchups” (better known as 1-on-1)](https://github.com/niteoweb/handbook/blob/master/catchup-meetings.md) with everyone on the team to keep himself in the loop.
+Instant messaging is done through Slack on different channels (operations, support, development etc.). We have daily standups at 9AM UTC on Zoom.us when everyone has a minute or two to say what they’re working on and if they need any help. Once a week, senior team members have [“catchups” (better known as 1-on-1)](https://github.com/niteoweb/handbook/blob/master/catchup-meetings.md) with everyone on the team to keep themselves in the loop.
 
 About once or twice a year we fly the whole team somewhere nice and we’ll have an “IRL” (in-real-life) meetup. Here we discuss company status, projects and the future in a group setting.
 
