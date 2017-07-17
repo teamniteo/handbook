@@ -5,7 +5,7 @@ Run terminal, type Git. Go to root directory of the repository on localhost (cd 
 ## 1. Sync Repository
 
 ```
-git fetch -p
+git pull -r
 ```
 
 ## 2. Create Branch
@@ -48,6 +48,14 @@ Visit GitHub and click the button Compare & pull request.
 
 ## Troubleshooting
 
-TODO
+Every so often run 
 
-git rebase -r and similar 
+```
+git fetch -p
+```
+
+to remove all old branches that have been merged.
+
+**More troubles?**
+
+For more ask a developer. :D
