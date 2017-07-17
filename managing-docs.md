@@ -9,28 +9,28 @@ We use the following services for storing information:
 - **JungleDisk** - Archive of no-longer-needed operations and projects files. Files can be accessed on demand.
 - **1Password** - All passwords are stored in 1Password team account.
 
-# What Goes Where?
+## What Goes Where?
 
 Guidelines on which information goes where.
 
-## All Tasks
+### All Tasks
 
 - Any and all tasks need a GitHub issue, either in project repository or under one of the department ones, like Operations or Marketing.
 
-## Development
+### Development
 
 - TODO
 
-## Support
+### Support
 
 - Checklists, support documentation and other support documents should be posted to Intra, in the specific project folder.
 - General documentation should be posted to Handbook.
 
-## Marketing
+### Marketing
 
 - Advertising reports and links to private spreadsheets should be posted on Intra, in the specific project folder.
 
-## Operations
+### Operations
 
 - Finance reports and meeting minutes should be posted on Intra.
 - Company work processes and general documentation should be posted to Handbook.
