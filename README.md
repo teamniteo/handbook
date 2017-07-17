@@ -8,7 +8,7 @@ Please help us keep these documents up to date! This doesn't mean just typos and
 
 This goes especially for new people joining Niteo. It's harder for us who've been stuck in our broken ways for years to see the obvious. Take advantage of being new and question things and show us how to do better.
 
-This Handbook is always Work-In-Progress. Please update it by creating a new Pull Request with the proposed changes or [open an Issue](https://github.com/niteoweb/handbook/issues) for discussion.
+This Handbook is always Work-In-Progress. Please update it by creating a Pull Request with the proposed changes or [open an Issue](https://github.com/niteoweb/handbook/issues) for discussion.
 
 
 ## Company
