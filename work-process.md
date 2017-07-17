@@ -16,6 +16,36 @@ Important:
 * you are only assigned to a ticket when you need to do something: give feedback, vote on Story Points or are the champion working on the User Story
 * unassign yourself when you have done the above task
 
+## Writing User Stories
+
+When you open a new issue in Operations repository, a template will guide you through the process.
+
+Things to be written in the User Story:
+
+**User Story**
+
+"As a ..., I want ..., so that ..."
+
+**Description** 
+
+Write in as much detail as possible, add mockups, previous discussion, etc.
+
+**Definition of Done**
+
+Only remove what is not necessary.
+
+* 100% test coverage.
+* Write/Update tech docs: are there any technical docs that need to be written or updated?
+* Write/Update support docs: notify support and they will go through the steps of the User Story and write or update the support docs.
+* Write/Update Help Center article: notify support and they will go through the steps of the User Story and write or update the Help Center.
+* Intra/Handbook docs: notify operations and they will go through the steps of the User Story and write or update Handbook or Intra.
+* Deployed.
+
+**Acceptance Criteria**
+
+Activities that need to be performed so this user story can be moved to `Done`. Links to PR, tested and working feature, notified support, etc.
+
+
 ## Story Point Estimation
 
 [Story Point](https://agilefaq.wordpress.com/2007/11/13/what-is-a-story-point/) is an arbitrary measure used by Scrum teams to indicate the effort required to implement a User Story. One full time member on sprint should be able to do 10 Story Points. To label a User Story, we use [unicode emoticon numbers](http://unicode.org/emoji/charts/full-emoji-list.html#keycap) in title of the issue: 1️⃣, 2️⃣, 3️⃣, 5️⃣, 8️⃣, 1️⃣3️⃣, 2️⃣0️⃣, 4️⃣0️⃣, 1️⃣0️⃣0️⃣
