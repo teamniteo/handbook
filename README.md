@@ -19,7 +19,7 @@ If you’re reading this just after joining Niteo, it’s particularly on you, a
 ## Company
 
 * [About Niteo - Vision & Values](https://github.com/niteoweb/handbook/blob/master/niteo.md)
-* History (TODO)
+* [History](https://github.com/niteoweb/handbook/blob/master/history.md)
 
 ## People
 * [Onboarding](https://github.com/niteoweb/handbook/blob/master/onboarding.md)
