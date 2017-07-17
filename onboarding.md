@@ -67,8 +67,8 @@ Gearing up
 * [ ] Sign up on GitHub.com and ask @niteoweb/peopleops to add you to Niteo organization by posting a comment with your GitHub username on this ticket.
 * [ ] [Sign up](https://join.slack.com/niteoweb/signup) to Slack, our Team Chat. Use the same username as you do on GitHub.
 * [ ] Introduce yourself by saying Hi and writing a sentence about yourself in the #operations Slack channel.
-* [ ] Read [Using Slack](https://intra.niteoweb.com/operations/using-slack). It's recommended to take a few hours to read through old messages in main channels to start getting an idea of how we function.
-* [ ] Set up your [email signature](https://intra.niteoweb.com/operations/email-signatures). Google how to do it for your email client of choice. Choose whatever title you want.
+* [ ] Read [Using Slack](https://github.com/niteoweb/handbook/blob/master/using-slack.md). It's recommended to take some time to read through old messages in main channels to start getting an idea of how we function.
+* [ ] Set up your [email signature](https://github.com/niteoweb/handbook/blob/master/onboarding.md). Google how to do it for your email client of choice. Choose whatever title you want.
 * [ ] Upload your photo for your @teamniteo.com email on [Gravatar](https://en.gravatar.com/). Please use a photo where your face is visible. We are a remote team and having a cat for the avatar does not help in building a relationship with others.
 * [ ] Add your @teamniteo.com email to your [GitHub account](https://help.github.com/articles/adding-an-email-address-to-your-github-account/).
 
@@ -76,16 +76,9 @@ Gearing up
 Time for some reading up to do!
 -------------------------------
 
-* [ ] [The Daily Standup Meeting](https://intra.niteoweb.com/operations/daily-stand-up-meeting): short get together on Google Hangouts we do every day.
-* [ ] [Information policy](https://intra.niteoweb.com/operations/information-policy): what goes where, from guides to project-specific TODO tasks.
-* [ ] [Security policy](https://intra.niteoweb.com/operations/security-policy): guidelines to protect our data and ourselves.
-* [ ] [Salary policy](https://intra.niteoweb.com/people/salary-policy): how to track your working hours.
-* [ ] [How to find work](https://intra.niteoweb.com/operations/how-to-find-work) after you are done with your current task.
-* [ ] [Our Goals](https://intra.niteoweb.com/operations/company-goals) guide us on what we're doing in this quarter.
-* [ ] [How we work in NiteoWeb](https://blog.niteoweb.com/how-we-work-in-niteoweb/) blog post. Follow the links in the post.
+* [ ] Thoroughly read [our Handbook](https://github.com/niteoweb/handbook).
 * [ ] Watch the initial [State of Niteo](http://videos.niteoweb.com.s3.amazonaws.com/IRL%231%2F%5BIRL%231%5D%20State%20of%20NW.mp4) talk ([slides](http://videos.niteoweb.com.s3.amazonaws.com/IRL%231%2F%5BIRL%231%5D%20State%20of%20NW%20-%20SLIDES.pdf)) from our first In-Real-Life meet. Then watch [the most recent one](http://videos.niteoweb.com.s3.amazonaws.com/IRL%233%2F%5BIRL%233%5D%20State%20of%20Niteo.mp4).
 * [ ] Read a few of our most recent [Newsletters](https://intra.niteoweb.com/operations/company-newsletter) to catch up with recent events.
-* [ ] Thoroughly read [our Handbook](https://github.com/niteoweb/handbook).
 * [ ] Learn about our currently active projects:
     * [ ] http://docs.niteoweb.com/ebn/
     * [ ] http://docs.niteoweb.com/dmon/
