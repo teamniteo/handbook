@@ -110,26 +110,27 @@ Developers Onboarding [REMOVE IF NOT APPLICABLE]
 * [ ] Glance over [Fluent Python](http://books.niteoweb.com.s3.amazonaws.com/tech/Python/Fluent_Python.pdf).
 * [ ] Read over Chapters 10 (Docs) and 11 (TDD) in [Expert Python Programing](http://books.niteoweb.com.s3.amazonaws.com/tech/Python/Expert%20Python%20Programming/Expert%20Python%20Programming%20(info@niteoweb.com).pdf) (pass: info@niteoweb.com).
 * [ ] Glance over [Python typing](https://docs.python.org/3/library/typing.html).
-* [ ] Read about [makefiles in python projects](https://krzysztofzuraw.com/blog/2016/makefiles-in-python-projects.html).
 * [ ] Read about [mocking](https://www.toptal.com/python/an-introduction-to-mocking-in-python).
 * [ ] Watch [PDB Like a Pro by Philip Bauer](https://www.youtube.com/watch?v=NKSW6pDX3Dc).
+
+#### Sqlalchemy - SQL toolkit
+* [ ] Install with `pip install SQLAlchemy`.
+* [ ] Follow the [introduction tutorial](http://pythoncentral.io/introductory-tutorial-python-sqlalchemy/).
+* [ ] Read over [ORM examples](http://pythoncentral.io/sqlalchemy-orm-examples/).
+* [ ] Read about [Association tables](http://pythoncentral.io/sqlalchemy-association-tables/).
 
 #### Pyramid - Web framework
 * [ ] Read about [Pyramid](https://trypyramid.com/).
 * [ ] Read the [Quick Tour](http://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tour.html).
-* [ ] Follow the [Quick Tutorial](http://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html).
 * [ ] Read about [Chameleon](https://chameleon.readthedocs.io/en/latest/) HTML/XML template engine.
-
-#### Sqlalchemy - SQL toolkit
-* [ ] Follow the [introduction tutorial](http://pythoncentral.io/introductory-tutorial-python-sqlalchemy/).
-* [ ] Read over [ORM examples](http://pythoncentral.io/sqlalchemy-orm-examples/).
-* [ ] Read about [Association tables](http://pythoncentral.io/sqlalchemy-association-tables/).
+* [ ] Follow the [Quick Tutorial](http://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html).
 
 #### Test, build and deployment
 * [ ] Read about [Travis Continous Integration](https://docs.travis-ci.com/user/for-beginners) service.
 * [ ] Watch [Learn How We Deliver. Continuously., by Nejc Zupan](https://www.youtube.com/watch?v=4GZcW19c4GM)
 * [ ] Glance over [Buildout](http://docs.buildout.org/en/latest/).
 * [ ] Glance over [Heroko](https://devcenter.heroku.com/categories/heroku-architecture) deployment.
+* [ ] Read about [makefiles in python projects](https://krzysztofzuraw.com/blog/2016/makefiles-in-python-projects.html).
 
 #### Development Methodology
 * [ ] We build our apps based on the [Twelve-Factor](https://12factor.net) methodology. Make sure you understand it.
