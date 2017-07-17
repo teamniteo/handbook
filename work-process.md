@@ -16,13 +16,13 @@ Important:
 * you are only assigned to a ticket when you need to do something: give feedback, vote on Story Points or are the champion working on the User Story
 * unassign yourself when you have done the above task
 
-**Story Point Estimation**
+## Story Point Estimation
 
 [Story Point](https://agilefaq.wordpress.com/2007/11/13/what-is-a-story-point/) is an arbitrary measure used by Scrum teams to indicate the effort required to implement a User Story. One full time member on sprint should be able to do 10 Story Points. To label a User Story, we use [unicode emoticon numbers](http://unicode.org/emoji/charts/full-emoji-list.html#keycap) in title of the issue: 1️⃣, 2️⃣, 3️⃣, 5️⃣, 8️⃣, 1️⃣3️⃣, 2️⃣0️⃣, 4️⃣0️⃣, 1️⃣0️⃣0️⃣
 
 In the step `Needs Story Points`, Scrum Master assigns the User Story to people from whom s/he wants to receive Story Point estimations. Once these people post their story point estimation, they unassign themselves from the User Story. The Scrum Master then adds the agreed numbered Story Point label to the title, removes the `Needs Story Points` label and adds label `Product Backlog`. This User Story can now be added to Kanban Board Product Backlog for review on next sprint.
 
-**User Story Steps Summary:**
+## User Story Steps Summary:
 
 1. `Needs User Story` - needs well defined User Story, Scrum Master requests feedback and input from all stakeholders
 2. `Needs Story Points` - needs story points estimation, Scrum Master requests input from people with knowledge about the task
@@ -83,23 +83,14 @@ After each sprint, we do a retrospective. We think about:
 We also add a note on how many Story Points we assigned, how many were done and the distribution between the departments and types of User Stories.
 
 
-## Useful Lists
-
- * My open issues -> check this list daily!: [click!](https://github.com/issues/assigned)
- * All issues [Needing User Story](#label_needs_user_story): [click!](https://github.com/search?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Needs+User+Story%22+org%3Aniteoweb&type=)
- * All [Ongoing](#label_ongoing) tasks: [click!](https://github.com/search?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Ongoing%22+org%3Aniteoweb&type=)
- * All [Sanity Checks](#label_sanity_check) tasks: [click!](https://github.com/search?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Sanity+Check%22+org%3Aniteoweb&type=)
- * All [Support](#label_support) aka. maintenance tasks: [click!](https://github.com/search?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Support%22+org%3Aniteoweb&type=)
-
-
-# Scrum
+## Scrum
 
 Sprint length: two weeks.
 
 Story Points commitment: 10 for each full-time member on the sprint and at least 10 for bugfixes and cleanup.
 
 
-## Schedule
+### Schedule
 
 Our sprints start on a Wednesday 10am CEST with the [Sprint Planning](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint_planning) meeting. They end on a Tuesday two weeks later with [Sprint Review and Sprint Retrospective](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint_review_and_retrospective) meetings held at 10am CEST.
 
@@ -108,7 +99,7 @@ On the Wednesday in the middle of the sprint we hold the <a name="product_backlo
 All other days we hold the [Daily Standup](https://en.wikipedia.org/wiki/Scrum_(software_development)#Daily_scrum) meeting at 10am CEST.
 
 
-## Scrum on GitHub
+### Scrum on GitHub
 
 Some of ideas are taken from https://colloq.io/blog/the-tools-we-use-to-stay-afloat.
 
@@ -118,9 +109,18 @@ Our Kanban Board is at https://github.com/niteoweb/operations/projects/1. By cli
 ### Team Capacity
 
 To have a quick overview of who is available to work in the current sprint we use the following rule:
+
  * people who are away are not included in the sprint
  * people who are swamped with maintenance, support and ongoing work are not included in the sprint so they can focus on their work
  * people who can commit about half of their time to the sprint work have a "single finger" icon
  * people who can commit most of their time to the sprint work have a "double fingers" icon
 
+
+### Useful Lists
+
+ * My open issues -> check this list daily!: [click!](https://github.com/issues/assigned)
+ * All issues [Needing User Story](#label_needs_user_story): [click!](https://github.com/search?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Needs+User+Story%22+org%3Aniteoweb&type=)
+ * All [Ongoing](#label_ongoing) tasks: [click!](https://github.com/search?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Ongoing%22+org%3Aniteoweb&type=)
+ * All [Sanity Checks](#label_sanity_check) tasks: [click!](https://github.com/search?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Sanity+Check%22+org%3Aniteoweb&type=)
+ * All [Support](#label_support) aka. maintenance tasks: [click!](https://github.com/search?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Support%22+org%3Aniteoweb&type=)
 
