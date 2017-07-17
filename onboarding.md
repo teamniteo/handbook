@@ -52,6 +52,8 @@ While many of us are good friends, we are still a business, not a family. Unlike
 
 # Onboarding Issue Template
 
+## Trial
+
 ```
 Hello and welcome to Niteo! If you have not done so yet, please read https://github.com/niteoweb/handbook/blob/master/onboarding.md to get an idea of what this is.
 
@@ -152,6 +154,16 @@ On your first day
   - Developers will be pushing something into production.
   - Support staff will be answering a few support questions.
   - Marketing will be publishing their first advert.
+```
+
+## Full Time
+
+```
+* [ ] Access to team 1Password.
+* [ ] Added to group Full Time on intra, gaining access to private reports.
+* [ ] Heroku access.
+* [ ] GitHub repositories access.
+* [ ] Invite to donations spreadsheet.
 ```
 
 # [Email Template] First Email
