@@ -1,19 +1,14 @@
 # The Niteo Handbook
 
-> Work In Progress
->
-> Current issue for discussion: https://github.com/niteoweb/operations/issues/32
-
-
----
-
 For the last decade, we have been accumulating knowledge and practicalities of running an Open Source business inside our walled-off intranet. At the 10th Anniversary Party we realized it is time that we make these public and potentially help people in similar positions.
 
-The Handbook offers us an opportunity to clarify what Niteo is and how we function. It allows greater transparency to our partners, potential new team members and the wider Open Source community.
+The Handbook offers us an opportunity to clarify what Niteo is and how we operate. It allows greater transparency to our partners, potential new team members, and the wider Open Source community.
 
-Please do help keep these documents up to date! And by up to date, we're not just talking about misspellings and role changes. It’s just as much “we say we’re about X, but what we’re really doing is Y”. You don't like a specific thing about how we work? Please submit a Pull Request with a proposal of how we can do better.
+Please help us keep these documents up to date! This doesn't mean just typos and broken links, but also to reflect the latest changes in our work processes. And if there's something you don't like in how we work, open an Issue and let's discuss better solutions.
 
-If you’re reading this just after joining Niteo, it’s particularly on you, actually. It’s harder for us slowly-boiled frogs who’ve been with Niteo for long years to spot our broken ways. Please take advantage of that glorious, shiny ignorance of being new, and question things.
+This goes especially for new people joining Niteo. It's harder for us who've been stuck in our broken ways for years to see the obvious. Take advantage of being new and question things and show us how to do better.
+
+This Handbook is always Work-In-Progress. Please update it by creating a new Pull Request with the proposed changes or [open an Issue](https://github.com/niteoweb/handbook/issues) for discussion.
 
 
 ## Company
