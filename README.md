@@ -36,6 +36,7 @@ If you’re reading this just after joining Niteo, it’s particularly on you, a
 * [Security Policy](https://github.com/niteoweb/handbook/blob/master/security.md)
 * [Managing Docs](https://github.com/niteoweb/handbook/blob/master/managing-docs.md)
 * [Work Process](https://github.com/niteoweb/handbook/blob/master/work-process.md)
+* [Find Your Next Task](https://github.com/niteoweb/handbook/blob/master/next-task.md)
 * [Handling Support Requests](https://github.com/niteoweb/handbook/blob/master/support.md)
 * [Using Git for Non-Developers](https://github.com/niteoweb/handbook/blob/master/using-git.md)
 
