@@ -6,7 +6,7 @@ If for some reason you are not in the sprint, be it because of onboarding or bec
 
 And, if all is done, you can always read a book, take an online course or just think about how we could make the company better.
 
-# Developers
+## Developers
 
 Go through our [Product Backlog on GitHub](https://github.com/niteoweb/operations/issues?q=is%3Aopen+is%3Aissue+label%3A%22Product+Backlog%22). Choose a task you like that is not on a sprint and ask the Scrum Master if you can start working on it. Search the codebase and documentation for "TODO", "XXX" and similar strings. Try to understand why it's there and create a ticket for it. If you like the task, you can start working on it immediately. 
 
@@ -18,10 +18,10 @@ If you are DevOps and have had no tasks for some time, you can join the next spr
 
 If you are Support and have had a slow few days, start reading on how we could improve our support. This may include improving our processes or rewriting our responses.
 
-# Marketing
+## Marketing
 
 Think about other means of how we could make money. Read blog posts about innovative ways to gain leads and customers.
 
-# Operations
+## Operations
 
 Review our [Handbook](https://github.com/niteoweb/handbook) and [Intra](https://intra.niteoweb.com/), update docs as necessary. Ask people what are the current issues they're facing and how we could resolve them.
