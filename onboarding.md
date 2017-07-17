@@ -213,6 +213,8 @@ Regards
 
 # Email Signatures
 
+A few examples to base your signature off of. Choose your own title, it can be whatever you wish.
+
 ```
 Dejan Murko
 
