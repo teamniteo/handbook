@@ -38,7 +38,7 @@ Only remove what is not necessary.
 * Write/Update tech docs: are there any technical docs that need to be written or updated?
 * Write/Update support docs: notify support and they will go through the steps of the User Story and write or update the support docs.
 * Write/Update Help Center article: notify support and they will go through the steps of the User Story and write or update the Help Center.
-* Intra/Handbook docs: notify operations and they will go through the steps of the User Story and write or update Handbook or Intra.
+* Write/Update Intra/Handbook docs: notify operations and they will go through the steps of the User Story and write or update Handbook or Intra.
 * Deployed.
 
 **Acceptance Criteria**
