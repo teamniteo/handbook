@@ -210,3 +210,40 @@ When you manage to connect to our VPN you will then be able to access our intern
 
 Regards
 ```
+
+# Email Signatures
+
+```
+Dejan Murko
+
+Project Manager
+---------------
+Niteo
+
+M: +386 40 201 880
+E: dejan.murko@niteoweb.com
+W: www.niteoweb.com
+```
+
+```
+Marbe Ralozo
+
+Support Manager
+---------------
+Niteo
+
+M: +386 40 201 880
+E: marbe.ralozo@niteoweb.com
+W: www.niteoweb.com
+```
+```
+Janez Troha
+
+Lead Developer
+--------------
+Niteo
+
+M: +386 40 201 880
+E: janez.troha@niteoweb.com
+W: www.niteoweb.com
+```
