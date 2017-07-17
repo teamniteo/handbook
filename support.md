@@ -63,15 +63,11 @@ There are other scenarios but the general idea is that don't give anything to a 
 
 Pre-prepared replies to most common questions are available from the GrooveHQ user interface. You can use them and edit them as necessary.
 
-[IMAGE]
-
 If you have the need to create a new canned reply, you can do so by clicking Settings in top right corner of Groove HQ, and then under Ticketing click Canned Replies.
 
 ### Submit Statuses
 
 Regular replies are always ‘Submit as Closed’. If there is still something you need to do after replying (like reporting a bug and getting back to the user with a solution), select ‘Submit as Pending’.
-
-[IMAGE]
 
 ### Spam Emails
 
