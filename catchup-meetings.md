@@ -25,13 +25,16 @@ Work:
 * What part of the day do you have the most energy and focus? What changes could we make to your work schedule to accommodate this?
 * What makes you excited and motivated to work on a project?
 * Your goals for the future. In what direction do you want to develop your skills?
+* What is the thing that you're most proud of that you did lately?
 * What are your plans for the weekend? :)
 
 Company:
 
+* What are we doing right?
 * What should we be doing and are not?
 * What is the #1 Problem at our company? Why?
 * Are we doing a good job explaining where we want to go and how we're doing right now?
+* Are we compensating everyone, including you, fairly?
 * Half-baked ideas for projects, the company or anything else.
  
 Action Plan:
