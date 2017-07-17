@@ -65,9 +65,10 @@ Gearing up
 * [ ] When you manage to connect to our VPN you will then be able to access https://intra.niteoweb.com/. Ask @niteoweb/peopleops to create an account for you by posting a comment to this issue -- login credentials should arrive in a separate email.
 * [ ] Ask @niteoweb/peopleops to create your [Team Member Page](https://intra.niteoweb.com/people/team-members) for you on Intra.
 * [ ] Sign up on GitHub.com and ask @niteoweb/peopleops to add you to Niteo organization by posting a comment with your GitHub username on this ticket.
-* [ ] [Sign up](https://join.slack.com/niteoweb/signup) to Slack, our Team Chat. Use the same username as you do on GitHub.
+* [ ] [Sign up to Slack](https://join.slack.com/niteoweb/signup) , our Team Chat. Use the same username as you do on GitHub.
 * [ ] Introduce yourself by saying Hi and writing a sentence about yourself in the #operations Slack channel.
 * [ ] Read [Using Slack](https://github.com/niteoweb/handbook/blob/master/using-slack.md). It's recommended to take some time to read through old messages in main channels to start getting an idea of how we function.
+* [ ] [Sign up to Zoom.us](https://zoom.us/signup), our video conferencing software.
 * [ ] Set up your [email signature](https://github.com/niteoweb/handbook/blob/master/onboarding.md). Google how to do it for your email client of choice. Choose whatever title you want.
 * [ ] Upload your photo for your @teamniteo.com email on [Gravatar](https://en.gravatar.com/). Please use a photo where your face is visible. We are a remote team and having a cat for the avatar does not help in building a relationship with others.
 * [ ] Add your @teamniteo.com email to your [GitHub account](https://help.github.com/articles/adding-an-email-address-to-your-github-account/).
