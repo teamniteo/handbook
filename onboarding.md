@@ -148,7 +148,7 @@ On your first day
 =================
 
 * [ ] Join the Daily Standup meeting.
-* [ ] [Choose your first task](https://intra.niteoweb.com/operations/how-to-find-work)! We strive to enable everyone to do something valuable the very first day, for example:
+* [ ] [Choose your first task](https://github.com/niteoweb/handbook/blob/master/next-task.md)! We strive to enable everyone to do something valuable the very first day, for example:
   - Developers will be pushing something into production.
   - Support staff will be answering a few support questions.
   - Marketing will be publishing their first advert.
