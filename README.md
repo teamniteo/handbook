@@ -37,6 +37,7 @@ If you’re reading this just after joining Niteo, it’s particularly on you, a
 * [Managing Docs](https://github.com/niteoweb/handbook/blob/master/managing-docs.md)
 * [Work Process](https://github.com/niteoweb/handbook/blob/master/work-process.md)
 * [Handling Support Requests](https://github.com/niteoweb/handbook/blob/master/support.md)
+* [Using Git for Non-Developers](https://github.com/niteoweb/handbook/blob/master/using-git.md)
 
 
 
