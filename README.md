@@ -31,6 +31,7 @@ This Handbook is always Work-In-Progress. Please update it by creating a Pull Re
 * [Security Policy](https://github.com/niteoweb/handbook/blob/master/security.md)
 * [Managing Docs](https://github.com/niteoweb/handbook/blob/master/managing-docs.md)
 * [Work Process](https://github.com/niteoweb/handbook/blob/master/work-process.md)
+* [Glossary](https://github.com/niteoweb/handbook/blob/master/glossary.md)
 * [Find Your Next Task](https://github.com/niteoweb/handbook/blob/master/next-task.md)
 * [Handling Support Requests](https://github.com/niteoweb/handbook/blob/master/support.md)
 
