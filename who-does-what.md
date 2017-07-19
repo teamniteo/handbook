@@ -6,7 +6,7 @@ Nejc ([@zupo](https://github.com/zupo)) manages the development side of the comp
 
 ## Support
 
-Marbe ([@marbeann](https://github.com/marbeann)) manages customer support and communicates with DevOps to resolve issues on any project. Cecille ([@cessg](https://github.com/cessg)) answers most issues customers send in. DevOps, Janez and Gurvan ([@gurvankervern](https://github.com/gurvankervern)) , solve technical issues on servers.
+Marbe ([@marbeann](https://github.com/marbeann)) manages customer support and communicates with DevOps to resolve issues on any project. Cecille ([@cessg](https://github.com/cessg)) answers most issues customers send in. DevOps, Janez and Gurvan ([@gurvankervern](https://github.com/gurvankervern)), solve technical issues on servers.
 
 ## Marketing
 
