@@ -46,8 +46,8 @@ However, if you are away more than one day, add an entry to [Planned Absences on
 
 If you missed a standup, to keep everyone in the loop on what you are working on, write a short report to the #working-on channel. This report should contain:
 
-* one or two sentences on work you did today (a very high altitude overview, don't go into too much detail. Keep it minimal.)
-plans for next day.
+* one or two sentences on work you did today (high altitude overview, don't go into too much detail),
+* plans for next day,
 * any potential blockers that should be discussed during the next Hangout.
 
 ## Checklist
