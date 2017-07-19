@@ -19,7 +19,7 @@ Guidelines on which information goes where.
 
 ### Development
 
-- TODO
+- Development workflow, guidelines, instructions and conventions are available at [docs.niteoweb.com](http://docs.niteoweb.com/pyramid_bimt/process.html). You can add/update the documentation in `pyramid_bimt` repository under `/docs`.
 
 ### Support
 
