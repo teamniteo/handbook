@@ -40,7 +40,7 @@ If you have personal things to take care of, you most definitely should attend t
 
 If are running late, or need to leave early, just write something like "Running late, will be online in 2 hours.". If you will be away for the entire day, do the same.
 
-However, if you are away more than one day, add an entry to Planned Absences.
+However, if you are away more than one day, add an entry to [Planned Absences on Intra](https://intra.niteoweb.com/operations/planned-absences).
 
 ## Working On
 
