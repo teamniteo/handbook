@@ -8,4 +8,4 @@ In 2010 we also launched our first SaaS product for the Internet Marketing niche
 
 Since 2015 we’ve been a profitable SaaS company.
 
-You can watch more about the company history in our IRL#1 videos.
+You can watch more about the company history in our [IRL#1](https://intra.niteoweb.com/operations/irl-1) videos.
