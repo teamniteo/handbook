@@ -1,15 +1,10 @@
 # The Niteo Handbook
 
-For the last decade, we have been accumulating knowledge and practicalities of running an Open Source business inside our walled-off intranet. At the 10th Anniversary Party we realized it is time that we make these public and potentially help people in similar positions.
+## Introduction
 
-The Handbook offers us an opportunity to clarify what Niteo is and how we operate. It allows greater transparency to our partners, potential new team members, and the wider Open Source community.
+For the last decade, we have been accumulating the knowledge and practicalities of running an Open Source business within our walled-off intranet. At our 10th Anniversary Party we realized that it was time that we made this valuable information public with the view to helping people in similar positions.
 
-Please help us keep these documents up to date! This doesn't mean just typos and broken links, but also to reflect the latest changes in our work processes. And if there's something you don't like in how we work, open an Issue and let's discuss better solutions.
-
-This goes especially for new people joining Niteo. It's harder for us who've been stuck in our broken ways for years to see the obvious. Take advantage of being new and question things and show us how to do better.
-
-This Handbook is always Work-In-Progress. Please update it by creating a Pull Request with the proposed changes or [open an Issue](https://github.com/niteoweb/handbook/issues) for discussion.
-
+This Handbook offers us an opportunity to clarify what Niteo is and how we operate. It allows greater transparency to our partners, potential new team members, and the wider Open Source community.
 
 ## Company
 
@@ -35,6 +30,8 @@ This Handbook is always Work-In-Progress. Please update it by creating a Pull Re
 * [Find Your Next Task](https://github.com/niteoweb/handbook/blob/master/next-task.md)
 * [Handling Support Requests](https://github.com/niteoweb/handbook/blob/master/support.md)
 
+## Handbook Contribution
 
+Please help us keep these documents up to date, this doesn't just mean typos and broken links, but also updating it with the ongoing changes to our work processes. And if there's something you don't like in the way we work, open an Issue where we can discuss better solutions. For new people joining Niteo, take advantage of being new to question or show us how to improve things. We welcome this input, as an outside viewpoint can often jolt us from our well worn ways.
 
-The Handbook is inspired by [GitLab's](https://about.gitlab.com/handbook/) and [Basecamps's](https://github.com/basecamp/handbook) handbooks.
+This Handbook is inspired by [GitLab's](https://about.gitlab.com/handbook/) and [Basecamps's](https://github.com/basecamp/handbook) handbooks and is always a *Work-In-Progress*. To update it, create a Pull Request with the proposed changes or [open an Issue](https://github.com/niteoweb/handbook/issues) to start a discussion.
