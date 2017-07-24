@@ -135,6 +135,7 @@ Developers Onboarding [REMOVE IF NOT APPLICABLE]
 #### Development Methodology
 * [ ] We build our apps based on the [Twelve-Factor](https://12factor.net) methodology. Make sure you understand it.
 * [ ] Watch [UncleBob Expecting Professionalism](https://www.youtube.com/watch?v=BSaAMQVq01E).
+* [ ] Watch coding example of [Three laws of TDD](https://youtu.be/qkblc5WRn-U?t=27m7s) (from 27:00 to 43:00 marks).
 * [ ] Read about the [Pylons Project](http://pylonsproject.org/about-pylons-project.html).
 * [ ] Study [python-requests](http://python-requests.org) for an example of beautiful code, good API design and readable docs.
 * [ ] Read about [git workflow](https://www.atlassian.com/git/tutorials/comparing-workflows#feature-branch-workflow).
