@@ -228,37 +228,48 @@ Regards
 A few examples to base your signature off of. Choose your own title, it can be whatever you wish.
 
 ```
-Dejan Murko
+Gavin Belson
 
 Project Manager
 ---------------
 Niteo
 
 M: +386 40 201 880
-E: dejan.murko@niteoweb.com
+E: gavin.belson@niteoweb.com
 W: www.niteoweb.com
 ```
 
 ```
-Marbe Ralozo
+Monica Hall
 
 Support Manager
 ---------------
 Niteo
 
 M: +386 40 201 880
-E: marbe.ralozo@niteoweb.com
+E: monica.hall@niteoweb.com
 W: www.niteoweb.com
 ```
 ```
-Janez Troha
+Richard Hendricks
 
 Lead Developer
 --------------
 Niteo
 
 M: +386 40 201 880
-E: janez.troha@niteoweb.com
+E: richard.hendricks@niteoweb.com
+W: www.niteoweb.com
+```
+```
+Bertram Gilfoyle
+
+DevOps Engineer
+---------------
+Niteo
+
+M: +386 40 201 880
+E: bertram.gilfoyle@niteoweb.com
 W: www.niteoweb.com
 ```
 
