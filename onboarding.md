@@ -268,8 +268,9 @@ W: www.niteoweb.com
 * [ ] Access to team 1Password.
 * [ ] Heroku access.
 * [ ] GitHub repositories access.
+* [ ] PyPICloud access.
 * [ ] Donations spreadsheet.
-* [ ] Slack access
+* [ ] Slack access.
 * [ ] Email account.
 * [ ] Intra account.
 * [ ] VPN access.
