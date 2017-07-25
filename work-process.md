@@ -119,9 +119,9 @@ Sprint length: two weeks.
 
 Story Points commitment: 10 for each full-time member on the sprint and at least 10 for bugfixes and cleanup.
 
-User stories with the highest story points need to be assigned and started first. With this, we will have small user stories without champions (if any) and niteans who will finish their user stories early will easily pick up the smallest user stories that are not assigned to anyone.
+User Stories with the highest story points are assigned and started first. That way simpler User Stories without champions can be worked on in the last days of the sprint by anyone who finished their own early.
 
-User stories that are dependent on each other should be merged into one (bigger) user story. This kind of user stories can have 2 champions.
+User Stories that are dependent on each other should be merged into one bigger user story. This kind of user stories can have 2 champions.
 
 
 ### Schedule
