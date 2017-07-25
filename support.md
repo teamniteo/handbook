@@ -1,6 +1,6 @@
 # Handling Support Requests
 
-Email support is managed by [Groove HQ](https://niteoweb.groovehq.com/), a mail-based ticketing system. Member sends an email through a contact form or directly, and a support ticket is created in GrooveHQ.
+Email support is managed by [GrooveHQ](https://niteoweb.groovehq.com/), a mail-based ticketing system. Member sends an email through a contact form or directly, and a support ticket is created in GrooveHQ.
 
 You should read everything we have on product websites (don’t forget footer links), related [intra](https://intra.niteoweb.com/) articles, in our blogs and help centers – multiple times. Most questions visitors and members ask are answered on these pages.
 
