@@ -9,7 +9,7 @@ We divide the profit into three parts, based on how we perceive time: the past, 
 
 Profit is distributed at the end of each quarter, based on the performance of the company.
 
-Profit is distributed only if cash reserves are high enough to cover 12 months of salaries and regular expenses in the case we lose our primary revenue stream.
+**Profit is distributed only if cash reserves are high enough to cover 12 months of salaries and regular expenses in the case we lose our primary revenue stream.**
 
 
 ## 33% - PAST
@@ -34,8 +34,7 @@ This part goes to cover work in the past quarter. The formula for how much a sin
 
 ## 33% - FUTURE
 
-This part stays in the company's bank account, and we use it for investments in the following quarter. From R&D gadgets to new hardware, to conference fees and allowances, courses and lectures.
-
+This part stays in the company's bank account, and we use it for investments in the following quarter. This can be discounted prepayments for expenses so we lower our mid-term and long-term costs, paid supervised trainings from authorities in a field we're interested in, gadgets for research, conference fees and allowances, paid courses etc.
 
 
 ## 1% - Donations
