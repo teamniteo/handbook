@@ -144,7 +144,7 @@ Developers Onboarding [REMOVE IF NOT APPLICABLE]
 * [ ] Glance over [devs-macbook-from-scratch](https://blog.niteoweb.com/a-devs-macbook-from-scratch/) (mostly aimed at Mac users).
 * [ ] Read about our [Development Process](http://docs.niteoweb.com/pyramid_bimt/process.html).
 * [ ] Ensure all [Prerequisites](http://docs.niteoweb.com/pyramid_bimt/develop.html#prerequisites) are taken care of.
-* [ ] Ask @niteoweb/peopleops to give you access to the [pyramid_bimt](https://github.com/niteoweb/pyramid_bimt) repository by posting a comment on this issue.
+* [ ] Ask @niteoweb/peopleops to give you access to the [pyramid_bimt](https://github.com/niteoweb/pyramid_bimt) repository and `PYPICLOUD` credentials to access the [Internal PyPI server](https://intra.niteoweb.com/development/internal-pypi-server) by posting a comment on this issue.
 
 
 On your first day
