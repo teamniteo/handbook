@@ -251,7 +251,7 @@ E: marbe.ralozo@niteoweb.com
 W: www.niteoweb.com
 ```
 ```
-Janez Troha
+Nejc Zupan
 
 Lead Developer
 --------------
