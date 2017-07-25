@@ -261,3 +261,18 @@ M: +386 40 201 880
 E: janez.troha@niteoweb.com
 W: www.niteoweb.com
 ```
+
+# Offboarding
+
+```
+* [ ] Access to team 1Password.
+* [ ] Heroku access.
+* [ ] GitHub repositories access.
+* [ ] PyPICloud access.
+* [ ] Donations spreadsheet.
+* [ ] Slack access.
+* [ ] Email account.
+* [ ] Intra account.
+* [ ] VPN access.
+* [ ] Zoom.us account.
+```
