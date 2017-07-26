@@ -38,7 +38,7 @@ All data, without exceptions, needs to be encrypted on the fly. Encrypting just 
 In case shit hits the fan and one of our devices gets stolen, we need a way to do some theft control.
 
 * Macbooks and iPhones have that built-in. You can trace the device and also do a complete remote wipe of it.
-* Linux laptops and Android phones get theft control with Preyproject.org.
+* Linux laptops and Android phones get theft control with Preyproject.com.
 
 ## Syncing
 
