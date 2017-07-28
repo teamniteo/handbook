@@ -108,9 +108,10 @@ Developers Onboarding [REMOVE IF NOT APPLICABLE]
 
 #### Python
 * [ ] Glance over [Fluent Python](http://books.niteoweb.com.s3.amazonaws.com/tech/Python/Fluent_Python.pdf).
-* [ ] Read over Chapters 10 (Docs) and 11 (TDD) in [Expert Python Programing](http://books.niteoweb.com.s3.amazonaws.com/tech/Python/Expert%20Python%20Programming/Expert%20Python%20Programming%20(info@niteoweb.com).pdf) (pass: info@niteoweb.com).
+* [ ] Read about writing documentation in Chapter 10 of [Expert Python Programing](http://books.niteoweb.com.s3.amazonaws.com/tech/Python/Expert%20Python%20Programming/Expert%20Python%20Programming%20(info@niteoweb.com).pdf) *(pass: info@niteoweb.com)*.
 * [ ] Glance over [Python typing](https://docs.python.org/3/library/typing.html).
 * [ ] Read about [mocking](https://www.toptal.com/python/an-introduction-to-mocking-in-python).
+* [ ] Read about [Test Driven Development (TDD)](https://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137) in Python (with intro to pdb).
 * [ ] Watch [PDB Like a Pro by Philip Bauer](https://www.youtube.com/watch?v=NKSW6pDX3Dc).
 
 #### Sqlalchemy - SQL toolkit
@@ -134,8 +135,7 @@ Developers Onboarding [REMOVE IF NOT APPLICABLE]
 
 #### Development Methodology
 * [ ] We build our apps based on the [Twelve-Factor](https://12factor.net) methodology. Make sure you understand it.
-* [ ] Watch [UncleBob Expecting Professionalism](https://www.youtube.com/watch?v=BSaAMQVq01E).
-* [ ] Watch coding example of [Three laws of TDD](https://youtu.be/qkblc5WRn-U?t=27m7s) (from 27:00 to 43:00 marks).
+* [ ] Watch [UncleBob Expecting Professionalism](https://www.youtube.com/watch?v=BSaAMQVq01E) and the [Three laws of TDD](https://youtu.be/qkblc5WRn-U?t=27m7s)(watch from 27min to 43min) in action.
 * [ ] Read about the [Pylons Project](http://pylonsproject.org/about-pylons-project.html).
 * [ ] Study [python-requests](http://python-requests.org) for an example of beautiful code, good API design and readable docs.
 * [ ] Read about [git workflow](https://www.atlassian.com/git/tutorials/comparing-workflows#feature-branch-workflow).
