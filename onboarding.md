@@ -61,31 +61,38 @@ Hello and welcome to Niteo! If you have not done so yet, please read https://git
 Gearing up
 ==========
 
-* [ ] A member of the @niteoweb/peopleops team will create your very own `<initials>@teamniteo.com` email address. Use it for all Niteo-related communication, internally and with third-party contacts. Please speak up if you would prefer a different address.
-* [ ] Set up S/MIME email encryption for your @teamniteo email address. Generate a [free Comodo Certificate](https://www.comodo.com/home/email-security/free-email-certificate.php). There were some problems with the Comodo's form on Chrome in the past, try using Firefox if nothing happens. Now, you’ll need to Google on how to configure S/MIME encryption for your email client. We all use desktop-based (not Web-based) email clients, and you should too. Our favorites are Apple Mail and Mozilla Thunderbird, but feel free to use your own as long as it supports S/MIME encryption. Verify that encryption works by emailing someone from the @niteoweb/peopleops team.
-* [ ] Now that encryption is configured, you need to configure the OpenVPN secure tunnel so you can connect to our internal services. First, install the `Tunnelblick` app if you are on a Mac or the `openvpn` package on Linux. When done ask @zupo (by posting a comment to this issue) to email you the OpenVPN configuration files --  normally you just double-click them and follow instructions.
-* [ ] When you manage to connect to our VPN you will then be able to access https://intra.niteoweb.com/. Ask @niteoweb/peopleops to create an account for you by posting a comment to this issue -- login credentials should arrive in a separate email.
-* [ ] Ask @niteoweb/peopleops to create your [Team Member Page](https://intra.niteoweb.com/people/team-members) for you on Intra.
-* [ ] Signup for the free version and start using [Grammarly](https://www.grammarly.com/). It's a spelling and grammar tool we use to make sure that quality standards are kept in every text we send out. Use US English. Personalinze your account inside the Settings page by adding words to your personal dictionary. 
-* [ ] Install [ZenHub](https://www.zenhub.com/) addon to extend GitHub functionality (we use it for SCRUM).
-* [ ] [Sign up to Slack](https://join.slack.com/niteoweb/signup) , our Team Chat. Use the same username as you do on GitHub.
-* [ ] Introduce yourself by saying Hi and writing a sentence about yourself in the #operations Slack channel.
-* [ ] Read [Using Slack](https://github.com/niteoweb/handbook/blob/master/using-slack.md). It's recommended to take some time to read through old messages in main channels to start getting an idea of how we function.
-* [ ] [Sign up to Zoom.us](https://zoom.us/signup), our video conferencing software.
+### Email Setup
+* [ ] A member of the @niteoweb/peopleops team will create your very own `<initials>@teamniteo.com` email address. Use it for all Niteo-related communication, internally and with third-party contacts. Please ask if you would prefer a different address.
+* [ ] We use S/MIME encryption for all email communication so install a desktop-based email client that supports S/MIME encryption e.g.  Apple Mail or Mozilla Thunderbird. *(Please do not use Web-based clients)*.
+* [ ] Generate a [free Comodo Certificate](https://www.comodo.com/home/email-security/free-email-certificate.php) *(Chrome users: There were past problems with Comodo's form, try using Firefox if nothing happens)*.
+* [ ] Configure S/MIME encryption for your email client. You will need to Google configuration details for your particular email client and verify that encryption works by emailing someone from the @niteoweb/peopleops team.
 * [ ] Set up your [email signature](https://github.com/niteoweb/handbook/blob/master/onboarding.md). Google how to do it for your email client of choice. Choose whatever title you want.
 * [ ] Upload your photo for your @teamniteo.com email on [Gravatar](https://en.gravatar.com/). Please use a photo where your face is visible. We are a remote team and having a cat for the avatar does not help in building a relationship with others.
 * [ ] Add your @teamniteo.com email to your [GitHub account](https://help.github.com/articles/adding-an-email-address-to-your-github-account/).
 
+### Team Communication
+* [ ] Signup to [Zoom](https://zoom.us/signup), our video conferencing software.
+* [ ] Signup to [Slack](https://join.slack.com/niteoweb/signup). This is our Team Chat and please use your GitHub username as your display name.
+* [ ] Read [Using Slack](https://github.com/niteoweb/handbook/blob/master/using-slack.md). Take some time to read through old messages in main channels to get an idea of how we function.
+* [ ] Signup to [Grammarly](https://www.grammarly.com/). This ensures all our correspondence has the correct US English spelling and grammar.
+* [ ] Introduce yourself by saying 'Hi' and writing a sentence about yourself in the #operations Slack channel.
 
-Time for some reading up to do!
+### VPN and Intra
+* [ ] With email setup, now configure the OpenVPN secure tunnel so you can connect to our internal services. Mac users should install `Tunnelblick` app and Linux users the `openvpn` package. Then ask @zupo (post comment to this issue) to email you the OpenVPN configuration files, which you normally double-click on and follow the instructions.
+* [ ] Once connected to our VPN you will be able to access https://intra.niteoweb.com/. Ask @niteoweb/peopleops (post comment to this issue) to create an account for you along with your [Team Member Page](https://intra.niteoweb.com/people/team-members) on Intra. Your login credentials will arrive in a separate email.
+
+
+Time for some reading up!
 -------------------------------
 
-* [ ] Thoroughly read [our Handbook](https://github.com/niteoweb/handbook).
-* [ ] Watch the initial [State of Niteo](http://videos.niteoweb.com.s3.amazonaws.com/IRL%231%2F%5BIRL%231%5D%20State%20of%20NW.mp4) talk ([slides](http://videos.niteoweb.com.s3.amazonaws.com/IRL%231%2F%5BIRL%231%5D%20State%20of%20NW%20-%20SLIDES.pdf)) from our first In-Real-Life meet. Then watch [the most recent one](http://videos.niteoweb.com.s3.amazonaws.com/IRL%233%2F%5BIRL%233%5D%20State%20of%20Niteo.mp4).
-* [ ] Read a few of our most recent [Newsletters](https://intra.niteoweb.com/operations/company-newsletter) to catch up with recent events.
-* [ ] Learn about our currently active projects:
-    * [ ] http://docs.niteoweb.com/ebn/
-    * [ ] http://docs.niteoweb.com/dmon/
+* [ ] Thoroughly read through our [Handbook](https://github.com/niteoweb/handbook).
+* [ ] Watch the initial [State of Niteo](http://videos.niteoweb.com.s3.amazonaws.com/IRL%231%2F%5BIRL%231%5D%20State%20of%20NW.mp4) talk from our first In-Real-Life meet  ([talk slides](http://videos.niteoweb.com.s3.amazonaws.com/IRL%231%2F%5BIRL%231%5D%20State%20of%20NW%20-%20SLIDES.pdf)).
+* [ ] Watch the most recent [IRL meet](http://videos.niteoweb.com.s3.amazonaws.com/IRL%233%2F%5BIRL%233%5D%20State%20of%20Niteo.mp4).
+* [ ] Read a few of our latest [Newsletters](https://intra.niteoweb.com/operations/company-newsletter) to catch up on recent events.
+
+Learn about our currently active projects:
+ * [ ] [Easy Blog Network](http://docs.niteoweb.com/ebn/)
+ * [ ] [Easy Domain Monitor](http://docs.niteoweb.com/dmon/)
 
 
 Marketing Onboarding [REMOVE IF NOT APPLICABLE]
