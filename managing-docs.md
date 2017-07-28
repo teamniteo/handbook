@@ -3,6 +3,7 @@
 We use the following services for storing information:
 
 - **GitHub** - Code repository and ticketing system for all our projects, also hosts this Handbook where we write all company processes that can be publicly published.
+- **[ZenHub](https://www.zenhub.com/)** - Agile project management within GitHub. Adds better predictability and visibility to software development.
 - **[Intra](https://intra.niteoweb.com)** - Project documentation, team members profiles, reports and anything else that cannot be publicly published on the Handbook.
 - **[Docs](http://docs.niteoweb.com)** - Technical documentation for projects, generated automatically by Sphinx on every code change. Also a ton of books and videos from our past events.
 - **Resilio** - Works similar to Dropbox, but is much more secure as encrypts all data locally and it does not require a central server. Used for storing operations and projects files, that are being actively used.

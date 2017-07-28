@@ -66,6 +66,7 @@ Gearing up
 * [ ] Now that encryption is configured, you need to configure the OpenVPN secure tunnel so you can connect to our internal services. First, install the `Tunnelblick` app if you are on a Mac or the `openvpn` package on Linux. When done ask @zupo (by posting a comment to this issue) to email you the OpenVPN configuration files --  normally you just double-click them and follow instructions.
 * [ ] When you manage to connect to our VPN you will then be able to access https://intra.niteoweb.com/. Ask @niteoweb/peopleops to create an account for you by posting a comment to this issue -- login credentials should arrive in a separate email.
 * [ ] Ask @niteoweb/peopleops to create your [Team Member Page](https://intra.niteoweb.com/people/team-members) for you on Intra.
+* [ ] Install [ZenHub](https://www.zenhub.com/) addon to extend GitHub functionality (we use it for SCRUM).
 * [ ] [Sign up to Slack](https://join.slack.com/niteoweb/signup) , our Team Chat. Use the same username as you do on GitHub.
 * [ ] Introduce yourself by saying Hi and writing a sentence about yourself in the #operations Slack channel.
 * [ ] Read [Using Slack](https://github.com/niteoweb/handbook/blob/master/using-slack.md). It's recommended to take some time to read through old messages in main channels to start getting an idea of how we function.
@@ -163,6 +164,7 @@ On your first day
 * [ ] Added to group Full Time on intra, gaining access to private reports.
 * [ ] Heroku access.
 * [ ] GitHub repositories access.
+* [ ] ZenHub Team invitation.
 * [ ] Invite to donations spreadsheet.
 ```
 

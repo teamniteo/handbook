@@ -4,12 +4,22 @@
 Our work process is based on [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)), but modified slightly to apply better to our specific needs:
 
  * we don't do customer projects, so we are our own Product Owners,
- * we currently use only GitHub for sprint management,
+ * we currently use GitHub and ZenHub for sprint management,
  * we work asynchronously, so we try to keep scheduled meetings to the bare minimum.
 
-Undefined issues are created in various repositories. Support issues, being reactionary, stay in project-related repositories and are not included in sprints. When undefined issues in various repositories are to be moved into a sprint, Scrum Master creates a User Story and links to the original issue in the Acceptance Criteria. Sprint is managed from the [Operations repository](https://github.com/niteoweb/operations/issues).
+Undefined issues are created in various repositories. Support issues, being reactionary, stay in project-related repositories and are not included in sprints. When undefined issues in various repositories are to be moved into a sprint, User Story needs to be created for that issue with well defined Acceptance Criteria and Definition of Done. This can be done by the author of the issue, Scrum Master or Project Owner. Sprint is managed from the [Operations repository](https://github.com/niteoweb/operations/issues).
 
-In Operations repository when you open an issue, it has a template that helps you define the User Story. User Story in this step is labeled with `Needs User Story`, a descriptive label, project label and department label. The Scrum Master and Product Owner assign people from whom they want to receive feedback for better definition of the User Story. Once these people post their feedback, they unassign themselves from the User Story. Once the Scrum Master and Product Owner agree that the User Stories well defined, they remove the label `Needs User Story` and label it `Needs Story Points`.
+## How to create User Story
+
+- In Operations repository when you open an issue, it has a template that helps you define the User Story.
+- User Story in this step must be moved into `Backlog` pipeline.
+- Various labels are added (see Issue Labels section).
+- The Scrum Master and Product Owner verify if the User Story is well defined.
+  * If it is not they assign people from whom they want to receive feedback for better definition of the User Story.
+  * Once these people post their feedback, they unassign themselves from the User Story.
+- Once the Scrum Master and Product Owner agree that the User Stories well defined, they add ``✋ [vote]`` prefix to the title of the User Story. At that point, Scrum Master and/or Product Owner assign people from whom they want to receive User Story Points estimation. With this online poker planning begins.
+- At the end of the online poker planning, Story Points are added to the User Story.
+- The User Story is now prepared to be moved to the top of the User Story Pyramid stack.
 
 Important:
 
@@ -48,17 +58,9 @@ Activities that need to be performed so this user story can be moved to `Done`. 
 
 ## Story Point Estimation
 
-[Story Point](https://agilefaq.wordpress.com/2007/11/13/what-is-a-story-point/) is an arbitrary measure used by Scrum teams to indicate the effort required to implement a User Story. One full time member on sprint should be able to do 10 Story Points. To label a User Story, we use [unicode emoticon numbers](http://unicode.org/emoji/charts/full-emoji-list.html#keycap) in title of the issue: 1️⃣, 2️⃣, 3️⃣, 5️⃣, 8️⃣, 1️⃣3️⃣, 2️⃣0️⃣, 4️⃣0️⃣, 1️⃣0️⃣0️⃣
+[Story Point](https://agilefaq.wordpress.com/2007/11/13/what-is-a-story-point/) is an arbitrary measure used by Scrum teams to indicate the effort required to implement a User Story. One full time member on sprint should be able to do 10 Story Points. For labeling User Story estimates, we use [ZenHub Estimates](https://www.zenhub.com/blog/software-estimates/).
 
-In the step `Needs Story Points`, Scrum Master assigns the User Story to people from whom s/he wants to receive Story Point estimations. Once these people post their story point estimation, they unassign themselves from the User Story. The Scrum Master then adds the agreed numbered Story Point label to the title, removes the `Needs Story Points` label and adds label `Product Backlog`. This User Story can now be added to Kanban Board Product Backlog for review on next sprint.
-
-## User Story Steps Summary:
-
-1. `Needs User Story` - needs well defined User Story, Scrum Master requests feedback and input from all stakeholders
-2. `Needs Story Points` - needs story points estimation, Scrum Master requests input from people with knowledge about the task
-3. `Product Backlog` - well-defined User Story that can go in the next sprint
-
-We also have the `Ongoing` label for ongoing tasks. These tasks do not get included in sprints, but we acknowledge them by decreasing our sprint story points limit.
+In the "Vote" step (the User Stories that have ``✋ [vote]`` prefix), Scrum Master assigns the User Story to people from whom s/he wants to receive Story Point estimations. Once these people post their story point estimation, they unassign themselves from the User Story. The Scrum Master then adds the agreed numbered Story Point label to the title, removes the ``✋ [vote]`` prefix and moves the User Story to the top of the pipeline. This User Story can now be added to the next sprint.
 
 
 ## Urgent Production Fixes
@@ -80,24 +82,12 @@ Descriptive labels:
  * <a name="label_bug"></a>**Bug**: a user-facing or support-facing annoyance
  * <a name="label_ongoing"></a>**Ongoing**: long-running tasks, are not in sprints, see [Ongoing Tasks](#ongoing-tasks)
  * <a name="label_sanity_check"></a>**Sanity Check**: Results of automatic checks of production data, more on TODO.
-
-Project labels:
-
- * <a name="label_ebn"></a>**EBN**: User Stories for the Easy Blog Networks project
- * <a name="label_dmon"></a>**DMON**: User Stories for the Easy Domain Monitor / Indexation Check project
-
-Department labels:
-
  * <a name="label_operations"></a>**Operations**: operations related task, such as adding and improving internal docs, processes, etc.
- * <a name="label_marketing"></a>**Marketing**: a marketing related task, such as setting up ad campaigns, writing blog posts, etc.
  * <a name="label_support"></a>**Support**: user-facing maintenance work, not included in sprints, such as fixing subscription problems, resetting passwords, re-enabling accounts, etc.
  * <a name="label_people"></a>**People**: internally-facing maintenance work, not included in sprints, such as hiring, onboarding, etc.
 
 Scrum labels:
 
-* <a name="label_needs_user_story"></a>**Needs User Story**: when User Story is first opened, it needs to be defined by all stakeholders
-* <a name="label_needs_story_points"></a>**Needs Story Points**: in the process of Story Points voting
-* <a name="label_product_backlog"></a>**Product Backlog**: when User Story is defined and has story points, it gets marked for Product Backlog
 * <a name="label_priority_lane"></a>**Priority Lane**: User Stories injected into the current sprint due to urgency
 * <a name="label_retrospective"></a>**Retrospective**: issues that describe the sprint retrospective
 
@@ -124,6 +114,8 @@ User Stories with the highest story points are assigned and started first. That 
 User Stories that are dependent on each other should be merged into one bigger user story. This kind of user stories can have 2 champions.
 
 Support tasks take priority over sprint for support and DevOps team.
+
+For each sprint, a new milestone is created with name `Sprint #X` where `X` is the number of the sprint (e.g. `Sprint #4`). On SCRUM sprint planning each User Story that is added to the planning sprint must be also added to the new milestone. With this ZenHub will automatically generate Burndown chart and we avoid having an additional label (`Sprint #X` label).
 
 
 ### Schedule
