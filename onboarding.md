@@ -101,47 +101,46 @@ TODO
 
 Developers Onboarding [REMOVE IF NOT APPLICABLE]
 ---------------------
+#### Light Listening
+* [ ] Try out podcasts, listen to 5 episodes and see if they work for you. We recommend starting with [Podcast.\_\_init\_\_](https://www.podcastinit.com/), [FLOSS Weekly](https://twit.tv/shows/floss-weekly) and/or [The Tim Ferris Show](https://tim.blog/podcast/).
 
-#### Light reading and listening
-* [ ] Give podcasts a try - listen to 5 episodes to see if they work for you: we recommend starting with Podcast.__init__, FLOSS Weekly and/or The Tim Ferris Show.
-* [ ] Subscribe to http://planetpython.org/ RSS. If you do not have an RSS reader, you can [use IFTTT to send RSS feed into your inbox](https://ifttt.com/applets/147561p-rss-feed-to-email).
+#### Development Methodology
+* [ ] Read and understand how we build our apps based on the [Twelve-Factor](https://12factor.net) methodology.
+* [ ] Watch [UncleBob Expecting Professionalism](https://www.youtube.com/watch?v=BSaAMQVq01E).
+* [ ] Watch coding example of [Three laws of TDD](https://youtu.be/qkblc5WRn-U?t=27m7s) (from 27:00 to 43:00 marks).
+* [ ] Read about the [Pylons Project](http://pylonsproject.org/about-pylons-project.html).
+* [ ] Study [python-requests](http://python-requests.org) for an example of beautiful code, good API design and readable docs.
+* [ ] Read about [git workflow](https://www.atlassian.com/git/tutorials/comparing-workflows#feature-branch-workflow).
 
 #### Python
 * [ ] Glance over [Fluent Python](http://books.niteoweb.com.s3.amazonaws.com/tech/Python/Fluent_Python.pdf).
-* [ ] Read about writing documentation in Chapter 10 of [Expert Python Programing](http://books.niteoweb.com.s3.amazonaws.com/tech/Python/Expert%20Python%20Programming/Expert%20Python%20Programming%20(info@niteoweb.com).pdf) *(pass: info@niteoweb.com)*.
-* [ ] Glance over [Python typing](https://docs.python.org/3/library/typing.html).
-* [ ] Read about [mocking](https://www.toptal.com/python/an-introduction-to-mocking-in-python).
-* [ ] Read about [Test Driven Development (TDD)](https://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137) in Python (with intro to pdb).
+* [ ] Read about writing Documentation in chapter 10 of [Expert Python Programing](http://books.niteoweb.com.s3.amazonaws.com/tech/Python/Expert%20Python%20Programming/Expert%20Python%20Programming%20(info@niteoweb.com).pdf) *(pass: `info@niteoweb.com`)*.
+* [ ] Glance over [Type Hinting](https://docs.python.org/3/library/typing.html), new in Python 3.5.
+* [ ] Read about [mocking](https://www.toptal.com/python/an-introduction-to-mocking-in-python) in Unit Tests.
 * [ ] Watch [PDB Like a Pro by Philip Bauer](https://www.youtube.com/watch?v=NKSW6pDX3Dc).
+* [ ] Read about [Test Driven Development (TDD)](https://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137) in Python.
+* [ ] Subscribe to [Planet Python](http://planetpython.org/) RSS feed. If you do not have an RSS reader, you can send it to your inbox with [IFTTT](https://ifttt.com/applets/147561p-rss-feed-to-email).
 
-#### Sqlalchemy - SQL toolkit
+#### Sqlalchemy - SQL Toolkit
 * [ ] Install with `pip install SQLAlchemy`.
 * [ ] Follow the [introduction tutorial](http://pythoncentral.io/introductory-tutorial-python-sqlalchemy/).
 * [ ] Read over [ORM examples](http://pythoncentral.io/sqlalchemy-orm-examples/).
 * [ ] Read about [Association tables](http://pythoncentral.io/sqlalchemy-association-tables/).
 
-#### Pyramid - Web framework
+#### Pyramid - Web Framework
 * [ ] Read about [Pyramid](https://trypyramid.com/).
-* [ ] Read the [Quick Tour](http://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tour.html).
 * [ ] Read about [Chameleon](https://chameleon.readthedocs.io/en/latest/) HTML/XML template engine.
 * [ ] Follow the [Quick Tutorial](http://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html).
 
-#### Test, build and deployment
-* [ ] Read about [Travis Continous Integration](https://docs.travis-ci.com/user/for-beginners) service.
-* [ ] Watch [Learn How We Deliver. Continuously., by Nejc Zupan](https://www.youtube.com/watch?v=4GZcW19c4GM)
+#### Test, Build, Deploy
+* [ ] Read about [Travis CI](https://docs.travis-ci.com/user/for-beginners).
+* [ ] Watch [Learn How We Deliver. Continuously. by Nejc Zupan](https://www.youtube.com/watch?v=4GZcW19c4GM)
 * [ ] Glance over [Buildout](http://docs.buildout.org/en/latest/).
 * [ ] Glance over [Heroko](https://devcenter.heroku.com/categories/heroku-architecture) deployment.
 * [ ] Read about [makefiles in python projects](https://krzysztofzuraw.com/blog/2016/makefiles-in-python-projects.html).
 
-#### Development Methodology
-* [ ] We build our apps based on the [Twelve-Factor](https://12factor.net) methodology. Make sure you understand it.
-* [ ] Watch [UncleBob Expecting Professionalism](https://www.youtube.com/watch?v=BSaAMQVq01E) and the [Three laws of TDD](https://youtu.be/qkblc5WRn-U?t=27m7s)(watch from 27min to 43min) in action.
-* [ ] Read about the [Pylons Project](http://pylonsproject.org/about-pylons-project.html).
-* [ ] Study [python-requests](http://python-requests.org) for an example of beautiful code, good API design and readable docs.
-* [ ] Read about [git workflow](https://www.atlassian.com/git/tutorials/comparing-workflows#feature-branch-workflow).
-
-#### Development Process
-* [ ] Join the #development channel on Slack.
+#### Niteo Development Process
+* [ ] Join the `#development` channel on Slack.
 * [ ] Glance over [devs-macbook-from-scratch](https://blog.niteoweb.com/a-devs-macbook-from-scratch/) (mostly aimed at Mac users).
 * [ ] Read about our [Development Process](http://docs.niteoweb.com/pyramid_bimt/process.html).
 * [ ] Ensure all [Prerequisites](http://docs.niteoweb.com/pyramid_bimt/develop.html#prerequisites) are taken care of.
