@@ -115,7 +115,7 @@ Developers Onboarding [REMOVE IF NOT APPLICABLE]
 #### Python
 * [ ] Glance over [Fluent Python](http://books.niteoweb.com.s3.amazonaws.com/tech/Python/Fluent_Python.pdf).
 * [ ] Read about writing Documentation in chapter 10 of [Expert Python Programing](http://books.niteoweb.com.s3.amazonaws.com/tech/Python/Expert%20Python%20Programming/Expert%20Python%20Programming%20(info@niteoweb.com).pdf) *(pass: `info@niteoweb.com`)*.
-* [ ] Glance over [Type Hinting](https://docs.python.org/3/library/typing.html), new in Python 3.5.
+* [ ] Glance over [Type Hinting](https://docs.python.org/3/library/typing.html) and [Enums](https://docs.python.org/3/library/enum.html).
 * [ ] Read about [mocking](https://www.toptal.com/python/an-introduction-to-mocking-in-python) in Unit Tests.
 * [ ] Watch [PDB Like a Pro by Philip Bauer](https://www.youtube.com/watch?v=NKSW6pDX3Dc).
 * [ ] Read about [Test Driven Development (TDD)](https://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137) in Python.
