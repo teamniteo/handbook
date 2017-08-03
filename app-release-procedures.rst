@@ -37,7 +37,7 @@ Use provided `Templates`_ for creating PR description.
 --------
 
 Creating "Work In Progress" PR is a common way to get an advice or early
-feedback on your code. Put `[WIP]` at the begging of PR title and
+feedback on your code. Put `[WIP]` at the beginning of PR title and
 "**Work In Progress, do not merge**" on top of the description; specify
 original issue, questions and concerns; mention people. If PR involves
 configuration changes (Heroku env, add-ons) then create a rollout plan and
@@ -109,8 +109,8 @@ Ops people:
 Before deploying make sure that you took care of:
 
     * Creating backups of backing services (DB storage, ...)
-    * Making basic preparation for rolling back
-    * Making sure that deployment assistant will be able to help you in case of need
+    * Making basic preparations for rolling back
+    * Making sure that deployment assistant will be able to help you, in case you encounter problems.
 
 
 Delivery Verification
@@ -211,7 +211,7 @@ Example 1, simple:
     ---------
 
     **Original issue and supporting materials**: #3 increase navbar width
-    **Downsides**: may impact readability on devises with small resolution
+    **Downsides**: may impact readability on devices with small resolution
 
     Roll-out plan
     -------------
@@ -272,6 +272,8 @@ Example 2, db migration:
     **Backuping steps**:
       1. [ ] Create production DB rollback:
          `heroku addons:create heroku-postgresql:standard-0 --rollback HEROKU_POSTGRESQL_YELLOW --to '2013-10-21 15:52+00' --app sushi`
+      2. [ ] Backup `MYVAR` variable value
+         `heroku config:get MYVAR > MYVAR.old`
 
     **Deployment steps**:
       1. [ ] Notify end users about this changes
@@ -292,7 +294,9 @@ Example 2, db migration:
 
     Rollback strategy.
     ------------------
-     * Rollback web worker to previous revision
+     1 [ ] Rollback `MYVAR` variable value
+       `heroku config:set MYVAR=$(< MYVAR.old)`
+     2 [ ] Rollback web worker to previous revision
        `heroku rollback vXX`
-     * Promote DB rollback as the primary database
+     3 [ ] Promote DB rollback as the primary database
        `heroku pg:promote HEROKU_POSTGRESQL_SILVER --app sushi`
