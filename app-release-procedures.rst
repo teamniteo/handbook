@@ -116,6 +116,10 @@ Before deploying make sure that you took care of:
 Delivery Verification
 =====================
 
+Monitor logs. During verification keep an eye on logs in real time. Use
+`papertrail service <https://elements.heroku.com/addons/papertrail>`_
+or `heroku logs --source app --tail` command.
+
 Verify Implementation. Test manually couple of user stories of delivered issue.
 
 Smoke Test. Test manually the most important service functionality.
@@ -124,7 +128,7 @@ Smoke Test. Test manually the most important service functionality.
 Rolling Back
 ============
 
-Rollback changes on web worker is relatively simple:
+Rollback changes on Heroku app is relatively simple:
 
 .. code-block:: bash
 
@@ -138,13 +142,20 @@ Rollback changes on web worker is relatively simple:
     # or
     $ heroku rollback v51
 
+Same can be achieved via *Heroku UI*.
+
+DB migrations can be reverted via `alembic downgrade <http://alembic.zzzcomputing.com/en/latest/tutorial.html#downgrading>`_,
+but consider this option only for simple cases. For complex and long running
+migrations consider a creation of rollback database and promotion it to
+primary as a revert step.
+
 Rolling back postgres is a bit harder because it requires some preparations:
 
   1. Before deploying create a rollback database:
 
   .. code-block::
 
-        sourceheroku addons:create heroku-postgresql:standard-0 --rollback HEROKU_POSTGRESQL_YELLOW --to '2013-10-21 15:52+00' --app sushi
+        $ heroku addons:create heroku-postgresql:standard-0 --rollback HEROKU_POSTGRESQL_YELLOW --to '2013-10-21 15:52+00' --app sushi
 
   2. Promote the rollback as the primary database:
 
