@@ -123,6 +123,8 @@ User Stories with the highest story points are assigned and started first. That 
 
 User Stories that are dependent on each other should be merged into one bigger user story. This kind of user stories can have 2 champions.
 
+Support tasks take priority over sprint for support and DevOps team.
+
 
 ### Schedule
 
