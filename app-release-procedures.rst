@@ -183,14 +183,12 @@ Example 1, simple:
     **Backing services related changes**: None
     **Backuping steps**: None
     **Deployment steps**:
-      1. [ ] Merge branch into master
-      2. [ ] Click 'deploy' button on heroku web ui
-      3. [ ] Purge cache
-      4. [ ] Verify deployment
+      1. [ ] Merge PR into master
 
     ## Verification plan
-      1. [ ] check if navbar width has been increased
-      2. [ ] check some number of the pages on the site to ensure that no other styles were affected
+      1. [ ] Monitor papertrail and getsentry
+      2. [ ] check if navbar width has been increased
+      3. [ ] check some number of the pages on the site to ensure that no other styles were affected
 
     ## Rollback strategy
     Rollback web worker to previous revision: `heroku rollback vXX`
@@ -213,7 +211,6 @@ Example 2, db migration:
     ## Roll-out plan
 
     **Deployment risks**:
-      * long running DB migration
       * complex DB migration
 
     **Deployment assistants**: dz0ny I will need your assistance for DB migration
@@ -238,14 +235,13 @@ Example 2, db migration:
       4. [ ] Deploy app new release, it may take up to 40 minutes because of complex migration
       6. [ ] Disable maintenance mode:
         `heroku maintenance:off`
-      7. [ ] Verify deployment
-      8. [ ] After some time destroy DB rollback:
+      7. [ ] After some time destroy DB rollback:
          `heroku addons:destroy HEROKU_POSTGRESQL_YELLOW --app sushi`
 
     ## Verification plan
-
-      1. [ ] Implementation verification: test production against original issue user stories
-      2. [ ] Smoke Testing: click through user related pages
+      1. [ ] Monitor papertrail and getsentry
+      2. [ ] Implementation verification: test production against original issue user stories
+      3. [ ] Smoke Testing: click through user related pages
 
     ## Rollback strategy.
 
