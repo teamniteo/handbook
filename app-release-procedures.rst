@@ -95,7 +95,7 @@ Delivery Verification
 
 Monitor logs. During verification keep an eye on logs in real time. Use
 `papertrail service <https://elements.heroku.com/addons/papertrail>`_
-or `heroku logs -a app --tail` command.
+or :code:`heroku logs -a app --tail` command.
 
 Verify Implementation. Test manually couple of user stories of delivered issue.
 
@@ -122,10 +122,8 @@ Rollback changes on Heroku app is relatively simple:
 Same can be achieved via *Heroku UI*.
 
 DB migrations can be reverted via `alembic downgrade <http://alembic.zzzcomputing.com/en/latest/tutorial.html#downgrading>`_,
-but use this option only for simple cases.
-
-For complex and long running migrations consider a creation of rollback
-database before deployment:
+but use this option only for simple cases. For complex and long running
+migrations consider a creation of rollback database before deployment:
 
   .. code-block::
 
@@ -151,17 +149,13 @@ Templates
 Basic template:
 ===============
 
-.. code-block:: rst
+.. code-block:: Markdown
 
-    Solution
-    --------
-
+    ## Solution
     **Original issue and supporting materials**:
     **Downsides**:
 
-    Roll-out plan
-    -------------
-
+    ## Roll-out plan
     **Deployment risks**:
     **Deployment assistants**:
     **Backing services related changes**:
@@ -169,56 +163,44 @@ Basic template:
     **Deployment steps**:
       1. [ ] XXX
 
-    Verification plan
-    -----------------
+    ## Verification plan
 
-    Rollback strategy
-    -----------------
+    ## Rollback strategy
 
 
 Example 1, simple:
 ===================
 
-.. code-block:: rst
+.. code-block:: Markdown
 
-    Solution
-    ---------
-
+    ## Solution
     **Original issue and supporting materials**: #3 increase navbar width
-    **Downsides**: may impact readability on devices with small resolution
+    **Downsides**: solution may impact readability on devices with small resolution
 
-    Roll-out plan
-    -------------
-
+    ## Roll-out plan
     **Deployment risks**: None
     **Deployment assistants**: None
     **Backing services related changes**: None
     **Backuping steps**: None
-
     **Deployment steps**:
-
       1. [ ] Merge branch into master
       2. [ ] Click 'deploy' button on heroku web ui
       3. [ ] Purge cache
       4. [ ] Verify deployment
 
-    Verification plan
-    ------------------
-
-      1. [ ] check if navbar width have been increased
+    ## Verification plan
+      1. [ ] check if navbar width has been increased
       2. [ ] check some number of the pages on the site to ensure that no other styles were affected
 
-    Rollback strategy
-    -----------------
+    ## Rollback strategy
     Rollback web worker to previous revision: `heroku rollback vXX`
 
 Example 2, db migration:
 =========================
 
-.. code-block:: rst
+.. code-block:: Markdown
 
-    Solution
-    ---------
+    ## Solution
 
     **Original issue and supporting materials**:
       * #3 remove `username` field, use `email` instead of `username`
@@ -228,8 +210,7 @@ Example 2, db migration:
       * users emails will be exposed
       * authentication policy change - users no longer will be able to log in by `username`
 
-    Roll-out plan
-    -------------
+    ## Roll-out plan
 
     **Deployment risks**:
       * long running DB migration
@@ -241,7 +222,7 @@ Example 2, db migration:
       * postgres:
         * removing `username` field form `mypackage.models.User` model
       * environment variables:
-        * update `MYVAR` variable
+        * updating `MYVAR` variable
 
     **Backuping steps**:
       1. [ ] Create production DB rollback:
@@ -261,16 +242,16 @@ Example 2, db migration:
       8. [ ] After some time destroy DB rollback:
          `heroku addons:destroy HEROKU_POSTGRESQL_YELLOW --app sushi`
 
-    Verification plan
-    -----------------
+    ## Verification plan
+
       1. [ ] Implementation verification: test production against original issue user stories
       2. [ ] Smoke Testing: click through user related pages
 
-    Rollback strategy.
-    ------------------
-     1 [ ] Rollback `MYVAR` variable value
+    ## Rollback strategy.
+
+     1. [ ] Rollback `MYVAR` variable value
        `heroku config:set MYVAR=$(< MYVAR.old)`
-     2 [ ] Rollback web worker to previous revision
+     2. [ ] Rollback web worker to previous revision
        `heroku rollback vXX`
-     3 [ ] Promote DB rollback as the primary database
+     3. [ ] Promote DB rollback as the primary database
        `heroku pg:promote HEROKU_POSTGRESQL_SILVER --app sushi`
