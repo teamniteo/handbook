@@ -2,9 +2,7 @@
 App release procedures
 **********************
 
-**Goal**: provide simple and short guide line document on code delivery procedure
-
-**Target**: Document targets end-services only (EBN, DMON)
+Document provides a simple and short guide line on a delivery procedure.
 
 **Mantra**: developer is responsible for code delivery and reliability
 
@@ -26,10 +24,13 @@ delivery easy, and that includes:
     * **Reviewers**. Assign to all development team members.
     * **Original issue**. Link original issue and all supporting information.
     * **Downsides**. Describe solution downsides or share concerns about it.
-    * **Roll-out plan**. Specify all resources that will be modified. Describe step-by-step how to deploy.
+    * **Roll-out plan**. Specify all resources that will be modified.
+      Describe step-by-step how to deploy.
     * **Deployment risks**. Describe potential risks of deployment.
-    * **Rollback strategy**. Develop plan how to retract release and describe it step-by-step.
-    * **Deployment assistants**. Mention ops persons, so they could consider deployment risks as well.
+    * **Rollback strategy**. Develop a strategy how to retract release
+      and describe it step-by-step.
+    * **Deployment assistants**. Mention ops persons, so they could
+      consider deployment risks as well.
 
 Use provided `Templates`_ for creating PR description.
 
@@ -41,7 +42,8 @@ feedback on your code. Put `[WIP]` at the beginning of PR title and
 "**Work In Progress, do not merge**" on top of the description; specify
 original issue, questions and concerns; mention people. If PR involves
 configuration changes (Heroku env, add-ons) then create a rollout plan and
-rollback strategy.
+rollback strategy.  Use `# ???:` and `# !!!:` code comment tags to specify
+places in the code for which you need advice.
 
 
 Code Review
@@ -53,44 +55,18 @@ If there is no feedback on PR:
     * for 6-7 hours - write PM,
     * for one day or more - discuss it on the stand-up meeting as a blocker.
 
-When reviewing code consider questions like:
-
-    * Are there any obvious logic errors in the code?
-    * Looking at the requirements, are all cases fully implemented?
-    * Are the new automated tests sufficient for the new code?
-      Do existing automated tests need to be rewritten to account
-      for changes in the code?
-    * Does the new code conform to existing style guidelines?
-
-Try to make sure that all necessary changes are made, including:
-
-    * user interface changes
-    * application code changes
-    * documentation updates
-    * help text revisions
-    * database schema revisions
-    * unit test additions
-    * configuration file updates
-    * build script changes
-
-Code review is a communication process that aims to increase team
-synchronization and expertise as a whole. Don't be afraid to ask a question
-during the review or share ideas. On the other hand, PR author is not obligated
-to accept all ideas or recommendations, by the only exception of
-"change request". Use `# ???:` and `# !!!:` code comment tags to specify places
-in the code for which you need advice.
-
+As a PR author, you are not obligated to accept all ideas or recommendations
+provided by reviewers, with the only exception of "change request".
+Schedule a call with developer who has requested a change to speed up a
+review process.
 
 Deployment
 ==========
 
 **Deployment window**: between 8 and 17 CEST
 
-Before starting deployment consider if there are no additional pre-deployment
-steps that should be taken. Deployment starts from merging PR into `master`
-branch. Only PR author merges code and does all deployment. In the case of
-need, anyone from development team should be able to deploy by following
-roll-out plan provided in PR description.
+Deployment starts from merging PR into `master` branch. Only PR author
+merges code and does all deployment.
 
 PR can be merged into `master` only if it is approved by at least a half
 of the leading project developers and there are no change requests.
@@ -110,7 +86,8 @@ Before deploying make sure that you took care of:
 
     * Creating backups of backing services (DB storage, ...)
     * Making basic preparations for rolling back
-    * Making sure that deployment assistant will be able to help you, in case you encounter problems.
+    * Making sure that deployment assistant will be able to help you,
+      in case you encounter problems.
 
 
 Delivery Verification
@@ -118,7 +95,7 @@ Delivery Verification
 
 Monitor logs. During verification keep an eye on logs in real time. Use
 `papertrail service <https://elements.heroku.com/addons/papertrail>`_
-or `heroku logs --source app --tail` command.
+or `heroku logs -a app --tail` command.
 
 Verify Implementation. Test manually couple of user stories of delivered issue.
 
@@ -145,45 +122,31 @@ Rollback changes on Heroku app is relatively simple:
 Same can be achieved via *Heroku UI*.
 
 DB migrations can be reverted via `alembic downgrade <http://alembic.zzzcomputing.com/en/latest/tutorial.html#downgrading>`_,
-but consider this option only for simple cases. For complex and long running
-migrations consider a creation of rollback database and promotion it to
-primary as a revert step.
+but use this option only for simple cases.
 
-Rolling back postgres is a bit harder because it requires some preparations:
-
-  1. Before deploying create a rollback database:
+For complex and long running migrations consider a creation of rollback
+database before deployment:
 
   .. code-block::
 
         $ heroku addons:create heroku-postgresql:standard-0 --rollback HEROKU_POSTGRESQL_YELLOW --to '2013-10-21 15:52+00' --app sushi
 
-  2. Promote the rollback as the primary database:
+and promotion it to the primary DB as a revert step:
 
   .. code-block::
 
         heroku pg:promote HEROKU_POSTGRESQL_SILVER --app sushi
 
-For more detail visit heroku devcenter:
+For more details visit heroku devcenter:
 
     * https://devcenter.heroku.com/articles/heroku-postgres-rollback
     * https://devcenter.heroku.com/articles/releases#rollback
-
-TODO: add some hints on how to rollback for other services that we use
-
-
-Readings
-========
-
-    * https://www.atlassian.com/agile/code-reviews
-    * http://www.plutora.com/blog/release-management-best-practices
-    * https://www.python.org/dev/peps/pep-0350/#mnemonics
     * https://blog.heroku.com/releases-and-rollbacks
-    * https://www.red-gate.com/simple-talk/dotnet/net-framework/the-zen-of-code-reviews-best-practices/
 
 
-**********
+*********
 Templates
-**********
+*********
 
 Basic template:
 ===============
