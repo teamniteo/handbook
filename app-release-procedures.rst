@@ -169,7 +169,7 @@ Basic template:
 
 
 Example 1, simple:
-===================
+==================
 
 .. code-block:: Markdown
 
@@ -191,10 +191,13 @@ Example 1, simple:
       3. [ ] check some number of the pages on the site to ensure that no other styles were affected
 
     ## Rollback strategy
-    Rollback web worker to previous revision: `heroku rollback vXX`
+    If all went terribly wrong, outside of normal operations, to undo that you can either:
+      * Rollback release to previous revision: `heroku rollback vXX`, or
+      * make a revert commit and redeploy.
 
-Example 2, db migration:
-=========================
+
+Example 2, complex DB migration:
+================================
 
 .. code-block:: Markdown
 
