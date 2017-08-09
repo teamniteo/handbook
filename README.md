@@ -29,7 +29,7 @@ This Handbook offers us an opportunity to clarify what Niteo is and how we opera
 * [Glossary](https://github.com/niteoweb/handbook/blob/master/glossary.md)
 * [Find Your Next Task](https://github.com/niteoweb/handbook/blob/master/next-task.md)
 * [Handling Support Requests](https://github.com/niteoweb/handbook/blob/master/support.md)
-* [App release procedures](https://github.com/niteoweb/handbook/blob/master/app-release-procedures.rst)
+* [App release procedures](https://github.com/niteoweb/handbook/blob/master/app-release-procedures.md)
 
 ## Handbook Contribution
 
