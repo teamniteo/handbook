@@ -6,13 +6,13 @@ Document provides a simple and short guide line on a delivery procedure.
 
 Delivery procedure phases:
 
-1. [Creating Pull Request](#Creating-Pull-Request)
-2. [Code Review](#Code-Review)
-3. [Deployment](#Deployment)
-4. [Delivery Verification](#Delivery-Verification)
-5. [Rolling Back](#Rolling-Back)
+1. [Creating Pull Request](#creating-pull-request)
+2. [Code Review](#code-review)
+3. [Deployment](#deployment)
+4. [Delivery Verification](#delivery-verification)
+5. [Rolling Back](#rolling-back)
 
-## <a name="Creating-Pull-Request"></a>Creating Pull Request
+## Creating Pull Request
 
 PR description should provide all necessary information to make code review and
 delivery easy, and that includes:
@@ -28,7 +28,7 @@ delivery easy, and that includes:
 * **Deployment assistants**. Mention ops persons, so they could
   consider deployment risks as well.
 
-Use provided [Templates](#Templates) for creating PR description.
+Use provided [Templates](#templates) for creating PR description.
 
 ### [WIP] PR
 
@@ -40,7 +40,7 @@ configuration changes (Heroku env, add-ons) then create a rollout plan and
 rollback strategy.  Use `# ???:` and `# !!!:` code comment tags to specify
 places in the code for which you need advice.
 
-## <a name="Code-Review"></a>Code Review
+## Code Review
 
 PR author is responsible for making sure that PR is getting enough attention.
 If there is no feedback on PR:
@@ -53,7 +53,7 @@ provided by reviewers, with the only exception of "change request".
 Schedule a call with developer who has requested a change to speed up a
 review process.
 
-## <a name="Deployment"></a>Deployment
+## Deployment
 
 **Deployment window**: between 8 and 17 CEST
 
@@ -81,7 +81,7 @@ Before deploying make sure that you took care of:
 * Making sure that deployment assistant will be able to help you,
   in case you encounter problems.
 
-## <a name="Delivery-Verification"></a>Delivery Verification
+## Delivery Verification
 
 Monitor logs. During verification keep an eye on logs in real time. Use
 `papertrail service <https://elements.heroku.com/addons/papertrail>`_
@@ -91,7 +91,7 @@ Verify Implementation. Test manually couple of user stories of delivered issue.
 
 Smoke Test. Test manually the most important service functionality.
 
-## <a name="Rolling-Back"></a>Rolling Back
+## Rolling Back
 
 Rollback changes on Heroku app is relatively simple:
 
@@ -114,7 +114,7 @@ but use this option only for simple cases. For complex and long running
 migrations consider a creation of rollback database before deployment:
 
 ```bash
-$ heroku addons:create heroku-postgresql:standard-0 --rollback HEROKU_POSTGRESQL_YELLOW --to '2013-10-21 15:52+00' --app sushi
+heroku addons:create heroku-postgresql:standard-0 --rollback HEROKU_POSTGRESQL_YELLOW --to '2013-10-21 15:52+00' --app sushi
 ```
 
 and promotion it to the primary DB as a revert step:
@@ -122,6 +122,7 @@ and promotion it to the primary DB as a revert step:
 ```bash
 heroku pg:promote HEROKU_POSTGRESQL_SILVER --app sushi
 ```
+> Only app owners can do this
 
 For more details visit heroku devcenter:
 
@@ -130,7 +131,7 @@ For more details visit heroku devcenter:
 * https://blog.heroku.com/releases-and-rollbacks
 
 
-# <a name="Templates"></a>Templates
+# Templates
 
 ## Basic template:
 
