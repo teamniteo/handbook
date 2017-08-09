@@ -1,5 +1,4 @@
-App release procedures
-======================
+# App release procedures
 
 Document provides a simple and short guide line on a delivery procedure.
 
@@ -13,8 +12,7 @@ Delivery procedure phases:
 4. [Delivery Verification](#Delivery-Verification)
 5. [Rolling Back](#Rolling-Back)
 
-<a name="Creating-Pull-Request"></a>Creating Pull Request
------------------------------------------------
+## <a name="Creating-Pull-Request"></a>Creating Pull Request
 
 PR description should provide all necessary information to make code review and
 delivery easy, and that includes:
@@ -42,8 +40,7 @@ configuration changes (Heroku env, add-ons) then create a rollout plan and
 rollback strategy.  Use `# ???:` and `# !!!:` code comment tags to specify
 places in the code for which you need advice.
 
-<a name="Code-Review"></a>Code Review
--------------------------------------
+## <a name="Code-Review"></a>Code Review
 
 PR author is responsible for making sure that PR is getting enough attention.
 If there is no feedback on PR:
@@ -56,8 +53,7 @@ provided by reviewers, with the only exception of "change request".
 Schedule a call with developer who has requested a change to speed up a
 review process.
 
-<a name="Deployment"></a>Deployment
------------------------------------
+## <a name="Deployment"></a>Deployment
 
 **Deployment window**: between 8 and 17 CEST
 
@@ -85,8 +81,7 @@ Before deploying make sure that you took care of:
 * Making sure that deployment assistant will be able to help you,
   in case you encounter problems.
 
-<a name="Delivery-Verification"></a>Delivery Verification
----------------------------------------------------------
+## <a name="Delivery-Verification"></a>Delivery Verification
 
 Monitor logs. During verification keep an eye on logs in real time. Use
 `papertrail service <https://elements.heroku.com/addons/papertrail>`_
@@ -96,8 +91,7 @@ Verify Implementation. Test manually couple of user stories of delivered issue.
 
 Smoke Test. Test manually the most important service functionality.
 
-<a name="Rolling-Back"></a>Rolling Back
----------------------------------------
+## <a name="Rolling-Back"></a>Rolling Back
 
 Rollback changes on Heroku app is relatively simple:
 
@@ -136,31 +130,29 @@ For more details visit heroku devcenter:
 * https://blog.heroku.com/releases-and-rollbacks
 
 
-<a name="Templates"></a>Templates
-=================================
+# <a name="Templates"></a>Templates
 
-Basic template:
----------------
+## Basic template:
 
-    ## Solution
-    **Original issue and supporting materials**:
-    **Downsides**:
+```Markdown
+## Solution
+**Original issue and supporting materials**:
+**Downsides**:
 
-    ## Roll-out plan
-    **Deployment risks**:
-    **Deployment assistants**:
-    **Backing services related changes**:
-    **Backuping steps**:
-    **Deployment steps**:
-      1. [ ] XXX
+## Roll-out plan
+**Deployment risks**:
+**Deployment assistants**:
+**Backing services related changes**:
+**Backuping steps**:
+**Deployment steps**:
+  1. [ ] XXX
 
-    ## Verification plan
+## Verification plan
 
-    ## Rollback strategy
+## Rollback strategy
+```
 
-
-Example 1, simple:
-------------------
+## Example 1, simple:
 
 ```Markdown
 ## Solution
@@ -186,8 +178,7 @@ If all went terribly wrong, outside of normal operations, to undo that you can e
   * make a revert commit and redeploy.
 ```
 
-Example 2, complex DB migration:
---------------------------------
+## Example 2, complex DB migration:
 
 ```Markdown
 ## Solution
