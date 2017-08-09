@@ -228,10 +228,10 @@ If all went terribly wrong, outside of normal operations, to undo that you can e
 
 ## Rollback strategy.
 
- 1. [ ] Rollback `MYVAR` variable value
-   `heroku config:set MYVAR=$(< MYVAR.old)`
- 2. [ ] Rollback web worker to previous revision
-   `heroku rollback vXX`
- 3. [ ] Promote DB rollback as the primary database
-   `heroku pg:promote HEROKU_POSTGRESQL_SILVER --app sushi`
+  1. [ ] Rollback `MYVAR` variable value
+    `heroku config:set MYVAR=$(< MYVAR.old)`
+  2. [ ] Rollback web worker to previous revision
+    `heroku rollback vXX`
+  3. [ ] Promote DB rollback as the primary database
+    `heroku pg:promote HEROKU_POSTGRESQL_SILVER --app sushi`
 ```
