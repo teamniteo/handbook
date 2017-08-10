@@ -139,6 +139,8 @@ Some of ideas are taken from https://colloq.io/blog/the-tools-we-use-to-stay-afl
 
 Our Kanban Board is at https://github.com/niteoweb/operations/projects/1. By clicking on the `Show Menu` you get an additional sidebar that displays the main information about the sprint, such as the **Sprint Goal**, our capacity for the sprint, committed story points and the **Burndown Chart**.
 
+GitHub checkboxes are often utilized in creating mini-tasks for User Stories. Since there is no history on who clicked on what checkbox and when, always add a comment about the change made everytime a checkbox is ticked.
+
 
 ### Team Capacity
 
