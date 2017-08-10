@@ -228,38 +228,35 @@ Regards
 A few examples to base your signature off of. Choose your own title, it can be whatever you wish.
 
 ```
-Dejan Murko
+Richard Hendricks
 
-Project Manager
+CEO
 ---------------
 Niteo
 
-M: +386 40 201 880
-E: dejan.murko@niteoweb.com
-W: www.niteoweb.com
+E: rh@teamniteo.com
+W: www.teamniteo.com
 ```
 
 ```
-Marbe Ralozo
+Erlich Bachmann
 
-Support Manager
+CTO
 ---------------
 Niteo
 
-M: +386 40 201 880
-E: marbe.ralozo@niteoweb.com
-W: www.niteoweb.com
+E: eb@teamniteo.com
+W: www.teamniteo.com
 ```
 ```
-Janez Troha
+Monica Hall 
 
-Lead Developer
+CFO
 --------------
 Niteo
 
-M: +386 40 201 880
-E: janez.troha@niteoweb.com
-W: www.niteoweb.com
+E: mh@teamniteo.com
+W: www.teamniteo.com
 ```
 
 # Offboarding
