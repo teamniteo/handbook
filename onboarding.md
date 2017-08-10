@@ -234,31 +234,18 @@ Project Manager
 ---------------
 Niteo
 
-M: +386 40 201 880
 E: dejan.murko@niteoweb.com
 W: www.niteoweb.com
 ```
 
 ```
-Marbe Ralozo
-
-Support Manager
----------------
-Niteo
-
-M: +386 40 201 880
-E: marbe.ralozo@niteoweb.com
-W: www.niteoweb.com
-```
-```
-Janez Troha
+Nejc Zupan
 
 Lead Developer
 --------------
 Niteo
 
-M: +386 40 201 880
-E: janez.troha@niteoweb.com
+E: nejc.zupan@niteoweb.com
 W: www.niteoweb.com
 ```
 
