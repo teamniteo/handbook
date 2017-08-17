@@ -154,6 +154,17 @@ To have a quick overview of who is available to work in the current sprint we us
  * people who can commit most of their time to the sprint work have a "double fingers" icon
 
 
+### Scrum Recommendations
+
+After issue/user story/pull request is getting close to being completed people should go on zoom and discuss what else needs to be fixed. We don't want to see long PR discussions on GitHub. The **author** of the issue/user story/pull request should ping people on slack and get them on zoom to polish things.
+
+Every user story that first needs additional research should have automatically higher story points.
+
+Every day on stand-up scrum master should screen share and go through all the user stories that are *in progress*. He/She should ask the team `What can we close today?`.
+
+Developers should be more involved in marketing/support related user stories. When a user story is created the author should assign a developer (one or more) from whom he/she thinks he/she will be able to get the technical details about the user story. Then that developer (one or more) should update the detailed technical description of the user story. Developers should also try to find different, easier solutions for the problem that this user story will solve, and present them to the author of the user story.
+
+
 ### Useful Lists
 
  * My open issues -> check this list daily!: [click!](https://github.com/issues/assigned)
