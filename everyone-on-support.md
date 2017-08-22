@@ -28,6 +28,6 @@ Everyone one will set their own schedule and keep with it. Set a date and [updat
 
 # Readings:
 
-https://signalvnoise.com/posts/3676-everyone-on-support
-https://www.groovehq.com/support/customer-service-team
-https://zapier.com/learn/customer-support/everyone-on-support/
+* https://signalvnoise.com/posts/3676-everyone-on-support
+* https://www.groovehq.com/support/customer-service-team
+* https://zapier.com/learn/customer-support/everyone-on-support/
