@@ -66,7 +66,6 @@ Gearing up
 * [ ] Now that encryption is configured, you need to configure the OpenVPN secure tunnel so you can connect to our internal services. First, install the `Tunnelblick` app if you are on a Mac or the `openvpn` package on Linux. When done ask @zupo (by posting a comment to this issue) to email you the OpenVPN configuration files --  normally you just double-click them and follow instructions.
 * [ ] When you manage to connect to our VPN you will then be able to access https://intra.niteoweb.com/. Ask @niteoweb/peopleops to create an account for you by posting a comment to this issue -- login credentials should arrive in a separate email.
 * [ ] Ask @niteoweb/peopleops to create your [Team Member Page](https://intra.niteoweb.com/people/team-members) for you on Intra.
-* [ ] Sign up on GitHub.com and ask @niteoweb/peopleops to add you to Niteo organization by posting a comment with your GitHub username on this ticket.
 * [ ] [Sign up to Slack](https://join.slack.com/niteoweb/signup) , our Team Chat. Use the same username as you do on GitHub.
 * [ ] Introduce yourself by saying Hi and writing a sentence about yourself in the #operations Slack channel.
 * [ ] Read [Using Slack](https://github.com/niteoweb/handbook/blob/master/using-slack.md). It's recommended to take some time to read through old messages in main channels to start getting an idea of how we function.
@@ -249,7 +248,7 @@ E: eb@teamniteo.com
 W: www.teamniteo.com
 ```
 ```
-Monica Hall 
+Monica Hall
 
 CFO
 --------------
