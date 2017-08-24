@@ -66,7 +66,7 @@ Gearing up
 * [ ] Now that encryption is configured, you need to configure the OpenVPN secure tunnel so you can connect to our internal services. First, install the `Tunnelblick` app if you are on a Mac or the `openvpn` package on Linux. When done ask @zupo (by posting a comment to this issue) to email you the OpenVPN configuration files --  normally you just double-click them and follow instructions.
 * [ ] When you manage to connect to our VPN you will then be able to access https://intra.niteoweb.com/. Ask @niteoweb/peopleops to create an account for you by posting a comment to this issue -- login credentials should arrive in a separate email.
 * [ ] Ask @niteoweb/peopleops to create your [Team Member Page](https://intra.niteoweb.com/people/team-members) for you on Intra.
-* [ ] Signup for the free version and start using [Grammarly](https://www.zenhub.com/). It's a spelling and grammar tool we use to make sure that quality standards are kept in every text we send out. Use US English. Personalinze your account inside the Settings page by adding words to your personal dictionary. 
+* [ ] Signup for the free version and start using [Grammarly](https://www.grammarly.com/). It's a spelling and grammar tool we use to make sure that quality standards are kept in every text we send out. Use US English. Personalinze your account inside the Settings page by adding words to your personal dictionary. 
 * [ ] Install [ZenHub](https://www.zenhub.com/) addon to extend GitHub functionality (we use it for SCRUM).
 * [ ] [Sign up to Slack](https://join.slack.com/niteoweb/signup) , our Team Chat. Use the same username as you do on GitHub.
 * [ ] Introduce yourself by saying Hi and writing a sentence about yourself in the #operations Slack channel.
