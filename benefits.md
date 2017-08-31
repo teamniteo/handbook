@@ -17,14 +17,41 @@ Allowance can be used to pay any expenses that you believe can make you better a
 
 In other words: is something boosting your productivity and creativity? Good, feel free to buy it with your allowance, no questions asked. The monthly amounts compound every month, so whatever you do not spend this month, you can use the next month, or the one after.
 
+At the beginning of the month, invoice the company the allowance amount spent in the previous month.
+
 You can request an increase in allowance if you feel the current one doesn't cover expenses for you.
 
 ### Current Allowance (February 2017)
 
 **Regular Allowance:** $150
 
-
 **Founder's Allowance:** $300
+
+## Conferences
+
+Conferences count as working days (7.5h per day). Transport to conferences counts too (up to 7.5h per day).
+
+Try to give notice at least 10-14 days before attending a conference.
+
+Any expense for the conference, such as transport, accommodation, ticket, food, etc. is covered by your [allowance](#productivity-allowance). In order to not run out, you get a bonus for each conference day:
+* $50/day for local conferences (in your home town, or close)
+* $100/day for international conferences (you need to fly there, you need a hotel, etc.)
+* $200/day for intercontinental conferences (long flights, extra jetlag days, etc. )
+
+
+## Online and Offline Courses
+
+We encourage you to take courses by paying for time spent on the course. A rough guideline is one course per quarter. The amount covered is based on how direct the benefit is from the course, based on the course syllabus.
+
+* 50% for somewhat work related courses which do not have immediate benefit
+* 100% for work related courses with immediate benefit
+
+After finishing the course, you should write a short review of the course, for others to use when deciding whether to take a course or not.
+
+The main limitation is that project work always has priority over course-related work.
+
+If you need to pay a fee to participate in the course, use your [allowance](#productivity-allowance).
+
 
 
 ## Vacation
@@ -52,28 +79,3 @@ Formula: `(regular work day hours - hours done on a sick day) * 80% + hours done
 
 Example: 2 hours work on a sick day. `(7.5h - 2h) * 0.8 + 2h = 6.4h`
 
-
-## Conferences
-
-Conferences count as working days (7.5h per day). Transport to conferences counts too (up to 7.5h per day).
-
-Try to give notice at least 10-14 days before attending a conference.
-
-Any expense for the conference, such as transport, accommodation, ticket, food, etc. is covered by your [allowance](#productivity-allowance). In order to not run out, you get a bonus for each conference day:
-* $50/day for local conferences (in your home town, or close)
-* $100/day for international conferences (you need to fly there, you need a hotel, etc.)
-* $200/day for intercontinental conferences (long flights, extra jetlag days, etc. )
-
-
-## Online and Offline Courses
-
-We encourage you to take courses by paying for time spent on the course. A rough guideline is one course per quarter. The amount covered is based on how direct the benefit is from the course, based on the course syllabus.
-
-* 50% for somewhat work related courses which do not have immediate benefit
-* 100% for work related courses with immediate benefit
-
-After finishing the course, you should write a short review of the course, for others to use when deciding whether to take a course or not.
-
-The main limitation is that project work always has priority over course-related work.
-
-If you need to pay a fee to participate in the course, use your [allowance](#productivity-allowance).
