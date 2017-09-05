@@ -2,7 +2,7 @@
 
 Email support is managed by [GrooveHQ](https://niteoweb.groovehq.com/), a mail-based ticketing system. Member sends an email through a contact form or directly, and a support ticket is created in GrooveHQ.
 
-You should read everything we have on product websites (don’t forget footer links), related [intra](https://intra.niteoweb.com/) articles, in our blogs and help centers – multiple times. Most questions visitors and members ask are answered on these pages.
+You should read everything we have on product websites (don’t forget footer links), related [intra](https://intra.niteoweb.com/resolveuid/8c2f57844e2349e9b5de40cf5fad658a?_authenticator=296a0dcf711a0926896807e8b133c924bda5c0e4) articles, in our blogs and help centers – multiple times. Most questions visitors and members ask are answered on these pages.
 
 ## General Instructions
 
@@ -36,11 +36,13 @@ Instead say
 
 People hate being made to feel stupid. If you remove the person from the response as if someone or something else messed up, they will remain much happier.
 
-If something isn't clear, ask Dejan or Marbe.
+If something isn't clear, ask Dejan or Marbe. See our [policy on dealing with users](https://intra.niteoweb.com/resolveuid/fe1828f8656f4538bd621b17b94d0dd0?_authenticator=296a0dcf711a0926896807e8b133c924bda5c0e4). 
 
-## Slack #support Channel
+## Slack Channels
 
 Support related issues and topics are discussed on #support channel. This way everyone knows what's going on and can ping in on the topic. Avoid pinging coworkers in private since then others won't know what's going on.
+
+We also have the #support-emails channel for a live stream of GrooveHQ tickets and responses.
 
 ## Live Chat Support
 
@@ -67,7 +69,8 @@ If you have the need to create a new canned reply, you can do so by clicking Set
 
 ### Submit Statuses
 
-Regular replies are always ‘Submit as Closed’. If there is still something you need to do after replying (like reporting a bug and getting back to the user with a solution), select ‘Submit as Pending’.
+Regular replies are always ‘Submit as Closed’. If there is still something you need to do after replying (like reporting a bug and getting back to the user with a solution), select ‘Submit as Pending’. Put as note any action done/being done or a link to an opened GitHub issue for easy reference.
+
 
 ### Spam Emails
 
