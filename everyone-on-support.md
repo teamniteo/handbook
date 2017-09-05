@@ -12,6 +12,8 @@ In the end, we are working for our customers, and having everyone involved in th
 
 * We use [GrooveHQ](https://niteoweb.groovehq.com/) for handling support emails. For EOS, we have predefined account which you'll need to personalize when you're on duty. Login credentials are on 1Password under *Team* vault. Go to *Edit Profile page* and update the *Name* field, to your personal name(Note: Your name will not be reflected in UI after you change it, until you logout and login back again, so do that first) and leave the username as is (@Niteo).
 * After logging back to GrooveHQ, you will see the list of all tickets with assigned agent next to it, choose one where no one is assigned to it, and assign it to yourself.
+* When replying select *Send as Open*, so that ticket is properly tracked if that is needed.
+* There is a lot of predefined responses *(Canned Responses)* hidden under *Insert Reply* link, and you can preview them under https://niteoweb.groovehq.com/groove_client/settings/ticketing/canned-replies.
 * On sidebar you can track list of all tickets assigned to you by clicking on *My New & Open*.
 * Everyone has *Staff* access to the EBN app, this allows you to login to internal *Blog Dashboard* app.
 * GrooveHQ integrates with Slack so we get a live stream of emails and responses. You can optionally join #support-emails channel, if you want to follow support operations.
