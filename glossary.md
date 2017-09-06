@@ -2,13 +2,13 @@
 
 <dl>
   <dt>EBN</dt>
-  <dd>The [Easy Blog Networks](https://www.easyblognetworks.com/) project.</dd>
+  <dd>The Easy Blog Networks project, https://www.easyblognetworks.com/.</dd>
   <dt>DMON</dt>
-  <dd>The [Easy Domain Monitor](https://www.easydomainmonitor.com/) project.</dd>
+  <dd>The Easy Domain Monitor project, https://www.easydomainmonitor.com/.</dd>
   <dt>INCH</dt>
   <dd>Indexation Checker, a spin-off of DMON.</dd>
   <dt>WP</dt>
-  <dd>[WordPress](https://wordpress.org/) blogging system.</dd>
+  <dd>WordPress blogging system.</dd>
   <dt>AC</dt>
   <dd>Scrum: Acceptance Criteria</dd>
   <dt>SP</dt>
