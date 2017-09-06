@@ -2,17 +2,19 @@
 
 <dl>
   <dt>EBN</dt>
-  <dd>Easy Blog Network</dd>
+  <dd>The Easy Blog Networks project, https://www.easyblognetworks.com/.</dd>
   <dt>DMON</dt>
-  <dd>Easy Domain Monitor</dd>
+  <dd>The Easy Domain Monitor project, https://www.easydomainmonitor.com/.</dd>
+  <dt>INCH</dt>
+  <dd>Indexation Checker, a spin-off of DMON.</dd>
   <dt>WP</dt>
-  <dd>Wordpress</dd>
+  <dd>WordPress blogging system.</dd>
   <dt>AC</dt>
-  <dd>Acceptance Criteria</dd>
+  <dd>Scrum: Acceptance Criteria</dd>
   <dt>SP</dt>
-  <dd>Story Points</dd>
+  <dd>Scrum: Story Points</dd>
   <dt>TDD</dt>
-  <dd>Test-driven Development</dd>
+  <dd>Test-Driven Development</dd>
   <dt>VPN</dt>
   <dd>Virtual Private Network</dd>
   <dt>IRL</dt>
@@ -22,9 +24,7 @@
   <dt>PBN</dt>
   <dd>Private Blog Network</dd>
   <dt>PR</dt>
-  <dd>Pull Request</dd>
-  <dt>INCH</dt>
-  <dd>Indexation Checker</dd>
+  <dd>GitHub: Pull Request</dd>
 </dl>
 
 # Terminology Definitions
@@ -35,13 +35,13 @@
   <dt>WordPress</dt>
   <dd>Blogging tool that we use to run our blogs.</dd>
   <dt>Pyramid</dt>
-  <dd>Lightweight Python web framework</dd>
+  <dd>Lightweight Python web framework.</dd>
   <dt>Scrum</dt>
-  <dd>Iterative and incremental agile framework for managing product development</dd>
+  <dd>Iterative and incremental agile framework for managing product development.</dd>
   <dt>Travis</dt>
-  <dd>Hosted, distributed continuous integration service used to build and test software projects</dd>
+  <dd>Hosted, distributed continuous integration service used to build and test software projects.</dd>
   <dt>User Story</dt>
-  <dd>Description of a software feature from an end-user perspective</dd>
+  <dd>Description of a software feature from an end-user perspective.</dd>
   <dt>Sprint</dt>
-  <dd>The basic unit of development in Scrum</dd>
+  <dd>The basic unit of development in Scrum.</dd>
 </dl>
