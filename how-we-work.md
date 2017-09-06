@@ -6,7 +6,7 @@ Niteo is a distributed team spread around the World. While we rent office space 
 
 Instant messaging is done through Slack on different channels (operations, support, development etc.). We have daily standups at 9AM UTC on Zoom.us when everyone has a minute or two to say what they’re working on and if they need any help. Once a week, senior team members have [“catchups” (better known as 1-on-1)](https://github.com/niteoweb/handbook/blob/master/catchup-meetings.md) with everyone on the team to keep themselves in the loop.
 
-About once or twice a year we fly the whole team somewhere nice and we’ll have an “IRL” (in-real-life) meetup. Here we discuss company status, projects and the future in a group setting.
+About once or twice a year we fly the whole team somewhere nice and we’ll have an “IRL” (in-real-life) meetup. Here we discuss company status, projects and the future in a group setting. IRLs normally happen in January and in July, perfect timing to review the (half-)year. Every Nitean is encouraged to attend in person, but we provide remote access as well. It's OK to remotely attend an IRL every now and then, but generally we are all expected to be there in person. 
 
 Then there are ad-hoc in-person meetups that happen about once or twice a month, as needed. Some of us might get together to watch a talk at a local conference or we go to lunch together to discuss project work.
 
