@@ -12,7 +12,7 @@ Undefined issues are created in various repositories. Support issues, being reac
 ## How to create User Story
 
 - In Operations repository when you open an issue, it has a template that helps you define the User Story.
-- User Story in this step must be moved into `Backlog` pipeline.
+- User Story in this step must be moved into `Backlog` pipeline in ZenHub.
 - Various labels are added (see Issue Labels section).
 - The Scrum Master and Product Owner verify if the User Story is well defined.
   * If it is not they assign people from whom they want to receive feedback for better definition of the User Story.
