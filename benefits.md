@@ -56,12 +56,19 @@ If you need to pay a fee to participate in the course, use your [allowance](#pro
 
 ## Vacation
 
-Everyone is entitled to 165 hours of vacation leave (22 days) in any calendar year. These hours are automatically used to substitute any missing hours when one doesn't fulfill the monthly work quota. Unused vacation hours in a calendar year can be carried over to the next year, but you must use them before July 1st. If not, we are gonna have a serious conversation: everyone needs a break. Over/undertime hours are calculated every month for the previous month.
+Everyone is entitled to 165 hours of vacation leave (22 days) in any calendar year. These hours are automatically used to substitute any missing hours when one doesn't fulfill the monthly work quota. Over/undertime hours are calculated every month for the previous month.
 
 Birth of a child is 20 extra days of paid leave.
 
 Death in the family is 3 extra days of paid leave.
 
+### Booking Vacation
+
+See [Planned Absences](https://intra.niteoweb.com/resolveuid/dcf71b9c6b17430789ace610c9ac384a) on Intra.
+
+### Unused Vacation
+
+Unused vacation hours in a calendar year can be carried over to the next year, but must be used by July 1st. If not, we are gonna have a serious conversation; everyone needs a break.
 
 ## Public holidays
 
