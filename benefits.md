@@ -64,7 +64,7 @@ Death in the family is 3 extra days of paid leave.
 
 ### Booking Vacation
 
-See [Planned Absences](https://intra.niteoweb.com/resolveuid/dcf71b9c6b17430789ace610c9ac384a) on Intra.
+See [Planned Absences](https://intra.niteoweb.com/resolveuid/dcf71b9c6b17430789ace610c9ac384a) on Intra. Post to out-of-office channel on Slack when you add a new entry.
 
 ### Unused Vacation
 
