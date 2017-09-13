@@ -57,4 +57,4 @@ Track all hours spent working for the company:
 * participation in courses
 * do not track non-meeting lunch
 
-Everyone tracks working hours for themselves. At the end of each month, send your total hours to Dejan (only the total, we do not need per day or per task hours).
+Everyone tracks working hours for themselves. At the end of each month, send your **total working hours *and* sick leave days** to Dejan. We don't need breakdown per day or per task. You don't need to count vacation hours or sick leave, all that is done automatically and the balance posted to your [Intra profile](https://intra.niteoweb.com/resolveuid/8027d5b5-0b78-4a85-8d43-d419c82e98fd) at the beginning of each month.
