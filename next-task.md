@@ -7,7 +7,7 @@ If all else is completed, you can always read a book, take an online course or j
 ## Developers
 
  - Go through our [Zenhub Backlog](https://github.com/niteoweb/operations/issues#boards). Choose a task that you like and is not on a sprint then ask the Scrum Master if you can start working on it. 
- - Search the codebase and documentation for "TODO", "XXX" and similar strings. Try to understand why it's there and create a ticket for it. If you like the task, you can start working on it immediately. 
+ - Search the codebase and documentation for "TODO", "XXX" and similar strings. Try to understand why it's there and create an issue for it. If you like the task, you can start working on it immediately. 
 
 ## DevOps and Support
 
