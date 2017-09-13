@@ -34,7 +34,7 @@ A member of the @niteoweb/peopleops team will do the following to start the onbo
 * Add the new team member to the [@niteoweb/trialists](https://github.com/orgs/niteoweb/teams/trialists) group so they get access to [niteoweb/operations](https://github.com/niteoweb/operations) and [niteoweb/handbook](https://github.com/niteoweb/handbook) repositories.
 * Create an onboarding issue based on the template below and assign it to the new team member.
 * Send the first email (see First Email email template below).
-* Create @teamniteo.com email address and send over credentials (see Niteo Email Account email template below).
+* Create @niteo.co email address and send over credentials (see Niteo Email Account email template below).
 
 
 ## Lay Off / Severance Policy
@@ -62,13 +62,13 @@ Gearing up
 ==========
 
 ### Email Setup
-* [ ] A member of the @niteoweb/peopleops team will create your very own `<initials>@teamniteo.com` email address. Use it for all Niteo-related communication, internally and with third-party contacts. Please ask if you would prefer a different address.
+* [ ] A member of the @niteoweb/peopleops team will create your very own `<initials>@niteo.co` email address. Use it for all Niteo-related communication, internally and with third-party contacts. Please ask if you would prefer a different address.
 * [ ] We use S/MIME encryption for all email communication so install a desktop-based email client that supports S/MIME encryption e.g.  Apple Mail or Mozilla Thunderbird. *(Please do not use Web-based clients)*.
 * [ ] Generate a [free Comodo Certificate](https://www.comodo.com/home/email-security/free-email-certificate.php) *(Chrome users: There were past problems with Comodo's form, try using Firefox if nothing happens)*.
 * [ ] Configure S/MIME encryption for your email client. You will need to Google configuration details for your particular email client and verify that encryption works by emailing someone from the @niteoweb/peopleops team.
 * [ ] Set up your [email signature](https://github.com/niteoweb/handbook/blob/master/onboarding.md). Google how to do it for your email client of choice. Choose whatever title you want.
-* [ ] Upload your photo for your @teamniteo.com email on [Gravatar](https://en.gravatar.com/). Please use a photo where your face is visible. We are a remote team and having a cat for the avatar does not help in building a relationship with others.
-* [ ] Add your @teamniteo.com email to your [GitHub account](https://help.github.com/articles/adding-an-email-address-to-your-github-account/).
+* [ ] Upload your photo for your @niteo.co email on [Gravatar](https://en.gravatar.com/). Please use a photo where your face is visible. We are a remote team and having a cat for the avatar does not help in building a relationship with others.
+* [ ] Add your @niteo.co email to your [GitHub account](https://help.github.com/articles/adding-an-email-address-to-your-github-account/).
 
 ### Team Communication
 * [ ] Signup to [Zoom](https://zoom.us/signup), our video conferencing software.
@@ -244,8 +244,8 @@ CEO
 ---------------
 Niteo
 
-E: rh@teamniteo.com
-W: www.teamniteo.com
+E: rh@niteo.co
+W: www.niteo.co
 ```
 
 ```
@@ -255,8 +255,8 @@ CTO
 ---------------
 Niteo
 
-E: eb@teamniteo.com
-W: www.teamniteo.com
+E: eb@niteo.co
+W: www.niteo.co
 ```
 ```
 Monica Hall
@@ -265,8 +265,8 @@ CFO
 --------------
 Niteo
 
-E: mh@teamniteo.com
-W: www.teamniteo.com
+E: mh@niteo.co
+W: www.niteo.co
 ```
 
 # Offboarding
