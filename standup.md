@@ -5,7 +5,7 @@ Daily stand up meetings are short meetings every day where we go over the work d
 
  
 ## Instructions
-Every day at 9AM UTC (10AM CET) we have a stand up meeting on [Zoom.us](https://zoom.us) (you need their sofware and an account with email @teamniteo.com). One by one we'll go over the things done in the last day, things to be done and any blockers anyone has and resolve them. If there was a new feature published, this should be mentioned so people can update their work flows if it concerns them. 
+Every day at 9AM UTC (10AM CET) we have a stand up meeting on [Zoom.us](https://zoom.us) (you need their sofware and an account with email @niteo.co). One by one we'll go over the things done in the last day, things to be done and any blockers anyone has and resolve them. If there was a new feature published, this should be mentioned so people can update their work flows if it concerns them. 
 
 If you're missing that day (conference and vacation excluded), add a note in #working-on Slack channel.
 
