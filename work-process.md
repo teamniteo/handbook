@@ -9,7 +9,7 @@ Our work process is based on [Scrum](https://en.wikipedia.org/wiki/Scrum_(softwa
 
 Undefined issues are created in various repositories. Support issues, being reactionary, stay in project-related repositories and are not included in sprints. When undefined issues in various repositories are to be moved into a sprint, User Story needs to be created for that issue with well defined Acceptance Criteria and Definition of Done. This can be done by the author of the issue, Scrum Master or Project Owner. Sprint is managed from the [Operations repository](https://github.com/niteoweb/operations/issues).
 
-## How to create User Story
+## How to create a User Story
 
 - In Operations repository when you open an issue, it has a template that helps you define the User Story.
 - User Story in this step must be moved into `Backlog` pipeline in ZenHub.
@@ -17,7 +17,7 @@ Undefined issues are created in various repositories. Support issues, being reac
 - The Scrum Master and Product Owner verify if the User Story is well defined.
   * If it is not they assign people from whom they want to receive feedback for better definition of the User Story.
   * Once these people post their feedback, they unassign themselves from the User Story.
-- Once the Scrum Master and Product Owner agree that the User Stories well defined, they add ``✋ [vote]`` prefix to the title of the User Story. At that point, Scrum Master and/or Product Owner assign people from whom they want to receive User Story Points estimation. With this online poker planning begins.
+- Once the Scrum Master and Product Owner agree that the User Storie is well defined, they add ``✋ [vote]`` prefix to the title of the User Story. At that point, Scrum Master and/or Product Owner assign people from whom they want to receive User Story Points estimation. With this, online poker planning begins.
 - At the end of the online poker planning, Story Points are added to the User Story.
 - The User Story is now prepared to be moved to the top of the User Story Pyramid stack.
 
@@ -36,7 +36,7 @@ Things to be written in the User Story:
 
 "As a ..., I want ..., so that ..."
 
-**Description** 
+**Description**
 
 Write in as much detail as possible, add mockups, previous discussion, etc.
 
@@ -120,7 +120,7 @@ For each sprint, a new milestone is created with name `Sprint #X` where `X` is t
 
 ### Schedule
 
-Our sprints start on a Wednesday 10am CEST with the [Sprint Planning](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint_planning) meeting. They end on the Tuesday two weeks later with [Sprint Review and Sprint Retrospective](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint_review_and_retrospective) meetings held at 10am CEST. The last Monday morning of the Sprint everyone should open up the Kanban Board and ask themselves: "How can I help close whatever is still opened?". Repeat the same after lunch and on Tuesday morning. 
+Our sprints start on a Wednesday 10am CEST with the [Sprint Planning](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint_planning) meeting. They end on the Tuesday two weeks later with [Sprint Review and Sprint Retrospective](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint_review_and_retrospective) meetings held at 10am CEST. The last Monday morning of the Sprint everyone should open up the Kanban Board and ask themselves: "How can I help close whatever is still opened?". Repeat the same after lunch and on Tuesday morning.
 
 On the Wednesday in the middle of the sprint we hold the <a name="product_backlog_refinement_meeting"></a>[Product Backlog Refinement](https://en.wikipedia.org/wiki/Scrum_(software_development)#Backlog_refinement) meeting at 10am CEST.
 
