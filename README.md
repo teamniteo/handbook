@@ -28,6 +28,9 @@ This Handbook offers us an opportunity to clarify what Niteo is and how we opera
 * [Work Process](https://github.com/niteoweb/handbook/blob/master/work-process.md)
 * [Glossary](https://github.com/niteoweb/handbook/blob/master/glossary.md)
 * [Find Your Next Task](https://github.com/niteoweb/handbook/blob/master/next-task.md)
+
+## Support
+* [Everyone On Support](https://github.com/niteoweb/handbook/blob/master/everyone-on-support.md)
 * [Handling Support Requests](https://github.com/niteoweb/handbook/blob/master/support.md)
 
 ## Handbook Contribution
