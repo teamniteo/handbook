@@ -9,7 +9,7 @@ Our work process is based on [Scrum](https://en.wikipedia.org/wiki/Scrum_(softwa
 
 Undefined issues are created in various repositories. Support issues, being reactionary, stay in project-related repositories and are not included in sprints. When undefined issues in various repositories are to be moved into a sprint, User Story needs to be created for that issue with well defined Acceptance Criteria and Definition of Done. This can be done by the author of the issue, Scrum Master or Project Owner. Sprint is managed from the [Operations repository](https://github.com/niteoweb/operations/issues).
 
-## How to create User Story
+## How to create a User Story
 
 - In Operations repository when you open an issue, it has a template that helps you define the User Story.
 - User Story in this step must be moved into `Backlog` pipeline in ZenHub.
@@ -17,7 +17,7 @@ Undefined issues are created in various repositories. Support issues, being reac
 - The Scrum Master and Product Owner verify if the User Story is well defined.
   * If it is not they assign people from whom they want to receive feedback for better definition of the User Story.
   * Once these people post their feedback, they unassign themselves from the User Story.
-- Once the Scrum Master and Product Owner agree that the User Stories well defined, they add ``✋ [vote]`` prefix to the title of the User Story. At that point, Scrum Master and/or Product Owner assign people from whom they want to receive User Story Points estimation. With this online poker planning begins.
+- Once the Scrum Master and Product Owner agree that the User Story is well defined, they add ``✋ [vote]`` prefix to the title of the User Story. At that point, Scrum Master and/or Product Owner assign people from whom they want to receive User Story Points estimation. With this, online poker planning begins.
 - At the end of the online poker planning, Story Points are added to the User Story.
 - The User Story is now prepared to be moved to the top of the User Story Pyramid stack.
 
@@ -36,7 +36,7 @@ Things to be written in the User Story:
 
 "As a ..., I want ..., so that ..."
 
-**Description** 
+**Description**
 
 Write in as much detail as possible, add mockups, previous discussion, etc.
 
@@ -61,6 +61,91 @@ Activities that need to be performed so this user story can be moved to `Done`. 
 [Story Point](https://agilefaq.wordpress.com/2007/11/13/what-is-a-story-point/) is an arbitrary measure used by Scrum teams to indicate the effort required to implement a User Story. One full time member on sprint should be able to do 10 Story Points. For labeling User Story estimates, we use [ZenHub Estimates](https://www.zenhub.com/blog/software-estimates/).
 
 In the "Vote" step (the User Stories that have ``✋ [vote]`` prefix), Scrum Master assigns the User Story to people from whom s/he wants to receive Story Point estimations. Once these people post their story point estimation, they unassign themselves from the User Story. The Scrum Master then adds the agreed numbered Story Point label to the title, removes the ``✋ [vote]`` prefix and moves the User Story to the top of the pipeline. This User Story can now be added to the next sprint.
+
+
+## Pull Requests and Commits
+
+While working on User Stories we often need to change code or text that we keep in GitHub. These changes are done with [git commits](https://help.github.com/articles/github-glossary/#commit) which are presented to others for reviewal with [Pull Requests](https://help.github.com/articles/about-pull-requests/).
+
+To make sure that your commits and your Pull Requests contain everything for a successful review, follow the conventions below:
+
+### Git commit
+
+A single commit contains only a single "unit of work". For example, if you are adding a new section to this Handbook, but then notice a typo in some other section, the typo should be in a separate commit.
+
+The commit message should look like this:
+
+> Short, imperative summary of changes, up to 72 chars
+>
+> More detailed explanatory text. Wrap it to 72 characters.
+> The blank line separating the summary from the body is critical;
+> tools like GitHub can get confused if you omit it.
+>
+> In big repos, you can use a `[tag]` prefix in the summary, if you
+> wish.
+>
+> The summary is all about "What does this commit do?" while the body is
+> "Why does it do this?" and "Why was this approach chosen over others?"
+>
+> Further paragraphs come after blank lines.
+>
+> It is critical that you explain *why* you did the change. Don't state
+> the obvious "File updated", "Text removed". Imagine you are reading
+> this message after two years; how would you explain your future self
+> the reason for this change?
+>
+>   - Bullet points are okay, too
+>
+>   * Typically a hyphen or asterisk is used for the bullet,
+>     preceded by a single space, with blank lines in
+>     between.
+>
+> At the bottom of the commit message, reference the Issue(s) to which
+> this commit belongs, in the format below. If referencing an Issue in the
+> repo that this commit is in, it's fine to just use the issue number.
+# Otherwise, use the long format with organization/repo prefix.
+>
+> Refs #123.
+> Refs niteoweb/operations#123.
+
+Bonus karma points for reading (this detailed essay about good commits)[https://chris.beams.io/posts/git-commit/].
+
+A few examples of excellent commits:
+ * TODO
+ * TODO
+ * TODO
+
+
+### Pull Request
+
+When your commit is ready to be applied to code/text inside GitHub, you need to present it with a Pull Request.
+Similarly to commits, a Pull Request should only include commits on a single topic. For example, if you are adding a new section to this Handbook, but then notice that some other section is also missing, that second section should be in a separate Pull Request.
+
+That said, the typo from above, which comes in its own commit, can be added to your Pull Request. In other words, a Pull Request contains one "main" commit where things happen and up to a few "trivial cleanup" commits, such as typo fixes.
+
+When you hit the `Create pull request` button, put on your reviewer hat and double-check your changes via GitHub Web UI; it uses different color schemes than your local editor and you might catch problems you did not see when looking at your changes in your editor.
+
+Similarly to commits, Pull Requests should look like this:
+
+> Short, up to 72 characters summary of changes
+>
+> The beef of the Pull Request can be copied over from your "main" commit.
+> However, remember to also include description of any cleanup that you have
+> done in additional "trivial cleanup" commits.
+>
+> Like with commit messages, remember to reference the Issue to which the
+> Pull Request belongs.
+>
+> Refs #123.
+> Refs niteoweb/operations#123.
+
+A few examples of excellent Pull Requests:
+ * TODO
+ * TODO
+ * TODO
+
+In repositories where deployment involves database migrations and build verifications, we use a
+`PULL_REQUEST.md` template to provide delivery verification steps.
 
 
 ## Urgent Production Fixes
@@ -120,7 +205,7 @@ For each sprint, a new milestone is created with name `Sprint #X` where `X` is t
 
 ### Schedule
 
-Our sprints start on a Wednesday 10am CEST with the [Sprint Planning](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint_planning) meeting. They end on the Tuesday two weeks later with [Sprint Review and Sprint Retrospective](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint_review_and_retrospective) meetings held at 10am CEST. The last Monday morning of the Sprint everyone should open up the Kanban Board and ask themselves: "How can I help close whatever is still opened?". Repeat the same after lunch and on Tuesday morning. 
+Our sprints start on a Wednesday 10am CEST with the [Sprint Planning](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint_planning) meeting. They end on the Tuesday two weeks later with [Sprint Review and Sprint Retrospective](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint_review_and_retrospective) meetings held at 10am CEST. The last Monday morning of the Sprint everyone should open up the Kanban Board and ask themselves: "How can I help close whatever is still opened?". Repeat the same after lunch and on Tuesday morning.
 
 On the Wednesday in the middle of the sprint we hold the <a name="product_backlog_refinement_meeting"></a>[Product Backlog Refinement](https://en.wikipedia.org/wiki/Scrum_(software_development)#Backlog_refinement) meeting at 10am CEST.
 
