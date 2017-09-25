@@ -103,7 +103,7 @@ The commit message should look like this:
 > At the bottom of the commit message, reference the Issue(s) to which
 > this commit belongs, in the format below. If referencing an Issue in the
 > repo that this commit is in, it's fine to just use the issue number.
-# Otherwise, use the long format with organization/repo prefix.
+> Otherwise, use the long format with organization/repo prefix.
 >
 > Refs #123.
 > Refs niteoweb/operations#123.
