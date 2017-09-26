@@ -34,9 +34,13 @@ Conferences count as working days (7.5h per day). Transport to conferences count
 Try to give notice at least 10-14 days before attending a conference.
 
 Any expense for the conference, such as transport, accommodation, ticket, food, etc. is covered by your [allowance](#productivity-allowance). In order to not run out, you get a bonus for each conference day:
+
 * $50/day for local conferences (in your home town, or close)
 * $100/day for international conferences (you need to fly there, you need a hotel, etc.)
-* $200/day for intercontinental conferences (long flights, extra jetlag days, etc. )
+* $200/day for intercontinental conferences (long flights, extra jetlag days, etc.)
+* +50%/day if you give a talk on the conference
+
+The requirement for the conference bonus is that you write a report about the conference when you get back. It can be published on Intra or on any of our blogs. 
 
 
 ## Online and Offline Courses
