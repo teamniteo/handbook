@@ -39,7 +39,7 @@ Any expense for the conference, such as transport, accommodation, ticket, food, 
 * $200/day for intercontinental conferences (long flights, extra jetlag days, etc. )
 * +50%/day if you give a talk on the conference
 
-The requirement for the "conference bonus" is that you write a report about the conference when you get back. It can be published on Intra or on any of our blogs. 
+The requirement for the conference bonus is that you write a report about the conference when you get back. It can be published on Intra or on any of our blogs. 
 
 
 ## Online and Offline Courses
