@@ -37,6 +37,9 @@ Any expense for the conference, such as transport, accommodation, ticket, food, 
 * $50/day for local conferences (in your home town, or close)
 * $100/day for international conferences (you need to fly there, you need a hotel, etc.)
 * $200/day for intercontinental conferences (long flights, extra jetlag days, etc. )
+* +50%/day if you give a talk on the conference
+
+The requirement for the "conference bonus" is that you write a report about the conference when you get back. It can be published on Intra or on any of our blogs. 
 
 
 ## Online and Offline Courses
