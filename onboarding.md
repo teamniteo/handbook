@@ -242,7 +242,7 @@ Richard Hendricks
 
 CEO
 ---------------
-Niteo
+Niteo.co
 
 E: rh@niteo.co
 W: www.niteo.co
@@ -253,7 +253,7 @@ Erlich Bachmann
 
 CTO
 ---------------
-Niteo
+Niteo.co
 
 E: eb@niteo.co
 W: www.niteo.co
@@ -263,7 +263,7 @@ Monica Hall
 
 CFO
 --------------
-Niteo
+Niteo.co
 
 E: mh@niteo.co
 W: www.niteo.co
