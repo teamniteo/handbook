@@ -80,33 +80,24 @@ The commit message should look like this:
 > More detailed explanatory text. Wrap it to 72 characters.
 > The blank line separating the summary from the body is critical;
 > tools like GitHub can get confused if you omit it.
->
-> In big repos, you can use a `[tag]` prefix in the summary, if you
-> wish.
->
-> The summary is all about "What does this commit do?" while the body is
-> "Why does it do this?" and "Why was this approach chosen over others?"
->
-> Further paragraphs come after blank lines.
->
-> It is critical that you explain *why* you did the change. Don't state
-> the obvious "File updated", "Text removed". Imagine you are reading
-> this message after two years; how would you explain your future self
-> the reason for this change?
->
->   - Bullet points are okay, too
->
->   * Typically a hyphen or asterisk is used for the bullet,
->     preceded by a single space, with blank lines in
->     between.
->
-> At the bottom of the commit message, reference the Issue(s) to which
-> this commit belongs, in the format below. If referencing an Issue in the
-> repo that this commit is in, it's fine to just use the issue number.
-> Otherwise, use the long format with organization/repo prefix.
->
 > Refs #123.
 > Refs niteoweb/operations#123.
+
+In big repos, you can use a `[tag]` prefix in the summary, if you wish.
+
+The summary is all about "What does this commit do?" while the body is "Why does it do this?" and "Why was this approach chosen over others?"
+
+Further paragraphs come after blank lines.
+
+It is critical that you explain *why* you did the change. Don't state the obvious "File updated", "Text removed". Imagine you are reading this message after two years; how would you explain your future self the reason for this change?
+
+- Bullet points are okay, too
+
+* Typically a hyphen or asterisk is used for the bullet, preceded by a single space, with blank lines in between.
+
+At the bottom of the commit message, reference the Issue(s) to which this commit belongs, in the format below. If referencing an Issue in the repo that this commit is in, it's fine to just use the issue number.
+
+Otherwise, use the long format with organization/repo prefix.
 
 Bonus karma points for reading (this detailed essay about good commits)[https://chris.beams.io/posts/git-commit/].
 
