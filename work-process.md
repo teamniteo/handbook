@@ -80,7 +80,9 @@ The commit message should look like this:
 > More detailed explanatory text. Wrap it to 72 characters.
 > The blank line separating the summary from the body is critical;
 > tools like GitHub can get confused if you omit it.
+>
 > Refs #123.
+>
 > Refs niteoweb/operations#123.
 
 In big repos, you can use a `[tag]` prefix in the summary, if you wish.
