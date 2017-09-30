@@ -108,7 +108,7 @@ The commit message should look like this:
 > Refs #123.
 > Refs niteoweb/operations#123.
 
-Bonus karma points for reading (this detailed essay about good commits)[https://chris.beams.io/posts/git-commit/].
+Bonus karma points for reading [this detailed essay about good commits](https://chris.beams.io/posts/git-commit/).
 
 A few examples of excellent commits:
  * TODO
