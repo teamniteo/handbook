@@ -103,9 +103,16 @@ TODO
 
 Support Onboarding [REMOVE IF NOT APPLICABLE]
 ------------------
+### Getting Started
+* [ ] Go to Groove Settings, click on Profile and update what's necessary (name, title and add image).
+* [ ] Learn how [support requeste are handled.](https://github.com/niteoweb/handbook/blob/master/support.md)
+* [ ] See our policy on [dealing with users.](https://github.com/niteoweb/ebn-support/blob/master/dealing-with-users.md)
 
-TODO
-
+#### Easy Blog Networks
+* [ ] You need to learn about the product. Read everything including those in the footer links on the [EBN sales page.](https://www.easyblognetworks.com/)
+* [ ] Read through everything in the [ebn-support repository.](https://github.com/niteoweb/ebn-support)
+* [ ] Go through all our [Help Articles.](https://help.easyblognetworks.com/)
+* [ ] Read our [blog.](https://blog.easyblognetworks.com/)
 
 Developers Onboarding [REMOVE IF NOT APPLICABLE]
 ---------------------
