@@ -30,7 +30,7 @@ This Handbook offers us an opportunity to clarify what Niteo is and how we opera
 * [Find Your Next Task](https://github.com/niteoweb/handbook/blob/master/next-task.md)
 
 ## Support
-* [Support Documentations](https://github.com/niteoweb/support)
+* [Support Documentation](https://github.com/niteoweb/support)
 * [Everyone On Support](https://github.com/niteoweb/handbook/blob/master/everyone-on-support.md)
 * [Handling Support Requests](https://github.com/niteoweb/handbook/blob/master/support.md)
 
