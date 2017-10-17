@@ -2,7 +2,7 @@
 
 Email support is managed by [GrooveHQ](https://niteoweb.groovehq.com/), a mail-based ticketing system. Member sends an email through a contact form or directly, and a support ticket is created in GrooveHQ.
 
-You should read everything we have on product websites (don’t forget footer links), related [intra](https://intra.niteoweb.com/resolveuid/8c2f57844e2349e9b5de40cf5fad658a?_authenticator=296a0dcf711a0926896807e8b133c924bda5c0e4) articles, in our blogs and help centers – multiple times. Most questions visitors and members ask are answered on these pages.
+You should read everything we have on product websites (don’t forget the footer links), [Support repository](https://github.com/niteoweb/support/), in our blogs and help centers – multiple times. Most questions visitors and members ask are answered on these pages.
 
 ## General Instructions
 
@@ -10,7 +10,7 @@ You should read everything we have on product websites (don’t forget footer li
 
 2. Do not reply to tickets which are assigned to other agents, unless they are away and won't be back within 24 hours.
 
-3. Try to reply to customers as soon as possible. Support tickets should be closed within 8 hours on weekdays and within 24 hours on weekends. So if you can, check support for urgent issues on Saturdays and Sundays.
+3. Try to reply to customers as soon as possible. Support tickets should be closed within 8 hours on weekdays and within 24 hours on weekends. So if you can, check support for urgent issues (starred) on Saturdays and Sundays.
 
 4. Do not leave the customer without a reply for more than one work day. If nothing else, let him know we're looking into the issue. Nothing is worse than being ignored by support staff when you have issues.
 
@@ -36,7 +36,7 @@ Instead say
 
 People hate being made to feel stupid. If you remove the person from the response as if someone or something else messed up, they will remain much happier.
 
-If something isn't clear, ask Dejan or Marbe. See our [policy on dealing with users](https://intra.niteoweb.com/resolveuid/fe1828f8656f4538bd621b17b94d0dd0?_authenticator=296a0dcf711a0926896807e8b133c924bda5c0e4).
+If something isn't clear, ask Dejan or Marbe. See our [policy on dealing with users](https://github.com/niteoweb/support/blob/master/EBN/dealing-with-users.md).
 
 ## Slack Channels
 
@@ -46,7 +46,7 @@ We also have the #support-emails channel for a live stream of GrooveHQ tickets a
 
 ## Live Chat Support
 
-Live chat function on our sales page. When working, login to [Olark](https://olark.com) so we can offer users live support.
+Live chat function on our sales page. When working, log into [Olark](https://olark.com) so we can offer users live chat support.
 
 Important: Always have your head with you when doing live chat support. It's a great venue to steal information or to exploit someone's account. Read [this article](https://medium.com/@espringe/amazon-s-customer-service-backdoor-be375b3428c4#.gspnzg3id). Again and again.
 
@@ -70,7 +70,6 @@ If you have the need to create a new canned reply, you can do so by clicking Set
 ### Submit Statuses
 
 Regular replies are always ‘Submit as Closed’. If there is still something you need to do after replying (like reporting a bug and getting back to the user with a solution), select ‘Submit as Pending’. Put as note any action done/being done or a link to an opened GitHub issue for easy reference.
-
 
 ### Spam Emails
 
