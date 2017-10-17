@@ -25,7 +25,7 @@ Guidelines on which information goes where.
 
 ### Support
 
-- Checklists, support documentation and other support documents should be posted to Intra, in the specific project folder.
+- Checklists, support documentation and other support documents should go to the [Support repo](https://github.com/niteoweb/support/), in the specific project folder.
 - General documentation should be posted to Handbook.
 
 ### Marketing
