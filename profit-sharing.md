@@ -49,3 +49,4 @@ So far, we have donated to the following organizations:
 * [Botrstvo [SI]](https://www.boter.si/)
 * [LibreOffice](https://www.libreoffice.org/)
 * [PodCrto [SI]](http://podcrto.si/)
+* [Wikipedia](https://www.wikipedia.org/)
