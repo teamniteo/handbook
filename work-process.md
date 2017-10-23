@@ -187,7 +187,8 @@ After each sprint, we do a retrospective. We think about:
 
 We also add a note on how many Story Points we assigned, how many were done and the distribution between the departments and types of User Stories.
 
-
+Last Retrospective agenda should be going through the [cancellation reasons of our VIP users](https://github.com/niteoweb/support/blob/master/EBN/cancellation-analysis.md) (Agency plan and above). Since they are our primary customers, we want to know why they're leaving and see if there are any actionable reasons.
+ 
 ## Scrum
 
 Sprint length: two weeks.
