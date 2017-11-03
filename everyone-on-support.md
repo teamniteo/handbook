@@ -25,7 +25,7 @@ In the end, we are working for our customers, and having everyone involved in th
 
 ### II. Frequency
 
-EOS is once every month. 
+Report for EOS once every month. You don't have to complete all 7.5 hours. The idea is to close all open tickets (you can leave billing and other complex tickets to support staff). Once done, you can resume doing your regular tasks.
 
 Since we're on Sprints, it's expected that Team Capacity will be affected and duly adjusted.
 
