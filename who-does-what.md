@@ -6,14 +6,11 @@
  - Janez ([@dz0ny](https://github.com/dz0ny)) is *EBN* lead developer.
  - Gašper ([@karantan](https://github.com/karantan)) is *DMON/INCH* lead developer and the *Scrum Master*. 
  - Susannah ([@suzil](https://github.com/suzil)) is a full-time Python developer.
+ - Calum ([@cas--](https://github.com/cas--)) is a full-time Python developer.
+ - Dejan ([@dmurko](https://github.com/dmurko)) is the *Product Owner*.
  - Amon ([@am-on](https://github.com/am-on)) is a part-time developer.
  - Jan ([@lix](https://github.com/)) is a part-time developer.
- - Dejan ([@dmurko](https://github.com/dmurko)) is the *Product Owner*.
  
- In July '17 two new Python developers joined us:
- - Calum ([@cas--](https://github.com/cas--)) 
- - Maksym ([@enkidulan](https://github.com/enkidulan)) 
-
 ## Support
 
  - Marbe ([@marbeann](https://github.com/marbeann)) manages customer support and liaises with DevOps to resolve project issues.
