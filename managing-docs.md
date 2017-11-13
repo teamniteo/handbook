@@ -7,6 +7,7 @@ We use the following services for storing information:
 - **[Intra](https://intra.niteoweb.com)** - Project documentation, team members profiles, reports and anything else that cannot be publicly published on the Handbook.
 - **[collective.permalink](https://pypi.python.org/pypi/collective.permalink)** - an extension for **[Intra](https://intra.niteoweb.com)** that creates a persistent link to the Intra's content that should never change even if you rename or move it. Use it every time you need to reference some Intra content from the outside of Intra, like from the Handbook. To get a permalink click on Plone toolbar `Actions` > `Permalink (to Clipboard)`.
 - **[Docs](http://docs.niteoweb.com)** - Technical documentation for projects, generated automatically by Sphinx on every code change. Also a ton of books and videos from our past events.
+- **[Grafana](niteo.grafana.net)** - Company and project dashboards.
 - **[Zoho Docs](https://docs.zoho.eu/home)** - Alternative to Google Docs. Mostly used for spreadsheets.
 - **Resilio** - Works similar to Dropbox, but is much more secure as encrypts all data locally and it does not require a central server. Used for storing operations and projects files, that are being actively used.
 - **JungleDisk** - Archive of no-longer-needed operations and projects files. Files can be accessed on demand.
