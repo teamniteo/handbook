@@ -317,6 +317,7 @@ W: www.niteo.co
 * [ ] Intra account.
 * [ ] VPN access.
 * [ ] Zoom.us account.
+* [ ] Sentry access.
 * [ ] EBN account.
 * [ ] DMON account.
 ```
