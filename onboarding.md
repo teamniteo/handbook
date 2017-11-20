@@ -286,8 +286,8 @@ W: www.niteo.co
 ```
 Erlich Bachmann
 
-CTO
----------------
+Backend Specialist
+------------------
 Niteo.co
 
 E: eb@niteo.co
@@ -296,8 +296,8 @@ W: www.niteo.co
 ```
 Monica Hall
 
-CFO
---------------
+Senior (con)Sultan
+------------------
 Niteo.co
 
 E: mh@niteo.co
