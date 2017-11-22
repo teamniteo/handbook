@@ -147,6 +147,11 @@ A few examples of excellent Pull Requests:
 In repositories where deployment involves database migrations and build verifications, we use a
 `PULL_REQUEST.md` template to provide delivery verification steps.
 
+### Continual Improvement
+
+Big cleanups (of code, documentation, or anything else) happen rarely. They are hard to organize, and to motivate for. Instead of doing big cleanups every few months (years?) when pain levels are high enough, we prefer to do constant tiny improvements with an approach called [Continual Improvement](https://en.wikipedia.org/wiki/Continual_improvement_process).
+
+For Niteo, this means that every Pull Request (except Priority Lane issues) should include at least one minor cleanup commit alongside the main PR commit. It does not need to be related to the main commit, it can be improvements for anything in the repo, however trivial. This can include code and documentation updates, typo fixes, or removal of something that no longer makes sense.
 
 ## Urgent Production Fixes
 
@@ -192,7 +197,7 @@ Last Retrospective agenda should be going through the [cancellation reasons of o
 Before each Retrospective scrum master creates a new issue. Use the [retrospective template](templates/retrospective.md) for this.
 
 This template serves as a checklist for Sprint Retrospective. After the meeting scrum master briefly writes a report and this template helps him with that.
- 
+
 ## Scrum
 
 Sprint length: two weeks.
