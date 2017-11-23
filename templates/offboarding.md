@@ -12,6 +12,7 @@
 * [ ] VPN access.
 * [ ] Zoom.us account.
 * [ ] Sentry access.
+* [ ] Horus GPU account.
 * [ ] EBN account.
 * [ ] DMON account.
 ```
