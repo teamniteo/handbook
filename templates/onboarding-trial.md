@@ -1,6 +1,4 @@
-# Onboarding Issue Template
-
-## Trial
+# Trial Onboarding Issue Template
 
 ```
 Hello and welcome to Niteo! If you have not done so yet, please read https://github.com/niteoweb/handbook/blob/master/onboarding.md to get an idea of what this is.
@@ -121,7 +119,7 @@ On your first day
   - Marketing will be publishing their first advert.
 ```
 
-## Intellectual Property Rights
+## Intellectual Property Rights Disclaimer
 
 Add a comment in your onboarding issue with this section, add your name in the two fields, read it and add “I agree” to the bottom.
 
