@@ -188,6 +188,10 @@ After each sprint, we do a retrospective. We think about:
 We also add a note on how many Story Points we assigned, how many were done and the distribution between the departments and types of User Stories.
 
 Last Retrospective agenda should be going through the [cancellation reasons of our VIP users](https://github.com/niteoweb/support/blob/master/EBN/cancellation-analysis.md) (Agency plan and above). Since they are our primary customers, we want to know why they're leaving and see if there are any actionable reasons.
+
+Before each Retrospective scrum master creates a new issue. Use the [retrospective template](templates/retrospective.md) for this.
+
+This template serves as a checklist for Sprint Retrospective. After the meeting scrum master briefly writes a report and this template helps him with that.
  
 ## Scrum
 
