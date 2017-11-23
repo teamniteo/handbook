@@ -28,7 +28,7 @@ Gearing up
 * [ ] Once connected to our VPN you will be able to access https://intra.niteoweb.com/. Ask @niteoweb/peopleops (post comment to this issue) to create an account for you along with your [Team Member Page](https://intra.niteoweb.com/people/team-members) on Intra. Your login credentials will arrive in a separate email.
 
 
-Time for some reading up!
+Time for some reading!
 -------------------------------
 
 * [ ] Thoroughly read through our [Handbook](https://github.com/niteoweb/handbook).
@@ -42,13 +42,14 @@ Learn about our currently active projects:
 
 
 Marketing Onboarding [REMOVE IF NOT APPLICABLE]
---------------------
+-------------------------------
 
 TODO
 
 
 Support Onboarding [REMOVE IF NOT APPLICABLE]
-------------------
+-------------------------------
+
 ### Getting Started
 * [ ] Go to Groove Settings, click on Profile and update what's necessary (name, title and add image).
 * [ ] Learn how [support requeste are handled.](https://github.com/niteoweb/handbook/blob/master/support.md)
@@ -61,7 +62,8 @@ Support Onboarding [REMOVE IF NOT APPLICABLE]
 * [ ] Read our [blog.](https://blog.easyblognetworks.com/)
 
 Developers Onboarding [REMOVE IF NOT APPLICABLE]
----------------------
+-------------------------------
+
 #### Light Listening
 * [ ] Try out podcasts, listen to 5 episodes and see if they work for you. We recommend starting with [Podcast.\_\_init\_\_](https://www.podcastinit.com/), [FLOSS Weekly](https://twit.tv/shows/floss-weekly) and/or [The Tim Ferris Show](https://tim.blog/podcast/).
 
