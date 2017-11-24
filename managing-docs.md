@@ -38,3 +38,13 @@ Guidelines on which information goes where.
 
 - Finance reports and meeting minutes should be posted on Intra.
 - Company work processes and general documentation should be posted to Handbook.
+
+### Handbook
+
+- Checklists for operational issues should be stored in
+`.github/ISSUE_TEMPLATES` and then linked to in the handbook, for example:
+
+    `https://github.com/niteoweb/operations/issues/new?template=onboarding-trialist.md&title=Onboarding:%20FirstName%20LastName&label=people`
+
+- Any templates for emails, contracts, etc. should be stored in the handbook
+`templates` directory.
