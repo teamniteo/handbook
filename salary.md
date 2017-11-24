@@ -58,3 +58,15 @@ Track all hours spent working for the company:
 * do not track non-meeting lunch
 
 Everyone tracks working hours for themselves. At the end of each month, send your **total working hours *and* sick leave days** to Dejan. We don't need breakdown per day or per task. You don't need to count vacation hours or sick leave, all that is done automatically and the balance posted to your [Intra profile](https://intra.niteoweb.com/resolveuid/8027d5b5-0b78-4a85-8d43-d419c82e98fd) at the beginning of each month.
+
+# Lay Off / Severance Policy
+
+While many of us are good friends, we are still a business, not a family. Unlike a family, people join and leave us from time to time. Whenever we have to let someone go, this is how we do it.
+
+* The person needs to know at least 1 month in advance that their position could be canceled in the near term.
+* The person needs to know that if we will be hiring for the same position again in the future, they will have priority over completely new people.
+* All Partners need to agree with cancellation.
+* When cancellation is agreed, the person should be notified immediately. From this point onwards, the person is no longer required to work, but is encouraged to take their time to hand off to other people in the Niteo anything they feel is valuable. After hand-off is finished they are free to do whatever.
+* Every Nitean (except Trialists) is entitled to a severance package according to the following formula:
+  * up to one year: 1 month base salary,
+  * more than one year: 2 months base salary + 1 month for each additional year, up to max 12 months total.
