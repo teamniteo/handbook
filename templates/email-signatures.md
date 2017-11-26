@@ -23,13 +23,10 @@ Niteo.co
 E: eb@niteo.co
 W: www.niteo.co
 ```
+
+For the minimalist, we would suggest this slimmer signature:
+
 ```
-Monica Hall
-
-Senior (con)Sultan
-------------------
-Niteo.co
-
-E: mh@niteo.co
-W: www.niteo.co
+Monica Hall, Senior (con)Sultan
+niteo.co | +386 40 123 456 | skype: monica.hall | @mhall
 ```
