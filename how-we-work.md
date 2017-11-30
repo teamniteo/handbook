@@ -4,17 +4,19 @@ Niteo is a distributed team spread around the World. While we rent office space 
 
 ## Communication
 
-Instant messaging is done through Slack on different channels (operations, support, development etc.). We have daily standups at 9AM UTC on Zoom.us when everyone has a minute or two to say what they’re working on and if they need any help. Once a week, senior team members have [“catchups” (better known as 1-on-1)](https://github.com/niteoweb/handbook/blob/master/catchup-meetings.md) with everyone on the team to keep themselves in the loop.
+Instant messaging is done through Slack on different channels (operations, support, development etc.). We have daily standups at 9AM UTC on Zoom where everyone has a minute or two to say what they’re working on and if they need any help.
 
-About once or twice a year we fly the whole team somewhere nice and we’ll have an “IRL” (in-real-life) meetup. Here we discuss company status, projects and the future in a group setting. IRLs normally happen in January and in July, perfect timing to review the (half-)year. Every Nitean is encouraged to attend in person, but we provide remote access as well. It's OK to remotely attend an IRL every now and then, but generally we are all expected to be there in person. 
+Once a week, senior team members have [“catchups” (better known as 1-on-1)](https://github.com/niteoweb/handbook/blob/master/catchup-meetings.md) with everyone on the team to keep themselves in the loop.
 
-Then there are ad-hoc in-person meetups that happen about once or twice a month, as needed. Some of us might get together to watch a talk at a local conference or we go to lunch together to discuss project work.
+About once or twice a year we fly the whole team somewhere nice and we’ll have an “IRL” (in-real-life) meetup. Here we discuss company status, projects and the future in a group setting. IRLs normally happen in January and in July, perfect timing to review the (half-)year. Every Nitean is encouraged to attend in person, but we provide remote access as well. It's OK to remotely attend an IRL every now and then, but generally we expect everyone to be there in person.
+
+In addition there are ad-hoc in-person meetups that happen about once or twice a month, as needed. Some of us might get together to watch a talk at a local conference or we go to lunch together to discuss project work.
 
 ## Project and Company Management
 
-We work in 2-week Scrum Sprints described in detail in [Work Process](https://github.com/niteoweb/handbook/blob/master/work-process.md). 
+We work in 2-week Scrum Sprints described in detail in [Work Process](https://github.com/niteoweb/handbook/blob/master/work-process.md).
 
-Project and task management is currently done with [GitHub](https://github.com/) and [ZenHub](https://www.zenhub.com/). Support handles tickets through [GrooveHQ](https://www.groovehq.com). We also have an internal document system (intranet) we call “intra”, running on [Plone](https://plone.org/), where all our company processes and documents are stored.
+Project and task management is currently done with [GitHub](https://github.com/) and [ZenHub](https://www.zenhub.com/). Support handles tickets through [GrooveHQ](https://www.groovehq.com). We also have an internal document system (intranet) we call “Intra”, running on [Plone](https://plone.org/), where all our company processes and documents are stored.
 
 We track cash flow with [Xero](https://www.xero.com/). Finance reports are published to intranet on a monthly basis and are viewable to all full-time team members.
 
