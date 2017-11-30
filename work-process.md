@@ -1,4 +1,3 @@
-
 # Work Process
 
 Our work process is based on [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)), but modified slightly to apply better to our specific needs:
@@ -7,58 +6,18 @@ Our work process is based on [Scrum](https://en.wikipedia.org/wiki/Scrum_(softwa
  * we currently use GitHub and ZenHub for sprint management,
  * we work asynchronously, so we try to keep scheduled meetings to the bare minimum.
 
-Undefined issues are created in various repositories. Support issues, being reactionary, stay in project-related repositories and are not included in sprints. When undefined issues in various repositories are to be moved into a sprint, User Story needs to be created for that issue with well defined Acceptance Criteria and Definition of Done. This can be done by the author of the issue, Scrum Master or Project Owner. Sprint is managed from the [Operations repository](https://github.com/niteoweb/operations/issues).
+## Creating Issues and User Stories
+> *Main article: [Issues and User Stories](issue-user-story.md)*
 
-## How to create a User Story
+Undefined issues are created in various repositories to track known problems. Issues that are created by Support are usually reactionary so stay in project-related repositories and are not included in sprints.
 
-- In Operations repository when you open an issue, it has a template that helps you define the User Story.
-- User Story in this step must be moved into `Backlog` pipeline in ZenHub.
-- Various labels are added (see Issue Labels section).
-- The Scrum Master and Product Owner verify if the User Story is well defined.
-  * If it is not they assign people from whom they want to receive feedback for better definition of the User Story.
-  * Once these people post their feedback, they unassign themselves from the User Story.
-- Once the Scrum Master and Product Owner agree that the User Story is well defined, they add ``✋ [vote]`` prefix to the title of the User Story. At that point, Scrum Master and/or Product Owner assign people from whom they want to receive User Story Points estimation. With this, online poker planning begins.
-- At the end of the online poker planning, Story Points are added to the User Story.
-- The User Story is now prepared to be moved to the top of the User Story Pyramid stack.
+When undefined issues from various repositories need to be moved into a Sprint, a well-defined User Story needs to be created for that issue. This can be done by the author of the issue, Scrum Master or Project Owner.
 
-Important:
-
-* you are only assigned to a ticket when you need to do something: give feedback, vote on Story Points or are the champion working on the User Story
-* unassign yourself when you have done the above task
-
-## Writing User Stories
-
-When you open a new issue in Operations repository, a template will guide you through the process.
-
-Things to be written in the User Story:
-
-**User Story**
-
-"As a ..., I want ..., so that ..."
-
-**Description**
-
-Write in as much detail as possible, add mockups, previous discussion, etc.
-
-**Definition of Done**
-
-Only remove what is not necessary.
-
-* 100% test coverage.
-* Write/Update tech docs: are there any technical docs that need to be written or updated?
-* Write/Update support docs: notify support and they will go through the steps of the User Story and write or update the support docs.
-* Write/Update Help Center article: notify support and they will go through the steps of the User Story and write or update the Help Center.
-* Write/Update Intra/Handbook docs: notify operations and they will go through the steps of the User Story and write or update Handbook or Intra.
-* Deployed.
-
-**Acceptance Criteria**
-
-Activities that need to be performed so this user story can be moved to `Done`. Links to PR, tested and working feature, notified support, etc.
-
+The User Stories for the Sprint are managed in the [Operations repository](https://github.com/niteoweb/operations/issues).
 
 ## Story Point Estimation
 
-[Story Point](https://agilefaq.wordpress.com/2007/11/13/what-is-a-story-point/) is an arbitrary measure used by Scrum teams to indicate the effort required to implement a User Story. One full time member on sprint should be able to do 10 Story Points. For labeling User Story estimates, we use [ZenHub Estimates](https://www.zenhub.com/blog/software-estimates/).
+A [Story Point](https://agilefaq.wordpress.com/2007/11/13/what-is-a-story-point/) is an arbitrary measure used by Scrum teams to indicate the effort required to implement a User Story. One full time member on sprint should be able to do 10 Story Points. For labeling User Story estimates, we use [ZenHub Estimates](https://www.zenhub.com/blog/software-estimates/).
 
 In the "Vote" step (the User Stories that have ``✋ [vote]`` prefix), Scrum Master assigns the User Story to people from whom s/he wants to receive Story Point estimations. Once these people post their story point estimation, they unassign themselves from the User Story. The Scrum Master then adds the agreed numbered Story Point label to the title, removes the ``✋ [vote]`` prefix and moves the User Story to the top of the pipeline. This User Story can now be added to the next sprint.
 
@@ -161,25 +120,6 @@ If we need to fix an urgent bug, we use the Scrum Priority Lane approach: the Us
 ## Ongoing Tasks
 
 Sometimes the result of a User Story is an agreement that we should do a certain task periodically, over a longer period of time. Such tasks are created in whichever repo is the most appropriate and labeled with [Ongoing](#label_ongoing) label.
-
-
-## Issue Labels
-
-Descriptive labels:
-
- * <a name="label_feature"></a>**Feature**: a user-facing or support-facing improvement, addition
- * <a name="label_cleanup"></a>**Cleanup**: something that increases our velocity
- * <a name="label_bug"></a>**Bug**: a user-facing or support-facing annoyance
- * <a name="label_ongoing"></a>**Ongoing**: long-running tasks, are not in sprints, see [Ongoing Tasks](#ongoing-tasks)
- * <a name="label_sanity_check"></a>**Sanity Check**: Results of automatic checks of production data, more on TODO.
- * <a name="label_operations"></a>**Operations**: operations related task, such as adding and improving internal docs, processes, etc.
- * <a name="label_support"></a>**Support**: user-facing maintenance work, not included in sprints, such as fixing subscription problems, resetting passwords, re-enabling accounts, etc.
- * <a name="label_people"></a>**People**: internally-facing maintenance work, not included in sprints, such as hiring, onboarding, etc.
-
-Scrum labels:
-
-* <a name="label_priority_lane"></a>**Priority Lane**: User Stories injected into the current sprint due to urgency
-* <a name="label_retrospective"></a>**Retrospective**: issues that describe the sprint retrospective
 
 ## Sprint Retrospective
 
