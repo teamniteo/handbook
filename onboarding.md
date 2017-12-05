@@ -67,8 +67,7 @@ Configure the email on your desktop app, find the instructions here:
  https://emailhelp.rackspace.com%0D%0A
 %0D%0A
 The next thing that you need to do is set up S/MIME email encryption. Generate
- a Comodo Certificate at
-https://www.comodo.com/home/email-security/free-email-certificate.php.%0D%0A
+ a Comodo Certificate at https://www.comodo.com/home/email-security/free-email-certificate.php.%0D%0A
 %0D%0A
 This email is signed with my cert, you should be able to reply with a
  message, signed with your cert so that I can then reply back with an encrypted
