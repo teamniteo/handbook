@@ -5,10 +5,10 @@
 
 Our work process is based on [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)), but modified to suit to our specific needs:
 
- * We have no customer projects, so we are our own Product Owners.
+ * We are our own Product Owners, as we have no customer projects.
  * We work asynchronously, so keep scheduled meetings to the bare minimum.
- * We work in Sprints that are two weeks in length.
- * We use GitHub and ZenHub for Sprint management.
+ * We schedule our work into two week long Sprints.
+ * We manage our Sprints with GitHub and ZenHub.
 
 
 ## Schedule
@@ -17,9 +17,9 @@ Our work process is based on [Scrum](https://en.wikipedia.org/wiki/Scrum_(softwa
 
 Sprint meetings replace the Daily Standup on these days:
 
- * A Wednesday is the start of a Sprint with [Sprint Planning](scrum.md#Sprint_Planning) .
- * The Tuesday, two weeks later, is the end of the Sprint with [Sprint Retrospective](scrum.md#Sprint_Retrospective).
- * Then then next day, Wednesday, normally is the start of the next Sprint.
+ * A Wednesday is the start of a Sprint with [Sprint Planning](scrum.md#Sprint_Planning).
+ * The Tuesday, two weeks later, marks the end of the Sprint with a [Sprint Retrospective](scrum.md#Sprint_Retrospective).
+ * Then Wednesday, the next day, is usually the start of the next Sprint.
 
 
 ## Creating Issues and User Stories
