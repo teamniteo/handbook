@@ -2,10 +2,13 @@
 
 ## Welcome to Niteo
 
-Congratulations on completing the interview process, and joining us here at Niteo. We are very much looking forward to having you on the team! This page is designed to help you navigate the onboarding process from reading the Handbook to completing the so-called "onboarding issue". Regardless of your role, we all use GitHub for tracking what we do, and if you come from a non-technical background, this might be new to you! The onboarding issue is a single issue that tracks everything that needs to be done for a successful onboarding. At times the onboarding issue might feel overwhelming so if you have any additional questions along the way, post a comment on your issue and @mention someone from the @niteoweb/peopleops team. Alternatively, when you are a further down the onboarding issue, you are always welcome to ask questions in the #operations channel on Slack.
+Congratulations on completing the interview process, and joining us here at Niteo. We very much look forward to having you on the team! This page is designed to help you navigate the onboarding process from reading the Handbook to completing the onboarding checklist.
 
-Before you can start the onboarding process, you need to have a GitHub account. If you don't have one yet, sign up at https://github.com/join. Use a short and preferably lowercase username, with no special characters. See a few of our usernames, to get an idea: @dmurko, @dz0ny, @marbeann, @zupo. Let the person who led the interview process know what your GitHub username is. When you signup to Slack, make sure to use the same username/handle as on GitHub.
+## GitHub
 
+Regardless of your role, we all use GitHub for tracking our work, and if you come from a non-technical background, this might be new to you!
+
+Before starting the onboarding process, you need to have a GitHub account. [Sign up](https://github.com/join), if you don't have one yet, preferably using a short and lowercase username, with no special characters. To get an idea, here are a few of our usernames: [@dmurko](https://github.com/dmurko), [@dz0ny](https://github.com/dz0ny), [@marbeann](https://github.com/marbeann), [@zupo](https://github.com/zupo).
 
 ## Trial Period
 
@@ -17,14 +20,15 @@ As a trialist you will not be included in [profit sharing](profit-sharing.md) an
 
 ## Getting Started
 
-Throughout your first few days at Niteo, it is important to focus on the onboarding issue. The onboarding issue is specific to you, for an idea what is in there, please see the template below. This guide will help you understand what is in the onboarding issue, and why we are asking you to complete the items on the issue.
+Throughout your first few days at Niteo, it is important to focus on the onboarding checklist.
 
-The onboarding issue has a list of tasks that you need to do, and they are ordered by priority in which you need to tackle them. Add a comment every time you tick a checkbox so there's a papertrail on what was checked when and by who. This is part of our work process and it's best if put into practice as early as the onboarding part.
+The onboarding checklist is a GitHub issue created specifically for you. It tracks everything required for a successful onboarding and has a list of tasks that you need to do, ordered by the priority in which you need to tackle them.
 
-Usually, it takes about ten working days to get through the onboarding issue, but this is just a rough guideline.
+Usually, it takes about ten working days to get through the onboarding issue, but this is just a rough guideline. At times the onboarding process might feel overwhelming so if you have any additional questions along the way, post a comment on your issue and _@mention_ someone from the [PeopleOps] team. When you are further along, you are welcome to ask questions in the `#operations` channel on Slack.
 
-That is it! Go to your onboarding issue and start checking things off!
+Note that our work process requires that every GitHub issue checkbox that is ticked has a corresponding comment posted to the issue. This means there is a papertrail of what was ticked and by whom. It is good to put this into practice in the onboarding process.
 
+That is it! Go to your onboarding issue and start ticking things off!
 
 ## PeopleOps checklist
 
