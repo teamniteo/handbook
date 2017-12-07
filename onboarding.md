@@ -30,26 +30,22 @@ That is it! Go to your onboarding issue and start checking things off!
 
 A member of the [PeopleOps] team will do the following to start the onboarding process:
 
-* Add the new team member to the [Trialists] group, allowing access to [operations](https://github.com/niteoweb/operations) and [handbook](https://github.com/niteoweb/handbook) repositories.
-* Create a new [Trialist Onboarding Issue] and assign it to the new team member.
 * Send the <a href="mailto:?
 subject=Welcome to Niteo
 &body=
-Hey!%0D%0A
+Hey, welcome to Niteo!%0D%0A
 %0D%0A
-Welcome to Niteo! We keep everything related to work on GitHub so I will be short:%0D%0A
+We keep everything related to work on GitHub so I will be short:%0D%0A
 %0D%0A
-• First, please read https://github.com/niteoweb/handbook/blob/master/onboarding.md%0D%0A
-• Then go to LINK TO ONBOARDING ISSUE and start at the top.%0D%0A
+• Firstly, please read https://github.com/niteoweb/handbook/blob/master/onboarding.md%0D%0A
+• And reply with your GitHub handle.%0D%0A
 %0D%0A
-%0D%0A
-Regards%0D%0A
-%0D%0A
-" target="_blank">
-Welcome to Niteo
-</a>email.
+Regards%0D%0A%0D%0A
+">Welcome to Niteo email</a> and the request for their GitHub handle.
+* Add the new team member to the [Trialists] group, allowing access to [operations](https://github.com/niteoweb/operations) and [handbook](https://github.com/niteoweb/handbook) repositories.
+* Create a new [Trialist Onboarding Issue] and assign it to the new team member.
 * Create a `@niteo.co` email address and send the <a href="mailto:?
-subject=Niteo Email Account
+subject=Niteo Email Account and Onboarding Checklist
 &cc=@niteo.co
 &body=
 Hey!%0D%0A
@@ -63,42 +59,25 @@ p: [pass]%0D%0A
 Please change your password immediately after you login. You can do that in the
  top right Settings menu.%0D%0A
 %0D%0A
-Configure the email on your desktop app, find the instructions here:
- https://emailhelp.rackspace.com%0D%0A
+I've also created your onboarding checklist so you can continue with the onboarding process:%0D%0A
 %0D%0A
-The next thing that you need to do is set up S/MIME email encryption. Generate
- a Comodo Certificate at https://www.comodo.com/home/email-security/free-email-certificate.php.%0D%0A
+• [LINK_ONBOARDING_CHECKLIST]%0D%0A
 %0D%0A
-This email is signed with my cert, you should be able to reply with a
- message, signed with your cert so that I can then reply back with an encrypted
- message as well.%0D%0A
-%0D%0A
-Once you have encryption ready, I will send over more information.%0D%0A
-%0D%0A
-%0D%0A
-Regards
-" target="_blank">
-account credentials
-</a> email.
+Regards%0D%0A%0D%0A
+"> account credentials </a> email.
 * Once email encryption is setup, send the <a href="mailto:@niteo.co?
 subject=Niteo OpenVPN
 &body=
 Hey!%0D%0A
 %0D%0A
-Now that encryption is configured, you need to configure OpenVPN so you can
- connect to our internal services.%0D%0A
+To securely connect to our internal intranet, Intra, you will first need to setup and connect to our VPN. %0D%0A
 %0D%0A
-Configuration files are attached, normally you just double-click them and follow
- instructions.%0D%0A
+I have attached your OpenVPN configuration files.%0D%0A
 %0D%0A
-When you manage to connect to our VPN you will then be able to access our
- internal services, such as http://docs.niteoweb.com/.%0D%0A
+Once configured, connect to our VPN and you should have access to our Intra pages, such as http://docs.niteoweb.com/.%0D%0A
 %0D%0A
-%0D%0A
-Regards
-" target="_blank">
-OpenVPN configuration
-</a> email.
+Regards%0D%0A%0D%0A
+">OpenVPN configuration</a> email.
 * Upon promotion to a full-time position, create a [Full-time Onboarding Issue].
 * Upon leaving Niteo, create an [Offboarding Issue].
 
