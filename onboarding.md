@@ -19,7 +19,7 @@ As a trialist you will not be included in [profit sharing](profit-sharing.md) an
 
 Throughout your first few days at Niteo, it is important to focus on the onboarding issue. The onboarding issue is specific to you, for an idea what is in there, please see the template below. This guide will help you understand what is in the onboarding issue, and why we are asking you to complete the items on the issue.
 
-The onboarding issue has a list of tasks that you need to do, and they are ordered by priority in which you need to tackle them.
+The onboarding issue has a list of tasks that you need to do, and they are ordered by priority in which you need to tackle them. Add a comment every time you tick a checkbox so there's a papertrail on what was checked when and by who. This is part of our work process and it's best if put into practice as early as the onboarding part.
 
 Usually, it takes about ten working days to get through the onboarding issue, but this is just a rough guideline.
 
