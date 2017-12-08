@@ -22,13 +22,9 @@ As a trialist you will not be included in [profit sharing](profit-sharing.md) an
 
 Throughout your first few days at Niteo, it is important to focus on the onboarding checklist.
 
-The onboarding checklist is a GitHub issue created specifically for you. It tracks everything required for a successful onboarding and has a list of tasks that you need to do, ordered by the priority in which you need to tackle them.
+The onboarding checklist is a GitHub issue created specifically for you. It tracks everything required for a successful onboarding. The list of tasks is ordered by the priority in which you need to tackle them. Whenever a checkbox in an issue is ticked you should also post a comment. We then have a paper trail of checkbox changes since GitHub doesn't show this.
 
 Usually, it takes about ten working days to get through the onboarding issue, but this is just a rough guideline. At times the onboarding process might feel overwhelming so if you have any additional questions along the way, post a comment on your issue and _@mention_ someone from the [PeopleOps] team. When you are further along, you are welcome to ask questions in the `#operations` channel on Slack.
-
-Note that our work process requires that every GitHub issue checkbox that is ticked has a corresponding comment posted to the issue. This means there is a papertrail of what was ticked and by whom. It is good to put this into practice in the onboarding process.
-
-That is it! Go to your onboarding issue and start ticking things off!
 
 ## Anonymous Feedback
 
