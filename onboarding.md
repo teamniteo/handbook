@@ -30,6 +30,10 @@ Note that our work process requires that every GitHub issue checkbox that is tic
 
 That is it! Go to your onboarding issue and start ticking things off!
 
+## Anonymous Feedback
+
+If at any time during your onboarding, or any later time really, you feel like you need to provide feedback to Nejc and Dejan privately and/or anonymously, please use the following form: https://niteoweb.github.io/feedback
+
 ## PeopleOps checklist
 
 A member of the [PeopleOps] team will do the following to start the onboarding process:
