@@ -8,6 +8,7 @@
 - [ ] Go through the user cancelation list.
 - [ ] Look at Quarterly goals to prime ourselves for tomorrow’s planning session.
 - [ ] Stop recording & upload video to `Resilio Sync/Team/2_Operations/Standup Recordings`
+- [ ] Create sprint release for demoes (for the new sprint).
 
 # What went well during the sprint?
 ...
