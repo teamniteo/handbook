@@ -63,21 +63,34 @@ The expected outcomes of the User Story which is a list of items stating how the
  the world will look once the User Story has been completed. This is not the individual
  task or activities but rather what will the documentation look like, what new tests will we see, what bug no longers occurs because it has been fixed.
 
-### Screencast Story Demos
+## User Story Demos
 
-A short screencast is required that demostrates the User Story has been completed. These demos are primarily intended to be viewed at the Sprint retrospective so only need to be a rough overview, along with any relevant or important information for the rest of the team. The more in-depth details can be posted as comments to the User Story.
+When a User Story is completed a short screencast is required to demostrate that the goals of the story were achieved. These demos are primarily intended to be viewed at the Sprint retrospective and should contain a rough overview, along with any relevant or important information for the rest of the team. The more in-depth details can be posted in the comments to a User Story.
 
+### Demo length
 The length of the demos should be around 1 minute long but no more than 2 minutes.
 
-The demo file should renamed usig dashes and include issue number and reposity as show in filename format below.
+### Filename template
 
-`<issue-number>-<repository>-<title-of-user-story-using-dashes>.mp4`
+The filename of the demos should have dashes replace any spaces, include issue number and the reposity name, using this template:
 
+`<issue-no>-<gh-repo>-<Title-of-user-story>.mp4`
+
+e.g. `312-dmon-Fix-domains-not-working.mp4`
+
+### Upload
 Upload the demo file to Operations by editing and attaching to the latest [Sprint Release]. Then copy the link and paste it under the Expections section of the User Story.
 
-Some recommended screencast applications:
- * Linux: `vokoscreen` or `green-recorder` (Wayland compatible)
- * MacOS: QuickTime (Ideally compress `mov` to `mp4`)
+### Recommended apps:
+
+Here are a few recommended screencast applications.
+
+ * Linux
+    * `vokoscreen`
+    * `green-recorder` (Wayland compatible)
+ * MacOS: QuickTime
+
+*Note: On MacOS, QuickTime records uncompressed video so it is best to compress `mov` to `mp4` before uploading.*
 
 
 ## Issue Labels
