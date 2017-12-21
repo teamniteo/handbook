@@ -15,11 +15,15 @@ For each sprint, a new milestone is created with name `Sprint #X` where `X` is t
 
 ## Schedule
 
-Our sprints start on a Wednesday 9am UTC with the [Sprint Planning](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint_planning) meeting. They end on the Tuesday two weeks later with [Sprint Review and Sprint Retrospective](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint_review_and_retrospective) meetings held at 10am CEST. The last Monday morning of the Sprint everyone should open up the Kanban Board and ask themselves: "How can I help close whatever is still opened?". Repeat the same after lunch and on Tuesday morning.
+Our sprints start on a Wednesday 9am UTC with the [Sprint Planning](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint_planning) meeting. They end on the Tuesday two weeks later with [Sprint Review and Sprint Retrospective](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint_review_and_retrospective) meetings held at 10am CEST.
+
+The last Monday morning of the Sprint everyone should open up the Kanban Board and ask themselves: "How can I help close whatever is still opened?". Repeat the same after lunch and on Tuesday morning.
 
 On the Wednesday in the middle of the sprint we hold the <a name="product_backlog_refinement_meeting"></a>[Product Backlog Refinement](https://en.wikipedia.org/wiki/Scrum_(software_development)#Backlog_refinement) meeting at 10am CEST.
 
 All other days we hold the [Daily Standup](https://en.wikipedia.org/wiki/Scrum_(software_development)#Daily_scrum) meeting at 10am CEST.
+
+For each new sprint the Scrum Master will create an operations sprint release that is used to store the User Story screencast demos. The template for this release is copied from [RELEASE_TEMPLATE.md](https://github.com/niteoweb/operations/raw/master/.github/RELEASE_TEMPLATE.md) in the operations repo.
 
 
 ## Scrum on GitHub
@@ -44,20 +48,21 @@ Developers should be more involved in marketing/support related user stories. Wh
 
 ## Sprint Retrospective
 
-After each sprint, we do a retrospective. We think about:
+After each sprint, we have a retrospective, where we think about:
 
 * What went well during the sprint?
 * What went wrong during the sprint?
-* What could we do differently to improve?
-* Other comments.
+* What improvements could we make?
 
-We also add a note on how many Story Points we assigned, how many were done and the distribution between the departments and types of User Stories.
+This is also the time to bring up any other comments about the work process in general.
 
-Last Retrospective agenda should be going through the [cancellation reasons of our VIP users](https://github.com/niteoweb/support/blob/master/EBN/cancellation-analysis.md) (Agency plan and above). Since they are our primary customers, we want to know why they're leaving and see if there are any actionable reasons.
+We look at how many Story Points we assigned, how many were done and the distribution between the departments and types of User Stories.
 
-Before each Retrospective scrum master creates a new issue. Use the [retrospective template](templates/retrospective.md) for this.
+We go through the [cancellation reasons of our VIP users](https://github.com/niteoweb/support/blob/master/EBN/cancellation-analysis.md) (Agency plan and above). Since they are our primary customers, we want to know why they're leaving and check if there are any actionable reasons.
 
-This template serves as a checklist for Sprint Retrospective. After the meeting scrum master briefly writes a report and this template helps him with that.
+Finally we look over the quarterly goals to determine how we are achieving them and to give us an idea of what should be included in the following day's sprint planning session.
+
+The Scrum Master will create a new [retrospective issue](https://github.com/niteoweb/operations/issues/new?template=retrospective.md&title=Retrospective%20for%20Sprint%20#) before each retrospective. This issue has a template that serves as a checklist for the meeting and helps the Scrum Master write up a brief report afterwards.
 
 
 ## Story Point Estimation
