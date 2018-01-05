@@ -30,18 +30,32 @@ You can request an increase in allowance if you feel the current one doesn't cov
 
 ## Conferences
 
+We encourage you to attend conferences to improve your knowledge of a subject area and network with similar minded people. Try to give notice at least 10-14 days before attending a conference.
+
+All expenses for the conference, such as transport, accommodation, fees, food, etc., are covered by your [allowance](#productivity-allowance) and the additional conference allowance.
+
+The conference allowance accounts for all the days you are away at the conference and depends on amount of travelling and acclimatization required:
+
+* $50/day for local conferences, in or near your home city.
+* $200/day for international conferences.
+* $300/day for intercontinental conferences.
+* Bonus 50%/day if you give a 30-60min talk at the conference.
+
 Conferences count as working days (7.5h per day). Transport to conferences counts too (up to 7.5h per day).
 
-Try to give notice at least 10-14 days before attending a conference.
+The conference bonus requires that you write a report about the conference when you get back. It can be published on Intra or on any of our blogs. The conference fee amount is reimbursed to the allowance.
 
-Any expense for the conference, such as transport, accommodation, ticket, food, etc. is covered by your [allowance](#productivity-allowance). In order to not run out, you get a bonus for each conference day:
+For example, Dejan goes to a three day conference in London:
 
-* $50/day for local conferences (in your home town, or close)
-* $100/day for international conferences (you need to fly there, you need a hotel, etc.)
-* $200/day for intercontinental conferences (long flights, extra jetlag days, etc.)
-* +50%/day if you give a talk on the conference
+    * Conference fee is $500.
+    * Flights, trains and taxis are $300.
+    * Hotel and food is $400.
 
-The requirement for the conference bonus is that you write a report about the conference when you get back. It can be published on Intra or on any of our blogs. 
+    Dejan charges the company $1200 in allowances so his conference allowance is calculated as:
+
+    * $1500 (5 * $200/day + $500 for the conference fee)
+
+    Before the trip Dejan's allowance was $500 in credit and after the trip it is now $800.
 
 
 ## Online and Offline Courses
