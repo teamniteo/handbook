@@ -19,7 +19,7 @@ In other words: is something boosting your productivity and creativity? Good, fe
 
 At the beginning of the month, invoice the company the allowance amount spent in the previous month.
 
-You can request an increase in allowance if you feel the current one doesn't cover expenses for you. You can spend a few months of future allowance. The maximum allowance you can keep is 18 months. That said, it's smart to keep at least a few months' allowance in case something breaks.
+You can request an increase in allowance if you feel the current one doesn't cover expenses for you. You can spend a few months of future allowance. The maximum allowance balance you can keep is 18 months. That said, it's smart to keep at least a few months' allowance in case something breaks.
 
 ### Current Allowance (January 2018)
 
