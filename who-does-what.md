@@ -8,8 +8,7 @@
  - Susannah ([@suzil](https://github.com/suzil)) is a full-time Python developer.
  - Calum ([@cas--](https://github.com/cas--)) is a full-time Python developer.
  - Dejan ([@dmurko](https://github.com/dmurko)) is the *Product Owner*.
- - Amon ([@am-on](https://github.com/am-on)) is a part-time developer.
- - Jan ([@lix](https://github.com/)) is a part-time developer.
+ - Amon ([@am-on](https://github.com/am-on)) is a contract developer.
  
 ## Support
 
