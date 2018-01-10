@@ -19,13 +19,14 @@ In other words: is something boosting your productivity and creativity? Good, fe
 
 At the beginning of the month, invoice the company the allowance amount spent in the previous month.
 
-You can request an increase in allowance if you feel the current one doesn't cover expenses for you.
+You can request an increase in allowance if you feel the current one doesn't cover expenses for you. You can spend a few months of future allowance. The maximum allowance balance you can keep is 18 months. That said, it's smart to keep at least a few months' allowance in case something breaks.
 
-### Current Allowance (February 2017)
+### Current Allowance (January 2018)
 
-**Regular Allowance:** $150
+**Regular Monthly Allowance:** $150
 
-**Founder's Allowance:** $300
+**Founder's Monthly Allowance:** $300
+
 
 ## Conferences
 
