@@ -4,7 +4,7 @@ Slack is an awesome team collaboration tool that replaces IRC, Skype and much of
 
 ## You
 
-We are all human. And we like to know the humans on the other side of Slack. So please fill in your [profile page](https://niteoweb.slack.com/account/profile) and [upload your photo](https://niteoweb.slack.com/account/photo).
+We are all human. And we like to know the humans on the other side of Slack. So please fill in your [profile page](https://niteoco.slack.com/account/profile) and [upload your photo](https://niteoco.slack.com/account/photo).
 
 ## When Working
 
