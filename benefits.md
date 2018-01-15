@@ -1,12 +1,20 @@
 # Benefits
 
-  - [Allowances](#allowances)
-  - [Conferences](#conferences)
-  - [Courses](#courses)
-  - [Vacation](#vacation)
-  - [Public holidays](#public-holidays)
-  - [Sick leave](#sick-leave)
+  **Contents**
+  1. [Profit sharing](#profit-sharing)
+  2. [Allowances](#allowances)
+  3. [Conferences](#conferences)
+  4. [Courses](#courses)
+  5. [Vacation](#vacation)
+  6. [Public holidays](#public-holidays)
+  7. [Sick leave](#sick-leave)
 
+
+## Profit sharing
+
+> *Main document: [Profit sharing](profit-sharing.md)*
+
+We believe every Nitean should take part in the distribution of the company profits. So every quarter, if the company is doing well, we reward those who stay with us.
 
 ## Allowances
 
@@ -24,7 +32,7 @@ Your productivity allowance can be used to pay for any expenses that you believe
 
 In other words, would something boost your productivity and creativity? Good, feel free to buy it with your allowance, no questions asked.
 
-### Monthly allowance amount
+### Monthly allowance
 
 The current rates as of *February 2017* are:
 
