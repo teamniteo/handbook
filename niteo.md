@@ -12,7 +12,7 @@ Driving significant change for the better is a *Hard Task™*. We have tried tha
 
 Then came the realization: what we need first are good foundations. A great core team with financial backing. So we set out to build a number of SaaS projects that, with little effort, could provide us with enough funds to attack the next Hard Task™. We’re nearly there. We’ve nearly reached our **vision** of building Niteo into a place where technologists solve hard problems, for the benefit of us all.
 
-Our short-term **mission** is clear: help small businesses in the SEO space with low-maintenance SaaS projects. In the meantime work on our long-term mission: find big problems that could be rendered a thing of the past by smart software.
+Our short-term **mission** is clear: help small businesses run better, simpler, easier and more profitable with our Software as a Service projects. In the meantime work on our long-term mission: find big problems that could be rendered a thing of the past by smart software.
 
 
 ## Our values
