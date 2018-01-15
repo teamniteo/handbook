@@ -1,47 +1,58 @@
-# Profit Sharing
+# Profit sharing
 
-We believe every Nitean should take part in the distribution of profit. This document describes how we manage profit distribution.
+This document describes how we manage the distribution of the company's profit, on a quarterly basis.
 
-
-## The idea
-
-We divide the profit into three parts, based on how we perceive time: the past, the present and the future.
-
-Profit is distributed at the end of each quarter, based on the performance of the company.
-
-**Profit is distributed only if cash reserves are high enough to cover 12 months of salaries and regular expenses in the case we lose our primary revenue stream.**
+  **Contents**
+  1. [The concept](#the-concept)
+  2. [Past](#past)
+  3. [Present](#present)
+  4. [Future](#future)
+  5. [Donations](#donations)
 
 
-## 33% - PAST
+## The concept
 
-This part goes to cover people that have believed in the company in the past, have invested into it, have lent money to it, etc.
+Profit is distributed at the end of each quarter, based on the performance of the company. We believe in donating to good causes and reserve 10% of this profit with the hope of making a big impact upon them. The remaining percentage of the profit is split three-ways (30% per part) based on how we perceive time: the past, the present and the future.
 
-Priority of payouts:
-1. bank loans (to decrease interest rates),
-2. personal loans,
-3. investor payouts,
-4. founder payouts.
+The profit will only be paid-out if cash reserves are high enough to cover 12 months of salaries and regular expenses. Just in case we lose our primary revenue stream and need to rely on the reserves.
 
 
-## 33% - PRESENT
+## Past
 
-This part goes to cover work in the past quarter. The formula for how much a single person receives goes as follows:
+This part rewards the people that have believed in the company in the past, have invested in it, have lent money to it, etc. The priority of payouts are as follows:
 
-* first you calculate "points" for each Nitean: number of hours of work done in the past quarter TIMES number of months at the company;
-* then you use the following formula: (Nitean's points) / (total points) * (available profit);
-* you get the gross amount of the each Nitean's share of profit distribution.
-
-
-## 33% - FUTURE
-
-This part stays in the company's bank account, and we use it for investments in the following quarter. This can be discounted prepayments for expenses so we lower our mid-term and long-term costs, paid supervised trainings from authorities in a field we're interested in, gadgets for research, conference fees and allowances, paid courses etc.
+1. Bank loans (to decrease interest rates)
+2. Personal loans
+3. Investor payouts
+4. Founder payouts
 
 
-## 1% - Donations
+## Present
 
-One percent is left to reach 100%. We donate this percent to causes we believe in. Everyone submits their organization of choice, we then do a quick vote, and the organization with the most supporters gets the money.
+This part rewards the work achieved in the past quarter and is a logarithmic points scale based on length of time working for the company. The calculation of profit-share points for a single Nitean is as follows:
 
-Voting is done with [this Zoho Docs spreadsheet](https://docs.zoho.eu/file/wtxljad4438a51ea04a59b5dce7d3dce0d0ac) (team members only). At the end of each quarter, every Nitean casts their vote. The organization with the most total "points" (current quarter plus previous quarters) gets the donations and its points are reset zero (if the org wins by more than 1 point, the diff is carried over to next month). Other organizations keep their points for the next quarter. If there is a tie, the Partners decide the winner. Everyone Nitean gets to cast four votes: three votes worth 1 point and one vote worth 3 points.
+    points = log(months_at_company) * (1 - unpaid_vacation_ratio)
+
+The profit share will only be reduced if unpaid vacation time has been used.
+
+The resulting profit-share payout is calculated with this formula:
+
+    profit-share = (Nitean's points) / (Total points) * (Available profit)
+
+The payout will then be split over the following three months of salary payments.
+
+## Future
+
+This part stays in the company's bank account and is used for investing in the following quarter. This can be discounted prepayments for expenses so we lower our mid-term and long-term costs, paid supervised training from authorities in a field we're interested in, gadgets for research, conference fees and allowances, paid courses etc.
+
+
+## Donations
+
+The remaining part of the profit share is what we donate to charities and causes we believe in. Everyone in the company can submit a potential recipient of these donations with the organization getting the most votes receiving the money.
+
+The organization voting takes place at the end of each quarter with every Nitean casting their votes. There are four votes to cast; Three votes worth 1 point and one vote worth 3 points. The list of organizations and the voting tally is kept in a [Zoho spreadsheet](https://docs.zoho.eu/file/wtxljad4438a51ea04a59b5dce7d3dce0d0ac) (for permanent Niteans only).
+
+The organization with the most total "points" (current quarter plus previous quarters) gets the profit share donation. Then its points are reset to zero (if the organization wins by more than 1 point, the difference is carried over to next month). Other organizations keep their points for the next quarter. If there is a tie, the Partners decide the winner.
 
 So far, we have donated to the following organizations:
 
