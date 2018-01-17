@@ -35,6 +35,12 @@ At the beginning of the month, invoice the company with the amount of allowance 
 
 You can request an increase in your allowance if you feel the current one doesn't cover all the expenses for you. You can spend a few months of future allowance. The maximum allowance balance you can keep is 18 months. That said, it's smart to keep at least a few months allowance, just in case something breaks.
 
+### Software purchasing
+
+Any software or tools that are a requirement for your role at Niteo, e.g. Photoshop for designers, will be a company expense and is separate from your allowance.
+
+  * Personal accounts (e.g. Adobe Cloud): A monthly company expense that Niteo reimburses.
+  * Company account with sub-users: Dejan will signup as Niteo and send login details to users.
 
 ## Conferences
 
