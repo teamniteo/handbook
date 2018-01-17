@@ -1,59 +1,60 @@
-# Catchup Meetings
+# Catchup meetings
 
-These are short weekly informal meetings (also known as 1-on-1) with a senior team member to "catch up" with you. They're more of a "with a beer in a coffee shop" than a "conference room" meeting. They're here so you can let us know about the work in the last week, give private feedback about the work, working conditions, company, projects, ideas and anything else on your mind. Take it as your time to discuss anything you want.
+We like to arrange, with everyone, weekly informal meetings (1-on-1) with a senior team member in order to *catch up*. This feedback is important as everyone works remotely so we have less contact and less of an idea of what's going on with individuals. We want to know how we can help everyone work and feel better in the company.
 
-These meetings are very important for us because we're all working remotely and we have very little idea on what's going outside the standup, few Slack messages and work done. We want to know more about how we can help you work and feel better working with us.
+This is your opportunity to discuss anything you want so they should be treated as more of a *beer in a coffee shop* than an *interview-style* meeting.
 
-The meeting is not meant for detailed project or task discussions. We have standups, Slack and GitHub for that.
+**Contents**
+  1. [Schedule](#schedule)
+  2. [Your meeting!](#your-meeting)
+  3. [Discussion Points](#discussion-points)
+  4. [Further Reading](#further-reading)
 
-Meetings are once per week, at an agreed scheduled time and they can be on Zoom.us, on phone or in person. The meetings are scheduled for 30 minutes (they can take longer if needed). They are not to be cancelled unless in the case of an emergency.
 
-## Common Things To Discuss
+## Schedule
 
-Feedback:
+Meetings will be scheduled at a suitable time and day every week. They can be on Zoom, by phone or in person. They are usually 30 minutes in length but can take longer if needed.
 
-* Feedback for the last week of work. Any blockers we can remove?
-* Questions, feedback, ideas or concerns you might have.
-* Do you need any help at the moment with your work?
-* Do you get enough feedback on your work?
- 
-Work: 
- 
-* What could we do to make your work easier?
-* Do you feel over-worked, under-worked, or just the right workload?
-* Do you feel challenged at work? Are you learning new things?
-* What part of the day do you have the most energy and focus? What changes could we make to your work schedule to accommodate this?
+They should not be cancelled unless unavoidable, such as an emergency.
+
+## Your meeting!
+
+These meetings are primarily for you so feel free to set an agenda and lead the meeting. You can let us know about the progress of work in the last week, give private feedback about the work, working conditions, company, projects, ideas or anything else on your mind.
+
+
+## Discussion points
+
+### Weekly
+
+* How has the previous week of work been for you? Are there any blockers we can discuss or remove?
+* How do you feel about your workload? (high, low, or just right)
+* Do you feel there is enough feedback about your work?
+* Are you clear about the priorities for this sprint, and the quarter goals?
+
+### Quarterly (or every few months)
+
 * What makes you excited and motivated to work on a project?
-* Your goals for the future. In what direction do you want to develop your skills?
-* What is the thing that you're most proud of that you did lately?
-* What are your plans for the weekend? :)
+* In terms of goals for the future, what direction do you want to develop your skills?
+* Do you feel we are fairly compensating everyone, including you?
+* What is the company, as a whole, doing right? Is there anything we should be doing and are not? What is the *#1 problem* at our company and why?
+* Are we clearly explaining how the company is doing right now and where we want to go?
 
-Company:
+### As things come up
 
-* What are we doing right?
-* What should we be doing and are not?
-* What is the #1 Problem at our company? Why?
-* Are we doing a good job explaining where we want to go and how we're doing right now?
-* Are we compensating everyone, including you, fairly?
-* Half-baked ideas for projects, the company or anything else.
- 
-Action Plan:
- 
-* What will you do till the next meeting?
-* What will your senior do till the next meeting?
+* Do you feel challenged at work? Are you learning new things?
+* What recent achievements are you proudest of?
+* Have you any half-baked ideas for projects, the company or anything else?
 
-## Your Meeting!
 
-These meetings are primarily for you so feel free to set an agenda and lead the meeting. 
+## Further reading
 
-## Further Reading
-
-* https://medium.com/@Evanish/keys-to-starting-1-on-1s-with-your-team-320448d258ad#.tjgjejftq
-* https://blog.asana.com/2015/05/workstyle-what-is-a-1-1/
-* https://getlighthouse.com/blog/how-to-start-one-on-ones-your-teams/
-* https://getlighthouse.com/blog/make-every-managers-secret-weapon/
-* http://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/
-* https://www.quora.com/What-are-some-good-tips-for-1-1s-with-your-employees
-* https://getlighthouse.com/blog/one-on-ones-employee-know/
-* http://blog.hubspot.com/sales/magic-questions-for-your-one-on-one-meetings
-* https://www.groovehq.com/blog/one-on-one-meetings-for-company-culture
+* [Keys to Starting 1 on 1s with your team](https://medium.com/lighthouse-on-leadership/keys-to-starting-1-on-1s-with-your-team-320448d258ad)
+* [Why 1-1 meetings are crucial to your team’s success](https://wavelength.asana.com/workstyle-what-is-a-1-1/)
+* [How to start one on ones with your team ](https://getlighthouse.com/blog/how-to-start-one-on-ones-your-teams/)
+* [How to Make the Most of Every Manager's Secret Weapon]( https://getlighthouse.com/blog/make-every-managers-secret-weapon/)
+* [101 Questions to Ask in One on Ones](http://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/)
+* [What are some good tips for 1:1s with your employees?](https://www.quora.com/What-are-some-good-tips-for-1-1s-with-your-employees)
+* [10 Things Every Employee Should Know About Their One-on-Ones](https://getlighthouse.com/blog/one-on-ones-employee-know/)
+* [3 Magic Questions for Your One-on-One Meetings](http://blog.hubspot.com/sales/magic-questions-for-your-one-on-one-meetings)
+* [How Regular One-on-One Meetings Saved Our Company Culture](https://www.groovehq.com/blog/one-on-one-meetings-for-company-culture)
+* [One-on-one for the books: how to plan productive 1:1 meetings](https://blog.asana.com/2017/12/one-on-one-meeting-agenda/)
