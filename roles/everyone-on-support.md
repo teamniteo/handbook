@@ -10,7 +10,7 @@ In the end, we are working for our customers, and having everyone involved in th
 
 ### I. Instructions
 
-* Start by reading our policy on handling support. See [Handling Support Requests](https://github.com/niteoweb/handbook/blob/master/support.md).
+* Start by reading our policy on handling support. See [Handling Support Requests](support.md).
 * Support has a lot of documents for various processes. To Fast-track the onboarding process and get a good grasp of the common issues and tools we're using, start with these three articles:
   * [Support Tools](https://github.com/niteoweb/support/blob/master/EBN/support-tools-and-processes.md)
   * [Support Issues Checklist](https://github.com/niteoweb/support/blob/master/EBN/support-issues-checklist.md)

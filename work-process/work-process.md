@@ -23,21 +23,21 @@ Sprint meetings replace the Daily Standup on these days:
 
 
 ## Creating Issues and User Stories
-> *Main document: [Issues and User Stories](issue-user-story.md)*
+> *Main document: [Issues and User Stories](user-stories.md)*
 
 Undefined issues are created in various repositories to track known problems. Issues that are created by Support are usually reactionary so stay in project-related repositories and are not included in sprints.
 
 When undefined issues from various repositories need to be moved into a Sprint, a well-defined User Story needs to be created for that issue. This can be done by the author of the issue, Scrum Master or Project Owner.
 
-To create a new User Story, open an issue in [Operations repository](https://github.com/niteoweb/operations/issues) and use the supplied template. There are further details on writing the US in the [Issues and User Stories](issue-user-story.md) document.
+To create a new User Story, open an issue in [Operations repository](https://github.com/niteoweb/operations/issues) and use the supplied template. There are further details on writing the US in the [Issues and User Stories](user-stories.md) document.
 
 ## Pull Requests and Commits
 
-> *Main article: [Git Best Practices](git-best-practice.md)*
+> *Main article: [Git guide](../apps-we-use/git.md)*
 
 While working on User Stories we often need to change code or text that we keep in GitHub. These changes are done with [git commits](https://help.github.com/articles/github-glossary/#commit) and are presented to others for review as [Pull Requests](https://help.github.com/articles/about-pull-requests/).
 
-To ensure that your commits and Pull Requests contain everything necessary for a successful review, read through the [Git Best Practices](git-best-practice.md) guide.
+To ensure that your commits and Pull Requests contain everything necessary for a successful review, read through the [Git](../apps-we-use/git.md) guide for the best practices.
 
 
 ## Continual Improvement
@@ -49,7 +49,7 @@ For Niteo, this means that every Pull Request (except Priority Lane issues) shou
 
 ## Urgent Production Fixes
 
-If we need to fix an urgent bug, we use the Scrum Priority Lane approach: the User Story gets written and then if the Product Owner decides it really is urgent, the User Story is added to the top of WIP column and labeled with [Priority Lane](#label_priority_lane) so that everyone knows it is an exceptional and urgent issue and the whole team needs to focus on getting it to column Done ASAP.
+If we need to fix an urgent bug, we use the Scrum Priority Lane approach: the User Story gets written and then if the Product Owner decides it really is urgent, the User Story is added to the top of WIP column and labeled with [Priority Lane](user-stories.md#scrum-labels) so that everyone knows it is an exceptional and urgent issue and the whole team needs to focus on getting it to column Done ASAP.
 
 
 ## Ongoing Tasks

@@ -9,9 +9,9 @@ We use the following services for storing information:
 - **[Docs](http://docs.niteo.co)** - Technical documentation for projects, generated automatically by Sphinx on every code change.
 - **[Books](http://books.niteo.co)** - Every time we buy a book, it goes into our digital library. Enjoy.
 - **[Videos](http://videos.niteo.co)** - A collection of videos of our talks in public and private events, conferences, meetups, IRLs, etc.
-- **[Grafana](niteo.grafana.net)** - Company and project dashboards.
+- **[Grafana](http://niteo.grafana.net)** - Company and project dashboards.
 - **[Zoho Docs](https://docs.zoho.eu/home)** - Alternative to Google Docs. Mostly used for spreadsheets.
-- **[Resilio](https://github.com/niteoweb/handbook/blob/master/resilio.md)** - Works similar to Dropbox, but is faster and more secure because it does not require a central (cloud) server.
+- **[Resilio](../apps-we-use/resilio.md)** - Works similar to Dropbox, but is faster and more secure because it does not require a central (cloud) server.
 - **[1Password](https://my.1password.com/)** - All passwords and keys are stored in 1Password team account.
 
 ## What Goes Where?
@@ -24,11 +24,11 @@ Guidelines on which information goes where.
 
 ### Development
 
-- Development workflow, guidelines, instructions and conventions are available at [docs.niteo.co](http://docs.niteo.co/pyramid_bimt/process.html). You can add/update the documentation in `pyramid_bimt` repository under `/docs`.
+- Development workflow, guidelines, instructions and conventions are available at [docs.niteo.co](http://docs.niteo.co/pyramid_bimt/#about). You can add/update the documentation in `pyramid_bimt` repository under `/docs`.
 
 ### Support
 
-- Checklists, support documentation and other support documents should go to the [Support repo](https://github.com/niteoweb/support/), in the specific project folder.
+- Checklists, support documentation and related documents should go in the [Support repo](https://github.com/niteoweb/support/), within the specific project folder.
 - General documentation should be posted to [Handbook](https://github.com/niteoweb/handbook).
 
 ### Marketing
@@ -47,5 +47,4 @@ Guidelines on which information goes where.
 
     `https://github.com/niteoweb/operations/issues/new?template=onboarding-trialist.md&title=Onboarding:%20FirstName%20LastName&label=people`
 
-- Any templates for emails, contracts, etc. should be stored in the Handbook's
-`templates` directory.
+- Any templates for emails, contracts, etc. should be stored in the Handbook's `templates` directory.
