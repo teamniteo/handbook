@@ -6,35 +6,43 @@ For the last decade, we have been accumulating the knowledge and practicalities 
 
 This Handbook offers us an opportunity to clarify what Niteo is and how we operate. It allows greater transparency to our partners, potential new team members, and the wider Open Source community.
 
-## Company
+## About the company
 
-* [About Niteo - Vision & Values](https://github.com/niteoweb/handbook/blob/master/niteo.md)
-* [History](https://github.com/niteoweb/handbook/blob/master/history.md)
-* [Who Does What](https://github.com/niteoweb/handbook/blob/master/who-does-what.md)
+* [About Niteo](company/niteo.md) - The vision and values.
+* [History](company/history.md) - How we started and have evolved.
+* [Who does what](company/who-does-what.md)
 
-## People
-* [Onboarding](https://github.com/niteoweb/handbook/blob/master/onboarding.md)
-* [Profit Sharing](https://github.com/niteoweb/handbook/blob/master/profit-sharing.md)
-* [Benefits](https://github.com/niteoweb/handbook/blob/master/benefits.md)
-* [Salary](https://github.com/niteoweb/handbook/blob/master/salary.md)
-* [Catchup Meetings](https://github.com/niteoweb/handbook/blob/master/catchup-meetings.md)
+## For the people
+* [Profit Sharing](people/profit-sharing.md)
+* [Benefits](people/benefits.md)
+* [Salary](people/salary.md)
+* [Catchup Meetings](people/catchup-meetings.md)
 
-## Work
-* [How We Work](https://github.com/niteoweb/handbook/blob/master/how-we-work.md)
-* [Daily Standup](https://github.com/niteoweb/handbook/blob/master/standup.md)
-* [Using Slack](https://github.com/niteoweb/handbook/blob/master/using-slack.md)
-* [Security Policy](https://github.com/niteoweb/handbook/blob/master/security.md)
-* [Managing Docs](https://github.com/niteoweb/handbook/blob/master/managing-docs.md)
-* [Work Process](https://github.com/niteoweb/handbook/blob/master/work-process.md)
-* [Glossary](https://github.com/niteoweb/handbook/blob/master/glossary.md)
-* [Find Your Next Task](https://github.com/niteoweb/handbook/blob/master/next-task.md)
+## Nitean roles
+* [Onboarding](roles/onboarding.md)
+* [Support](roles/support.md)
+* [Everyone On Support](roles/everyone-on-support.md)
+* [Designer](roles/designer.md)
+* [People-ops](roles/people-ops.md)
 
-## Support
-* [Support Documentation](https://github.com/niteoweb/support)
-* [Everyone On Support](https://github.com/niteoweb/handbook/blob/master/everyone-on-support.md)
-* [Handling Support Requests](https://github.com/niteoweb/handbook/blob/master/support.md)
+## Working process
+* [How we work](work-process/how-we-work.md)
+* [Daily standup meeting](work-process/standup.md)
+* [Work process](work-process/work-process.md)
+* [Finding your next task](work-process/next-task.md)
 
-## Handbook Contribution
+## Guides on apps we use
+* [Slack](apps-we-use/slack.md)
+* [Git](apps-we-use/git.md)
+* [Resilio](apps-we-use/resilio.md)
+
+## Miscellaneous
+* [Security Policy](company/security.md)
+* [Managing documentation](company/managing-docs.md)
+* [Glossary](glossary.md)
+
+
+## Handbook contribution
 
 Please help us keep these documents up to date, this doesn't just mean typos and broken links, but also updating it with the ongoing changes to our work processes. And if there's something you don't like in the way we work, open an Issue where we can discuss better solutions. For new people joining Niteo, take advantage of being new to question or show us how to improve things. We welcome this input, as an outside viewpoint can often jolt us from our well worn ways.
 

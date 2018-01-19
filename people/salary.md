@@ -20,7 +20,7 @@ All amounts are gross (total cost to the company). Some people take care of thei
 
 ## What to consider when setting your salary?
 
-The main idea to keep in mind is: base salary gives you a *bit painful* lower-middle-class salary that covers your expenses while [profit sharing](https://github.com/niteoweb/handbook/blob/master/profit-sharing.md) gives you the luxury and brings you in the higher class. We want the large majority of salary to come from profit sharing so that the company is able to survive challenging times with as low fixed expenses as possible, but so that everyone gets a big cut of the profit when we're doing well.
+The main idea to keep in mind is: base salary gives you a *bit painful* lower-middle-class salary that covers your expenses while [profit sharing](profit-sharing.md) gives you the luxury and brings you in the higher class. We want the large majority of salary to come from profit sharing so that the company is able to survive challenging times with as low fixed expenses as possible, but so that everyone gets a big cut of the profit when we're doing well.
 
 You should also consider internal and external factors:
 * your responsibilities in the company, how independent you are at your job, seniority;
