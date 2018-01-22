@@ -115,6 +115,13 @@ To book vacation time off, see the Intra [Planned absences](https://intra.niteow
 Unused vacation hours in a calendar year can be carried over to the next year but must be used by July 1st. If not, we are going to have a serious conversation because everyone needs a break.
 
 
+### Unpaid vacation
+
+If all your allocated vacation days have been taken you can take further vacation days but they will be unpaid.
+
+Please ensure however that your department and associated work will not suffer during your absence. Also note that your quarterly profit share amount will be affected by the number of unpaid vacation days your take. See [Profit sharing](profit-sharing.md#present) for further details.
+
+
 ## Public holidays
 
 We are from different parts of the World, and we have different customs when it comes to public holidays. The Americans have close to no public holidays, some countries have up to 20 public holidays per year (though some come on weekends). To avoid taking a break when your government tells you to instead of when you *need* a break, and to avoid "bad holiday years" when all public holidays come on weekends and are hence rendered moot, we have our own little approach to holidays:
