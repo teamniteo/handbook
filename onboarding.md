@@ -78,7 +78,7 @@ To securely connect to our internal intranet, Intra, you will first need to setu
 %0D%0A
 I have attached your OpenVPN configuration files.%0D%0A
 %0D%0A
-Once configured, connect to our VPN and you should have access to our Intra pages, such as http://docs.niteoweb.com/.%0D%0A
+Once configured, connect to our VPN and you should have access to our Intra pages, such as http://docs.niteo.co/.%0D%0A
 %0D%0A
 Regards%0D%0A%0D%0A
 ">OpenVPN configuration</a> email.

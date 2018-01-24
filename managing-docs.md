@@ -6,9 +6,9 @@ We use the following services for storing information:
 - **[ZenHub](https://www.zenhub.com/)** - Agile project management within GitHub. Adds better predictability and visibility to software development.
 - **[Intra](https://intra.niteoweb.com)** - Project documentation, team members profiles, reports and anything else that cannot be publicly published on the Handbook.
 - **[collective.permalink](https://pypi.python.org/pypi/collective.permalink)** - an extension for **[Intra](https://intra.niteoweb.com)** that creates a persistent link to the Intra's content that should never change even if you rename or move it. Use it every time you need to reference some Intra content from the outside of Intra, like from the Handbook. To get a permalink click on Plone toolbar `Actions` > `Permalink (to Clipboard)`.
-- **[Docs](http://docs.niteoweb.com)** - Technical documentation for projects, generated automatically by Sphinx on every code change.
-- **[Books](http://books.niteoweb.com)** - Every time we buy a book, it goes into our digital library. Enjoy.
-- **[Videos](http://videos.niteoweb.com)** - A collection of videos of our talks on public and private events, conferences, meetups, IRLs, etc.
+- **[Docs](http://docs.niteo.co)** - Technical documentation for projects, generated automatically by Sphinx on every code change.
+- **[Books](http://books.niteo.co)** - Every time we buy a book, it goes into our digital library. Enjoy.
+- **[Videos](http://videos.niteo.co)** - A collection of videos of our talks on public and private events, conferences, meetups, IRLs, etc.
 - **[Grafana](niteo.grafana.net)** - Company and project dashboards.
 - **[Zoho Docs](https://docs.zoho.eu/home)** - Alternative to Google Docs. Mostly used for spreadsheets.
 - **[Resilio](https://github.com/niteoweb/handbook/blob/master/resilio.md)** - Works similar to Dropbox, but is faster and more secure because it does not require a central (cloud) server.
@@ -24,7 +24,7 @@ Guidelines on which information goes where.
 
 ### Development
 
-- Development workflow, guidelines, instructions and conventions are available at [docs.niteoweb.com](http://docs.niteoweb.com/pyramid_bimt/process.html). You can add/update the documentation in `pyramid_bimt` repository under `/docs`.
+- Development workflow, guidelines, instructions and conventions are available at [docs.niteo.co](http://docs.niteo.co/pyramid_bimt/process.html). You can add/update the documentation in `pyramid_bimt` repository under `/docs`.
 
 ### Support
 
