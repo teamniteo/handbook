@@ -7,7 +7,7 @@ Richard Hendricks
 
 CEO
 ---------------
-Niteo.co
+Niteo
 
 E: rh@niteo.co
 W: www.niteo.co
@@ -18,7 +18,7 @@ Erlich Bachmann
 
 Backend Specialist
 ------------------
-Niteo.co
+Niteo
 
 E: eb@niteo.co
 W: www.niteo.co
