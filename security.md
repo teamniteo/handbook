@@ -47,3 +47,7 @@ Syncing of data between the device and any other device/service needs to be perf
 ## Webservices
 
 Always, under all circumstances use SSL/TLS. If the service does not support SSL/TLS, do not even start using it!
+
+## Sharing our customers' private information
+
+If you need to share a list of emails of a subset of our customers, don't just blatantly send it over Slack, unencrypted and in plain text, that is in direct violation of our Terms of Service where we promise we won't share users' information with third parties. Same for GitHub, don't post lists of personal information there. Instead either send an encrypted email, or save to Resilio. These two methods make sure that only Niteo keeps the private information.
