@@ -48,17 +48,21 @@ You can request an increase in your allowance if you feel the current one doesn'
 Any software or tools that are a requirement for your role at Niteo, e.g. Photoshop for designers, will be a company expense and is separate from your allowance.
 
   * Personal accounts (e.g. Adobe Cloud): A monthly company expense that Niteo reimburses.
-  * Company account with sub-users: Dejan will signup as Niteo and send login details to users.
+  * Company accounts with sub-users: Dejan will signup as Niteo and send login details to users.
 
 ## Conferences
 
 We encourage you to attend conferences to improve your knowledge of a subject area and network with similar minded people. Try to give notice at least 10-14 days before attending a conference.
 
-All expenses for the conference, such as transport, accommodation, fees, food, etc., are covered by your [allowance](#productivity-allowance) and the additional conference allowance.
+All conference expenses such as transport, accommodation, food, etc., are covered by your [allowance](#productivity-allowance) and the additional conference allowance.
+
+### Conference fee
+
+The conference fee will be reimbursed as a business expense so it is separate from your allowance. If the conference fee is over 500 EUR then approval will be required from a Partner.
 
 ### Conference allowance
 
-The conference allowance accounts for all the days you are away at the conference and depends on the amount of travelling and acclimatization required:
+The conference allowance accounts for all the days you are away at the conference and depends on the amount of traveling and acclimatization required:
 
 * $50/day for local conferences, in or near your home city.
 * $200/day for international conferences.
@@ -67,19 +71,19 @@ The conference allowance accounts for all the days you are away at the conferenc
 
 Conferences count as working days (7.5h per day). Transport to conferences counts too (up to 7.5h per day).
 
-The conference bonus requires that you write a report about the conference when you get back. It can be published on Intra or on any of our blogs. The conference fee amount is reimbursed using your allowance.
+The conference bonus requires that you write a report about the conference when you get back. It can be published on Intra or on any of our blogs.
 
 For example, Dejan goes to a three-day conference in London:
 
     * Conference fee is $500.
-    * Flights, trains and taxis are $300.
-    * Hotel and food are $400.
+    * Flights, trains and, taxis are $500.
+    * Hotel and food are $600.
 
-    Dejan charges the company $1200 in allowances so his conference allowance is calculated as:
+    The conference allowance is calculated as (with a day of travel each way):
 
-    * $1500 (5 * $200/day + $500 for the conference fee)
+    * $1500 (5 * $200/day)
 
-    Before the trip, Dejan's allowance was $500 in credit and after the trip, it is now $800.
+    Therefore Dejan charges the company, $500 in business expenses and $1100 in allowances. And before the trip, Dejan's allowance was $500 in credit so after the trip, it is now $900.
 
 
 ## Courses
@@ -119,7 +123,7 @@ Unused vacation hours in a calendar year can be carried over to the next year bu
 
 If all your allocated vacation days have been taken you can take further vacation days but they will be unpaid.
 
-Please ensure however that your department and associated work will not suffer during your absence. Also note that your quarterly profit share amount will be affected by the number of unpaid vacation days your take. See [Profit sharing](profit-sharing.md#present) for further details.
+Please ensure however that your department and associated work will not suffer during your absence. Also, note that your quarterly profit share amount will be affected by the number of unpaid vacation days your take. See [Profit sharing](profit-sharing.md#present) for further details.
 
 
 ## Public holidays
