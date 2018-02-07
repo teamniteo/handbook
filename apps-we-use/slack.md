@@ -34,13 +34,13 @@ For more detailed descriptions see channel "purposes" on Slack. Other channels a
 It is recommended that you "star" all above main channels, so they are always at the top of your channel list.
 
 
-## Notifying Away Time 
+## Notifying Away Time
 
 If you have personal things to take care of, you most definitely should attend to them. Just make sure everyone else knows you are away, so we don't wait for your input. We use the #out-of-office channel for keeping everyone up-to-date with who is online and who is not.
 
 If are running late, or need to leave early, just write something like "Running late, will be online in 2 hours.". If you will be away for the entire day, do the same.
 
-However, if you are away more than one day, see [how to book a vacation](https://github.com/niteoweb/handbook/blob/master/benefits.md#booking-vacation).
+However, if you are away more than one day, see [how to book a vacation](../people/benefits.md#booking-vacation).
 
 ## Working On
 
@@ -53,7 +53,7 @@ If you missed a standup, to keep everyone in the loop on what you are working on
 ## Checklist
 
 * Fill in your profile page and upload your photo.
-* Do you know what to post where? 
+* Do you know what to post where?
 * Do you know how to notify everyone about your away time?
 * Do you know how to keep everyone in the loop about your current work?
 * Enable two-factor authorization.

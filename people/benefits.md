@@ -54,7 +54,7 @@ Any software or tools that are a requirement for your role at Niteo, e.g. Photos
 
 We encourage you to attend conferences to improve your knowledge of a subject area and network with similar minded people. Try to give notice at least 10-14 days before attending a conference.
 
-All conference expenses such as transport, accommodation, food, etc., are covered by your [allowance](#productivity-allowance) and the additional conference allowance.
+All conference expenses such as transport, accommodation, food, etc., are covered by your [allowance](#allowances) and the additional conference allowance.
 
 ### Conference fee
 
@@ -97,7 +97,7 @@ After finishing the course, you should write a short review of the course, for o
 
 The main limitation is that project work always has priority over course-related work.
 
-If you need to pay a fee to participate in the course, use your [allowance](#productivity-allowance).
+If you need to pay a fee to participate in the course, use your [allowance](#allowances).
 
 
 ## Vacation
