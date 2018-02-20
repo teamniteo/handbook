@@ -74,11 +74,11 @@ The length of the demos should be around 1 minute long but no more than 2 minute
 
 ### Filename template
 
-The filename of the demos should have dashes replace any spaces, include issue number and the reposity name, using this template:
+The filename of the demos should have dashes replace any spaces, include issue number, using this template:
 
-`<issue-no>-<gh-repo>-<Title-of-user-story>.mp4`
+`<gh-repo>-<issue-no>-<Title-of-user-story>.mp4`
 
-e.g. `312-dmon-Fix-domains-not-working.mp4`
+e.g. `dmon-312-Fix-domains-not-working.mp4`
 
 ### Upload
 Upload the demo file to Operations by editing and attaching to the latest [Sprint Release]. Then copy the link and paste it under the Expections section of the User Story.
