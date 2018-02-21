@@ -2,7 +2,8 @@
 
   **Contents**
   1. [Profit sharing](#profit-sharing)
-  2. [Allowances](#allowances)
+  2. [Productivity Allowance](#productivity-allowance)
+  2. [Software Licenses](#software-licenses)
   3. [Conferences](#conferences)
   4. [Courses](#courses)
   5. [Vacation](#vacation)
@@ -16,15 +17,15 @@
 
 We believe every Nitean should take part in the distribution of the company profits. So every quarter, if the company is doing well, we reward those who stay with us.
 
-## Allowances
+## Productivity Allowance
 
-Your productivity allowance can be used to pay for any expenses that you believe can improve your work. Some examples of such expenses (but definitely not a finite list):
+The Productivity Allowance is a monthly budget that can be used to pay for any expenses that you believe can improve your work. Some examples of such expenses (but definitely not a finite list):
 
 * A new phone, computer or monitor.
 * A good microphone and camera for meetings.
 * A good work chair or a standing desk.
 * Internet connection with a static IP at a reputable provider.
-* Attend a conference.
+* Attending a conference.
 * Membership of a local hackerspace.
 * Subscription to an online or offline course.
 * A gadget such as a Kindle or a Pebble watch.
@@ -32,37 +33,34 @@ Your productivity allowance can be used to pay for any expenses that you believe
 
 In other words, would something boost your productivity and creativity? Good, feel free to buy it with your allowance, no questions asked.
 
-### Monthly allowance
+### Monthly budget
 
-The current rates as of *February 2017* are:
+The current allowance budget as of *February 2018* is:
 
- * Niteans: _$150_
- * Founders: _$300_
+ * Niteans: _€150_
+ * Founders: _€300_
 
-At the beginning of the month, invoice the company with the amount of allowance spent in the previous month. The monthly amounts compound every month, so whatever you do not spend this month, you can use the next month, or the one after.
+The monthly budgets compound every month, so whatever you do not spend this month, you can use the next month, or the one after.
 
-You can request an increase in your allowance if you feel the current one doesn't cover all the expenses for you. You can spend a few months of future allowance. The maximum allowance balance you can keep is 18 months. That said, it's smart to keep at least a few months allowance, just in case something breaks.
+You can request an increase in your allowance if you feel the current one doesn't cover all the expenses for you. You can spend a few months of future allowance balance. The maximum allowance balance you can keep is 18 months. That said, it's smart to keep at least a few months allowance, just in case something breaks.
 
-### Software purchasing
+## Software Licenses
 
-Any software or tools that are a requirement for your role at Niteo, e.g. Photoshop for designers, will be a company expense and is separate from your allowance.
-
-  * Personal accounts (e.g. Adobe Cloud): A monthly company expense that Niteo reimburses.
-  * Company accounts with sub-users: Dejan will signup as Niteo and send login details to users.
+Any software or tools that are a requirement for your role at Niteo, e.g. Photoshop for designers, are a company expense and do not count against your Productivity Allowance budget. Ask @dmurko to make the purchase with our company credit card.
 
 ## Conferences
 
 We encourage you to attend conferences to improve your knowledge of a subject area and network with similar minded people. Try to give notice at least 10-14 days before attending a conference.
 
-All conference expenses such as transport, accommodation, food, etc., are covered by your [allowance](#allowances) and the additional conference allowance.
+All conference expenses such as transport, accommodation, food, etc., are covered by your [Productivity Allowance](#productivity-allowance). To make sure you don't run out, you get a bonus for every day of the conference.
 
 ### Conference fee
 
-The conference fee will be reimbursed as a business expense so it is separate from your allowance. If the conference fee is over 500 EUR then approval will be required from a Partner.
+The conference fee will be reimbursed as a business expense so it is separate from your Productivity Allowance. If the conference fee is over 500 EUR then approval will be required from a [Partner](https://github.com/orgs/niteoweb/teams/peopleops).
 
-### Conference allowance
+### Bonus allowance budget for attending a conference
 
-The conference allowance accounts for all the days you are away at the conference and depends on the amount of traveling and acclimatization required:
+The allowance bonus accounts for all the days you are away at the conference and depends on the amount of traveling and acclimatization required:
 
 * $50/day for local conferences, in or near your home city.
 * $200/day for international conferences.
@@ -71,7 +69,7 @@ The conference allowance accounts for all the days you are away at the conferenc
 
 Conferences count as working days (7.5h per day). Transport to conferences counts too (up to 7.5h per day).
 
-The conference bonus requires that you write a report about the conference when you get back. It can be published on Intra or on any of our blogs.
+The conference allowance bonus requires that you write a report about the conference when you get back. It can be published on Intra or on any of our blogs.
 
 For example, Dejan goes to a three-day conference in London:
 
@@ -83,7 +81,7 @@ For example, Dejan goes to a three-day conference in London:
 
     * $1500 (5 * $200/day)
 
-    Therefore Dejan charges the company, $500 in business expenses and $1100 in allowances. And before the trip, Dejan's allowance was $500 in credit so after the trip, it is now $900.
+    Therefore Dejan charges the company, $500 in business expenses and $1100 in spent allowance. And before the trip, Dejan's allowance budget was $500 so after the trip, it is now $900.
 
 
 ## Courses
