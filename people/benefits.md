@@ -35,14 +35,26 @@ In other words, would something boost your productivity and creativity? Good, fe
 
 ### Monthly budget
 
-The current allowance budget as of *February 2018* is:
+The current allowance budget as of *January 2018* is:
 
- * Niteans: _€150_
- * Founders: _€300_
+ * Niteans: _€125_
+ * Founders: _€250_
 
 The monthly budgets compound every month, so whatever you do not spend this month, you can use the next month, or the one after.
 
 You can request an increase in your allowance if you feel the current one doesn't cover all the expenses for you. You can spend a few months of future allowance balance. The maximum allowance balance you can keep is 18 months. That said, it's smart to keep at least a few months allowance, just in case something breaks.
+
+##### What about those Niteans that receive their salary in USD?
+
+In case you live in a country that has their economy tied to USD mora than EUR,
+it is recommended that you choose to receive your salary in USD in order to
+decrease the risk of currency fluctuations affecting your base salary.
+
+In this case, your allowance will also come in USD. The exact amount of USD
+is calculated on 1st of January for every year, based on the current exchange
+rate, and rounded up to the nearest ten. For 2018, the USD allowance budget is
+$150 / month.
+
 
 ## Software Licenses
 
