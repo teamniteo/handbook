@@ -74,3 +74,19 @@ One full time member on sprint should be able to do 10 Story Points. Estimates a
 In the *Vote* step, the Scrum Master updates the User Story with a `✋ [vote]` prefix to the title and assigns the team members from whom they want to receive Story Point estimations. Once a team member recieves a notification and gives their Story Point estimation, they should unassign themselves from the User Story.
 
 The Scrum Master then checks for concensus on the Story Points, sets the `Estimate` label to that value, removes the `✋ [vote]` prefix and moves the User Story to the top of the pipeline. The User Story is now ready to be included in the next sprint.
+
+
+## Recurring tasks
+
+There is a bunch of tasks we have to do every month/quarter/year. To make sure they get assigned enough time for proper execution, we include them in sprints as User Stories. The only difference is, they don't need User Story demo recordings since they happen so often and are repetitive.
+
+On every Sprint Planning meeting we go through the templates for recurring tasks and we add those that apply to the sprint first:
+
+* [Quarterly All-Hands](https://github.com/niteoweb/operations/issues/new?template=recurring_quarterly_allhands.md&title=QUARTER%20All-Hands%20#)
+* [Quarterly Cleanup](https://github.com/niteoweb/operations/issues/new?template=recurring_quarterly_cleanup.md&title=QUARTER%20Cleanup%20#)
+* [Quarterly Fire Drills](https://github.com/niteoweb/operations/issues/new?template=recurring_quarterly_fire_drills.md&title=QUARTER%20Fire%20Drills%20#)
+* [Quarterly Company Administration](https://github.com/niteoweb/operations/issues/new?template=recurring_quarterly_company_administration.md&title=QUARTER%20Company%20Administration%20#)
+* [Monthly Company Administration](https://github.com/niteoweb/operations/issues/new?template=recurring_monthly_company_administration.md&title=MONTH%20Company%20Administration%20#)
+* [Monthly Catch-ups](https://github.com/niteoweb/operations/issues/new?template=recurring_monthly_catchups.md&title=MONTH%20Catch-ups#)
+* [Company Newsletter](https://github.com/niteoweb/operations/issues/new?template=recurring_company_newsletter.md&title=MONTH%20Company%20Newsletter%20#)
+* [Newsletter Spotlight](https://github.com/niteoweb/operations/issues/new?template=recurring_newsletter_spotlight.md&title=MONTH%20Newsletter%20Spotlight%20#)
