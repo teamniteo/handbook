@@ -58,11 +58,21 @@ This is also the time to bring up any other comments about the work process in g
 
 We look at how many Story Points we assigned, how many were done and the distribution between the departments and types of User Stories.
 
-We go through the [cancellation reasons of our VIP users](https://github.com/niteoweb/support/blob/master/EBN/cancellation-analysis.md) (Agency plan and above). Since they are our primary customers, we want to know why they're leaving and check if there are any actionable reasons.
+The Scrum Master will create a new [retrospective issue](https://github.com/niteoweb/operations/issues/new?template=retrospective.md&title=Retrospective%20for%20Sprint%20#) before each retrospective. This issue has a template that serves as a checklist for the meeting and helps the Scrum Master write up a brief report afterwards.
+
+
+## Alignment Meeting
+
+15 minutes after the [Sprint Retrospective] we hold another meeting. Attendance on this one is optional, only those interested in the general direction the company is taking normally attend. That said, every Nitean is welcome to participate.
+
+We go through the [cancellation reasons of EBN users](https://github.com/niteoweb/support/blob/master/EBN/cancellation-analysis.md). Since they are our primary customers, we want to know why they're leaving and check if there are any actionable reasons.
+
+Then we go through all [Cardinal Dashboards] and check for trends that need addressing.
 
 Finally we look over the quarterly goals to determine how we are achieving them and to give us an idea of what should be included in the following day's sprint planning session.
 
-The Scrum Master will create a new [retrospective issue](https://github.com/niteoweb/operations/issues/new?template=retrospective.md&title=Retrospective%20for%20Sprint%20#) before each retrospective. This issue has a template that serves as a checklist for the meeting and helps the Scrum Master write up a brief report afterwards.
+The main purpose of the Alignment Meeting is to adjust our compasses so that we will select the correct User Stories in the Sprint Planning meeting coming the next day. We
+know we are paddling hard, but are we all paddling in the right direction?
 
 
 ## Story Point Estimation
