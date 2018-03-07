@@ -58,7 +58,7 @@ This is also the time to bring up any other comments about the work process in g
 
 We look at how many Story Points we assigned, how many were done and the distribution between the departments and types of User Stories.
 
-The Scrum Master will create a new [retrospective issue](https://github.com/niteoweb/operations/issues/new?template=retrospective.md&title=Retrospective%20for%20Sprint%20#) before each retrospective. This issue has a template that serves as a checklist for the meeting and helps the Scrum Master write up a brief report afterwards.
+The Scrum Master will create a new [retrospective issue](https://github.com/niteoweb/operations/issues/new?template=retrospective.md&title=Sprint%20#%20Retrospective) before each retrospective. This issue has a template that serves as a checklist for the meeting and helps the Scrum Master write up a brief report afterwards.
 
 
 ## Alignment Meeting
