@@ -34,4 +34,3 @@ If at any time during your onboarding, or any later time, you feel like you need
 <!-- References --->
 
 [PeopleOps]: https://github.com/orgs/niteoweb/teams/peopleops
-[Trialists]: https://github.com/orgs/niteoweb/teams/trialists
