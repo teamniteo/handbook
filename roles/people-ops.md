@@ -30,6 +30,7 @@ We keep everything related to work on GitHub so I will be short:%0D%0A
 Regards%0D%0A%0D%0A
 ">Welcome to Niteo email</a> and the request for their GitHub handle.
 1. Add the new team member to the [Trialists] team, allowing access to [operations](https://github.com/niteoweb/operations) and [handbook](https://github.com/niteoweb/handbook) repositories.
+1. Request an additional ZenHub license for the new team member.
 1. Create a **`@niteo.co`** email address and send the <a href="mailto:?
 subject=Niteo Email Account and Onboarding Checklist
 &cc=@niteo.co
