@@ -17,8 +17,8 @@ Our short-term **mission** is clear: help small businesses run better, simpler, 
 
 ## Our values
 
-**Openness:** A bright future is one where information is free, not one where control is enforced through lack or limited information. We lead by example by publicly disclosing our documents such as this Handbook, by publishing our code under Open Source licenses, by giving everyone at Niteo full access to all our inner workings.
+**Openness:** A bright future is one where information is free, not one where control is enforced through a lack of or limited information. We lead by example by publicly disclosing our documents such as our Handbook, by publishing our code under Open Source licenses, and by giving everyone at Niteo full access to all of our inner workings.
 
 **Fairness:** A bright future is one where people are treated fairly and equally. A future where single entities control large portions of wealth and power is not a future we would like to see. We lead by example and work hard to make sure that everyone involved with Niteo is treated fairly.
 
-**Curiosity:** A bright future is one where we can be curious. Where we are allowed to fail, so we can learn from our mistakes. Where we don’t have to blindly believe assumptions but we have the time and energy to test them, from first principles upwards. Where we read, ask, learn, every single day.
+**Curiosity:** A bright future is one where we can be curious. Where we are allowed to fail, so that we can learn from our mistakes. Where we don’t have to blindly believe assumptions but we have the time and energy to test them from first principles upwards. Where we read, ask, and learn every single day.
