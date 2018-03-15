@@ -2,7 +2,7 @@
 
 ## Introduction
 
-For the last decade, we have been accumulating the knowledge and practicalities of running an Open Source business within our walled-off intranet. At our 10th Anniversary Party we realized that it was time that we made this valuable information public with the view to helping people in similar positions.
+For the last decade, we have been accumulating the knowledge and practicalities of running an Open Source business within our walled-off intranet. At our 10th Anniversary Party we realized that it was time that we made this valuable information public with the intent of helping people in similar positions.
 
 This Handbook offers us an opportunity to clarify what Niteo is and how we operate. It allows greater transparency to our partners, potential new team members, and the wider Open Source community.
 
