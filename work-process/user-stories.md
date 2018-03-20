@@ -9,14 +9,6 @@
   *  they assign people from whom they want to receive feedback for better definition of the User Story.
   * Once these people post their feedback, they unassign themselves from the User Story.
 - Once the Scrum Master and Product Owner agree that the User Story is well defined, they add ``✋ [vote]`` prefix to the title of the User Story. At that point, Scrum Master and/or Product Owner assign people from whom they want to receive User Story Points estimation. With this, online poker planning begins.
--  Assignees add their estimates in a comment with the following structure:
-```
-<details>
-  <summary>Click to see estimate</summary>
-  SP: (1, 2, 3, 5, 8, 13, 20, 100)
-</details>
-```
-This is a simple "spoiler alert" block that prevents implicitly affecting others opinion.
 - At the end of the online poker planning, Story Points are added to the User Story.
 - The User Story is now prepared to be moved to the top of the User Story Pyramid stack.
 
