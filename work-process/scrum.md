@@ -89,9 +89,9 @@ So as to not influence anyone else's voting, we hide these estimate values in co
 
 ```
 <details>
-  <summary>Story Point estimate</summary>
+  <summary><b>Story Point estimate</b></summary>
   SP:
-</details>
+</details><br>
 ```
 
 *Add this snippet to GitHub [saved replies](https://github.com/settings/replies) for reuse.*
