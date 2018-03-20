@@ -79,9 +79,24 @@ know we are paddling hard, but are we all paddling in the right direction?
 
 A [Story Point](https://agilefaq.wordpress.com/2007/11/13/what-is-a-story-point/) is an arbitrary measure used by Scrum teams to indicate the effort required to implement a User Story.
 
-One full time member on sprint should be able to do 10 Story Points. Estimates are based on [ZenHub estimates](https://www.zenhub.com/blog/software-estimates/) and the `Estimate` label in a User Story also shows available values.
+One full time member on sprint should be able to do 10 Story Points. Estimates are based on [ZenHub estimates](https://www.zenhub.com/blog/software-estimates/).
 
-In the *Vote* step, the Scrum Master updates the User Story with a `✋ [vote]` prefix to the title and assigns the team members from whom they want to receive Story Point estimations. Once a team member recieves a notification and gives their Story Point estimation, they should unassign themselves from the User Story.
+In the *Vote* step, the Scrum Master updates the User Story with a `✋ [vote]` prefix to the title and assigns the team members from whom they want to receive Story Point estimations.
+
+Team members vote on a story by adding a comment with their story point estimation to the User Story. The possible story point values are in the `Estimate` label drop-down on the right-hand side of a GitHub issue.
+
+So as to not influence anyone else's voting, we hide these estimate values in comments by using the following code snippet:
+
+```
+<details>
+  <summary>Story Point estimate</summary>
+  SP:
+</details>
+```
+
+*Add this snippet to GitHub [saved replies](https://github.com/settings/replies) for reuse.*
+
+Once a team member has given their Story Point estimation, they should unassign themselves from the User Story.
 
 The Scrum Master then checks for concensus on the Story Points, sets the `Estimate` label to that value, removes the `✋ [vote]` prefix and moves the User Story to the top of the pipeline. The User Story is now ready to be included in the next sprint.
 
