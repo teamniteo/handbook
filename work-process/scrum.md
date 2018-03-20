@@ -83,7 +83,9 @@ One full time member on sprint should be able to do 10 Story Points. Estimates a
 
 In the *Vote* step, the Scrum Master updates the User Story with a `✋ [vote]` prefix to the title and assigns the team members from whom they want to receive Story Point estimations.
 
-Team members vote on a story by adding a comment with their story point estimation. To keep the estimate hidden so as to not influence anyone else's voting, we use the following code in a GitHub comment. Add this snippet to GitHub [saved replies](https://github.com/settings/replies) to reuse it.
+Team members vote on a story by adding a comment with their story point estimation to the User Story. The possible story point values are in the `Estimate` label drop-down on the right-hand side of a GitHub issue.
+
+So as to not influence anyone else's voting, we hide these estimate values in comments by using the following code snippet:
 
 ```
 <details>
@@ -92,7 +94,7 @@ Team members vote on a story by adding a comment with their story point estimati
 </details>
 ```
 
-The possible story points values can be seen in the `Estimate` label drop-down on the right-hand side of a GitHub issue.
+*Add this snippet to GitHub [saved replies](https://github.com/settings/replies) for reuse.*
 
 Once a team member has given their Story Point estimation, they should unassign themselves from the User Story.
 
