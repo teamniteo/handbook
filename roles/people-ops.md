@@ -70,7 +70,7 @@ Once configured, connect to our VPN and you should have access to our Intra page
 %0D%0A
 Regards%0D%0A%0D%0A
 ">OpenVPN configuration</a> email.
-1. Once the welcome issue is completed and closed, create the [company reading-up checklist] and assign it.
+1. Once the welcome issue is completed and closed, create the [gearing-up checklist] and assign it.
 1. Finally, once the trialist is familiar with the company and the reading-up issue is closed, create a checklist issue for their role within the company and assign it.
     * [Support checklist]
     * [Developer checklist]
@@ -88,8 +88,8 @@ Regards%0D%0A%0D%0A
 
 [Trialist welcome issue]:
 https://github.com/niteoweb/operations/issues/new?template=onboarding-trialist_0-welcome.md&title=Onboarding%20trialist%20welcome:%20[FirstName%20LastName]&label=people
-[Company reading-up checklist]:
-https://github.com/niteoweb/operations/issues/new?template=onboarding-trialist_1-reading.md&title=Onboarding%20company%20reading-up:%20[FirstName%20LastName]&label=people
+[gearing-up checklist]:
+https://github.com/niteoweb/operations/issues/new?template=onboarding-trialist_1-gearing-up.md&title=Onboarding%20company%20reading-up:%20[FirstName%20LastName]&label=people
 [Developer checklist]:
 https://github.com/niteoweb/operations/issues/new?template=onboarding-trialist_role-developer.md&title=Onboarding%20for%20developer:%20[FirstName%20LastName]&label=people
 [Support checklist]:
