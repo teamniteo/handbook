@@ -13,9 +13,9 @@ Our work process is based on [Scrum](https://en.wikipedia.org/wiki/Scrum_(softwa
 
 ## Schedule
 
- * Every weekday at 9am UTC we hold a [Daily Standup](https://en.wikipedia.org/wiki/Scrum_(software_development)#Daily_scrum) meeting.
+ * Every weekday morning we hold a [daily standup](standup.md) meeting.
 
-Sprint meetings replace the Daily Standup on these days:
+Sprint meetings replace the daily standup on these days:
 
  * A Wednesday is the start of a Sprint with [Sprint Planning](scrum.md#Sprint_Planning).
  * The Tuesday, two weeks later, marks the end of the Sprint with a [Sprint Retrospective](scrum.md#Sprint_Retrospective).
