@@ -1,8 +1,8 @@
 # Scrum
 
-Sprint length: two weeks.
-
-Story Points commitment: 8 for each full-time member on the sprint and at least 25% of total commitment reserved for bugfixes and cleanup.
+ * Sprint length: two weeks.
+ * Story Points commitment: 8 for each full-time member on the sprint and at least 25% of total commitment reserved for bugfixes and cleanup.
+ * Sprint meeting times: Same as [daily standup](standup.md)
 
 User Stories with the highest story points are assigned and started first. That way simpler User Stories without champions can be worked on in the last days of the sprint by anyone who finished their own early.
 
@@ -15,13 +15,13 @@ For each sprint, a new milestone is created with name `Sprint #X` where `X` is t
 
 ## Schedule
 
-Our sprints start on a Wednesday 9am UTC with the [Sprint Planning](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint_planning) meeting. They end on the Tuesday two weeks later with [Sprint Review and Sprint Retrospective](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint_review_and_retrospective) meetings held at 10am CEST.
+Our sprints start on a Wednesday morning with the [Sprint Planning](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint_planning) meeting. They end on the Tuesday morning two weeks later with [Sprint Review and Sprint Retrospective](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint_review_and_retrospective) meetings.
 
 The last Monday morning of the Sprint everyone should open up the Kanban Board and ask themselves: "How can I help close whatever is still opened?". Repeat the same after lunch and on Tuesday morning.
 
-On the Wednesday in the middle of the sprint we hold the <a name="product_backlog_refinement_meeting"></a>[Product Backlog Refinement](https://en.wikipedia.org/wiki/Scrum_(software_development)#Backlog_refinement) meeting at 10am CEST.
+On the Wednesday in the middle of the sprint we hold the <a name="product_backlog_refinement_meeting"></a>[Product Backlog Refinement](https://en.wikipedia.org/wiki/Scrum_(software_development)#Backlog_refinement) meeting.
 
-All other days we hold the [Daily Standup](https://en.wikipedia.org/wiki/Scrum_(software_development)#Daily_scrum) meeting at 10am CEST.
+All other weekday mornings we hold the [daily standup](standup.md) meeting.
 
 For each new sprint the Scrum Master will create an operations sprint release that is used to store the User Story screencast demos. The template for this release is copied from [RELEASE_TEMPLATE.md](https://github.com/niteoweb/operations/raw/master/.github/RELEASE_TEMPLATE.md) in the operations repo.
 
