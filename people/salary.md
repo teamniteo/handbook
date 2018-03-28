@@ -2,9 +2,11 @@
 
 ## Setting Your Salary
 
-Because we live in different parts of the world, have different lifestyles and different tax laws it's almost impossible for the company to set a fair salary for everyone. Therefore, **we give the biggest weight to your own proposal** for your salary. We have a maximum salary cap which is five times that of the current minimum salary in the company. We also publish founders' salaries as a benchmark.
+Because we live in different parts of the world, have different lifestyles and different tax laws it's almost impossible for the company to set a fair salary for everyone. Therefore, **we give the biggest weight to your own proposal** for your salary. We have a maximum salary cap which is five times that of the current minimum salary in the company. The founders' salaries are published here as a benchmark.
 
-While salaries are currently still private information (as per voting on [IRL#2](https://intra.niteoweb.com/operations/irl-2)), **we highly encourage salary discussion** between Niteans. Everyone is free to ask and answer (or not) questions about salaries to help them decide on what would be a fair salary for them. Everyone is also free to propose that someone should have a higher/lower salary or that we should increase minimum salary (which is the only way to increase the maximum salary).
+As a company, we made the decision ([IRL#4]) to have an open salary policy in order to promote equality and transparency. There is no overall list for quick comparison instead the salary and bonuses of each Nitean are available in our Scrooge salary app to be viewed on an individual basis.
+
+We welcome questions about salaries, bonuses, and responsibilities to help you decide what would be a fair salary. Everyone is also free to propose that someone should have a higher/lower salary or that we should increase minimum salary (which is the only way to increase the maximum salary).
 
 
 ## Current Company Salaries (January 2017)
@@ -70,3 +72,6 @@ While many of us are good friends, we are still a business, not a family. Unlike
 * Every Nitean (except Trialists) is entitled to a severance package according to the following formula:
   * up to one year: 1 month base salary,
   * more than one year: 2 months base salary + 1 month for each additional year, up to max 12 months total.
+
+
+[IRL#4]: https://github.com/niteoweb/operations/issues/380
