@@ -1,8 +1,8 @@
 # Handling Support Requests
 
-Email support is managed by [GrooveHQ](https://niteoweb.groovehq.com/), a mail-based ticketing system. Member sends an email through a contact form or directly, and a support ticket is created in GrooveHQ.
+Email support is managed by [GrooveHQ](https://niteo.groovehq.com/), a mail-based ticketing system. Customers send an email through a contact form or directly, and a support ticket is created.
 
-You should read everything we have on product websites (don’t forget the footer links), [Support repository](https://github.com/niteoweb/support/), in our blogs and help centers – multiple times. Most questions visitors and members ask are answered on these pages.
+Read everything we have on product websites (don’t forget the footer links), [Support repository](https://github.com/niteoweb/support/), our blogs and help centers – multiple times. Most questions visitors and members ask are answered on these pages.
 
 ## General Instructions
 
@@ -12,7 +12,7 @@ You should read everything we have on product websites (don’t forget the foote
 
 3. Try to reply to customers as soon as possible. Support tickets should be closed within 8 hours on weekdays and within 24 hours on weekends. So if you can, check support for urgent issues (starred) on Saturdays and Sundays.
 
-4. Do not leave the customer without a reply for more than one work day. If nothing else, let him know we're looking into the issue. Nothing is worse than being ignored by support staff when you have issues.
+4. Do not leave the customer without a reply for more than one work day. If nothing else, let them know we're looking into the issue. Nothing is worse than being ignored by support staff when you have issues.
 
 5. Try to close tickets with just a single email instead of bouncing multiple emails with the user. That means be concise and resourceful.
 
@@ -20,7 +20,7 @@ You should read everything we have on product websites (don’t forget the foote
 
 7. Make sure you read the ticket history with that person before replying. It might have information that’s relevant to the new ticket.
 
-8. Be nice to all who send an email, even if they’re very rude (and some will be). Keep calm, reply with facts and thank them for any feedback. If they’re worried about their refund, cancellation or anything else, let them know we’ll do our all to fix things in their interest.
+8. Be nice to all who send an email even if they’re very rude (and some will be). Keep calm, reply with facts and thank them for any feedback. If they’re worried about their refund, cancellation or anything else, let them know we’ll do our all to fix things in their interest.
 
 9. The conversation can be informal and smilies are allowed when in context.
 
@@ -44,6 +44,8 @@ Support related issues and topics are discussed on #support channel. This way ev
 
 We also have the #support-emails channel for a live stream of GrooveHQ tickets and responses.
 
+Server related issues, updates and warnings are posted on #server-operations channel.
+
 ## Live Chat Support
 
 Live chat function on our sales page. When working, log into [Olark](https://olark.com) so we can offer users live chat support.
@@ -54,22 +56,26 @@ Instead of doing things for users, ask users to do it themselves - just guide th
 
 Sample scenario: user wants you to change his login email.
 
-* Incorrect: Asking for user's new login email and setting it yourself.
-* Correct: Ask user to login to his account, go to Settings tab then update the information himself.
+* Incorrect: Asking for the user's new login email and setting it yourself.
+* Correct: Ask the user to log into their account, go to Settings tab, and then update the information themselves.
 
-There are other scenarios but the general idea is that don't give anything to a user unless properly verified. One verification process is asking him to login to his account then checking logs for the login event.
+There are other scenarios but the general idea is that don't give anything to a user unless properly verified. One verification process is asking themm to log into their account then checking the logs for the login event.
 
 ## Using GrooveHQ
 
 ### Canned Replies
 
-Pre-prepared replies to most common questions are available from the GrooveHQ user interface. You can use them and edit them as necessary.
+Pre-prepared replies to most common questions are available from the GrooveHQ user interface. You can use them and edit them as necessary. You can also refer to our [support issues checklist](https://github.com/niteoweb/support/blob/master/EBN/support-issues-checklist.md).
 
-If you have the need to create a new canned reply, you can do so by clicking Settings in top right corner of Groove HQ, and then under Ticketing click Canned Replies.
+If you have the need to create a new canned reply, you can do so by clicking Settings in top right corner of GrooveHQ, and then under Ticketing, click Canned Replies.
 
 ### Submit Statuses
 
 Regular replies are always ‘Submit as Closed’. If there is still something you need to do after replying (like reporting a bug and getting back to the user with a solution), select ‘Submit as Pending’. Put as note any action done/being done or a link to an opened GitHub issue for easy reference.
+
+### Labels
+
+We want to have a quantifiable data of user issues and requests received on Groove so we [tag the tickets](https://github.com/niteoweb/support/EBN/support-tickets.md). 
 
 ### Spam Emails
 
