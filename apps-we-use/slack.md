@@ -6,13 +6,11 @@ Slack is an awesome team collaboration tool that replaces IRC, Skype and much of
 
 We are all human. And we like to know the humans on the other side of Slack. So please fill in your [profile page](https://niteo.slack.com/account/profile) and [upload your photo](https://niteo.slack.com/account/photo).
 
-## When Working
+## Quit Slack When Working
 
-Slack can be a big distraction if you're always receiving notifications. That is why we encourage you setup Do Not Disturb mode when you need time for undistracted work.
+Slack is [a big distraction](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d). That is why we encourage you setup Do Not Disturb mode or quit Slack when you need time for undistracted work.
 
-Set it up with the bell icon in top left corner.
-
-Turning it off is in the same menu. We recommend being available around standup when people are taking care of support and will be available for questions. You will still see all notifications from people who pinged you when you come back to Slack.
+We recommend being available around standup when people are taking care of support and will be available for questions. You will still see all notifications from people who pinged you when you come back to Slack.
 
 ## To All-In Or Not To All-In
 
