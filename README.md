@@ -34,6 +34,7 @@ This Handbook offers us an opportunity to clarify what Niteo is and how we opera
 ## Guides on apps we use
 * [Slack](apps-we-use/slack.md)
 * [Git](apps-we-use/git.md)
+* [OpenVPN](apps-we-use/openvpn.md)
 * [Resilio](apps-we-use/resilio.md)
 
 ## Miscellaneous
