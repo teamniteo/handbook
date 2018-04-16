@@ -95,6 +95,9 @@ For example, Dejan goes to a three-day conference in London:
 
     Therefore Dejan charges the company, $500 in business expenses and $1100 in spent allowance. And before the trip, Dejan's allowance budget was $500 so after the trip, it is now $900.
 
+### Extending your trip with vacation days
+
+You are encouraged to extend your trip and take vacation days to see the place you travel to. Or the place where your layover is. We are already paying for your ticket, so might as well get the most of it, right?
 
 ## Courses
 
