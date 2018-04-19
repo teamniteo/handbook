@@ -50,7 +50,7 @@ Enable two-factor authentication: [Slack 2FA setup]
 
 ### Insecure messaging
 
-Although we use Slack for our day-to-day communication, it is not a fully secure messaging system, since the messages are stored and accessible on their servers. Therefore do not transfer passwords, keys or confidential information using Slack.
+Although we use Slack for our day-to-day communication, it is not a fully secure messaging system, since the messages are stored and accessible on their servers. Therefore do not transfer passwords, keys or confidential information using Slack. Instead use [Signal](signal.md) which is secured with end-to-end encryption.
 
 
 ## Channels

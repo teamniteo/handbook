@@ -32,7 +32,8 @@ This Handbook offers us an opportunity to clarify what Niteo is and how we opera
 * [Finding your next task](work-process/next-task.md)
 
 ## Guides on apps we use
-* [Slack](apps-we-use/slack.md)
+* [Slack](apps-we-use/slack.md) - Team messaging
+* [Signal](apps-we-use/signal.md) - Secure team messaging
 * [Git](apps-we-use/git.md)
 * [OpenVPN](apps-we-use/openvpn.md)
 * [Resilio](apps-we-use/resilio.md)
