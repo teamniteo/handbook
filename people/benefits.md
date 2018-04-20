@@ -149,12 +149,7 @@ We are from different parts of the World, and we have different customs when it 
 
 ## Sick leave
 
-Everyone has the right to sick leave on days when they don't feel capable of working. Partial work on a sick leave day proportionally reduces the total daily hours to not exceed 7.5 hours. In other words, sick leave hours cannot be used to gain any overtime hours, by the same principle as vacation leave hours cannot be used for that purpose either. Sick leave can and should be used when taking care of an ill child or spouse.
+Everyone has the right to sick leave on days when they don't feel capable of working. A day of sick leave counts as 6 hours of work done and will be automatically added to your "worked hours".
 
-A sick leave day counts as 6 hours of work done. For partially worked sick leave days, we use the following formula:
+Sick leave can and should be used when taking care of an ill child or spouse.
 
-    Tallied hours = (workday hours - worked sick-day hours ) * 80% + worked sick-day hours
-
-An example for working for 2 hours on a sick day:
-
-    (7.5h - 2h) * 0.8 + 2h = 6.4h
