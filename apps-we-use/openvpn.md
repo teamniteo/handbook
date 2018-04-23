@@ -3,6 +3,7 @@
 We use OpenVPN to securely tunnel internet traffic when connecting to
 our projects or internal services.
 
+
 ## Installation
 
 #### MacOS
@@ -14,9 +15,15 @@ our projects or internal services.
 #### Windows
   * OpenVPN desktop client from [OpenVPN downloads].
 
-## Import configuration
 
-Instructions for importing the `.ovpn` configuration files.
+## Request Niteo configuration files
+
+Ask @zupo to create and send your personal OpenVPN configuration files.
+
+
+## Import configuration files
+
+Instructions for importing the `.ovpn` configuration files into the OpenVPN client.
 
 #### MacOS and Windows
   * Double-click on an `.ovpn` file and follow the instructions.
@@ -27,10 +34,19 @@ Instructions for importing the `.ovpn` configuration files.
   1. The new VPN should be available in the network indicator under `VPN Connections`.
 
 #### Command line
-  * To test or manually run openvpn with a config file:
+  * To test or manually run OpenVPN with a config file:
 
     `openvpn --config eu.ovpn`
 
 
+## Test Niteo VPN connection
+
+You can test that the Niteo VPN works correctly by visiting [Docs] or [Intra].
+
+Without a VPN connection or a whitelisted IP, internal Niteo sites will default to *403 Forbidden*.
+
+
 [OpenVPN downloads]: https://openvpn.net/index.php/open-source/downloads.html
 [Tunnelblick]: https://tunnelblick.net/
+[Niteo Docs]: http://docs.niteo.co/
+[Intra]: https://intra.niteo.co
