@@ -4,8 +4,8 @@ We use the following services for storing information:
 
 - **[GitHub](https://github.com/niteoweb)** - Code repository and ticketing system for all our projects, also hosts this Handbook where we write all company processes that can be publicly published.
 - **[ZenHub](https://www.zenhub.com/)** - Agile project management within GitHub. Adds better predictability and visibility to software development.
-- **[Intra](https://intra.niteoweb.com)** - Project documentation, team members profiles, reports and anything else that cannot be publicly published on the Handbook.
-- **[collective.permalink](https://pypi.python.org/pypi/collective.permalink)** - an extension for **[Intra](https://intra.niteoweb.com)** that creates a persistent link to the Intra's content that should never change even if you rename or move it. Use it every time you need to reference some Intra content from the outside of Intra, like from the Handbook. To get a permalink click on Plone toolbar `Actions` > `Permalink (to Clipboard)`.
+- **[Intra](https://intra.niteo.co)** - Project documentation, team members profiles, reports and anything else that cannot be publicly published on the Handbook.
+- **[collective.permalink](https://pypi.python.org/pypi/collective.permalink)** - an extension for **[Intra](https://intra.niteo.co)** that creates a persistent link to the Intra's content that should never change even if you rename or move it. Use it every time you need to reference some Intra content from the outside of Intra, like from the Handbook. To get a permalink click on Plone toolbar `Actions` > `Permalink (to Clipboard)`.
 - **[Docs](http://docs.niteo.co)** - Technical documentation for projects, generated automatically by Sphinx on every code change.
 - **[Books](http://books.niteo.co)** - Every time we buy a book, it goes into our digital library. Enjoy.
 - **[Videos](http://videos.niteo.co)** - A collection of videos of our talks in public and private events, conferences, meetups, IRLs, etc.
@@ -33,11 +33,11 @@ Guidelines on which information goes where.
 
 ### Marketing
 
-- Advertising reports and links to private spreadsheets should be posted on [Intra](https://intra.niteoweb.com), in the specific project folder.
+- Advertising reports and links to private spreadsheets should be posted on [Intra](https://intra.niteo.co), in the specific project folder.
 
 ### Operations
 
-- Finance reports and meeting minutes should be posted on [Intra](https://intra.niteoweb.com).
+- Finance reports and meeting minutes should be posted on [Intra](https://intra.niteo.co).
 - Company work processes and general documentation should be posted to [Handbook](https://github.com/niteoweb/handbook).
 
 ### Handbook
