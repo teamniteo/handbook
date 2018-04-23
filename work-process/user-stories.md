@@ -113,5 +113,5 @@ Here are a few recommended screencast applications.
 * <a name="label_priority_lane"></a>**Priority Lane**: User Stories injected into the current sprint due to urgency
 * <a name="label_retrospective"></a>**Retrospective**: issues that describe the sprint retrospective
 
-[Marketing Personas]: https://intra.niteoweb.com/operations/personas
+[Marketing Personas]: https://intra.niteo.co/operations/personas
 [Sprint Release]: https://github.com/niteoweb/operations/releases/tag/sprint_13
