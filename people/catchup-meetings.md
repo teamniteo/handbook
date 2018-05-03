@@ -13,7 +13,7 @@ This is your opportunity to discuss anything you want so they should be treated 
 
 ## Schedule
 
-Meetings will be scheduled at a suitable time and day every week. They can be on Zoom, by phone or in person. They are usually 30 minutes in length but can take longer if needed.
+Meetings will be scheduled at a suitable time and day every two weeks. They can be on Zoom, by phone or in person. They are usually 30 minutes in length but can take longer if needed.
 
 They should not be cancelled unless unavoidable, such as an emergency.
 
