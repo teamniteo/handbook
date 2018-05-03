@@ -75,7 +75,7 @@ Regular replies are always ‘Submit as Closed’. If there is still something y
 
 ### Labels
 
-We want to have a quantifiable data of user issues and requests received on Groove so we [tag the tickets](https://github.com/niteoweb/support/EBN/support-tickets.md). 
+We want to have a quantifiable data of user issues and requests received on Groove so we [tag the tickets](https://github.com/niteoweb/support/blob/master/EBN/support-tickets.md). 
 
 ### Spam Emails
 
