@@ -79,3 +79,12 @@ A few examples of excellent Pull Requests:
 
 In repositories where deployment involves database migrations and build verifications, we use a
 `PULL_REQUEST.md` template to provide delivery verification steps.
+
+
+### Keep Nitean in the loop
+
+It's important to regularly push your local changes to GitHub, even when they are only a work-in-progress. And post a short comment to the related GitHub issue(s). There are several benefits to doing so:
+* You have a backup of your work in case of a stupid mistake (whoooops I just deleted the whole folder) or a hardware failure.
+* If you get sucked into some other task, it's easier to switch back to the original one, because you know where you've left it.
+* Other Niteans can spot fundamental problems in your approach and help you get back on the right track before spending days painting yourself into a corner.
+* Other Niteans can take over your work if you are suddenly unavailable for whatever reason, business or personal.
