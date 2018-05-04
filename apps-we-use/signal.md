@@ -6,7 +6,7 @@
 
 ### Install
 
-To start using Signal you will require an Android phone or iPhone and a working phone number. Although there is a Signal desktop application it does still need to connect to the Signal app installed on your phone.
+To start using Signal you will require an Android phone or iPhone and a working phone number. Although there is a Signal desktop application it does still need to connect to the Signal app installed on your phone. For new team members, you'll need the desktop version to receive encrypted files for onboarding.
 
 [Download Signal]
 
@@ -20,7 +20,7 @@ We have a Niteo group chat on Signal and you will need to be invited to join it.
 
 ### Phone compatiblity
 
-If your personal phone is not an Andriod or iPhone we advise getting a cheap 'work' phone with a prepaid sim card for secure communication.
+If your personal phone is not an Andriod or iPhone, we advise getting a cheap 'work' phone with a prepaid sim card for secure communication.
 
 ## Usage
 
