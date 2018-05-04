@@ -11,6 +11,8 @@
 - Once the Scrum Master and Product Owner agree that the User Story is well defined, they add ``✋ [vote]`` prefix to the title of the User Story. At that point, Scrum Master and/or Product Owner assign people from whom they want to receive User Story Points estimation. With this, online poker planning begins.
 - At the end of the online poker planning, Story Points are added to the User Story.
 - The User Story is now prepared to be moved to the top of the User Story Pyramid stack.
+- On Sprint Planning meeting we choose which User Stories get included in the new sprint and we assign champions to them. From this point on, noone should be unassigned from the story so we know who worked on what when the sprint ends.
+- When the Champion deems the story done, they move it to the `Review` column. Scrum Master and Product Owner verify work was done as expected and move the Story to column `Done`.
 
 **Important:**
 
@@ -19,6 +21,7 @@
     - Vote on Story Points
     - Champion working on the User Story
 * Unassign yourself when you have done the above task you were assigned.
+* If the User Story is included into the current sprint and is already in progress, never unassign anyone. This allows us to see who worked on what even when the sprint ends.
 
 
 ## Writing User Stories
