@@ -17,7 +17,7 @@ For each sprint, a new milestone is created with name `Sprint #X` where `X` is t
 
 Our sprints start on a Wednesday morning with the [Sprint Planning](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint_planning) meeting. They end on the Tuesday morning two weeks later with [Sprint Review and Sprint Retrospective](https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint_review_and_retrospective) meetings.
 
-The last Monday morning of the Sprint everyone should open up the Kanban Board and ask themselves: "How can I help close whatever is still opened?". Repeat the same after lunch and on Tuesday morning.
+The last Monday morning of the Sprint everyone should open up the Scrum Board and ask themselves: "How can I help close whatever is still opened?". Repeat the same after lunch and on Tuesday morning.
 
 On the Wednesday in the middle of the sprint we hold the <a name="product_backlog_refinement_meeting"></a>[Product Backlog Refinement](https://en.wikipedia.org/wiki/Scrum_(software_development)#Backlog_refinement) meeting.
 
@@ -30,7 +30,7 @@ For each new sprint the Scrum Master will create an operations sprint release th
 
 Some of ideas are taken from https://colloq.io/blog/the-tools-we-use-to-stay-afloat.
 
-Our Kanban Board is at https://github.com/niteoweb/operations/#boards. By clicking on the `Show Menu` you get an additional sidebar that displays the main information about the sprint, such as the **Sprint Goal**, our capacity for the sprint, committed story points and the **Burndown Chart**.
+Our Scrum Board is at https://github.com/niteoweb/operations/#boards. By clicking on the `Show Menu` you get an additional sidebar that displays the main information about the sprint, such as the **Sprint Goal**, our capacity for the sprint, committed story points and the **Burndown Chart**.
 
 GitHub checkboxes are often utilized in creating mini-tasks for User Stories. Since there is no history on who clicked on what checkbox and when, always add a comment about the change made everytime a checkbox is ticked.
 
