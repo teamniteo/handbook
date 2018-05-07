@@ -28,7 +28,7 @@ The Productivity Allowance is a monthly budget that can be used to pay for any e
 * Attending a conference.
 * Membership of a local hackerspace.
 * Subscription to an online or offline course.
-* A gadget such as a Kindle or a Pebble watch.
+* A gadget such as a Kindle or a smart watch.
 * A Raspberry PI to play around with and learn new things.
 
 In other words, would something boost your productivity and creativity? Good, feel free to buy it with your allowance, no questions asked.
