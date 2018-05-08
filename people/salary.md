@@ -74,4 +74,4 @@ While many of us are good friends, we are still a business, not a family. Unlike
   * more than one year: 2 months base salary + 1 month for each additional year, up to max 12 months total.
 
 
-[IRL#4]: https://github.com/niteoweb/operations/issues/380
+[IRL#4]: https://blog.niteo.co/irl4-istanbul/
