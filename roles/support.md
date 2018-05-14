@@ -1,6 +1,6 @@
 # Handling Support Requests
 
-Email support is managed by [GrooveHQ](https://niteo.groovehq.com/), a mail-based ticketing system. Customers send an email through a contact form or directly, and a support ticket is created.
+Email support is managed by [Groove](https://niteo.groovehq.com/), a mail-based ticketing system. Customers send an email through a contact form or directly, and a support ticket is created.
 
 Read everything we have on product websites (don’t forget the footer links), [Support repository](https://github.com/niteoweb/support/), our blogs and help centers – multiple times. Most questions visitors and members ask are answered on these pages.
 
@@ -42,7 +42,7 @@ If something isn't clear, ask Dejan or Marbe. See our [policy on dealing with us
 
 Support related issues and topics are discussed on #support channel. This way everyone knows what's going on and can ping in on the topic. Avoid pinging coworkers in private since then others won't know what's going on.
 
-We also have the #support-emails channel for a live stream of GrooveHQ tickets and responses.
+We also have the #support-emails channel for a live stream of Groove tickets and responses.
 
 Server related issues, updates and warnings are posted on #server-operations channel.
 
@@ -61,13 +61,14 @@ Sample scenario: user wants you to change his login email.
 
 There are other scenarios but the general idea is that don't give anything to a user unless properly verified. One verification process is asking themm to log into their account then checking the logs for the login event.
 
-## Using GrooveHQ
+## Using Groove
 
 ### Canned Replies
 
-Pre-prepared replies to most common questions are available from the GrooveHQ user interface. You can use them and edit them as necessary. You can also refer to our [support issues checklist](https://github.com/niteoweb/support/blob/master/EBN/support-issues-checklist.md).
+Pre-prepared replies to most common questions are available from the Groove user interface. You can use them and edit them as necessary. You can also refer to our [support issues checklist](https://github.com/niteoweb/support/blob/master/EBN/support-tickets.md).
 
-If you have the need to create a new canned reply, you can do so by clicking Settings in top right corner of GrooveHQ, and then under Ticketing, click Canned Replies.
+
+If you have the need to create a new canned reply, you can do so by clicking Settings in top right corner of Groove, and then under Ticketing, click Canned Replies.
 
 ### Submit Statuses
 
@@ -75,7 +76,7 @@ Regular replies are always ‘Submit as Closed’. If there is still something y
 
 ### Labels
 
-We want to have a quantifiable data of user issues and requests received on Groove so we [tag the tickets](https://github.com/niteoweb/support/blob/master/EBN/support-tickets.md). 
+We want to have a quantifiable data of user issues and requests received on Groove so we [tag the tickets](https://github.com/niteoweb/support/blob/master/EBN/support-tickets.md).
 
 ### Spam Emails
 
