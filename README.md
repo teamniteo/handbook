@@ -24,6 +24,7 @@ This Handbook offers us an opportunity to clarify what Niteo is and how we opera
 * [Everyone On Support](roles/everyone-on-support.md)
 * [Designer](roles/designer.md)
 * [People-ops](roles/people-ops.md)
+* [Hiring](roles/hiring.md)
 
 ## Working process
 * [How we work](work-process/how-we-work.md)
