@@ -2,7 +2,7 @@
 
 ## Setting Your Salary
 
-Because we live in different parts of the world, have different lifestyles and different tax laws it's almost impossible for the company to set a fair salary for everyone. Therefore, **we give the biggest weight to your own proposal** for your salary. The founders' salaries, the minimum salary and the highest salary we pay are published below for orientation.
+Because we live in different parts of the world, have different lifestyles and different tax laws it's almost impossible for the company to set a fair salary for everyone. Therefore, **we give the biggest weight to your own proposal** for your salary. The founders' salaries are published below for orientation.
 
 We have a salary cap which is five times that of the current minimum salary in the company because we hate how CEOs of some corporations [earn hundreds of times more](https://www.cnbc.com/2018/01/22/heres-how-much-ceo-pay-has-increased-compared-to-yours-over-the-years.html) than their minimum wage workers. 
 
@@ -17,11 +17,9 @@ All amounts are gross (total cost to the company). Some people take care of thei
 
 **Minimum salary:** 1300 EUR
 
+**Founders' salary:** 2500 EUR (some seniors are paid more)
+
 **Salary cap:** 6500 EUR ([factor of 5](https://github.com/niteoweb/handbook/blob/master/people/salary.md#setting-your-salary))
-
-**Founders' salary:** 2500 EUR
-
-**Highest salary:** 2500 EUR
 
 
 ## What to consider when setting your salary?
