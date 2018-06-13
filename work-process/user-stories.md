@@ -73,13 +73,13 @@ From initial creation to being worked upon and finally closed, a user story will
 
 ### Estimation
 
-After writing the user story, in order for inclusion in a sprint, it must be verified and voted up and to start this process put the user story in the `Estimation` pipeline.
+After writing the user story, in order for inclusion in a sprint, it must be verified and voted upon. To start this process put the user story in the `Estimation` pipeline.
 
 The Scrum master and product owner will verify that the user story is well defined. If required they will assign people from whom they want to receive feedback for better definition of the user story. Once these assignees post their feedback, they remove their assignment from the user story.
 
 #### Voting
 
-Once the user story is verified the Scrum master puts the user story up for voting on by the team by updating the user story with a `✋ [vote]` prefix to the title and assigning the team members from whom they want to receive [story point](#story-points) estimations.
+Once the user story is verified the Scrum master assigns team members from whom they want to receive [story point](#story-points) estimations.
 
 Team members vote on a story by adding a comment with their [story point](#story-points) estimation to the user story, then remove their assignment from the user story.
 
@@ -96,7 +96,7 @@ So as to not influence anyone else's voting, we hide these estimate values in co
 
 ### Backlog
 
-After voting the Scrum master then checks for consensus on the story points, sets the `Estimate` label to that value, removes the `✋ [vote]` prefix and moves the user story from `Estimation` to the top of the `Backlog` pipeline.
+After a user story in `Estimation` pipeline has been voted upon, the Scrum master checks for consensus on the story points and sets the `Estimate` label to that value then moves the user story to the top of the `Backlog` pipeline.
 
 With a well-defined story and story points, the user story is now ready to be included in the next sprint.
 
