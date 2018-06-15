@@ -1,4 +1,4 @@
-# Niteo writing style guide
+# Writing style guide
 
 To mantain a simple concise style guide we have adopted the Wikipedia [Manual of Style] as our writing style for any kind of documentation or prose.
 
@@ -16,7 +16,7 @@ Some further additions to be loosely followed:
 * Use a table of contents to help navigate the page.
 * Use [reference links] to put long URLs at the foot of the page instead of inline in the text. This helps with editing and version control diffs.
 
-Further Reference:
+## Further reference
   * [GitLab handbook](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/handbook)
   * [Basecamp handbook](https://github.com/basecamp/handbook)
   * [The Mayfield Handbook of Tecnhical & Scientific Writing](http://www.mhhe.com/mayfieldpub/tsw/home.htm)
@@ -24,11 +24,11 @@ Further Reference:
   * [Sentence vs title case](https://www.snappysentences.com/sentence-case-v-title-case/)
   * [Commonmark](https://spec.commonmark.org/current)
 
+
 [Grammarly]:https://www.grammarly.com
 [Manual of Style]:https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style
 [MoS/Lists]:https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Lists#Bulleted_lists
-[MoS Article titles]
-:https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Article_titles,_headings,_and_sections
+[MoS Article titles]:https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Article_titles,_headings,_and_sections
 [MoS/Capital letters]:https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Capital_letters
 [Simplified English]:https://simple.wikipedia.org/wiki/Simplified_English
 [Plain English]:https://en.wikipedia.org/wiki/Plain_English
