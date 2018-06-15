@@ -4,7 +4,7 @@ To mantain a simple concise style guide we have adopted the Wikipedia [Manual of
 
 Here are some of the common styles that must be followed when writing documentation:
 
-* Use [plain English] however even better is [Simplified English] to ensure accuracy.[1][plain English problems]
+* Use [plain English] however even better is [simplified English] to ensure accuracy. (See: [Plain English problems])
 * Spelling and grammar are in American English. Use [Grammarly] to keep your writing correct.
 * [Lists][MoS/Lists] should be sentence case
 * [Headings and titles][MoS Article titles] should be sentence case.
@@ -20,7 +20,7 @@ Some further additions to be loosely followed:
   * [GitLab handbook](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/handbook)
   * [Basecamp handbook](https://github.com/basecamp/handbook)
   * [The Mayfield Handbook of Tecnhical & Scientific Writing](http://www.mhhe.com/mayfieldpub/tsw/home.htm)
-  * [plain language](https://www.plainlanguage.gov/guidelines/)
+  * [Plain language](https://www.plainlanguage.gov/guidelines/)
   * [Sentence vs title case](https://www.snappysentences.com/sentence-case-v-title-case/)
   * [Commonmark](https://spec.commonmark.org/current)
 
@@ -32,5 +32,5 @@ Some further additions to be loosely followed:
 [MoS/Capital letters]:https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Capital_letters
 [Simplified English]:https://simple.wikipedia.org/wiki/Simplified_English
 [Plain English]:https://en.wikipedia.org/wiki/Plain_English
-[plain English problems]:https://www.techscribe.co.uk/techw/plain-english-problems.htm
+[Plain English problems]:https://www.techscribe.co.uk/techw/plain-english-problems.htm
 [reference links]:https://spec.commonmark.org/0.28/#reference-link
