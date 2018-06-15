@@ -41,6 +41,7 @@ This Handbook offers us an opportunity to clarify what Niteo is and how we opera
 
 ## Miscellaneous
 * [Security Policy](company/security.md)
+* [Style guide](company/style-guide.md)
 * [Managing documentation](company/managing-docs.md)
 * [Glossary](glossary.md)
 
