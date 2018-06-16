@@ -2,22 +2,24 @@
 
 ## Setting Your Salary
 
-Because we live in different parts of the world, have different lifestyles and different tax laws it's almost impossible for the company to set a fair salary for everyone. Therefore, **we give the biggest weight to your own proposal** for your salary. We have a maximum salary cap which is five times that of the current minimum salary in the company. The founders' salaries are published here as a benchmark.
+Because we live in different parts of the world, have different lifestyles and different tax laws it's almost impossible for the company to set a fair salary for everyone. Therefore, **we give the biggest weight to your own proposal** for your salary. The founders' salaries are published below for orientation.
+
+We have a salary cap which is five times that of the current minimum salary in the company because we hate how CEOs of some corporations [earn hundreds of times more] than their minimum wage workers.
 
 As a company, we made the decision ([IRL#4]) to have an open salary policy in order to promote equality and transparency. There is no overall list for quick comparison instead the salary and bonuses of each Nitean are available in our Scrooge salary app to be viewed on an individual basis.
 
 We welcome questions about salaries, bonuses, and responsibilities to help you decide what would be a fair salary. Everyone is also free to propose that someone should have a higher/lower salary or that we should increase minimum salary (which is the only way to increase the maximum salary).
 
 
-## Current Company Salaries (January 2017)
+## Current company salaries (June 2018)
 
 All amounts are gross (total cost to the company). Some people take care of their own taxes and for some the company pays them, however the gross salary is the same.
 
-**Minimum salary:** 650 EUR
+**Minimum salary:** 1300 EUR
 
-**Maximum salary:** 3250 EUR
+**Founders' salary:** 2500 EUR (seniors are paid more)
 
-**Founder's salary:** 2500 EUR
+**Salary cap:** 6500 EUR ([factor of 5])
 
 
 ## What to consider when setting your salary?
@@ -75,3 +77,5 @@ While many of us are good friends, we are still a business, not a family. Unlike
 
 
 [IRL#4]: https://blog.niteo.co/irl4-istanbul/
+[earn hundreds of times more]: https://www.cnbc.com/2018/01/22/heres-how-much-ceo-pay-has-increased-compared-to-yours-over-the-years.html
+[factor of 5]: https://github.com/niteoweb/handbook/blob/master/people/salary.md#setting-your-salary
