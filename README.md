@@ -54,4 +54,4 @@ This Handbook is inspired by [GitLab's](https://about.gitlab.com/handbook/) and 
 
 ## Join us!
 
-Like what you read and would like to become a Nitean? Check out open positions on [niteo.co/careers](niteo.co/careers)!
+Like what you read and would like to become a Nitean? Check out open positions on [niteo.co/careers](https://niteo.co/careers)!
