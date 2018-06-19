@@ -21,11 +21,11 @@ We believe every Nitean should take part in the distribution of the company prof
 
 The Productivity Allowance is a monthly budget that can be used to pay for any expenses that you believe can improve your work. Some examples of such expenses (but definitely not a finite list):
 
+* Attending a conference, a training or a similar event.
 * A new phone, computer or monitor.
 * A good microphone and camera for meetings.
 * A good work chair or a standing desk.
 * Internet connection with a static IP at a reputable provider.
-* Attending a conference.
 * Membership of a local hackerspace.
 * Subscription to an online or offline course.
 * A gadget such as a Kindle or a smart watch.
@@ -33,9 +33,9 @@ The Productivity Allowance is a monthly budget that can be used to pay for any e
 
 In other words, would something boost your productivity and creativity? Good, feel free to buy it with your allowance, no questions asked.
 
-### Monthly budget
+### Allowance budget
 
-The current allowance budget as of *January 2018* is:
+The current monthly allowance budget as of *January 2018* is:
 
  * Niteans: _€125_
  * Founders: _€250_
@@ -44,21 +44,15 @@ The monthly budgets compound every month, so whatever you do not spend this mont
 
 You can request an increase in your allowance if you feel the current one doesn't cover all the expenses for you. You can spend a few months of future allowance balance. The maximum allowance balance you can keep is 18 months. That said, it's smart to keep at least a few months allowance, just in case something breaks.
 
+If they attended a conference in the previous year, each Nitean gets a €1000 additional budget on 1st of January every year.
+
+Every Nitean, when they transition from Trialist to a Permanent position, starts with a €1000 of allowance budget.
+
 ##### What about those Niteans that receive their salary in USD?
 
-In case you live in a country that has their economy tied to USD mora than EUR,
-it is recommended that you choose to receive your salary in USD in order to
-decrease the risk of currency fluctuations affecting your base salary.
+If you live in a country that has their economy tied to USD more than EUR, it is recommended that you choose to receive your salary in USD in order to decrease the risk of currency fluctuations affecting your base salary.
 
-In this case, your allowance will also come in USD. The exact amount of USD
-is calculated on 1st of January for every year, based on the current exchange
-rate, and rounded up to the nearest ten. For 2018, the USD allowance budget is
-$150 / month.
-
-
-## Software Licenses
-
-Any software or tools that are a requirement for your role at Niteo, e.g. Photoshop for designers, are a company expense and do not count against your Productivity Allowance budget. Ask @dmurko to make the purchase with our company credit card.
+In this case, your allowance will also come in USD. The exact amount of USD is calculated on 1st of January for every year, based on the current exchange rate, and rounded up to the nearest ten. For 2018, the USD allowance budget is $150 / month.
 
 ## Conferences
 
@@ -66,34 +60,49 @@ We encourage you to attend conferences to improve your knowledge of a subject ar
 
 All conference expenses such as transport, accommodation, food, etc., are covered by your [Productivity Allowance](#productivity-allowance). To make sure you don't run out, you get a bonus for every day of the conference.
 
-### Conference fee
-
-The conference fee will be reimbursed as a business expense so it is separate from your Productivity Allowance. If the conference fee is over 500 EUR then approval will be required from a [Partner](https://github.com/orgs/niteoweb/teams/peopleops).
-
 ### Bonus allowance budget for attending a conference
 
 The allowance bonus accounts for all the days you are away at the conference and depends on the amount of traveling and acclimatization required:
 
-* $50/day for local conferences, in or near your home city.
-* $200/day for international conferences.
-* $300/day for intercontinental conferences.
+* €40($50)/day for local conferences, in or near your home city.
+* €150($180)/day for international conferences.
+* 250€($300)/day for intercontinental conferences.
 * Bonus 50%/day if you give a 30-60min talk at the conference.
 
 Conferences count as working days (7.5h per day). Transport to conferences counts too (up to 7.5h per day).
 
 The conference allowance bonus requires that you write a report about the conference when you get back. It can be published on Intra or on any of our blogs.
 
-For example, Dejan goes to a three-day conference in London:
+For example, John attends a 5-day IRL in Istanbul:
 
-    * Conference fee is $500.
-    * Flights, trains and, taxis are $500.
-    * Hotel and food are $600.
+    * Flights and taxis are €600.
+    * IRL venue and accommodation is covered by Niteo.
+    * John spends extra €100 on snacks and a massage at the airport.
+    * John gets his salary in EUR.
+    * John's monthly allowance is 125 EUR.
 
-    The conference allowance is calculated as (with a day of travel each way):
+    The conference bonus is calculated like so (with a day of travel each way):
 
-    * $1500 (5 * $200/day)
+    * €1050 (7 * €150/day)
 
-    Therefore Dejan charges the company, $500 in business expenses and $1100 in spent allowance. And before the trip, Dejan's allowance budget was $500 so after the trip, it is now $900.
+    Therefore John charges the company €700 (€600 + €100) in spent allowance. Before the trip, John's allowance budget was €1000 so after the trip, it is now €1350 (€1000 + €1050 - €700).
+
+
+Another example: Two months later, John goes to a three-day conference in Barcelona:
+
+    * Conference fee is €500.
+    * Flights, trains and, taxis are €500.
+    * Hotel and food are €600.
+    * John spends extra €300 on niceties that make his trip more enjoyable.
+    * John gets his salary in EUR.
+    * John's monthly allowance is 125 EUR.
+
+    The conference bonus is calculated like so (with a day of travel each way):
+
+    * €750 (5 * €150/day)
+
+    Therefore John charges the company €1900 (€500 + €500 + €600 + €300) in spent allowance. Before the trip, John's allowance budget was €1600 (€1350 + 2x€125) so after the trip, it is now €450 (€1600 + €750 - €1900). The trip was expensive but it sure was nice!
+    
 
 ### Extending your trip with vacation days
 
