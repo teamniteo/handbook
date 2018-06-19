@@ -73,7 +73,7 @@ Similarly to commits, Pull Requests should look like this:
 > Refs niteoweb/operations#123.
 
 A few examples of excellent Pull Requests:
- * TODO
+ * https://github.com/niteoweb/ebn/pull/3520
  * TODO
  * TODO
 
