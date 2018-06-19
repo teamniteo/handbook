@@ -50,7 +50,7 @@ Every Nitean, when they transition from Trialist to a Permanent position, starts
 
 ##### What about those Niteans that receive their salary in USD?
 
-In case you live in a country that has their economy tied to USD mora than EUR, it is recommended that you choose to receive your salary in USD in order to decrease the risk of currency fluctuations affecting your base salary.
+If you live in a country that has their economy tied to USD more than EUR, it is recommended that you choose to receive your salary in USD in order to decrease the risk of currency fluctuations affecting your base salary.
 
 In this case, your allowance will also come in USD. The exact amount of USD is calculated on 1st of January for every year, based on the current exchange rate, and rounded up to the nearest ten. For 2018, the USD allowance budget is $150 / month.
 
