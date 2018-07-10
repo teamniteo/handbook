@@ -46,7 +46,7 @@ You can request an increase in your allowance if you feel the current one doesn'
 
 If they attended a conference in the previous year, each Nitean gets a €1000 additional budget on 1st of January every year.
 
-Every Nitean, when they transition from Trialist to a Permanent position, starts with a €1000 of allowance budget.
+Every Nitean, when they transition from Trialist to a Permanent position, starts with an allowance budget that is proportional to how many months remain in the year (€1000 in January, €500 in July, etc.)
 
 ##### What about those Niteans that receive their salary in USD?
 
