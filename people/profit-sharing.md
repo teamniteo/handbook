@@ -31,7 +31,7 @@ This part rewards the people that have believed in the company in the past, have
 
 This part rewards the work achieved in the past quarter and is a logarithmic points scale based on length of time working for the company. The calculation of profit-share points for a single Nitean is as follows:
 
-    points = log(months_at_company) * (1 - unpaid_vacation_ratio)
+    points = months_at_company/log(months_at_company) * (1 - unpaid_vacation_ratio)
 
 The profit share will only be reduced if unpaid vacation time has been used.
 
