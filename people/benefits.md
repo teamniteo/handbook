@@ -1,17 +1,6 @@
 # Benefits
 
-  **Contents**
-  1. [Profit sharing](#profit-sharing)
-  2. [Productivity Allowance](#productivity-allowance)
-  2. [Software Licenses](#software-licenses)
-  3. [Conferences](#conferences)
-  4. [Courses](#courses)
-  5. [Vacation](#vacation)
-  6. [Public holidays](#public-holidays)
-  7. [Sick leave](#sick-leave)
-
-
-## Profit sharing
+## Profit Sharing
 
 > *Main document: [Profit sharing](profit-sharing.md)*
 
@@ -19,25 +8,15 @@ We believe every Nitean should take part in the distribution of the company prof
 
 ## Productivity Allowance
 
-The Productivity Allowance is a monthly budget that can be used to pay for any expenses that you believe can improve your work. Some examples of such expenses (but definitely not a finite list):
-
-* Attending a conference, a training or a similar event.
-* A new phone, computer or monitor.
-* A good microphone and camera for meetings.
-* A good work chair or a standing desk.
-* Internet connection with a static IP at a reputable provider.
-* Membership of a local hackerspace.
-* Subscription to an online or offline course.
-* A gadget such as a Kindle or a smart watch.
-* A Raspberry PI to play around with and learn new things.
+The Productivity Allowance is a monthly budget that can be used to pay for any expenses that you believe can improve your work. Some examples of such expenses (but definitely not a finite list): attending a conference, a training or a similar event, an online course, a new phone, computer or monitor, a good microphone and camera for meetings, a good work chair or a standing desk, an Internet connection with a static IP at a reputable provider, a membership of a local hackerspace, a gadget such as a Kindle or a smart watch, a Raspberry PI to play around with and learn new things, etc.
 
 In other words, would something boost your productivity and creativity? Good, feel free to buy it with your allowance, no questions asked.
 
-### Allowance budget
+### Allowance Budget
 
 The current monthly allowance budget as of *January 2018* is:
 
- * Niteans: _€125_
+ * Niteans: _€125 ($150)_ 
  * Founders: _€250_
 
 The monthly budgets compound every month, so whatever you do not spend this month, you can use the next month, or the one after.
@@ -48,25 +27,19 @@ If they attended a conference in the previous year, each Nitean gets a €1000 a
 
 Every Nitean, when they transition from Trialist to a Permanent position, starts with an allowance budget that is proportional to how many months remain in the year (€1000 in January, €500 in July, etc.)
 
-##### What about those Niteans that receive their salary in USD?
-
-If you live in a country that has their economy tied to USD more than EUR, it is recommended that you choose to receive your salary in USD in order to decrease the risk of currency fluctuations affecting your base salary.
-
-In this case, your allowance will also come in USD. The exact amount of USD is calculated on 1st of January for every year, based on the current exchange rate, and rounded up to the nearest ten. For 2018, the USD allowance budget is $150 / month.
-
 ## Conferences
 
 We encourage you to attend conferences to improve your knowledge of a subject area and network with similar minded people. Try to give notice at least 10-14 days before attending a conference.
 
-All conference expenses such as transport, accommodation, food, etc., are covered by your [Productivity Allowance](#productivity-allowance). To make sure you don't run out, you get a bonus for every day of the conference.
+All conference expenses such as transport, accommodation, food, etc., are covered by your Allowance. To make sure you don't run out, you get a bonus for every day of the conference.
 
 ### Bonus allowance budget for attending a conference
 
-The allowance bonus accounts for all the days you are away at the conference and depends on the amount of traveling and acclimatization required:
+The allowance bonus accounts for all the days you are away at the conference and depends on the amount of traveling and accomodation required:
 
-* €40($50)/day for local conferences, in or near your home city.
-* €150($180)/day for international conferences.
-* 250€($300)/day for intercontinental conferences.
+* €40 ($50)/day for local conferences, in or near your home city.
+* €150 ($180)/day for international conferences.
+* 250€ ($300)/day for intercontinental conferences.
 * Bonus 50%/day if you give a 30-60min talk at the conference.
 
 Conferences count as working days (7.5h per day). Transport to conferences counts too (up to 7.5h per day).
@@ -108,19 +81,6 @@ Another example: Two months later, John goes to a three-day conference in Barcel
 
 You are encouraged to extend your trip and take vacation days to see the place you travel to. Or the place where your layover is. We are already paying for your ticket, so might as well get the most of it, right?
 
-## Courses
-
-We encourage you to take courses by paying for time spent on the course, either online or offline. A rough guideline is one course per quarter. The amount covered is based on how direct the benefit is from the course, based on the course syllabus.
-
-* 50% for loosely work-related courses which do not have an immediate benefit.
-* 100% for work-related courses with immediate benefits.
-
-After finishing the course, you should write a short review of the course, for others to use when deciding whether to take a course or not.
-
-The main limitation is that project work always has priority over course-related work.
-
-If you need to pay a fee to participate in the course, use your [allowance](#allowances).
-
 
 ## Vacation
 
@@ -133,7 +93,7 @@ Death in the family is 3 extra days of paid leave.
 
 ### Booking vacation
 
-To book vacation time off, see the Intra [Planned absences](https://intra.niteo.co/resolveuid/dcf71b9c6b17430789ace610c9ac384a) page. Remember to post to `#out-of-office` channel on Slack whenever you add a new entry.
+To book vacation time off, see the Intra [Planned absences](https://intra.niteo.co/resolveuid/dcf71b9c6b17430789ace610c9ac384a) page. 
 
 
 ### Unused vacation
@@ -150,7 +110,7 @@ Please ensure however that your department and associated work will not suffer d
 
 ## Public holidays
 
-We are from different parts of the World, and we have different customs when it comes to public holidays. The Americans have close to no public holidays, some countries have up to 20 public holidays per year (though some come on weekends). To avoid taking a break when your government tells you to instead of when you *need* a break, and to avoid "bad holiday years" when all public holidays come on weekends and are hence rendered moot, we have our own little approach to holidays:
+We are from different parts of the World, and we have different customs when it comes to public holidays. The Americans have close to no public holidays, some countries have up to 20 public holidays per year (though some come on weekends). To avoid taking a break when your government tells you to instead of when you *need* a break, and to avoid "bad holiday years" when all public holidays come on weekends and are hence rendered moot, we have our own approach to holidays:
 
 * Everyone is entitled to one public holiday each month, whichever day they want.
 * The one day is automatically calculated as one working day less every month.
