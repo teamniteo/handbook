@@ -1,14 +1,8 @@
-# Catchup meetings
+# Catchup Meetings
 
 All Niteans have informal 1-on-1 meetings every two weeks with a senior team member in order to *catch up*. This feedback is important as everyone works remotely so we have less contact and less of an idea of what's going on with individuals. We want to know how we can help everyone work and feel better in the company.
 
 This is your opportunity to discuss anything you want so they should be treated as more of a *beer in a coffee shop* than an *interview-style* meeting.
-
-**Contents**
-  1. [Schedule](#schedule)
-  2. [Your meeting!](#your-meeting)
-  3. [Discussion Points](#discussion-points)
-  4. [Further Reading](#further-reading)
 
 
 ## Schedule
@@ -21,8 +15,7 @@ They should not be cancelled unless unavoidable, such as an emergency.
 
 These meetings are primarily for you so feel free to set an agenda and lead the meeting. You can let us know about the progress of work in the last week, give private feedback about the work, working conditions, company, projects, ideas or anything else on your mind.
 
-
-## Discussion points
+## Discussion Points
 
 ### Weekly
 
@@ -46,7 +39,7 @@ These meetings are primarily for you so feel free to set an agenda and lead the 
 * Have you any half-baked ideas for projects, the company or anything else?
 
 
-## Further reading
+## Further Reading
 
 * [Keys to Starting 1 on 1s with your team](https://medium.com/lighthouse-on-leadership/keys-to-starting-1-on-1s-with-your-team-320448d258ad)
 * [Why 1-1 meetings are crucial to your team’s success](https://wavelength.asana.com/workstyle-what-is-a-1-1/)
