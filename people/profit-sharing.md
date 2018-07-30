@@ -15,7 +15,7 @@ This part rewards the people that have believed in the company in the past, have
 
 1. Bank loans (to decrease interest rates)
 2. Business loans
-4. Founder payouts
+3. Founder payouts
 
 
 ## Present
