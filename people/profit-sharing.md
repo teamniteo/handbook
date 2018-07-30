@@ -44,3 +44,5 @@ The remaining part of the profit share is what we donate to charities and causes
 The organization voting takes place at the end of each quarter with every Nitean casting their votes. There are four votes to cast; Three votes worth 1 point and one vote worth 3 points. The list of organizations and the voting tally is kept in a [Zoho spreadsheet](https://docs.zoho.eu/file/wtxljad4438a51ea04a59b5dce7d3dce0d0ac) (for permanent Niteans only).
 
 The organization with the most total "points" (current quarter plus previous quarters) gets the profit share donation. Then its points are reset to zero (if the organization wins by more than 1 point, the difference is carried over to next month). Other organizations keep their points for the next quarter. If there is a tie, the Partners decide the winner.
+
+You can see the organizations we've donated to on the [About Niteo page](https://niteo.co/about).
