@@ -1,16 +1,8 @@
-# Profit sharing
+# Profit Sharing
 
 This document describes how we manage the distribution of the company's profit, on a quarterly basis.
 
-  **Contents**
-  1. [The concept](#the-concept)
-  2. [Past](#past)
-  3. [Present](#present)
-  4. [Future](#future)
-  5. [Donations](#donations)
-
-
-## The concept
+## The Concept
 
 Profit is distributed at the end of each quarter, based on the performance of the company. We believe in donating to good causes and reserve 10% of this profit with the hope of making a big impact upon them. The remaining percentage of the profit is split three-ways (30% per part) based on how we perceive time: the past, the present and the future.
 
@@ -22,8 +14,7 @@ The profit will only be paid-out if cash reserves are high enough to cover 12 mo
 This part rewards the people that have believed in the company in the past, have invested in it, have lent money to it, etc. The priority of payouts are as follows:
 
 1. Bank loans (to decrease interest rates)
-2. Personal loans
-3. Investor payouts
+2. Business loans
 4. Founder payouts
 
 
@@ -53,11 +44,3 @@ The remaining part of the profit share is what we donate to charities and causes
 The organization voting takes place at the end of each quarter with every Nitean casting their votes. There are four votes to cast; Three votes worth 1 point and one vote worth 3 points. The list of organizations and the voting tally is kept in a [Zoho spreadsheet](https://docs.zoho.eu/file/wtxljad4438a51ea04a59b5dce7d3dce0d0ac) (for permanent Niteans only).
 
 The organization with the most total "points" (current quarter plus previous quarters) gets the profit share donation. Then its points are reset to zero (if the organization wins by more than 1 point, the difference is carried over to next month). Other organizations keep their points for the next quarter. If there is a tie, the Partners decide the winner.
-
-So far, we have donated to the following organizations:
-
-* [Let's Encrypt](https://letsencrypt.org/)
-* [Botrstvo [SI]](https://www.boter.si/)
-* [LibreOffice](https://www.libreoffice.org/)
-* [PodCrto [SI]](http://podcrto.si/)
-* [Wikipedia](https://www.wikipedia.org/)
