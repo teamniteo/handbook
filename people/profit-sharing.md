@@ -9,7 +9,7 @@ Profit is distributed at the end of each quarter, based on the performance of th
 The profit will only be paid-out if cash reserves are high enough to cover 12 months of salaries and regular expenses. Just in case we lose our primary revenue stream and need to rely on the reserves.
 
 
-## Past
+### Past
 
 This part rewards the people that have believed in the company in the past, have invested in it, have lent money to it, etc. The priority of payouts are as follows:
 
@@ -18,7 +18,7 @@ This part rewards the people that have believed in the company in the past, have
 3. Founder payouts
 
 
-## Present
+### Present
 
 This part rewards the work achieved in the past quarter and is a logarithmic points scale based on length of time working for the company. The calculation of profit-share points for a single Nitean is as follows:
 
@@ -32,7 +32,7 @@ The resulting profit-share payout is calculated with this formula:
 
 The payout will then be split over the following three months of salary payments.
 
-## Future
+### Future
 
 This part stays in the company's bank account and is used for investing in the following quarter. This can be discounted prepayments for expenses so we lower our mid-term and long-term costs, paid supervised training from authorities in a field we're interested in, gadgets for research, conference fees and allowances, paid courses etc.
 
