@@ -4,39 +4,32 @@
 
 Because we live in different parts of the world, have different lifestyles and different tax laws it's almost impossible for the company to set a fair salary for everyone. Therefore, **we give the biggest weight to your own proposal** for your salary. The founders' salaries are published below for orientation.
 
-We have a salary cap which is five times that of the current minimum salary in the company because we hate how CEOs of some corporations [earn hundreds of times more] than their minimum wage workers.
+We have a salary cap which is five times that of the current minimum salary in the company because we hate how CEOs of some corporations [earn hundreds of times more](https://www.cnbc.com/2018/01/22/heres-how-much-ceo-pay-has-increased-compared-to-yours-over-the-years.html) than their minimum wage workers.
 
-As a company, we made the decision ([IRL#4]) to have an open salary policy in order to promote equality and transparency. There is no overall list for quick comparison instead the salary and bonuses of each Nitean are available in our Scrooge salary app to be viewed on an individual basis.
+As a company, we made the decision ([IRL#4](https://blog.niteo.co/irl4-istanbul/)) to have an open salary policy in order to promote equality and transparency. There is no overall list for quick comparison instead the salary and bonuses of each Nitean are available in our Scrooge salary app to be viewed on an individual basis.
 
 We welcome questions about salaries, bonuses, and responsibilities to help you decide what would be a fair salary. Everyone is also free to propose that someone should have a higher/lower salary or that we should increase minimum salary (which is the only way to increase the maximum salary).
 
+If you live in a country that has their economy tied to USD more than EUR, it is recommended that you choose to receive your salary in USD in order to decrease the risk of currency fluctuations affecting your base salary.
 
-## Current company salaries (June 2018)
+### Current company salaries (July 2018)
 
 All amounts are gross (total cost to the company). Some people take care of their own taxes and for some the company pays them, however the gross salary is the same.
 
 **Minimum salary:** 1300 EUR
 
-**Founders' salary:** 2500 EUR (seniors are paid more)
-
-**Salary cap:** 6500 EUR ([factor of 5])
+**Salary cap:** 6500 EUR (factor of 5)
 
 
-## What to consider when setting your salary?
+### What to consider when setting your salary?
 
-The main idea to keep in mind is: base salary gives you a *bit painful* lower-middle-class salary that covers your expenses while [profit sharing](profit-sharing.md) gives you the luxury and brings you in the higher class. We want the large majority of salary to come from profit sharing so that the company is able to survive challenging times with as low fixed expenses as possible, but so that everyone gets a big cut of the profit when we're doing well.
-
-You should also consider internal and external factors:
+You should consider internal and external factors:
 * your responsibilities in the company, how independent you are at your job, seniority;
 * your country's purchasing power, your role market rate, dependants (children, spouses).
 
-We've set the founder's salary as a middle-class salary in Ljubljana, Slovenia. There are multiple indexes you can check to see how your country/city compares to Ljubljana, the easiest one to use is [Numbeo](https://www.numbeo.com/cost-of-living/).
-
-
-## When can I request changes to my salary?
+### When can I request changes to my salary?
 
 You can request a change to your salary sometime in the last month of the quarter. This way we'll have time to finalize the agreement by the end of the quarter, so it goes into effect in the new one.
-
 
 ## Working Hours
 
@@ -45,7 +38,7 @@ Each month everyone is expected to work (on average) 7.5 hours per working day i
 On the contrary, if the monthly quota is not reached, that month's salary is reduced by 130% of hourly wage for every missing hour (that is, of course, after considering vacation and sick leave hours).
 
 
-## Tracking Actual Working Hours
+### Tracking Actual Working Hours
 
 All time spent doing work-related activities counts as working hours. The only exception is the commute to the office. Working hours include reading the documentation, answering emails, attending conferences, etc.
 
@@ -74,8 +67,3 @@ While many of us are good friends, we are still a business, not a family. Unlike
 * Every Nitean (except Trialists) is entitled to a severance package according to the following formula:
   * up to one year: 1 month base salary,
   * more than one year: 2 months base salary + 1 month for each additional year, up to max 12 months total.
-
-
-[IRL#4]: https://blog.niteo.co/irl4-istanbul/
-[earn hundreds of times more]: https://www.cnbc.com/2018/01/22/heres-how-much-ceo-pay-has-increased-compared-to-yours-over-the-years.html
-[factor of 5]: https://github.com/niteoweb/handbook/blob/master/people/salary.md#setting-your-salary
