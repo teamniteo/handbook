@@ -45,21 +45,11 @@ On the contrary, if the monthly quota is not reached, that month's salary is red
 
 All time spent doing work-related activities counts as working hours. The only exception is the commute to the office. Working hours include reading the documentation, answering emails, attending conferences, etc.
 
-Track all hours spent working for the company:
-* in the office
-* working from home
-* working from any other location
-* meeting
-* transport to a meeting
-* conference (1 conference day = 7.5 hours)
-* transport to a conference (up to 7.5 hours per day)
-* reading purposefully chosen technical material
-* participation in courses
-* do not track non-meeting lunch
+Track all hours spent working for the company, including transport to a meeting, conference (1 conference day = 7.5 hours),  transport to a conference (up to 7.5 hours per day), reading purposefully chosen technical material, and participation in courses.
 
-Everyone tracks working hours for themselves. At the end of each month, send your **total working hours *and* sick leave days** to Dejan. We don't need breakdown per day or per task. You don't need to count vacation hours or sick leave, all that is done automatically and the balance posted to your [Intra profile](https://intra.niteo.co/resolveuid/8027d5b5-0b78-4a85-8d43-d419c82e98fd) at the beginning of each month.
+Everyone tracks working hours for themselves. At the end of each month, add your working hours and sick hours to Scrooge. 
 
-# Lay Off / Severance Policy
+# Severance Policy
 
 While many of us are good friends, we are still a business, not a family. Unlike a family, people join and leave us from time to time. Whenever we have to let someone go, this is how we do it.
 
