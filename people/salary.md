@@ -23,7 +23,10 @@ All amounts are gross (total cost to the company). Some people take care of thei
 
 ### What to consider when setting your salary?
 
-You should consider internal and external factors:
+Our goal is to pay a competitive market salary for all positions for a company outside tech cities like San Francisco, NYC, Berlin, etc. 
+
+You should also consider internal and external factors:
+
 * your responsibilities in the company, how independent you are at your job, seniority;
 * your country's purchasing power, your role market rate, dependants (children, spouses).
 
