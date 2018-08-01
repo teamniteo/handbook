@@ -6,51 +6,25 @@ For the last decade, we have been accumulating the knowledge and practicalities 
 
 This Handbook offers us an opportunity to clarify what Niteo is and how we operate. It allows greater transparency to our partners, potential new team members, and the wider Open Source community.
 
-## About the company
+The structure of the Handbook mirrors our departments for simple organization. Resilio and Intra are structured the same way.
 
-* [About Niteo](company/niteo.md) - The vision and values.
-* [History](company/history.md) - How we started and have evolved.
-* [Who does what](company/who-does-what.md)
+* [**Projects**](1_Projects/projects.md) 
+* [**Operations**](2_Operations/operations.md) 
+* [**Development**](3_Development/) 
+* [**Marketing & Support**](4_Marketing-Support/) 
+* [**People**](5_People/people.md)
 
-## For the people
-* [Profit Sharing](people/profit-sharing.md)
-* [Benefits](people/benefits.md)
-* [Salary](people/salary.md)
-* [Catchup Meetings](people/catchup-meetings.md)
+## About Niteo and Niteans
 
-## Nitean roles
-* [Onboarding](roles/onboarding.md)
-* [Support](roles/support.md)
-* [Everyone On Support](roles/everyone-on-support.md)
-* [Designer](roles/designer.md)
-* [People-ops](roles/people-ops.md)
-* [Hiring](roles/hiring.md)
-
-## Working process
-* [How we work](work-process/how-we-work.md)
-* [Daily standup meeting](work-process/standup.md)
-* [Work process](work-process/work-process.md)
-* [Finding your next task](work-process/next-task.md)
-
-## Guides on apps we use
-* [Slack](apps-we-use/slack.md) - Team messaging
-* [Signal](apps-we-use/signal.md) - Secure team messaging
-* [Git](apps-we-use/git.md)
-* [OpenVPN](apps-we-use/openvpn.md)
-* [Resilio](apps-we-use/resilio.md)
-
-## Miscellaneous
-* [Security Policy](company/security.md)
-* [Writing style guide](company/writing-style-guide.md)
-* [Managing documentation](company/managing-docs.md)
-* [Glossary](glossary.md)
-
+* [About Niteo](https://niteo.co/about)
+* [Meet the Niteans](https://niteo.co/team)
+* [Our Blog](https://blog.niteo.co/)
 
 ## Handbook contribution
 
 Please help us keep these documents up to date, this doesn't just mean typos and broken links, but also updating it with the ongoing changes to our work processes. And if there's something you don't like in the way we work, open an Issue where we can discuss better solutions. For new people joining Niteo, take advantage of being new to question or show us how to improve things. We welcome this input, as an outside viewpoint can often jolt us from our well worn ways.
 
-This Handbook is inspired by [GitLab's](https://about.gitlab.com/handbook/) and [Basecamps's](https://github.com/basecamp/handbook) handbooks and is always a *Work-In-Progress*. To update it, create a Pull Request with the proposed changes or [open an Issue](https://github.com/niteoweb/handbook/issues) to start a discussion.
+This Handbook is inspired by [GitLab's](https://about.gitlab.com/handbook/) and [Basecamps'](https://github.com/basecamp/handbook) handbooks and is always a *Work-In-Progress*. To update it, create a Pull Request with the proposed changes or [open an Issue](https://github.com/niteoweb/handbook/issues) to start a discussion.
 
 ## Join us!
 
