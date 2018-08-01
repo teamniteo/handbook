@@ -47,7 +47,7 @@ All time spent doing work-related activities counts as working hours. The only e
 
 Track all hours spent working for the company, including transport to a meeting, conference (1 conference day = 7.5 hours),  transport to a conference (up to 7.5 hours per day), reading purposefully chosen technical material, and participation in courses.
 
-Everyone tracks working hours for themselves. At the end of each month, add your working hours and sick hours to Scrooge. 
+Everyone tracks working hours for themselves. At the end of each month, add your working hours and sick hours to Scrooge. If you are a Trialist, then just send the total hours to @dmurko on Slack. 
 
 # Severance Policy
 
