@@ -16,7 +16,7 @@ That should be your mindset when conducting interviews: you are not searching fo
 
 Workable guides us through the following stages of hiring a new Nitean. A candidate should expect to wait up to 5 business days between each step of the process.
 
-1. Sourcing
+**1. Sourcing**
 
    We post the job ads to various free and paid options, on a per-position basis, but here's a general idea:
    * Workable posts to 15+ US-based free boards automatically (Glassdoor, Indeed).
@@ -24,11 +24,11 @@ Workable guides us through the following stages of hiring a new Nitean. A candid
    * We post to twitter.com/teamniteo and facebook.com/niteo.
    * Sometimes we run an ad campaign on Facebook or buy ads on StackOverflow.
 
-2. Application
+**2. Application**
 
    Interested candidates get to our Application Form, hosted by Workable. The form needs to be short, with only general questions. Resist the temptation to ask advanced (technical) questions to assess needed skills for the position. We do these in the next step.
 
-3. Questionnaire
+**3. Questionnaire**
 
    Members of the hiring team rate (+1/-1) candidates based on application form answers. Whoever gets two or more +1s gets transitioned to the next step: the Questionnaire. Use the `Advanced Questionnaire - <position>` email template to send the questions/tasks to the candidate.
 
@@ -36,7 +36,7 @@ Workable guides us through the following stages of hiring a new Nitean. A candid
 
    Whoever gets two or more +1s gets transitioned to the next step: Phone Screen.
 
-4. Phone Screen
+**4. Phone Screen**
 
    A chat over Skype, Hangouts or Zoom with @marbeann. Calls can last anywhere between 10 and 30. The goal is to confirm the candidate is able to communicate via video conferencing. Is their connection OK? Is their English OK? Can they hold a discussion on a subject?
 
@@ -44,7 +44,7 @@ Workable guides us through the following stages of hiring a new Nitean. A candid
    * Weekly commitment for the trial period (full- or part-time).
    * When can they start?
 
-5. Interview
+**5. Interview**
 
    Before the interview we need to select the Nitean who will mentor the candidate should the candidate start the trial period.
 
@@ -61,7 +61,7 @@ Workable guides us through the following stages of hiring a new Nitean. A candid
    8. What do they do outside of their work life? Any volunteering perhaps? Open Source contributions? Activity in non-profit organizations?
    9. Discuss salary. Go through our "you set your own salary" policy, profit sharing and other benefits. Ask the candidate to think about their salary for a day or two and get back to us with a figure.
 
-6. Offer
+**6. Offer**
 
    After the candidate sends over their expected salary, everyone involved with the hiring gets on Zoom to do the final review of the application. We decide whether or not to offer the candidate a trial position in Niteo. Part of the positive reply should be:
    * trial salary,
