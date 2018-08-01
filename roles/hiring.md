@@ -69,7 +69,7 @@ Workable guides us through the following stages of hiring a new Nitean. A candid
    * weekly commitment (full or part-time),
    * next step if they accept the offer: onboarding.
 
-7. Hired
+**7. Hired**
 
    The candidate accepts our offer, and we start the [onboarding process].
 
