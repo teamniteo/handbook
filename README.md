@@ -8,11 +8,11 @@ This Handbook offers us an opportunity to clarify what Niteo is and how we opera
 
 The structure of the Handbook mirrors our departments for simple organization. Resilio and Intra are structured the same way.
 
-* [**Projects**](1_Projects/projects.md) 
-* [**Operations**](2_Operations/operations.md) 
-* [**Development**](3_Development/) 
-* [**Marketing & Support**](4_Marketing-Support/) 
-* [**People**](5_People/people.md)
+* [Projects](1_Projects/projects.md) 
+* [Operations](2_Operations/operations.md) 
+* [Development](3_Development/) 
+* [Marketing & Support](4_Marketing-Support/) 
+* [People](5_People/people.md)
 
 ## About Niteo and Niteans
 
