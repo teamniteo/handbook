@@ -20,7 +20,7 @@ Slack can be a [big distraction](https://m.signalvnoise.com/is-group-chat-making
 
 #### Usage
 
-Signal is to be used primarily sending confidential information that must never be shared over Slack, and timely instant messaging at conferences and IRLs. All other instant messaging should remain on Slack.
+Signal is to be used primarily for sending confidential information that must never be shared over Slack, and timely instant messaging at conferences and IRLs. All other instant messaging should remain on Slack.
 
 #### Niteo Group Chat
 
@@ -66,13 +66,12 @@ Resilio is a secure BitTorrent-based Dropbox-like service for teams.
 * Enter our License key on `Settings` -> `License`. Ask @zupo to generate a License Link for you.
 * One of the Partners needs to share the `Niteo` folder with you. They do this by opening up Resilio and clicking the `Share` button for the `Niteo` folder and sending you the `Read & Write` link . 
 * When you click the link, Resilio should start up and add the shared folder to your device. If this does not happen, open Resilio and click the plus icon to manually enter the link.
-* It is important the you turn `Selective Sync` ON. This tells Resilio to only download filenames to your machine, without the actual data, to save disk space. 
+* It is important that the you turn `Selective Sync` ON. This tells Resilio to only download filenames to your machine, without the actual data, to save disk space. 
 
 
 #### Limitations
 
-* Trialists get access to files on a need-to-have basis. Their mentor opens up Resilio, clicks the plus icon and selects
-`Share file` to share a file with the trialist.
+* Trialists get access to files on a need-to-have basis. Their mentor opens up Resilio, clicks the plus icon and selects `Share file` to share a file with the trialist.
 * Up to 143 characters for filenames: We use Synology NAS devices to act as always-online peers. The data on these devices is stored on encrypted volumes. These volumes have a limit of up to 143 characters filenames.
 * No sharing files with anyone that does not have Resilio installed.
 * Syncing speeds to people outside of Europe is not great, since the vast majority of peers (including always online peers Somnus and Morpheus) are located in Europe.
