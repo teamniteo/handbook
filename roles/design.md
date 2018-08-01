@@ -28,7 +28,7 @@ Product Owner and Marketing talk about the goals of the application or website. 
 
 ### Design Mockup
 
-A mood board (a collage consisting of images and text) is created to enable collaborating on the style of the product. Once a consensus is reached, the details of the wireframe and mood board and captured in a graphical design mockup. The final version will be approved by the Product Owner and the process moves onto implementing the design.
+A mood board (a collage consisting of images and text) is created to enable collaboration on the style of the product. Once a consensus is reached, the details of the wireframe and mood board are captured in a graphical design mockup. The final version will be approved by the Product Owner and the process moves on to implementing the design.
 
 ### Implementation
 
