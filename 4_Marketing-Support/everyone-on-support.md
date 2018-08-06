@@ -19,7 +19,7 @@ In the end, we are working for our customers, and having everyone involved in th
 * After logging back in to Groove, you will see the list of all tickets with assigned agent next to it. You can start working on any of the unassigned ones.
 * On the sidebar, you can track list of all tickets assigned to you by clicking on *My New & Open*.
 * Everyone has *Staff* access to the EBN app, this allows you to log into internal [*Blog Dashboard*](https://github.com/niteoweb/support/blob/master/EBN/blog-dashboard.md) app.
-* Groove integrates with Slack so we get a live stream of emails and responses. You can optionally join #support-emails channel if you want to follow support operations. We also have the #server-operations channel for server status and warnings.
+* We have the #ebn-server-ops channel for server statuses and warnings.
 * All support documents can be found in our [support repository](https://github.com/niteoweb/support/). Make sure you go through them regularly and suggest improvements where needed.
 
 ### II. Frequency
