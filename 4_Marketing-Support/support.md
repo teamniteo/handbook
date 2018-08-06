@@ -40,11 +40,9 @@ If something isn't clear, ask Dejan or Marbe. See our [policy on dealing with us
 
 ## Slack Channels
 
-Support related issues and topics are discussed on #support channel. This way everyone knows what's going on and can ping in on the topic. Avoid pinging coworkers in private since then others won't know what's going on.
+Support related issues and topics are discussed on #ebn-support channel. This way everyone knows what's going on and can ping in on the topic. Avoid pinging coworkers in private since then others won't know what's going on.
 
-We also have the #support-emails channel for a live stream of Groove tickets and responses.
-
-Server related issues, updates and warnings are posted on #server-operations channel.
+Server related issues, updates and warnings are posted on #ebn-server-ops channel.
 
 ## Live Chat Support
 
