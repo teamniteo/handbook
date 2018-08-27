@@ -43,7 +43,7 @@ Hey, welcome to Niteo!%0D%0A
 %0D%0A
 We keep everything related to work on GitHub so I will be short:%0D%0A
 %0D%0A
-• Firstly, please read https://github.com/niteoweb/handbook/blob/master/onboarding.md%0D%0A
+• Firstly, please read https://github.com/niteoweb/handbook/blob/master/5_People/onboarding.md %0D%0A
 • And reply with your GitHub handle.%0D%0A
 %0D%0A
 Regards%0D%0A%0D%0A
