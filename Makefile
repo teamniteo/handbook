@@ -21,4 +21,4 @@ http://videos.niteo.co,\
 https://github.com/issues/assigned,\
 https://github.com/orgs/niteoweb/teams,\
 https://apps.rackspace.com/%0D%0A \
---skip-save-results `find . -name "*.md"`
+--skip-save-results `find . -iname "*.md"`
