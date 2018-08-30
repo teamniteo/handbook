@@ -1,6 +1,6 @@
 # Handling Support Requests
 
-Email support is managed by [Intercom](https://app.intercom.io), a customer messaging platform that supports multiple channels. Support requests are sent via our contact forms, directly to support email address, Facebook Pages, and through Intercom's Messenger (live chat).
+Email support is managed by [Intercom](https://app.intercom.io), a customer messaging platform that supports multiple channels. Support requests are sent via our contact forms, directly to support email address, social media pages (Facebook and Twitter), and through Intercom's Messenger (live chat).
 
 Read everything we have on our product websites (don’t forget the footer links), [Support repository](https://github.com/niteoweb/support/), our blogs and help centers – multiple times. Most questions visitors and users ask are answered on these pages.
 
