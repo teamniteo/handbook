@@ -16,7 +16,7 @@ In addition there are ad-hoc in-person meetups that happen about once or twice a
 
 We work in 2-week Scrum Sprints described in detail in the [work process](work-process.md) document.
 
-Project and task management is currently done with [GitHub](https://github.com/) and [ZenHub](https://www.zenhub.com/). Support handles tickets through [Groove](https://www.groovehq.com). We also have an internal document system (intranet) we call “Intra”, running on [Plone](https://plone.org/), where all our company processes and documents are stored.
+Project and task management is currently done with [GitHub](https://github.com/) and [ZenHub](https://www.zenhub.com/). Support handles tickets through [Intercom](https://app.intercom.io/). We also have an internal document system (intranet) we call “Intra”, running on [Plone](https://plone.org/), where all our company processes and documents are stored.
 
 We track cash flow with [Xero](https://www.xero.com/). Finance reports are published to intranet on a monthly basis and are viewable to all full-time team members.
 
