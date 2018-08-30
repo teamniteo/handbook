@@ -96,7 +96,7 @@ You can use the [HTTPS-Everywhere] browser extension to ensure HTTPS versions of
 
 Sharing customer data such as lists of email addresses should be done using either [Resilio] or [Signal] so that no-one else has access to these private details.
 
-To share individual customer details you can securely reference them by using their application ID or customer issue ticket (e.g. Groove).
+To share individual customer details, you can securely reference them by using their application ID or customer issue ticket (e.g. Intercom).
 
 Sending unencrypted or plain text customer data using insecure services such as Slack or GitHub is a direct violation of our Terms of Service where we promise we won't share users' information with third parties.
 
