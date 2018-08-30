@@ -1,28 +1,28 @@
 # Handling Support Requests
 
-Email support is managed by [Groove](https://niteo.groovehq.com/), a mail-based ticketing system. Customers send an email through a contact form or directly, and a support ticket is created.
+Email support is managed by [Intercom](https://app.intercom.io), a customer messaging platform that supports multiple channels. Support requests are sent via our contact forms, directly to support email address, social media pages (Facebook and Twitter), and through Intercom's Messenger (live chat).
 
-Read everything we have on product websites (don’t forget the footer links), [Support repository](https://github.com/niteoweb/support/), our blogs and help centers – multiple times. Most questions visitors and members ask are answered on these pages.
+Read everything we have on our product websites (don’t forget the footer links), [Support repository](https://github.com/niteoweb/support/), our blogs and help centers – multiple times. Most questions visitors and users ask are answered on these pages.
 
 ## General Instructions
 
-1. Do not add greetings at the end since they’re automatically added by the system.
+1. Do not reply to tickets which are assigned to other agents, unless they are away and won't be back within 24 hours.
 
-2. Do not reply to tickets which are assigned to other agents, unless they are away and won't be back within 24 hours.
+2. Try to reply to customers as soon as possible. Always process tickets from oldest to newest.
 
-3. Try to reply to customers as soon as possible. Support tickets should be closed within 8 hours on weekdays and within 24 hours on weekends. So if you can, check support for urgent issues (starred) on Saturdays and Sundays.
+3. Do not leave the customer without a reply for more than one work day. If nothing else, let them know we're looking into the issue. Nothing is worse than being ignored by support when you have issues.
 
-4. Do not leave the customer without a reply for more than one work day. If nothing else, let them know we're looking into the issue. Nothing is worse than being ignored by support staff when you have issues.
+4. Try to close tickets with just a single email instead of bouncing multiple emails with the user. That means be concise and resourceful.
 
-5. Try to close tickets with just a single email instead of bouncing multiple emails with the user. That means be concise and resourceful.
+5. Offer recommendations when in context. For example: a plugin is blocked by the system. We don't just tell the user that the plugin is blocked for a reason but we offer recommendations as a solution.
 
-6. Offer recommendations when in context. For example, a plugin is blocked by the system. We don't just tell the user that the plugin is blocked for a reason but we offer recommendations as a solution.
+6. Make sure you read the ticket history with that person before replying. It might have information that’s relevant to the new ticket.
 
-7. Make sure you read the ticket history with that person before replying. It might have information that’s relevant to the new ticket.
+7. Be nice to all who send an email even if they’re very rude (and some will be). Keep calm, reply with facts and thank them for any feedback. If they’re worried about their refund, cancellation or anything else, let them know we’ll do our best to fix things in their interest.
 
-8. Be nice to all who send an email even if they’re very rude (and some will be). Keep calm, reply with facts and thank them for any feedback. If they’re worried about their refund, cancellation or anything else, let them know we’ll do our all to fix things in their interest.
+8. The conversation can be informal and smilies are allowed when in context.
 
-9. The conversation can be informal and smilies are allowed when in context.
+9. Listen to what the customer is saying. Even if the customer is in the wrong, acknowledge what they are saying and then use that as a teachable moment. Having them learn how to resolve issues on their own is still the best customer experience.
 
 10. Avoid saying YOU when replying to support tickets where the user messed something up.
 
@@ -32,7 +32,7 @@ Here's an example.
 
 Instead say
 
-> It looks like the zip file didn't get properly extracted. Here's your fix.
+> It looks like the zip file didn't get properly extracted. Here's the fix.
 
 People hate being made to feel stupid. If you remove the person from the response as if someone or something else messed up, they will remain much happier.
 
@@ -40,45 +40,42 @@ If something isn't clear, ask Dejan or Marbe. See our [policy on dealing with us
 
 ## Slack Channels
 
-Support related issues and topics are discussed on #ebn-support channel. This way everyone knows what's going on and can ping in on the topic. Avoid pinging coworkers in private since then others won't know what's going on.
-
-Server related issues, updates and warnings are posted on #ebn-server-ops channel.
+Support related issues and topics are discussed on product's support channel, if there is one. This way everyone knows what's going on and can contribute to the topic. Avoid pinging coworkers in private since then others won't know what's going on.
 
 ## Live Chat Support
 
-Live chat function on our sales page. When working, log into [Olark](https://olark.com) so we can offer users live chat support.
+Intercom's Messenger app is available on our salespages. This makes it easier for customers to contact us for issues, requests or sales questions.
 
-Important: Always have your head with you when doing live chat support. It's a great venue to steal information or to exploit someone's account. Read [this article](https://medium.com/@espringe/amazon-s-customer-service-backdoor-be375b3428c4#.gspnzg3id). Again and again.
+With Intercom, everything is in one dashboard - live chat and support emails. There's no need to switch pages so you can treat live chat conversations as another ticket to resolve. 
+
+We have Operator Bots enabled so the customers are always referred to relevant help articles first.
+
+**Important:** Always have your head with you when doing live chat support. It's a great venue to steal information or to exploit someone's account. Read [this article](https://medium.com/@espringe/amazon-s-customer-service-backdoor-be375b3428c4#.gspnzg3id). Again and again.
 
 Instead of doing things for users, ask users to do it themselves - just guide them how.
 
-Sample scenario: user wants you to change his login email.
+Sample scenario: the user wants you to change their login email.
 
 * Incorrect: Asking for the user's new login email and setting it yourself.
 * Correct: Ask the user to log into their account, go to Settings tab, and then update the information themselves.
 
-There are other scenarios but the general idea is that don't give anything to a user unless properly verified. One verification process is asking themm to log into their account then checking the logs for the login event.
+There are other scenarios but the general idea is that don't give anything to a user unless properly verified. One verification process is asking them to log into their account then checking the logs for the login event.
 
-## Using Groove
+## Using Intercom
 
 ### Canned Replies
 
-Pre-prepared replies to most common questions are available from the Groove user interface. You can use them and edit them as necessary. You can also refer to our [support issues checklist](https://github.com/niteoweb/support/blob/master/EBN/support-tickets.md).
+Pre-prepared replies to most common questions are available on the Intercom user interface. You can use them and edit them as necessary. You can also refer to our [support issues checklist](https://github.com/niteoweb/support/blob/master/EBN/support-tickets.md).
 
-
-If you have the need to create a new canned reply, you can do so by clicking Settings in top right corner of Groove, and then under Ticketing, click Canned Replies.
+If you have the need to create a new canned reply, you can do so by clicking on the ribbon icon found in the bottom part of the reply box, and selecting `Create`. Managing canned replies can be done by clicking on the `Manage` option.
 
 ### Submit Statuses
 
-Regular replies are always ‘Submit as Closed’. If there is still something you need to do after replying (like reporting a bug and getting back to the user with a solution), select ‘Submit as Pending’. Put as note any action done/being done or a link to an opened GitHub issue for easy reference.
-
-### Labels
-
-We want to have a quantifiable data of user issues and requests received on Groove so we [tag the tickets](https://github.com/niteoweb/support/blob/master/EBN/support-tickets.md).
+Regular replies are always ‘Send and close’. If there is still something you need to do after replying (like reporting a bug and getting back to the user with a solution), click on the dropdown menu and send with the appropriate snooze time.
 
 ### Spam Emails
 
-Mark them as spam.
+We handle spam by blocking the address. Just click on the hamburger menu button found at the top right corner beside the customer's name.
 
 ### Email Close
 
@@ -86,8 +83,10 @@ At the end of each email (where relevant) add the canned reply “Let me know if
 
 ### Reassigning Difficult Questions
 
-If a question is too difficult to answer, reassign it to Marbe. She’ll be notified by mail and will take care of it from there on forward.
+If a question is too difficult to answer, re-assign it to someone qualified to take over the issue. Try to add a note to summarize the issue or your own take to it.
 
 ### Help Center
 
-Help Centers is where the instructions and common questions by users are answered. Every product has its own Help Center which should be updated whenever questions become too common and users cannot find answers.
+Help Centers is where the instructions and common questions by customers are answered. Every product has its own Help Center which should be updated whenever questions become too common and users cannot find answers.
+
+You can search and insert relevant help articles without leaving the Intercom dashboard. On the reply box, just click on the note icon and enter a keyword, then add it to your reply.
