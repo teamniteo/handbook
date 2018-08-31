@@ -17,13 +17,11 @@ For each new sprint, the Scrum master will create an operations sprint release t
 
 ## Scrum
 
-Our work process is based on [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)).
+Our work process is based on [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)). Read in detail about [our Scrum process](scrum.md).
 
  * Sprint length is two weeks.
  * Story points commitment: 10 for each full-time member on the sprint. The total team commitment has at least 25% reserved for bugfixes and cleanup.
  * Daily standup meeting times: 10:00 CE(S)T for Easy Blog Networks and, 11:00 CE(S)T for WooCart
-
-Read more in [Scrum](scrum.md).
 
 ## Alignment Meeting
 
