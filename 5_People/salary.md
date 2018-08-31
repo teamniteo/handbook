@@ -38,8 +38,6 @@ You can request a change to your salary sometime in the last month of the quarte
 
 Each month everyone is expected to work (on average) 7.5 hours per working day in that month (lunch time not included). Any additional hours are considered as overtime hours and are worth 130% of your hourly wage (which is your monthly salary divided by 150).
 
-On the contrary, if the monthly quota is not reached, that month's salary is reduced by 130% of hourly wage for every missing hour (that is, of course, after considering vacation and sick leave hours).
-
 
 ### Tracking Actual Working Hours
 
@@ -47,7 +45,7 @@ All time spent doing work-related activities counts as working hours. The only e
 
 Track all hours spent working for the company, including transport to a meeting, conference (1 conference day = 7.5 hours),  transport to a conference (up to 7.5 hours per day), reading purposefully chosen technical material, and participation in courses.
 
-Everyone tracks working hours for themselves. At the end of each month, add your working hours and sick hours to Scrooge. If you are a Trialist, then just send the total hours to @dmurko on Slack. 
+Everyone tracks working hours for themselves. At the end of each month, add your working hours and sick hours to Scrooge. If you are a Trialist, then just send the total hours to Dejan on Slack. 
 
 # Severance Policy
 
