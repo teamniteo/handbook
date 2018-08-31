@@ -41,16 +41,14 @@ The Scrum master creates a new [retrospective issue](https://github.com/niteoweb
 
 ## Urgent Production Fixes
 
-If we need to fix an urgent bug, we use the Scrum *priority lane* approach: the user story gets written and then if the product owner decides it really is urgent, the user story is added to the top of 'In Progress' pipeline and labeled with [Priority Lane](user-stories.md#labels) so that everyone knows it is an exceptional and urgent issue and the whole team needs to focus on getting it completed as soon as possible.
+If we need to fix an urgent bug, we use the Scrum *priority lane* approach: the user story gets written and then if the product owner decides it really is urgent, the user story is added to the top of 'In Progress' pipeline and labeled with Priority Lane so that everyone knows it is an exceptional and urgent issue and the whole team needs to focus on getting it completed as soon as possible.
 
 ## Ongoing Tasks
 
-Sometimes the result of a user story is an agreement that we should do a certain task periodically, over a longer period of time. Such tasks are created in whichever repo is the most appropriate and labeled with [Ongoing](#label_ongoing) label.
+Sometimes the result of a user story is an agreement that we should do a certain task periodically, over a longer period of time. Such tasks are created in whichever repo is the most appropriate and labeled with Ongoing label.
 
 ## Recurring Tasks
 
 There are a bunch of tasks we have to do every month/quarter/year. To make sure they get assigned enough time for proper execution, we include them in sprints as user stories. The only difference is, they don't need user story demo recordings since they happen so often and are repetitive.
 
 For every month/quarter that a recurring task is required we (re)open the issue and create a comment for the new month/quarter.
-
-On every sprint planning meeting, we go through the [list of user stories for recurring tasks](https://github.com/niteoweb/operations/issues?utf8=%E2%9C%93&q=+label%3ARecurring+) and we add those that apply to the sprint first.
