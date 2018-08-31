@@ -17,7 +17,7 @@ For each new sprint, the Scrum master will create an operations sprint release t
 
 ## Scrum
 
-Our work process is based on [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)). Read in detail about [our Scrum process](scrum.md).
+Our work process is based on [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)). Read in detail about [our Scrum process](scrum.md) and writing [User Stories](user-stories.md).
 
  * Sprint length is two weeks.
  * Story points commitment: 10 for each full-time member on the sprint. The total team commitment has at least 25% reserved for bugfixes and cleanup.
