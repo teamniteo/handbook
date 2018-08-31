@@ -1,8 +1,8 @@
-# Writing User Stories
+# User Stories
 
 User Stories are well-defined tasks to be done by a Nitean that have a specific, measurable goal and impact. The large majority of issues are written as User Stories and only issues created by support that are reactionary and straightforward are not. Support issues are also not included in sprints.
 
-## Writing a user story
+## Writing a User Story
 
 To create a new user story, open a [new issue](https://github.com/niteoweb/operations/issues/new) in the Operations repository and you will find a template is provided to guide you through the process. If you need to create a user story in another repository you will need to copy and paste over this Operations template.
 
