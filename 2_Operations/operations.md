@@ -8,5 +8,5 @@
 
 ## Guides
 * [Managing Docs](managing-docs.md)
-* [Apps](apps.md) - Team messaging
+* [Apps We Use](apps.md)
 * [Security Policy](company/security.md)
