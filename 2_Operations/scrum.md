@@ -25,6 +25,12 @@ All other weekday mornings we hold the [daily standup](standup.md) meeting.
 
 For each new sprint, the Scrum master will create an operations sprint release that is used to store the user story screencast demos. The template for this release is copied from [RELEASE_TEMPLATE.md](https://github.com/niteoweb/operations/raw/master/.github/RELEASE_TEMPLATE.md) in the operations repo.
 
+## Daily Standup
+
+Daily standup meetings are short meetings every day where we go over the work done on the previous day and to be done the same/next day. It is also where we discuss any blockers and where project managers can keep a tab on workload. Every project has its own standup time. 
+
+Turn on your camera during the standup. Try to refrain from doing other things (browsing, doing support, etc.) during the meeting -- it rarely takes more than 15 minutes and we should all pay attention to everyone else for this period.
+
 
 ## Scrum on GitHub
 
