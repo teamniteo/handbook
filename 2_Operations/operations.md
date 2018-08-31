@@ -9,4 +9,4 @@
 ## Guides
 * [Managing Docs](managing-docs.md)
 * [Apps We Use](apps.md)
-* [Security Policy](company/security.md)
+* [Security Policy](security.md)
