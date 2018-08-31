@@ -74,7 +74,7 @@ So as to not influence anyone else's voting, we hide these estimate values in co
 
 ### Backlog
 
-After a user story in `Estimation` pipeline has been voted upon, the Scrum master checks for consensus on the story points and sets the `Estimate` label to that value then moves the user story to the top of the `Backlog` pipeline.
+After a user story in `Estimation` pipeline has been voted upon, the Scrum master checks for consensus on the story points and sets the estimation to that value then moves the user story to the top of the `Backlog` pipeline.
 
 With a well-defined story and story points, the user story is now ready to be included in the next sprint.
 
@@ -91,4 +91,4 @@ You must keep your assignment if the user story is included in the current sprin
 
 ## Demos
 
-When a user story is completed a short screencast is required to demonstrate that the goals of the story were achieved. Make the demo as short as possible and focus on the result of the Story and not so much on how you've done it.
+When a user story is completed a short screencast is required to demonstrate that the goals of the story were achieved. Make the demo as short as possible (< 1min) and focus on the result of the Story and not so much on how you've done it.
