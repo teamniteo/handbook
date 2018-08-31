@@ -1,6 +1,6 @@
 # Benefits
 
-## Profit sharing
+## Profit Sharing
 
 We believe every Nitean should take part in the distribution of the company profits. So every quarter, if the company is doing well, we reward those who stay with us. More in the main document about [Profit sharing](profit-sharing.md).
 
@@ -75,7 +75,7 @@ Another example: Two months later, John goes to a three-day conference in Barcel
     Therefore John charges the company €1900 (€500 + €500 + €600 + €300) in spent allowance. Before the trip, John's allowance budget was €1600 (€1350 + 2x€125) so after the trip, it is now €450 (€1600 + €750 - €1900). The trip was expensive but it sure was nice!
     
 
-### Extending your trip with vacation days
+### Extending Your Trip With Vacation Days
 
 You are encouraged to extend your trip and take vacation days to see the place you travel to. Or the place where your layover is. We are already paying for your ticket, so might as well get the most of it, right?
 
@@ -89,24 +89,24 @@ Birth of a child is 20 extra days of paid leave.
 Death in the family is 3 extra days of paid leave.
 
 
-### Booking vacation
+### Booking Vacation
 
 To book vacation time off, see the Intra [Planned absences](https://intra.niteo.co/resolveuid/dcf71b9c6b17430789ace610c9ac384a) page. 
 
 
-### Unused vacation
+### Unused Vacation
 
 Unused vacation hours in a calendar year can be carried over to the next year but must be used by July 1st. If not, we are going to have a serious conversation because everyone needs a break.
 
 
-### Unpaid vacation
+### Unpaid Vacation
 
 If all your allocated vacation days have been taken you can take further vacation days but they will be unpaid.
 
 Please ensure however that your department and associated work will not suffer during your absence. Also, note that your quarterly profit share amount will be affected by the number of unpaid vacation days your take. See [Profit sharing](profit-sharing.md#present) for further details.
 
 
-## Public holidays
+## Public Holidays
 
 We are from different parts of the World, and we have different customs when it comes to public holidays. The Americans have close to no public holidays, some countries have up to 20 public holidays per year (though some come on weekends). To avoid taking a break when your government tells you to instead of when you *need* a break, and to avoid "bad holiday years" when all public holidays come on weekends and are hence rendered moot, we have our own approach to holidays:
 
@@ -114,7 +114,7 @@ We are from different parts of the World, and we have different customs when it 
 * The one day is automatically calculated as one working day less every month.
 
 
-## Sick leave
+## Sick Leave
 
 Everyone has the right to sick leave on days when they don't feel capable of working. A day of sick leave counts as 6 hours of work done and will be automatically added to your "worked hours".
 
