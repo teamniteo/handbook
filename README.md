@@ -22,7 +22,7 @@ The structure of the Handbook mirrors our departments for simple organization. R
 
 ## Handbook contribution
 
-Please help us keep these documents up to date, this doesn't just mean typos and broken links, but also updating it with the ongoing changes to our work processes. And if there's something you don't like in the way we work, open an Issue where we can discuss better solutions. For new people joining Niteo, take advantage of being new to question or show us how to improve things. We welcome this input, as an outside viewpoint can often jolt us from our well worn ways.
+Please help us keep these documents up to date, not just with fixing typos and broken links, but also updating it with the ongoing changes to our work processes. And if there's something you don't like in the way we work, open an Issue where we can discuss better solutions. For new people joining Niteo, take advantage of being new to question or show us how to improve things. We welcome this input, as an outside viewpoint can often jolt us from our well worn ways.
 
 This Handbook is inspired by [GitLab's](https://about.gitlab.com/handbook/) and [Basecamps'](https://github.com/basecamp/handbook) handbooks and is always a *Work-In-Progress*. To update it, create a Pull Request with the proposed changes or [open an Issue](https://github.com/niteoweb/handbook/issues) to start a discussion.
 
