@@ -2,7 +2,7 @@
 
 Email support is managed by [Intercom](https://app.intercom.io), a customer messaging platform that supports multiple channels. Support requests are sent via our contact forms, directly to support email address, social media pages (Facebook and Twitter), and through Intercom's Messenger (live chat).
 
-Read everything we have on our product websites (don’t forget the footer links), [Support repository](https://github.com/niteoweb/support/), our blogs and help centers – multiple times. Most questions visitors and users ask are answered on these pages.
+Read everything we have on our project websites (don’t forget the footer links), project's support folder, project's blog and help center – multiple times. Most questions visitors and users ask are answered on these pages.
 
 ## General Instructions
 
@@ -36,7 +36,7 @@ Instead say
 
 People hate being made to feel stupid. If you remove the person from the response as if someone or something else messed up, they will remain much happier.
 
-If something isn't clear, ask Dejan or Marbe. See our [policy on dealing with users](https://github.com/niteoweb/support/blob/master/EBN/dealing-with-users.md).
+If something isn't clear, ask Dejan or Marbe. 
 
 ## Slack Channels
 
@@ -65,7 +65,7 @@ There are other scenarios but the general idea is that don't give anything to a 
 
 ### Canned Replies
 
-Pre-prepared replies to most common questions are available on the Intercom user interface. You can use them and edit them as necessary. You can also refer to our [support issues checklist](https://github.com/niteoweb/support/blob/master/EBN/support-tickets.md).
+Pre-prepared replies to most common questions are available on the Intercom user interface. You can use them and edit them as necessary. 
 
 If you have the need to create a new canned reply, you can do so by clicking on the ribbon icon found in the bottom part of the reply box, and selecting `Create`. Managing canned replies can be done by clicking on the `Manage` option.
 
