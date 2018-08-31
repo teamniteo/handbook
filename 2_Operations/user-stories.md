@@ -33,7 +33,7 @@ All major features should have a blog post written. If you are not sure if it sh
 
 The expected outcomes of the user story which is a list of items stating how the world will look once the user story has been completed. This is not the individual task or activities but rather what will the documentation look like, what new tests will we see, what bug no longer occurs because it has been fixed.
 
-## Story points
+## Story Points
 
 A [story point](https://agilefaq.wordpress.com/2007/11/13/what-is-a-story-point/) is an arbitrary measure used by Scrum teams to indicate the effort required to implement a User Story. One full-time member on sprint should be able to do 10 Story Points.
 
