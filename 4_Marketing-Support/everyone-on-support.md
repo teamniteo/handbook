@@ -29,8 +29,8 @@ Report for EOS once every month. Having it as a full working day duty affords be
 
 Everyone will set their own schedule and keep with it. At the start of the month, update the [recurring Sprint Story](https://github.com/niteoweb/operations/issues/510) with your preferred date.
 
-# Readings:
+# Further Reading:
 
-* https://signalvnoise.com/posts/3676-everyone-on-support
-* https://www.groovehq.com/support/customer-service-team
-* https://zapier.com/learn/customer-support/everyone-on-support/
+* [Signal v Noise](https://signalvnoise.com/posts/3676-everyone-on-support)
+* [Groove](https://www.groovehq.com/support/customer-service-team)
+* [Zapier](https://zapier.com/learn/customer-support/everyone-on-support/)
