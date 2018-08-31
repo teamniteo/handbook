@@ -1,10 +1,9 @@
 # Operations
 
 ## Work Process
-* [Work process](work-process.md)
-* [How we work](how-we-work.md)
-* [Daily standup meeting](standup.md)
-* [Finding your next task](next-task.md)
+* [How We Work](how-we-work.md)
+* [Work Process](work-process.md)
+* [Find Your Next Task](next-task.md)
 
 ## Guides
 * [Managing Docs](managing-docs.md)
