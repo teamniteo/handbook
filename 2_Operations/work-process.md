@@ -23,6 +23,10 @@ Our work process is based on [Scrum](https://en.wikipedia.org/wiki/Scrum_(softwa
  * Story points commitment: 10 for each full-time member on the sprint. The total team commitment has at least 25% reserved for bugfixes and cleanup.
  * Daily standup meeting times: 10:00 CE(S)T for Easy Blog Networks and, 11:00 CE(S)T for WooCart
 
+## Quarterly Planning
+
+TODO
+
 ## Alignment Meeting
 
 15 minutes after the sprint retrospective we hold another meeting. Attendance on this one is optional, only those interested in the general direction the company is taking normally attend. That said, every Nitean is welcome to participate.
