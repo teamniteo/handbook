@@ -2,7 +2,7 @@
 
 ## Work Process
 * [How We Work](how-we-work.md)
-* [Work Process](work-process.md)
+* [Work Process](work-process.md) and [Scrum](scrum.md)
 * [Find Your Next Task](next-task.md)
 
 ## Guides
