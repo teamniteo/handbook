@@ -18,10 +18,7 @@ Some frequently used personas:
  * Marketer
  * DevOp
 
-An end-user story can be written using these [Marketing Personas]:
-
- * Dan (Agency owner)
- * Mark (Affiliate)
+An end-user story should be written using the product's personas.
 
 ### Description
 
