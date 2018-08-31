@@ -1,20 +1,5 @@
 # Guide for user stories
 
-**Contents**
-
-1. [Writing a user story](#writing-a-user-story)
-   1. [Summary](#summary)
-   1. [Description](#description)
-   1. [Best practices](#best-practices-definition-of-done)
-   1. [Expectations](#expectations-acceptance-criteria)
-1. [Pipelines](#pipelines)
-   1. [Estimation](#estimation)
-   1. [Backlog](#backlog)
-1. [Assigment](#assignment)
-1. [Story points](#story-points)
-1. [Labels](#labels)
-1. [Demos](#demos)
-
 ## Writing a user story
 
 To create a new user story, open a [new issue][Operations new issue] in the Operations repository and you will find a template is provided to guide you through the process. If you need to create a user story in another repository you will need to copy and paste over this Operations template.
