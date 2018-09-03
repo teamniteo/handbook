@@ -14,12 +14,12 @@ The structure of the Handbook mirrors our departments for simple organization. R
 
 **Easy Blog Networks**
 
-* Website: [easyblognetworks.com](https://www.easyblognetworks.com)
+* [EasyBlogNetworks.com](https://www.easyblognetworks.com)
 * [Repository](https://github.com/niteoweb/ebn) 
 
 **WooCart**
 
-* Website: [woocart.com](https://woocart.com)
+* [WooCart.com](https://woocart.com)
 * [Repository](https://github.com/niteoweb/woocart)
 * [Public repository](https://github.com/woocart)  
 
