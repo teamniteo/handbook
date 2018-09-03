@@ -9,9 +9,9 @@ Our work process is based on [Scrum](https://en.wikipedia.org/wiki/Scrum_(softwa
 
 Read about [writing User Stories and issues](user-stories.md).
 
-User stories with the highest story points are assigned and started first. That way simpler user stories without champions can be worked on in the last days of the sprint by anyone who finished their own early.
+User Stories with the highest story points are assigned and started first. That way simpler User Stories without champions can be worked on in the last days of the sprint by anyone who finished their own early.
 
-User stories that are dependent on each other should be merged into one bigger user story. This kind of user stories can have 2 champions.
+User Stories that are dependent on each other should be merged into one bigger user story. This kind of User Stories can have 2 champions.
 
 Support tasks take priority over sprint for support and DevOps team.
 
@@ -35,7 +35,7 @@ After each sprint, we have a retrospective, where we think about what went well 
 
 This is also the time to bring up any other comments about the work process in general.
 
-We look at how many story points we assigned, how many were done and the distribution between the departments and types of user stories.
+We look at how many story points we assigned, how many were done and the distribution between the departments and types of User Stories.
 
 The Scrum master creates a new [retrospective issue](https://github.com/niteoweb/operations/issues/new?template=retrospective.md&title=Retrospective%20for%20Sprint%20#) before each retrospective. This issue has a template that serves as a checklist for the meeting and helps the Scrum master write up a brief report afterward.
 
