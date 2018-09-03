@@ -1,5 +1,10 @@
 sudo: required
 
+# Only run builds for PRs and commits into master
+branches:
+  only:
+  - master
+  
 services:
   - docker
 
