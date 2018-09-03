@@ -2,7 +2,7 @@
 
 ## Slack
 
-Join the channels `#operations`, `#watercooler`, `#out-of-office`, and any other channels that you find interesting. Our default mode of operation is to use public channels for all communication. Yes, sometimes you want to discuss something in person, or bounce an idea off of someone before writing to a public channel, and that's perfectly fine. Chit chat and  personal things, keep them private too.
+Join the channels `#operations`, `#watercooler`, `#out-of-office`, and any other channels that you find interesting. Our default mode of operation is to use public channels for all communication. Yes, sometimes you want to discuss something in person, or bounce an idea off of someone before writing to a public channel, and that's perfectly fine. Chit chat and personal things, keep them private too.
 
 However, questions such as "where can I find X", "how do I do Y" and "what is Z" should be posted into public channels. Since more Niteans can chip in you will get your answer faster.
 
