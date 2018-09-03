@@ -13,14 +13,14 @@ Sprint meetings replace the daily standup on these days:
 
 The last Monday morning of the sprint everyone should open up the Scrum board and ask themselves: "How can I help close whatever is still opened?". Repeat the same after lunch and on Tuesday morning.
 
-For each new sprint, the Scrum master will create an operations sprint release that is used to store the user story screencast demos. The template for this release is copied from [RELEASE_TEMPLATE.md](https://github.com/niteoweb/operations/raw/master/.github/RELEASE_TEMPLATE.md) in the operations repo.
+For each new sprint, the Scrum master will create a sprint release that is used to store the user story screencast demos. The template for this release is copied from [RELEASE_TEMPLATE.md](https://github.com/niteoweb/operations/raw/master/.github/RELEASE_TEMPLATE.md) in the operations repo.
 
 ## Scrum
 
 Our work process is based on [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)). Read in detail about [our Scrum process](scrum.md) and writing [User Stories](user-stories.md).
 
  * Sprint length is two weeks.
- * Story points commitment: 10 for each full-time member on the sprint. The total team commitment has at least 25% reserved for bugfixes and cleanup.
+ * Story points commitment: 10 for each full-time member on the sprint. The total team commitment has at least 25% reserved for bug fixes and cleanup.
  * Daily standup meeting times: 10:00 CE(S)T for Easy Blog Networks and, 11:00 CE(S)T for WooCart
 
 ## Quarterly Planning
@@ -41,7 +41,7 @@ While working on user stories we often need to change code or text that we keep 
 
 To ensure that your commits and Pull Requests contain everything necessary for a successful review, read through the [Git](/3_Development/git.md) guide for the best practices.
 
-After issue/user story/pull request is getting close to being completed people should go on zoom and discuss what else needs to be fixed. We don't want to see long PR discussions on GitHub. The **author** of the issue/user story/pull request should ping people on slack and get them on zoom to polish things.
+When a User Story or Pull Request is getting close to being completed but there are still open issues, Niteans should have a discussion on Zoom. We don't want to see long PR discussions on GitHub. The **author** of the issue should ping people on Slack and get them on Zoom to polish things.
 
 
 ## Continual Improvement
