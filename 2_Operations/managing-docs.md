@@ -2,16 +2,15 @@
 
 We use the following services for storing information:
 
-- **[GitHub](https://github.com/niteoweb)** - Code repository and ticketing system for all our projects, also hosts this Handbook where we write all company processes that can be publicly published.
-- **[ZenHub](https://www.zenhub.com/)** - Agile project management within GitHub. Adds better predictability and visibility to software development.
-- **[Intra](https://intra.niteo.co)** - Project documentation, team members profiles, reports and anything else that cannot be publicly published on the Handbook.
-- **[collective.permalink](https://pypi.python.org/pypi/collective.permalink)** - an extension for **[Intra](https://intra.niteo.co)** that creates a persistent link to the Intra's content that should never change even if you rename or move it. Use it every time you need to reference some Intra content from the outside of Intra, like from the Handbook. To get a permalink click on Plone toolbar `Actions` > `Permalink (to Clipboard)`.
+- **[GitHub](https://github.com/niteoweb)** - Code repository, project documentation and ticketing system for all our projects.
+- **[ZenHub](https://www.zenhub.com/)** - Agile project management within GitHub. 
+- **[Intra](https://intra.niteo.co)** - Team members profiles, reports and anything else that cannot be publicly published on the Handbook.
 - **[Docs](http://docs.niteo.co)** - Technical documentation for projects, generated automatically by Sphinx on every code change.
-- **[Books](http://books.niteo.co)** - Every time we buy a book, it goes into our digital library. Enjoy.
+- **[Books](http://books.niteo.co)** - Our digital library.
 - **[Videos](http://videos.niteo.co)** - A collection of videos of our talks in public and private events, conferences, meetups, IRLs, etc.
 - **[Grafana](http://niteo.grafana.net)** - Company and project dashboards.
-- **[Zoho Docs](https://docs.zoho.eu/home)** - Alternative to Google Docs. Mostly used for spreadsheets.
-- **[Resilio](../apps-we-use/resilio.md)** - Works similar to Dropbox, but is faster and more secure because it does not require a central (cloud) server.
+- **[Zoho Docs](https://docs.zoho.eu/home)** - Alternative to Google Docs, mostly used for spreadsheets.
+- **[Resilio](https://www.resilio.com/)** - Similar to Dropbox, but faster and more secure.
 - **[1Password](https://my.1password.com/)** - All passwords and keys are stored in 1Password team account.
 
 ## What Goes Where?
@@ -20,25 +19,25 @@ Guidelines on which information goes where.
 
 ### All Tasks
 
-- Any and all tasks need a GitHub issue, either in project repository or under one of the department ones, like Operations or Marketing.
+- Any and all tasks need a GitHub issue, usually inside a project repository.
 
 ### Development
 
-- Development workflow, guidelines, instructions and conventions are available at [docs.niteo.co](http://docs.niteo.co/pyramid_bimt/#about). You can add/update the documentation in `pyramid_bimt` repository under `/docs`.
+- Development workflow, guidelines, instructions and conventions are available on docs.niteo.co. 
 
 ### Support
 
-- Checklists, support documentation and related documents should go in the [Support repo](https://github.com/niteoweb/support/), within the specific project folder.
-- General documentation should be posted to [Handbook](https://github.com/niteoweb/handbook).
+- Project support documentation and related documents are in the Support folder, within the specific project repository.
+- General support documentation is published to Handbook.
 
 ### Marketing
 
-- Advertising reports and links to private spreadsheets should be posted on [Intra](https://intra.niteo.co), in the specific project folder.
+- Advertising reports and links to private spreadsheets are in GitHub issues.
 
 ### Operations
 
-- Finance reports and meeting minutes should be posted on [Intra](https://intra.niteo.co).
-- Company work processes and general documentation should be posted to [Handbook](https://github.com/niteoweb/handbook).
+- Finance reports are published on Intra.
+- Company work processes and general non-sensitive documentation is published to Handbook.
 
 ### Handbook
 
