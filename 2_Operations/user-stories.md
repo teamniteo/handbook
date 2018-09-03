@@ -35,7 +35,7 @@ The expected outcomes of the user story which is a list of items stating how the
 
 ## Story Points
 
-A [story point](https://agilefaq.wordpress.com/2007/11/13/what-is-a-story-point/) is an arbitrary measure used by Scrum teams to indicate the effort required to implement a User Story. One full-time member on sprint should be able to do 10 Story Points.
+A [Story Point](https://agilefaq.wordpress.com/2007/11/13/what-is-a-story-point/) is an arbitrary measure used by Scrum teams to indicate the effort required to implement a User Story. One full-time member on sprint should be able to do 10 Story Points.
 
 ## Pipelines
 
@@ -58,8 +58,6 @@ The Scrum master and product owner will verify that the user story is well defin
 #### Voting
 
 Once the user story is verified the Scrum master assigns team members from whom they want to receive story point estimations. Team members vote on a story by adding a comment with their story point estimation to the user story, then remove their assignment from the user story.
-
-A Nitean who is full-time on a sprint should be able to finish 10 story points.
 
 So as to not influence anyone else's voting, we hide these estimate values in comments by using the following code snippet:
 
@@ -84,11 +82,11 @@ With a well-defined story and story points, the user story is now ready to be in
 You are assigned to a user story or issue when something is required from you:
 
 - Provide feedback to further the user story.
-- Estimate the story points required to complete the user story.
-- Champion the user story in a sprint.
+- Estimate the Story Points required to complete the User Story.
+- Champion the User Story in a sprint.
 
-You must keep your assignment if the user story is included in the current sprint and is already in progress. This allows us to see who worked on what even when the sprint ends. However if the user story is not in the current sprint and your task is complete, you may remove your assignment and unsubscribe from notifications.
+You must keep your assignment if the User Story is included in the current sprint and is already in progress. This allows us to see who worked on what even when the sprint ends. However if the User Story is not in the current sprint and your task is complete, you may remove your assignment and unsubscribe from notifications.
 
 ## Demos
 
-When a user story is completed a short screencast is required to demonstrate that the goals of the story were achieved. Make the demo as short as possible (< 1min) and focus on the result of the Story and not so much on how you've done it.
+When a User Story is completed a short screencast is required to demonstrate that the goals of the Story were achieved. Make the demo as short as possible (< 1min) and focus on the result of the Story and not so much on how you've done it.
