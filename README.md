@@ -10,20 +10,6 @@ The structure of the Handbook mirrors our departments for simple organization. R
 
 ## The Handbook
 
-### Projects
-
-Easy Blog Networks
-
-* [EasyBlogNetworks.com](https://www.easyblognetworks.com)
-* [Repository](https://github.com/niteoweb/ebn) 
-
-WooCart
-
-* [WooCart.com](https://woocart.com)
-* [Repository](https://github.com/niteoweb/woocart)
-* [Public repository](https://github.com/woocart)  
-
-
 ### Operations
 
 Work Process
@@ -60,6 +46,20 @@ Hiring and Onboarding
 Work Environment
 * [Catchup Meetings](catchup-meetings.md)
 * [Nitean Recognition](nitean-recognition.md)
+
+
+### Projects
+
+Easy Blog Networks
+
+* [EasyBlogNetworks.com](https://www.easyblognetworks.com)
+* [Repository](https://github.com/niteoweb/ebn) 
+
+WooCart
+
+* [WooCart.com](https://woocart.com)
+* [Repository](https://github.com/niteoweb/woocart)
+* [Public repository](https://github.com/woocart)  
 
 
 ## About Niteo and Niteans
