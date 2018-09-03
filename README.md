@@ -12,12 +12,12 @@ The structure of the Handbook mirrors our departments for simple organization. R
 
 ### Projects
 
-**Easy Blog Networks**
+Easy Blog Networks
 
 * [EasyBlogNetworks.com](https://www.easyblognetworks.com)
 * [Repository](https://github.com/niteoweb/ebn) 
 
-**WooCart**
+WooCart
 
 * [WooCart.com](https://woocart.com)
 * [Repository](https://github.com/niteoweb/woocart)
@@ -26,12 +26,12 @@ The structure of the Handbook mirrors our departments for simple organization. R
 
 ### Operations
 
-**Work Process**
+Work Process
 * [How We Work](how-we-work.md)
 * [Work Process](work-process.md) and [Scrum](scrum.md)
 * [Find Your Next Task](next-task.md)
 
-**Guides**
+Guides
 * [Managing Docs](managing-docs.md)
 * [Apps We Use](apps.md)
 * [Security Policy](security.md)
@@ -48,16 +48,16 @@ The structure of the Handbook mirrors our departments for simple organization. R
 
 ### People
 
-**Compensation and Benefits**
+Compensation and Benefits
 * [Salary](salary.md)
 * [Benefits](benefits.md)
 * [Profit Sharing](profit-sharing.md)
 
-**Hiring and Onboarding**
+Hiring and Onboarding
 * [Hiring](hiring.md)
 * [Onboarding](onboarding.md)
 
-**Work Environment**
+Work Environment
 * [Catchup Meetings](catchup-meetings.md)
 * [Nitean Recognition](nitean-recognition.md)
 
