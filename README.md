@@ -13,39 +13,39 @@ The structure of the Handbook mirrors our departments for simple organization. R
 ### Operations
 
 Work Process
-* [How We Work](how-we-work.md)
-* [Work Process](work-process.md) and [Scrum](scrum.md)
-* [Find Your Next Task](next-task.md)
+* [How We Work](/2_Operations/how-we-work.md)
+* [Work Process](/2_Operations/work-process.md) and [Scrum](/2_Operations/scrum.md)
+* [Find Your Next Task](/2_Operations/next-task.md)
 
 Guides
-* [Managing Docs](managing-docs.md)
-* [Apps We Use](apps.md)
-* [Security Policy](security.md)
+* [Managing Docs](/2_Operations/managing-docs.md)
+* [Apps We Use](/2_Operations/apps.md)
+* [Security Policy](/2_Operations/security.md)
 
 ### Development and Design
 
-* [Design Process](https://github.com/niteoweb/handbook/blob/master/3_Development/design.md)
-* [Git Conventions and Best Practices](https://github.com/niteoweb/handbook/blob/master/3_Development/git.md)
+* [Design Process](/3_Development/design.md)
+* [Git Conventions and Best Practices](/3_Development/git.md)
 
 ### Marketing and Support
 
-* [Everyone On Support](https://github.com/niteoweb/handbook/blob/master/4_Marketing-Support/everyone-on-support.md)
-* [Handling Support Requests](https://github.com/niteoweb/handbook/blob/master/4_Marketing-Support/support.md)
+* [Everyone On Support](/4_Marketing-Support/everyone-on-support.md)
+* [Handling Support Requests](/4_Marketing-Support/support.md)
 
 ### People
 
 Compensation and Benefits
-* [Salary](salary.md)
-* [Benefits](benefits.md)
-* [Profit Sharing](profit-sharing.md)
+* [Salary](/5_People/salary.md)
+* [Benefits](/5_People/benefits.md)
+* [Profit Sharing](/5_People/profit-sharing.md)
 
 Hiring and Onboarding
-* [Hiring](hiring.md)
-* [Onboarding](onboarding.md)
+* [Hiring](/5_People/hiring.md)
+* [Onboarding](/5_People/onboarding.md)
 
 Work Environment
-* [Catchup Meetings](catchup-meetings.md)
-* [Nitean Recognition](nitean-recognition.md)
+* [Catchup Meetings](/5_People/catchup-meetings.md)
+* [Nitean Recognition](/5_People/nitean-recognition.md)
 
 
 ### Projects
