@@ -13,40 +13,68 @@ The commit message should look like this:
 > More detailed explanatory text. Wrap it to 72 characters.
 > The blank line separating the summary from the body is critical;
 > tools like GitHub can get confused if you omit it.
->
-> In big repos, you can use a `[tag]` prefix in the summary, if you
-> wish.
->
-> The summary is all about "What does this commit do?" while the body is
-> "Why does it do this?" and "Why was this approach chosen over others?"
->
-> Further paragraphs come after blank lines.
->
-> It is critical that you explain *why* you did the change. Don't state
-> the obvious "File updated", "Text removed". Imagine you are reading
-> this message after two years; how would you explain your future self
-> the reason for this change?
->
->   - Bullet points are okay, too
->
->   * Typically a hyphen or asterisk is used for the bullet,
->     preceded by a single space, with blank lines in
->     between.
->
-> At the bottom of the commit message, reference the Issue(s) to which
-> this commit belongs, in the format below. If referencing an Issue in the
-> repo that this commit is in, it's fine to just use the issue number.
-> Otherwise, use the long format with organization/repo prefix.
->
-> Refs #123.
-> Refs niteoweb/operations#123.
+
+
+In big repos, you can use a `[tag]` prefix in the summary, if you wish.
+
+
+The summary is all about "What does this commit do?" while the body is
+"Why does it do this?" and "Why was this approach chosen over others?"
+
+Further paragraphs come after blank lines.
+
+It is critical that you explain *why* you did the change. Don't state
+the obvious "File updated", "Text removed". Imagine you are reading
+this message after two years; how would you explain your future self
+the reason for this change?
+
+  - Bullet points are okay, too
+
+  * Typically a hyphen or asterisk is used for the bullet,
+    preceded by a single space, with blank lines in
+    between.
+
+At the bottom of the commit message, reference the Issue(s) to which
+this commit belongs, in the format below. If referencing an Issue in the
+repo that this commit is in, it's fine to just use the issue number.
+Otherwise, use the long format with organization/repo prefix.
+
+Refs: #123.
+Refs: niteoweb/operations#123.
+Refs:
+  - #134
+  - niteoweb/operations#145
+
 
 Bonus karma points for reading [this detailed essay about good commits](https://chris.beams.io/posts/git-commit/).
 
 A few examples of excellent commits:
- * TODO
- * TODO
- * TODO
+> Ignore newly created blogs in CheckBackups
+>
+> Blogs that are not older than 1 day should not be flagged by `Check Backups`
+> check.
+>
+> Ref: https://github.com/niteoweb/ebn/issues/3489
+
+> Create a GitHub issue when Provision DNS fails.
+>
+> When Provision DNS fails create a GitHub issue, label it as "Blog"
+> and assign it to niko (@nkk0) and adam (@by-cx).
+>
+> Ref: https://github.com/niteoweb/ebn/issues/3788
+
+> Fix remaining flake8 errors
+>
+> * Ignore C901 errors for particular function definitions.
+> * Ignore B001 errors in certain files
+> * Fix remaining E501 errors.
+> * Include `lint` command in `make tests`.
+> * Add changes from end-of-file-fixer to `pyramid_bimt` static files
+> and ignore C812 errors (missing trailing comma) that produced by `black`.
+> * Ignore E501 so it will not break line-length limit.
+>
+> Ref: #3612
+
 
 
 ### Pull Request
@@ -74,11 +102,9 @@ Similarly to commits, Pull Requests should look like this:
 
 A few examples of excellent Pull Requests:
  * https://github.com/niteoweb/ebn/pull/3520
- * TODO
- * TODO
-
-In repositories where deployment involves database migrations and build verifications, we use a
-`PULL_REQUEST.md` template to provide delivery verification steps.
+ * https://github.com/niteoweb/ebn/pull/3566
+ * https://github.com/niteoweb/ebn/pull/3573
+ * https://github.com/niteoweb/ebn/pull/3422
 
 
 ### Keep Nitean in the loop
@@ -88,3 +114,5 @@ It's important to regularly push your local changes to GitHub, even when they ar
 * If you get sucked into some other task, it's easier to switch back to the original one, because you know where you've left it.
 * Other Niteans can spot fundamental problems in your approach and help you get back on the right track before spending days painting yourself into a corner.
 * Other Niteans can take over your work if you are suddenly unavailable for whatever reason, business or personal.
+
+When you create a PR that is a work-in-progress add `[WIP]` prefix to the PR title. This will tell Niteans that this PR is not ready for review (unless you explicitly ask someone to review it).
