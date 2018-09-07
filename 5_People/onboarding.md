@@ -29,3 +29,32 @@ Throughout your first few days at Niteo, it is important to focus on the onboard
 The onboarding checklist is a GitHub issue created specifically for you. It tracks everything required for a successful onboarding. The list of tasks is ordered by the priority in which you need to tackle them.
 
 Usually, it takes about ten working days to get through the onboarding issue, but this is just a rough guideline. At times the onboarding process might feel overwhelming so if you have any additional questions along the way, post a comment on your issue and _@mention_ someone from the [PeopleOps] team. When you are further along, you are welcome to ask questions in the `#operations` channel on Slack.
+
+## Salary Payments
+
+All Niteans issue invoices to the company. The invoice must include: your full name and address, company name and address, date of issue, invoice number, services done, amount and IBAN bank account. You can use an online [invoice generator](https://invoice-generator.com/) if you don't have your own.
+
+### Payments outside IBAN area
+
+For Niteans outside of IBAN area, the bank transfer might be a suboptimal solution due to high bank fees. For these, we use TransferWise.
+
+If you would like to receive money with this method, please make sure your invoices include all of the required recipient and bank information. Also, add a note to the invoice:
+
+> Please transfer the payment using TransferWise.
+
+We can only send local currency with this method. Your salary will be recalculated into local currency automatically by TransferWise.
+
+**Recipient Information**
+- Full Name
+- Address
+- Postcode & City
+- Country
+- Bank Account Number
+
+**Bank Information**
+- Bank Name
+- Address
+- Postcode & City
+- Country
+- SWIFT/BIC Code
+   - India: IFSC Code
