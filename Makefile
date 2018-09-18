@@ -20,5 +20,6 @@ http://books.niteo.co,\
 http://videos.niteo.co,\
 https://github.com/issues/assigned,\
 https://github.com/orgs/niteoweb/teams,\
+https://github.com/niteoweb/easyblognetworks,\
 https://apps.rackspace.com/%0D%0A \
 --skip-save-results `find . -iname "*.md"`
