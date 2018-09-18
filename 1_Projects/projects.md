@@ -14,7 +14,9 @@
 ## Project Template
 
 ```
-## About The Project
+# About The Project
+
+## Marketing
 
 ### Vision
 
