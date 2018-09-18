@@ -20,7 +20,7 @@ Run terminal, type git. Go to root directory of the repository on localhost (cd 
 
 Name branch based on the changes you're making. 
 
-`git checkout -B branch_name origin/master`
+`git checkout -b <branch_name> origin/master`
 
 ### Add or Change Files
 
