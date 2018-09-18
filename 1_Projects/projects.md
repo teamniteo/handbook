@@ -3,7 +3,7 @@
 ### Easy Blog Networks
 
 * Website: [easyblognetworks.com](https://www.easyblognetworks.com)
-* [Repository](https://github.com/niteoweb/ebn) 
+* [Repository](https://github.com/niteoweb/easyblognetworks) 
 
 ### WooCart
 
