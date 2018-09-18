@@ -14,39 +14,39 @@
 ## Project Template
 
 ```
-# About Project
+## About The Project
 
-## Vision
+### Vision
 
 An Aspirational Goal: What do we want to achieve in 10-15 years?
 
-## Mission
+### Mission
 
 What are we trying to do?
 
-## Marketing Strategy
+### Marketing Strategy
 
-### Tagline
+#### Tagline
 
 Short tagline describing the project.
 
-### Pitch
+#### Pitch
 
 Elevator pitches: spoken and for reading online.
 
-### Target Market Personas
+#### Target Market Personas
 
 Links to personas.
 
-## The Team 
+### The Team 
 
 `[handle: primary role, secondary role(s)]`
 
-# Repositories
+## Repositories
 
 Links to project repositories.
 
-# External Links
+## External Links
 
 Important links to external services.
 ```
