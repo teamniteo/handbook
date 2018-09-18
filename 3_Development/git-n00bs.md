@@ -12,7 +12,9 @@ Copy the link from GitHub repository Clone or Download green button.
 
 ### Sync Repository
 
-Go to root directory of the repository on localhost (cd ..). This command will discard any local changes.
+Go to root directory of the repository on localhost (cd ..). 
+
+This command will discard any local changes.
 
 `git checkout .`
 
