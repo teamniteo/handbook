@@ -53,7 +53,7 @@ Work Environment
 Easy Blog Networks
 
 * [EasyBlogNetworks.com](https://www.easyblognetworks.com)
-* [Repository](https://github.com/niteoweb/ebn) 
+* [Repository](https://github.com/niteoweb/easyblognetworks) 
 
 WooCart
 
