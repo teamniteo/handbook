@@ -12,29 +12,27 @@ Copy the link from GitHub repository Clone or Download green button.
 
 ### Sync Repository
 
-Run terminal, type git. Go to root directory of the repository on localhost (cd ..)
+Go to root directory of the repository on localhost (cd ..). This command will discard any local changes.
 
-`git fetch -p`
+`git checkout .`
+
+then switch to master branch
+
+`git checkout master`
+
+and get the latest changes
+
+`git pull master`
 
 ### Create Branch
 
 Name branch based on the changes you're making. 
 
-`git checkout -b <branch_name> origin/master`
+`git checkout -b <branch_name>`
 
-### Add or Change Files
+### Commit Changes
 
-Changes are automatically tracked but if you created new files, you need to add them:
-
-`git add .`
-
-If you do this make sure to deselect composer files in GitGui.
-
-### Check Status
-
-`git status`
-
-if OK:
+Once you've done the changes write
 
 `git gui`
 
@@ -47,14 +45,6 @@ Click button Commit. Click button Push.
 ### Create Pull Request
 
 Visit GitHub and click the button Compare & Pull Request.
-
-### Troubleshooting
-
-When you have to update local branch due to changes on master while you were working on a branch.
-
-`git pull -r`
-
-And force push.
 
 ## When All Else Fails
 
