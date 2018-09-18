@@ -24,21 +24,19 @@ An Aspirational Goal: What do we want to achieve in 10-15 years?
 
 What are we trying to do?
 
-### Marketing Strategy
-
-#### Tagline
+### Tagline
 
 Short tagline describing the project.
 
-#### Pitch
+### Pitch
 
 Elevator pitches: spoken and for reading online.
 
-#### Target Market Personas
+### Target Market Personas
 
 Links to personas.
 
-### The Team 
+## The Team 
 
 `[handle: primary role, secondary role(s)]`
 
