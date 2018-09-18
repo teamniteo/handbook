@@ -10,3 +10,43 @@
 * Website: [woocart.com](https://woocart.com)
 * [Repository](https://github.com/niteoweb/woocart)
 * [Public repository](https://github.com/woocart)  
+
+## Project Template
+
+```
+# About Project
+
+## Vision
+
+An Aspirational Goal: What do we want to achieve in 10-15 years?
+
+## Mission
+
+What are we trying to do?
+
+## Marketing Strategy
+
+### Tagline
+
+Short tagline describing the project.
+
+### Pitch
+
+Elevator pitches: spoken and for reading online.
+
+### Target Market Personas
+
+Links to personas.
+
+## The Team 
+
+`[handle: primary role, secondary role(s)]`
+
+# Repositories
+
+Links to project repositories.
+
+# External Links
+
+Important links to external services.
+```
