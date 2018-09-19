@@ -4,6 +4,7 @@
 ## Schedule
 
  * Every weekday morning we hold a daily standup meeting.
+ * Every weekday each Nitean needs to check GitHub notifications.
 
 Sprint meetings replace the daily standup on these days:
 
