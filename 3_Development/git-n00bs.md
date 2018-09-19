@@ -2,6 +2,12 @@
 
 We use git for everything, including documentation and that means non-developers use it too. Since we're not that comfortable with it or using it daily, here's a short guide on the basics. Instructions are for MacOS.
 
+### Install Git GUI
+
+Open terminal and install the Git graphical user interface by running
+
+`sudo apt-get install git-gui`
+
 ### Add Repository
 
 Open terminal, open the local folder where you want the repository to be. 
