@@ -71,7 +71,7 @@ Workable guides us through the following stages of hiring a new Nitean. A candid
 
 **7. Hired**
 
-   The candidate accepts our offer, and we start the [onboarding process].
+   The candidate accepts our offer, and we start the [onboarding process] by [creating the onboarding issue](https://github.com/niteoweb/operations/issues/new?template=onboarding-trialist-1-start.md).
 
 [trial period]: https://github.com/niteoweb/handbook/blob/master/5_People/onboarding.md#trial-period
 [onboarding process]: https://github.com/niteoweb/handbook/blob/master/5_People/onboarding.md
