@@ -26,7 +26,7 @@ Guides
 
 * [Design Process](/3_Development/design.md)
 * [Git Conventions and Best Practices](/3_Development/git.md)
-* [Git for Non-Developers](3_Development/git-n00bs.md)
+* [Git for Non-Developers](/3_Development/git-n00bs.md)
 
 ### Marketing and Support
 
