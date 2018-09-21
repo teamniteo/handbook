@@ -4,6 +4,7 @@
 ## Schedule
 
  * Every weekday morning we hold a daily standup meeting.
+ * Every weekday Niteans should check their [GitHub notifications](https://github.com/notifications) so that they don't miss things that involve them.
 
 Sprint meetings replace the daily standup on these days:
 
