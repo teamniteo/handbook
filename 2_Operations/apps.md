@@ -8,6 +8,13 @@ However, questions such as "where can I find X", "how do I do Y" and "what is Z"
 
 If you are on the receiving end of a question or message, that should really be posted in a public channel, reply with the following: `Hey! Let's take this to one of our public channels, so others can learn or chip in. I'll re-post and reply there.`. 
 
+Here is how we set reminders for daily standups in Slack:
+
+```
+/remind #ebn "@here Standup in 10 minutes! Join zoom.us/j/xxx early and say Hi! Write an #out-of-office message if not attending." at 9:50 every weekday
+/remind #ebn "@here Standup starting now!" at 9:59 every weekday
+```
+
 #### Channels
 
 Slack channels are separated into company-level and project-level channels. Projects start as discussions and ideas in company-level channels. When development and research takes off, projects get pushed into their own `#<project>` channel. Later on, when they start getting the first customers the project gets two more channels, `#<project>-dev` and `#<project>-support`, while the general discussions about the project are kept in `#<project>`. When the project grows even more, it gets even more specific channels. Click on the `Channels` heading in Slack's sidebar to see the list of active channels and their descriptions.
