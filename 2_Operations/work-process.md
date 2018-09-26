@@ -3,14 +3,21 @@
 
 ## Schedule
 
- * Every weekday morning we hold a daily standup meeting.
+ * Every **weekday** morning we hold a daily standup meeting:
+   * 10:00 CE(S)T for the whole company in the Niteo Zoom room
+   * followed immediately by separate standups for Easy Blog Networks and WooCart, in their own Zoom rooms
  * Every weekday Niteans should check their [GitHub notifications](https://github.com/notifications) so that they don't miss things that involve them.
 
 Sprint meetings replace the daily standup on these days:
 
- * A Wednesday is the start of a sprint with sprint planning.
- * The Tuesday, two weeks later, marks the end of the sprint with a sprint retrospective.
- * Then Wednesday, the next day, is usually the start of the next sprint.
+ * A **Wednesday** is the start of a sprint with sprint planning.
+   * 10:00 CE(S)T for the whole company in the Niteo Zoom room
+   * followed immediately by separate plannings for Easy Blog Networks and WooCart, in their own Zoom rooms
+ * The **Tuesday**, two weeks later, marks the end of the sprint with a sprint retrospective and company alignment meeting.
+   * 10:00 CE(S)T for Niteo
+   * followed immediately by retrospective for Easy Blog Networks 
+   * 11:00 CE(S)T for WooCart
+   * 12:00 CE(S)T for Niteo Alignment Meeting
 
 The last Monday morning of the sprint everyone should open up the Scrum board and ask themselves: "How can I help close whatever is still opened?". Repeat the same after lunch and on Tuesday morning.
 
@@ -22,7 +29,6 @@ Our work process is based on [Scrum](https://en.wikipedia.org/wiki/Scrum_(softwa
 
  * Sprint length is two weeks.
  * Story points commitment: 10 for each full-time member on the sprint. The total team commitment has at least 25% reserved for bug fixes and cleanup.
- * Daily standup meeting times: 10:00 CE(S)T for Easy Blog Networks and, 11:00 CE(S)T for WooCart
 
 ## Quarterly Planning
 
@@ -30,7 +36,7 @@ TODO
 
 ## Alignment Meeting
 
-15 minutes after the sprint retrospective we hold another meeting. Attendance on this one is optional, only those interested in the general direction the company is taking normally attend. That said, every Nitean is welcome to participate.
+After the sprint retrospective we hold another meeting. Attendance on this one is optional, only those interested in the general direction the company is taking normally attend. That said, every Nitean is welcome to participate.
 
 Primarily we look over the quarterly goals to determine how we are achieving them and to give us an idea of what should be included in the following day's sprint planning session.
 
