@@ -27,8 +27,7 @@ Every Nitean, when they transition from Trialist to a Permanent position, starts
 
 ## Conferences
 
-We encourage you to attend conferences to improve your knowledge of a subject area and network with similar minded people. Try to give notice at least 10-14 days before at
-g a conference.
+We encourage you to attend conferences to improve your knowledge of a subject area and network with similar minded people. Try to give notice at least 10-14 days before attending a conference.
 
 All conference expenses such as transport, accommodation, food, etc., are covered by your Allowance. To make sure you don't run out, you get a bonus for every day of the conference.
 
