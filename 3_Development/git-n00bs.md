@@ -30,7 +30,7 @@ then switch to master branch
 
 and get the latest changes
 
-`git pull master`
+`git pull`
 
 ### Create Branch
 
