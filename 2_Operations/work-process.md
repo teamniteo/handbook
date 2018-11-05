@@ -61,7 +61,7 @@ As an attendee, ask yourself:
 - Was I annoyed by a particular workflow or something that I think is wasting my time?
 - Did I find a handy tool/method/module that I think we should use?
 - Do I have an idea about implementation we will have in the next sprint, and I want to discuss it?
-- Have I seen the great technical talk, I want to share it so we can discuss it next time? 
+- Have I seen a great technical talk and I want to share it so we can discuss it the next time?
 
 As curator:
 
