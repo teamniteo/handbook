@@ -45,7 +45,7 @@ The main purpose of the alignment meeting is to adjust our compasses so that we 
 
 ## Developers Session
 
-We are a remote company and as such sharing of ideas and what is learned is hardened by the fact that we don't have the time or space to do that effectively. 
+We are a remote company and as such sharing of ideas and lessons learned is impaired by the fact that we don't have the time or space to do that effectively. 
 
 In the long term, this is hurting everyone and as such `Developers Sessions` are a way to discuss ideas, questions that might have arisen during retrospective or the sprint. Followed by a short lightning talk(s), which can be impromptu or declared beforehand so others can join. 
 
