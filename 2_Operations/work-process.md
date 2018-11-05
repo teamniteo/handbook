@@ -69,7 +69,7 @@ As a curator:
 - As a curator, meet and greet everyone, especially first-time joiners. 
 - If you hear crickets, start rolling the ball with a question, an anecdote or a funny story.
 - Make sure no one is talking the whole 30 minutes, everyone should have an opinion!
-- After 30min or less announce that there is time for Lightning talks.
+- After 30 minutes or less announce that there is time for Lightning talks.
 
 ## Commits and Pull Requests
 
