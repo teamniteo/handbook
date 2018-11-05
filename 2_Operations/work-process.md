@@ -47,7 +47,7 @@ The main purpose of the alignment meeting is to adjust our compasses so that we 
 
 We are a remote company and as such sharing of ideas and lessons learned is impaired by the fact that we don't have the time or space to do that effectively. 
 
-In the long term, this is hurting everyone and as such `Developers Sessions` are a way to discuss ideas, questions that might have arisen during retrospective or the sprint. Followed by a short lightning talk(s), which can be impromptu or declared beforehand so others can join. 
+In the long term, this is hurting everyone and as such `Developers Sessions` are a way to discuss ideas and questions that might have arisen during retrospective or the sprint. Followed by a short lightning talk(s), which can be impromptu or declared beforehand so others can join. 
 
 You can learn something from every single person in the world, no matter what their opinion on any topic is. We also believe that this is a big part of open source and our company, being able to learn and collaborate with people from all over the world who have a wide variety of different opinions on how to do things. On the other hand, a lightning talk can be a perfect way for testing how people react to a talk that you are going to have at next conference or just getting rid of that presentation fear in front of people.
 
