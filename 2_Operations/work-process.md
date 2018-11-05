@@ -45,19 +45,19 @@ The main purpose of the alignment meeting is to adjust our compasses so that we 
 
 ## Developers Session
 
-We are a remote company and as such sharing of ideas and what is learned is hardened by the fact that we don't have time and space to do that effectively. 
+We are a remote company and as such sharing of ideas and what is learned is hardened by the fact that we don't have the time or space to do that effectively. 
 
 In the long term, this is hurting everyone and as such `Developers Sessions` are a way to discuss ideas, questions that might have arisen during retrospective or the sprint. Followed by a short lightning talk(s), which can be impromptu or declared beforehand so others can join. 
 
-You can learn something from every single person in the world, no matter what their opinion on any topic is. We also believe that this is a big part of open source and company, being able to learn and collaborate with people from all over the world who have a wide variety of different opinions on how to do things. On the other hand, lightning talk can be a perfect way for testing how people react to talk that you are going to have at next conference or just getting rid of that presentation fear in front of people.
+You can learn something from every single person in the world, no matter what their opinion on any topic is. We also believe that this is a big part of open source and our company, being able to learn and collaborate with people from all over the world who have a wide variety of different opinions on how to do things. On the other hand, a lightning talk can be a perfect way for testing how people react to a talk that you are going to have at next conference or just getting rid of that presentation fear in front of people.
 
-In order to things not to explode gathering is limited to 30min plus any lightning talks to 5min.
+In order for things not to explode gathering is limited to 30min plus any lightning talks to 5min.
 
 ### Agenda
 
 As attendee ask yourself:
 
-- Did I had a problem with understanding of implementation I saw during the sprint? 
+- Did I have a problem with understanding of implementation I saw during the sprint? 
 - Was I annoyed by a particular workflow or something that I think it's wasting my time?
 - Did I found a handy tool/method/module that I think we should use?
 - Do I have an idea about implementation we will have in next sprint, and I want to discuss it?
@@ -67,9 +67,9 @@ As curator:
 
 - Announce in #operations Zoom session to join into
 - As curator meet and greet everyone, especially first-time joiners. 
-- If you hear crickets, start rolling ball with a question, an anecdote or funny story.
+- If you hear crickets, start rolling the ball with a question, an anecdote or funny story.
 - Make sure no one is talking the whole 30min, everyone should have an opinion!!!
-- After 30 min or less announce, there is a time for Lightning talk.
+- After 30min or less announce that there is time for Lightning talks.
 
 ## Commits and Pull Requests
 
