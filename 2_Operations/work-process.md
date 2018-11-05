@@ -18,6 +18,7 @@ Sprint meetings replace the daily standup on these days:
    * followed immediately by retrospective for Easy Blog Networks 
    * 11:00 CE(S)T for WooCart
    * 12:00 CE(S)T for Niteo Alignment Meeting
+   * 13:00 CE(S)T for Developers Session
 
 The last Monday morning of the sprint everyone should open up the Scrum board and ask themselves: "How can I help close whatever is still opened?". Repeat the same after lunch and on Tuesday morning.
 
@@ -41,6 +42,34 @@ After the sprint retrospective we hold another meeting. Attendance on this one i
 Primarily we look over the quarterly goals to determine how we are achieving them and to give us an idea of what should be included in the following day's sprint planning session.
 
 The main purpose of the alignment meeting is to adjust our compasses so that we will select the correct user stories in the sprint planning meeting coming the next day. We know we are paddling hard, but are we all paddling in the right direction?
+
+## Developers Session
+
+We are a remote company and as such sharing of ideas and lessons learned is impaired by the fact that we don't have the time or space to do that effectively. 
+
+In the long term, this is hurting everyone and as such `Developers Sessions` are a way to discuss ideas and questions that might have arisen during retrospective or the sprint. Followed by a short lightning talk(s), which can be impromptu or declared beforehand so others can join. 
+
+You can learn something from every single person in the world, no matter what their opinion on any topic is. We also believe that this is a big part of open source and our company, being able to learn and collaborate with people from all over the world who have a wide variety of different opinions on how to do things. On the other hand, a lightning talk can be a perfect way for testing how people react to a talk that you are going to have at next conference or just getting rid of that presentation fear in front of people.
+
+In order for things to not explode, the Session is limited to 30 minutes plus any lightning talks to 5min.
+
+### Agenda
+
+As an attendee, ask yourself:
+
+- Did I have a problem with understanding of implementation I saw during the sprint? 
+- Was I annoyed by a particular workflow or something that I think is wasting my time?
+- Did I find a handy tool/method/module that I think we should use?
+- Do I have an idea about implementation we will have in the next sprint, and I want to discuss it?
+- Have I seen a great technical talk and I want to share it so we can discuss it the next time?
+
+As a curator:
+
+- Announce in #operations Zoom session to join into
+- As a curator, meet and greet everyone, especially first-time joiners. 
+- If you hear crickets, start rolling the ball with a question, an anecdote or a funny story.
+- Make sure no one is talking the whole 30 minutes, everyone should have an opinion!
+- After 30 minutes or less announce that there is time for Lightning talks.
 
 ## Commits and Pull Requests
 
