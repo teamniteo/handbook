@@ -51,7 +51,7 @@ In the long term, this is hurting everyone and as such `Developers Sessions` are
 
 You can learn something from every single person in the world, no matter what their opinion on any topic is. We also believe that this is a big part of open source and our company, being able to learn and collaborate with people from all over the world who have a wide variety of different opinions on how to do things. On the other hand, a lightning talk can be a perfect way for testing how people react to a talk that you are going to have at next conference or just getting rid of that presentation fear in front of people.
 
-In order for things not to explode gathering is limited to 30min plus any lightning talks to 5min.
+In order for things to not explode, the Session is limited to 30 minutes plus any lightning talks to 5min.
 
 ### Agenda
 
