@@ -63,7 +63,7 @@ As an attendee, ask yourself:
 - Do I have an idea about implementation we will have in the next sprint, and I want to discuss it?
 - Have I seen a great technical talk and I want to share it so we can discuss it the next time?
 
-As curator:
+As a curator:
 
 - Announce in #operations Zoom session to join into
 - As curator meet and greet everyone, especially first-time joiners. 
