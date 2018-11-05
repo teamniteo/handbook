@@ -55,7 +55,7 @@ In order for things to not explode, the Session is limited to 30 minutes plus an
 
 ### Agenda
 
-As attendee ask yourself:
+As an attendee, ask yourself:
 
 - Did I have a problem with understanding of implementation I saw during the sprint? 
 - Was I annoyed by a particular workflow or something that I think it's wasting my time?
