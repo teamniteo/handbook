@@ -3,10 +3,12 @@
 
 ## Schedule
 
- * Every **weekday** morning we hold a daily standup meeting:
+* Every **Monday and Thursday** morning we hold a daily standup meeting:
    * 10:00 CE(S)T for the whole company in the Niteo Zoom room
    * followed immediately by separate standups for Easy Blog Networks and WooCart, in their own Zoom rooms
- * Every weekday Niteans should check their [GitHub notifications](https://github.com/notifications) so that they don't miss things that involve them.
+* Every other **weekday** morning we hold a daily standup meeting:
+   * 10:00 CE(S)T separate standups for Easy Blog Networks and WooCart, in their own Zoom rooms
+* Every weekday Niteans should check their [GitHub notifications](https://github.com/notifications) so that they don't miss things that involve them.
 
 Sprint meetings replace the daily standup on these days:
 
