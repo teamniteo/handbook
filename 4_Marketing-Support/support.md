@@ -6,25 +6,23 @@ Read everything we have on our project websites (don’t forget the footer links
 
 ## General Instructions
 
-1. Do not reply to tickets which are assigned to other agents, unless they are away and won't be back within 24 hours.
+1. Try to reply to customers as soon as possible. Always process tickets from oldest to newest.
 
-2. Try to reply to customers as soon as possible. Always process tickets from oldest to newest.
+2. Do not leave the customer without a reply for more than one work day. If nothing else, let them know we're looking into the issue. Nothing is worse than being ignored by support when you have issues.
 
-3. Do not leave the customer without a reply for more than one work day. If nothing else, let them know we're looking into the issue. Nothing is worse than being ignored by support when you have issues.
+3. Try to close tickets with just a single email instead of bouncing multiple emails with the user. That means be concise and resourceful.
 
-4. Try to close tickets with just a single email instead of bouncing multiple emails with the user. That means be concise and resourceful.
+4. Offer recommendations when in context. For example: a plugin is blocked by the system. We don't just tell the user that the plugin is blocked for a reason but we offer recommendations as a solution.
 
-5. Offer recommendations when in context. For example: a plugin is blocked by the system. We don't just tell the user that the plugin is blocked for a reason but we offer recommendations as a solution.
+5. Make sure you read the ticket history with that person before replying. It might have information that’s relevant to the new ticket.
 
-6. Make sure you read the ticket history with that person before replying. It might have information that’s relevant to the new ticket.
+6. Be nice to all who send an email even if they’re very rude (and some will be). Keep calm, reply with facts and thank them for any feedback. If they’re worried about their refund, cancellation or anything else, let them know we’ll do our best to fix things in their interest.
 
-7. Be nice to all who send an email even if they’re very rude (and some will be). Keep calm, reply with facts and thank them for any feedback. If they’re worried about their refund, cancellation or anything else, let them know we’ll do our best to fix things in their interest.
+7. The conversation can be informal and smilies are allowed when in context.
 
-8. The conversation can be informal and smilies are allowed when in context.
+8. Listen to what the customer is saying. Even if the customer is in the wrong, acknowledge what they are saying and then use that as a teachable moment. Having them learn how to resolve issues on their own is still the best customer experience.
 
-9. Listen to what the customer is saying. Even if the customer is in the wrong, acknowledge what they are saying and then use that as a teachable moment. Having them learn how to resolve issues on their own is still the best customer experience.
-
-10. Avoid saying YOU when replying to support tickets where the user messed something up.
+9. Avoid saying YOU when replying to support tickets where the user messed something up.
 
 Here's an example.
 
@@ -40,7 +38,7 @@ If something isn't clear, ask Dejan or Marbe.
 
 ## Slack Channels
 
-Support related issues and topics are discussed on product's support channel, if there is one. This way everyone knows what's going on and can contribute to the topic. Avoid pinging coworkers in private since then others won't know what's going on.
+Support related issues and topics are discussed on the product's support channel, if there is one. This way everyone knows what's going on and can contribute to the topic. Avoid pinging coworkers in private since then others won't know what's going on.
 
 ## Live Chat Support
 
@@ -59,7 +57,7 @@ Sample scenario: the user wants you to change their login email.
 * Incorrect: Asking for the user's new login email and setting it yourself.
 * Correct: Ask the user to log into their account, go to Settings tab, and then update the information themselves.
 
-There are other scenarios but the general idea is that don't give anything to a user unless properly verified. One verification process is asking them to log into their account then checking the logs for the login event.
+There are other scenarios but the general idea is that don't give anything to a user unless properly verified. One verification process is asking them to log in to their account then checking the logs for the login event.
 
 ## Using Intercom
 
@@ -87,6 +85,6 @@ If a question is too difficult to answer, re-assign it to someone qualified to t
 
 ### Help Center
 
-Help Centers is where the instructions and common questions by customers are answered. Every product has its own Help Center which should be updated whenever questions become too common and users cannot find answers.
+Help Centers are where the instructions and common questions by customers are answered. Every product has its own Help Center which should be updated regularly - add new information and remove outdated ones if any.
 
 You can search and insert relevant help articles without leaving the Intercom dashboard. On the reply box, just click on the note icon and enter a keyword, then add it to your reply.
