@@ -11,15 +11,15 @@ In the end, we are working for our customers, and having everyone involved in th
 ### I. Instructions
 
 * Start by reading our policy on handling support. See [Handling Support Requests](support.md).
-* Support has its own [repository](https://github.com/niteoweb/support/) where various processes are documented. To fast-track the onboarding process and get a good grasp of the common issues and tools we're using, start with these three articles:
-  * [Support Tools](https://github.com/niteoweb/support/blob/master/EBN/support-tools-and-processes.md)
-  * [Support Issues Checklist](https://github.com/niteoweb/support/blob/master/EBN/support-issues-checklist.md)
-  * [Blog Problems Checklist](https://github.com/niteoweb/support/blob/master/EBN/blog-problems-checklist.md)
+* We have [documentation](https://github.com/niteoweb/easyblognetworks/tree/master/support) for the various support processes and tasks. To fast-track the onboarding process and get a good grasp of the common issues and tools we're using, start with these three articles:
+  * [EBN - Support Tools](https://github.com/niteoweb/easyblognetworks/blob/master/support/support-tools-and-processes.md)
+  * [EBN - Support Issues Checklist](https://github.com/niteoweb/easyblognetworks/blob/master/support/support-issues-checklist.md)
+  * [EBN - Blog Problems Checklist](https://github.com/niteoweb/easyblognetworks/blob/master/support/blog-problems-checklist.md)
 * We use [Intercom](https://app.intercom.io/) for handling support emails. For EOS, we have a predefined account which you'll need to personalize when you're on duty. Login credentials are on 1Password under *Team* vault. Update the profile by clicking on your name found at the bottom left corner of the page.
 * Filter available tickets by selecting the `unassigned` folder.
-* Everyone has *Staff* access to the EBN app, this allows you to log into internal [*Blog Dashboard*](https://github.com/niteoweb/support/blob/master/EBN/blog-dashboard.md) app.
+* Everyone has *Staff* access to the EBN app, this allows you to log in to internal [*Blog Dashboard*](https://github.com/niteoweb/easyblognetworks/blob/master/support/blog-dashboard.md) app.
 * We have the #ebn-support channel for support-related discussions and the #ebn-server-ops channel for server statuses and warnings.
-* All support documents can be found in our [support repository](https://github.com/niteoweb/support/). Make sure you go through them regularly and suggest improvements where needed.
+* All support documents can be found in the project support folder ([EBN](https://github.com/niteoweb/easyblognetworks/tree/master/support)). Make sure you go through them regularly and suggest improvements where needed.
 
 ### II. Frequency
 
