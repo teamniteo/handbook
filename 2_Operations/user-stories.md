@@ -6,6 +6,7 @@ User Stories are well-defined tasks to be done by a Nitean that have a specific,
 
 To create a new user story, open a [new issue](https://github.com/niteoweb/operations/issues/new) in the Operations repository and you will find a template is provided to guide you through the process. If you need to create a user story in another repository you will need to copy and paste over this Operations template.
 
+To make the stories more inclusive, we prefer using [Singular they](https://en.wikipedia.org/wiki/Singular_they) instead of `he`, `himself`, etc.
 
 ### Summary
 
