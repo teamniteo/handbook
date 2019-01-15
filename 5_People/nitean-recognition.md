@@ -12,7 +12,9 @@ Monitor the leaderboard on the [Bonusly analytics page](https://bonus.ly/analyti
 
 ## Policy
 
-Niteans get 30 points allowance every month. We're adopting the `+1` system. This literally means giving a +1 (not 2 or 5 points) whenever someone did something that deserves a recognition. Big or small, if you think it's noteworthy or made you happy, send the Nitean a bonus.
+Niteans get 20 points allowance every month. We're adopting the `+1` system. This literally means giving a +1 (not 2 or 5 points) whenever someone did something that deserves a recognition. Big or small, if you think it's noteworthy or made you happy, send the Nitean a bonus.
+
+We highly encourage everyone to send at least one bonus a day. Take 2-3 minutes and think of all the things done or people who did something recently that deserves a recognition.
 
 To give someone a bonus, use the format below.
 
