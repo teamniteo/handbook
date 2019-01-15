@@ -6,7 +6,7 @@ We believe every Nitean should take part in the distribution of the company prof
 
 ## Productivity Allowance
 
-The Productivity Allowance is a monthly budget that can be used to pay for any expenses that you believe can improve your work. Some examples of such expenses (but definitely not a finite list): attending a conference, a training or a similar event, an online course, a new phone, computer or monitor, a good microphone and camera for meetings, a good work chair or a standing desk, an Internet connection with a static IP at a reputable provider, a membership of a local hackerspace, a gadget such as a Kindle or a smart watch, a Raspberry PI to play around with and learn new things, etc.
+The Productivity Allowance is a monthly budget that can be used to pay for any expenses that you believe can improve your work. Some examples of such expenses (but definitely not a finite list): attending a conference, a training or a similar event, an online course, a new phone, computer or monitor, a good microphone and camera for meetings, a good work chair or a standing desk, an Internet connection with a static IP at a reputable provider, a membership of a local hackerspace, a gadget such as a Kindle or a smart watch, a Raspberry PI to play around with and learn new things, etc. You can also use your allowance for a gym membership or similar sport activity.
 
 In other words, would something boost your productivity and creativity? Good, feel free to buy it with your allowance, no questions asked.
 
