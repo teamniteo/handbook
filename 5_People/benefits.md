@@ -14,7 +14,7 @@ In other words, would something boost your productivity and creativity? Good, fe
 
 The current monthly allowance budget as of *January 2018* is:
 
- * Niteans: _€130 ($140)_ 
+ * Niteans: _€130 ($150)_ 
  * Founders: _€260_
 
 The monthly budgets compound every month, so whatever you do not spend this month, you can use the next month, or the one after.
