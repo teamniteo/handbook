@@ -37,7 +37,7 @@ The allowance bonus accounts for all the days you are away at the conference and
 
 * €40 ($45)/day for local conferences, in or near your home city.
 * €150 ($170)/day for international conferences.
-* 250€ ($290)/day for intercontinental conferences.
+* €255 ($290)/day for intercontinental conferences.
 * Bonus 50%/conference day if you give a 30-60min talk at the conference or tending our booth.
 
 Conferences count as working days (7.5h per day). Transport to conferences counts too (up to 7.5h per day).
