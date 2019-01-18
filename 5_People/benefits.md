@@ -21,7 +21,7 @@ The monthly budgets compound every month, so whatever you do not spend this mont
 
 You can request an increase in your allowance if you feel the current one doesn't cover all the expenses for you. You can spend a few months of future allowance balance. The maximum allowance balance you can keep is 18 months. That said, it's smart to keep at least a few months allowance, just in case something breaks.
 
-If they attended a conference in the previous year, each Nitean gets a €1000 additional budget on 1st of January every year.
+If they attended a conference in the previous year, each Nitean gets a €1000 ($1145) additional budget on 1st of January every year.
 
 Every Nitean, when they transition from Trialist to a Permanent position, starts with an allowance budget that is proportional to how many months remain in the year (€1000 in January, €500 in July, etc.)
 
