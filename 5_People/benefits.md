@@ -14,8 +14,8 @@ In other words, would something boost your productivity and creativity? Good, fe
 
 The current monthly allowance budget as of *January 2018* is:
 
- * Niteans: _€125 ($150)_ 
- * Founders: _€250_
+ * Niteans: _€130 ($140)_ 
+ * Founders: _€260_
 
 The monthly budgets compound every month, so whatever you do not spend this month, you can use the next month, or the one after.
 
@@ -35,9 +35,9 @@ All conference expenses such as transport, accommodation, food, etc., are covere
 
 The allowance bonus accounts for all the days you are away at the conference and depends on the amount of traveling and accomodation required:
 
-* €40 ($50)/day for local conferences, in or near your home city.
-* €150 ($180)/day for international conferences.
-* 250€ ($300)/day for intercontinental conferences.
+* €40 ($45)/day for local conferences, in or near your home city.
+* €150 ($170)/day for international conferences.
+* 250€ ($290)/day for intercontinental conferences.
 * Bonus 50%/conference day if you give a 30-60min talk at the conference or tending our booth.
 
 Conferences count as working days (7.5h per day). Transport to conferences counts too (up to 7.5h per day).
