@@ -84,6 +84,8 @@ You are encouraged to extend your trip and take vacation days to see the place y
 
 Everyone is entitled to 165 hours of vacation leave (22 days) in any calendar year. These hours are automatically used to substitute any missing hours when one doesn't fulfill the monthly work quota. Over/undertime hours are calculated every month for the previous month.
 
+Parents get 1 extra day of paid leave every quarter.
+
 Birth of a child is 20 extra days of paid leave.
 
 Death in the family is 3 extra days of paid leave.
