@@ -76,10 +76,10 @@ Before leveling up, you are also expected to:
 
 Read more about the careers and its roles:
 
-* [Design Career](#)
-* [Operations Career](#)
-* [Marketing Career](#)
-* [Technical Career](#)
+* [Design Career](/5_People/career-design.md)
+* [Operations Career](/5_People/career-operations.md)
+* [Marketing Career](/5_People/career-marketing.md)
+* [Technical Career](/5_People/career-technical.md)
 
 ## Working Hours
 
