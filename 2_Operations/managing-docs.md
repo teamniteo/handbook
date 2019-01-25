@@ -2,10 +2,8 @@
 
 We use the following services for storing information:
 
-- **[GitHub](https://github.com/niteoweb)** - Code repository, project documentation and ticketing system for all our projects.
+- **[GitHub](https://github.com/niteoweb)** - Code repository, company and project documentation, and ticketing system for all our projects.
 - **[ZenHub](https://www.zenhub.com/)** - Agile project management within GitHub. 
-- **[Intra](https://intra.niteo.co)** - Team members profiles, reports and anything else that cannot be publicly published on the Handbook.
-- **[Docs](http://docs.niteo.co)** - Technical documentation for projects, generated automatically by Sphinx on every code change.
 - **[Books](http://books.niteo.co)** - Our digital library.
 - **[Videos](http://videos.niteo.co)** - A collection of videos of our talks in public and private events, conferences, meetups, IRLs, etc.
 - **[Grafana](http://niteo.grafana.net)** - Company and project dashboards.
