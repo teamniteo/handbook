@@ -70,7 +70,7 @@ Looking at salaries, a sharp eye will find that lower positions are a bit above 
 We don't have a hard requirement that you need to hit all requirements to be promoted to the next level. You need to hit most of them, consistently. It helps if you are already hitting one or two from the level after the next.
 
 Before leveling up, you are also expected to:
-* read three books: one industry-specific, one about company culture and one on personal growth (our [recommended reading list](#));
+* read three books: one industry-specific, one about company culture and one on personal growth (our [recommended reading list](/5_People/booklist.md));
 * attend one intensive online or in-person course (example: Coursera, or advanced English course);
 * the third level on all position requires you to be on a Mac or Linux computer.
 
