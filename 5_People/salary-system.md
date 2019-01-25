@@ -74,7 +74,7 @@ Before leveling up, you are also expected to:
 * attend one intensive online or in-person course (example: Coursera, or advanced English course);
 * the third level on all position requires you to be on a Mac or Linux computer.
 
-Read more about the careers and its roles:
+Read more about the careers and their roles:
 
 * [Design Career](/5_People/career-design.md)
 * [Operations Career](/5_People/career-operations.md)
