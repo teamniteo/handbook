@@ -1,6 +1,6 @@
 # Design Career
 
-You start as a (graphics) designer, working on small, well defined and isolated tasks. Then you immediately need to become a product person that gets loosely defined problems/features and research and defines solutions for them. 
+You start as a (graphics) designer, working on small, well defined and isolated tasks. Then you immediately need to become a product person that gets loosely defined problems/features to research and define solutions for.
 
 The top two positions are two branches of the design career:
 * Lead Designer careers means you start taking over managerial tasks, leading entire projects. 
