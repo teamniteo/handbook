@@ -1,6 +1,6 @@
 # Recommended Reading List
 
-## Company
+## Company Culture
 
 * Maverick, Ricardo Semler
 * It doesn't have to be crazy at work, David Heinemeier Hansson and Jason Fried
