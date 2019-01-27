@@ -25,8 +25,10 @@ These are the books that strongly influenced our company and are therefore highl
 
 ## Personal Growth
 
-* [Fly!: Life Lessons from the Cockpit of QF32, Richard de Crespigny](https://www.amazon.com/Fly-Life-Lessons-Cockpit-QF32-ebook/dp/B07FWT8F31)
 * [Barking Up the Wrong Tree, Eric Barker](https://www.amazon.com/Barking-Wrong-Tree-Surprising-Everything/dp/0062416049)
 * [Creativity, Inc., Ed Catmull and Amy Wallace](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012)
+* [Predictably Irrational, Dan Ariely](https://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248)
 * [Surely You're Joking, Mr. Feynman!, Richard P. Feynman](https://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041)
 * [The Elements of Eloquence, Mark Forsyth](https://www.amazon.com/Elements-Eloquence-Perfect-English-Phrase-ebook/dp/B00KFEJN3Q)
+* [Tools of Titans, Tim Ferris](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788)
+* [Tribe of Mentors, Tim Ferris](https://www.amazon.de/Tribe-Mentors-Short-Advice-World/dp/1328994961)
