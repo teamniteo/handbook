@@ -1,4 +1,4 @@
-# Marketing career
+# Marketing Career
 
 Facebook Ads, Google Ads, SEO, Content (includes Copywriting) and Analytics are the five pillars of marketing in Niteo. You start with proficiency in one of them, then move up by mastering the chosen pillar and gaining working knowledge of the rest.
 
@@ -31,7 +31,7 @@ After that you are on you own to decide which pillar to use at which time and yo
 * Had at least one business in their lifetime.
 * Usually at least 8-12 years of marketing/business experience.
 
-## Product Senior Marketing Manager
+## Senior Product Marketing Manager
 
 * Creates spin-offs: finds the opportunity, assembles the team, and leads the business aspects.
 * Responsibility for the profitability of the spin-off. 
