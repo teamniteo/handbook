@@ -8,12 +8,12 @@ Salary System is a constant work in progress and we always strive to make it bet
 
 ## Salary Formula
 
-Our salary formula consists of three variables: Base Salary for the role, Location Factor, and Years Bonus. 
+Our salary formula consists of three variables: Base Salary for the role, Location Factor, and Years Factor. 
 
 This is the Salary Formula:
 
 ```
-(Base * Location) + (Base * Years Bonus (%))
+(Base * Location) + (Base * Years Factor (%))
 ```
 
 ### Base Salary
@@ -46,11 +46,11 @@ In other words, if you live in an inexpensive city, your salary will be _decreas
 This way we are motivated to hire in inexpensive regions, while at the same time providing a better salary for those Niteans. All things being the same, we will always hire a Nitean from a less expensive city.
 
 
-### Years Bonus (%)
+### Years Factor (%)
 
-Understanding how we operate makes a Nitean more productive and more valuable to the company. We reward this by the Years Bonus. Each year after the first, the Nitean will receive a percentage to their base (without the location factor). We calculate this factor by using the [natural logarithm](https://en.wikipedia.org/wiki/Natural_logarithm).
+Understanding how we operate makes a Nitean more productive and more valuable to the company. We reward this by the Years Factor. Each year after the first, the Nitean will receive a percentage to their base (without the location factor). We calculate this factor by using the [natural logarithm](https://en.wikipedia.org/wiki/Natural_logarithm).
 
-Here's the Years Bonus for the first five years:
+Here's the Years Factor for the first five years:
 
 | Years as permanent Nitean | Added to Base without location |
 |---------------------------|--------------------------------|
@@ -65,7 +65,7 @@ Here's the Years Bonus for the first five years:
 
 We use four primary careers for roles: technical, marketings, design, and operations. Each career has different levels or roles, based on which we define the responsibilities and salary.
 
-Looking at salaries, a sharp eye will find that lower positions are a bit above market rate and higher positions a bit below market rate. The idea is that we slightly overpay the lower positions to get the best juniors, while slightly underpaying higher positions in order to be more lean. At the same time we expect that in higher positions an additional 1000 EUR does not have a high marginal utility and they value our culture and benefits more. That said, we compensate loyalty with the Years Bonus, profit sharing and (soon) equity. 
+Looking at salaries, you might feel that higher positions are a bit underpaid while the lower positions are overpaid. The idea is that we slightly overpay the lower positions to get the best juniors, while slightly underpaying higher positions in order to be more lean. At the same time we expect that in higher positions an additional 1000 EUR does not have a high marginal utility and they value our culture and benefits more. That said, we compensate loyalty with the Years Factor, profit sharing and (soon) equity. 
 
 We don't have a hard requirement that you need to hit all requirements to be promoted to the next level. You need to hit most of them, consistently. It helps if you are already hitting one or two from the level after the next.
 
