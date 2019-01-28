@@ -13,27 +13,29 @@ Our salary formula consists of three variables: Base Salary for the role, Locati
 This is the Salary Formula:
 
 ```
-(Base * Location) + (Base * Years Factor (%))
+Base + (Base * Location Factor) + (Base * Years Factor)
 ```
 
 ### Base Salary
 
-Niteo Base Salary is calculated by first taking the [*Glassdoor salary for the role in San Francisco*](https://www.glassdoor.com/Salaries/san-francisco-software-engineer-salary-SRCH_IL.0,13_IM759_KO14,31.htm). We take San Francisco because we assume it has the best data for the tech sector. To exchange the salary from USD to EUR, our primary currency, we take [the 10-year exchange rate average](https://www.ofx.com/en-au/forex-news/historical-exchange-rates/yearly-average-rates/). This is updated every January. 
+Niteo Base Salary is calculated by first taking the [*Glassdoor salary for the role in San Francisco*](https://www.glassdoor.com/Salaries/san-francisco-software-engineer-salary-SRCH_IL.0,13_IM759_KO14,31.htm), converting it to EUR and finally discounting it by our *affordability ratio*. 
 
-Because we are not a tech company or a funded startup in San Francisco, we also take into account our *affordability ratio*, calculated from the Location Factor. We calculate our *affordability ratio* by averaging Numbeo Location Ratios of Amsterdam, Barcelona, Berlin, and Lisbon (see Location Factor below). This ratio stands at _0.53_.
+#### Why San Francisco?
 
-Here's the formula for the base salary:
+We take San Francisco because we assume it has the best data for the tech sector.
 
-```
-Glassdoor salary for the role * 10-year USD/EUR exchange rate average * affordability ratio 
-```
+#### But what about EUR <-> USD fluctuations?
 
-Current factors, as of January 2019:
+To avoid day-to-day currency fluctuations we take [the 10-year exchange rate average](https://www.ofx.com/en-au/forex-news/historical-exchange-rates/yearly-average-rates/) to exchange the Glassdoor amounts from USD to EUR, Niteo's primary currency. The exchange rate for 2019 is _1.23_.
 
-```
-Exchange Rate: 1.23
-Affordability Ratio: 0.53
-```
+#### Affordability Ratio
+
+We are not a VC funded Sillicon Valey startup who scales for the sake of scaling and often does not care how much things cost. We strive to be profitable so [every Nitean gets a cut]. Hence, we discount Glassdor amounts by an *affordability ratio*, which we get by averaging Numbeo Location Ratios of Amsterdam, Barcelona, Berlin, and Lisbon. The affordability ratio for 2019 is _0.53_.
+
+#### How often do base salaries get calculated?
+
+Once a year, in January, during our [bi-annual IRL](https://blog.niteo.co/irls/). Same for the affordability ratio.
+
 
 ### Location Factor
 
@@ -46,19 +48,19 @@ In other words, if you live in an inexpensive city, your salary will be _decreas
 This way we are motivated to hire in inexpensive regions, while at the same time providing a better salary for those Niteans. All things being the same, we will always hire a Nitean from a less expensive city.
 
 
-### Years Factor (%)
+### Years Factor
 
-Understanding how we operate makes a Nitean more productive and more valuable to the company. We reward this by the Years Factor. Each year after the first, the Nitean will receive a percentage to their base (without the location factor). We calculate this factor by using the [natural logarithm](https://en.wikipedia.org/wiki/Natural_logarithm).
+Understanding how we operate makes a Nitean more productive and more valuable to the company. We reward this by the Years Factor. Each year after the first, the Nitean will receive a bonus to their base. The bonus decreases with every year, as every year there is less to learn about specifics of our work. We calculate the Years Factor using the [natural logarithm](https://en.wikipedia.org/wiki/Natural_logarithm): `LN(years)/10`
 
-Here's the Years Factor for the first five years:
+Here's the Years Factor for the first couple of years:
 
-| Years as permanent Nitean | Added to Base without location |
-|---------------------------|--------------------------------|
-| 1                         | 6.9%                           |
-| 2                         | 11.0%                          |
-| 3                         | 13.9%                          |
-| 4                         | 16.1%                          |
-| 5                         | 17.9%                          |
+| Years as permanent Nitean | Added to Base |
+|---------------------------|---------------|
+| 1                         | 6.9%          |
+| 2                         | 11.0%         |
+| 3                         | 13.9%         |
+| 4                         | 16.1%         |
+| 5                         | 17.9%         |
 
 
 ## Roles
