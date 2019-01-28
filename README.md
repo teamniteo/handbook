@@ -35,7 +35,7 @@ The structure of the Handbook mirrors our departments for simple organization. R
 ### People
 
 * Compensation and Benefits
-  * [Salary](/5_People/salary.md)
+  * [Salary System](/5_People/salary-system.md)
   * [Benefits](/5_People/benefits.md)
   * [Profit Sharing](/5_People/profit-sharing.md)
 * Hiring and Onboarding
@@ -44,6 +44,7 @@ The structure of the Handbook mirrors our departments for simple organization. R
 * Work Environment
   * [Catchup Meetings](/5_People/catchup-meetings.md)
   * [Nitean Recognition](/5_People/nitean-recognition.md)
+  * [Recommended Reading List](/5_People/booklist.md)
 
 
 ### Projects
