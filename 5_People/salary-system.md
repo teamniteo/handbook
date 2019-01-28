@@ -30,7 +30,7 @@ To avoid day-to-day currency fluctuations we take [the 10-year exchange rate ave
 
 #### Affordability Ratio
 
-We are not a VC funded Sillicon Valey startup who scales for the sake of scaling and often does not care how much things cost. We strive to be profitable so [every Nitean gets a cut]. Hence, we discount Glassdor amounts by an *affordability ratio*, which we get by averaging Numbeo Location Ratios of Amsterdam, Barcelona, Berlin, and Lisbon. The affordability ratio for 2019 is _0.53_.
+We are not a VC funded Sillicon Valey startup who scales for the sake of scaling and often does not care how much things cost. We strive to be profitable so [every Nitean gets a cut](https://github.com/niteoweb/handbook/blob/master/5_People/profit-sharing.md). Hence, we discount Glassdor amounts by an *affordability ratio*, which we get by averaging Numbeo Location Ratios of Amsterdam, Barcelona, Berlin, and Lisbon. The affordability ratio for 2019 is _0.53_.
 
 #### How often do base salaries get calculated?
 
