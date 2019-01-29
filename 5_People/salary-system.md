@@ -24,9 +24,9 @@ Niteo Base Salary is calculated by first taking the [*Glassdoor salary for the r
 
 We take San Francisco because we assume it has the best data for the tech sector.
 
-#### But what about EUR <-> USD fluctuations?
+#### But what about EUR/USD fluctuations?
 
-To avoid day-to-day currency fluctuations we take [the 10-year exchange rate average](https://www.ofx.com/en-au/forex-news/historical-exchange-rates/yearly-average-rates/) to exchange the Glassdoor amounts from USD to EUR, Niteo's primary currency. The exchange rate for 2019 is _1.23_.
+To avoid day-to-day currency fluctuations we take [the 10-year exchange rate average](https://www.ofx.com/en-au/forex-news/historical-exchange-rates/yearly-average-rates/) to convert the Glassdoor amounts from USD to EUR, Niteo's primary currency. The exchange rate for 2019 is _1.23_.
 
 #### Affordability Ratio
 
