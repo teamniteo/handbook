@@ -13,7 +13,7 @@ Our salary formula consists of three variables: Base Salary for the role, Locati
 This is the Salary Formula:
 
 ```
-Base + (Base * Location Factor) + (Base * Years Factor)
+(Base * Location Factor) + (Base * Years Factor)
 ```
 
 ### Base Salary
