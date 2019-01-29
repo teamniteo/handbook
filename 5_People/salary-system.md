@@ -39,7 +39,7 @@ Once a year, in January, during our [bi-annual IRL](https://blog.niteo.co/irls/)
 
 ### Location Factor
 
-Location factor takes into account the living costs. We determine them by comparing Numbeo's [cost of living between San Francisco and the Nitean's city](https://www.numbeo.com/cost-of-living/compare_cities.jsp?country1=United+States&city1=San+Francisco%2C+CA&country2=Germany&city2=Berlin) and calculating the *Numbeo Location Ratio*.
+Location factor takes into account the living costs. We determine them by comparing Numbeo's [cost of living between San Francisco and the Nitean's city](https://www.numbeo.com/cost-of-living/compare_cities.jsp?country1=United+States&city1=San+Francisco%2C+CA&country2=Germany&city2=Berlin) and calculating the *Numbeo Location Ratio*. For the purposes of the Salary System, we take your official permanent residence (address stated in your passport), and do not change it for seasonal relocations or longer travel.
 
 We pay Niteans relatively more in inexpensive cities, increasing their local purchasing power. We do this by compressing the Location Factor of cities below affordability ratio upwards by 2/3 of the distance between location and affordability ratio. Inversely, cities above the affordability ratio are compressed downwards by 2/3 of the distance between location and affordability.
 
