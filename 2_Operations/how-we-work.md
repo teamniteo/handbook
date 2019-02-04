@@ -16,9 +16,9 @@ In addition there are ad-hoc in-person meetups that happen about once or twice a
 
 We work in 2-week Scrum Sprints described in detail in the [work process](work-process.md) document.
 
-Project and task management is currently done with [GitHub and ZenHub](/2_Operations/apps.md). Support handles tickets through Intercom. We also have an internal document system (intranet) we call Intra, running on [Plone](https://plone.org/), where all our company processes and documents are stored.
+Project and task management is currently done with [GitHub and ZenHub](/2_Operations/apps.md). Support handles tickets through Intercom.
 
-We track cash flow with [Xero](https://www.xero.com/). Finance reports are published to intranet on a monthly basis and are viewable to all full-time team members.
+We track cash flow with [Xero](https://www.xero.com/). Finance reports are published to [niteoweb/finances](https://github.com/niteoweb/finances) on a monthly basis and are viewable to all full-time team members.
 
 Monthly company newsletter covers the main events of the month and is a great reference point for digging deeper into parts of the company one does not know that well.
 

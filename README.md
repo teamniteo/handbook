@@ -6,7 +6,7 @@ For the last decade, we have been accumulating the knowledge and practicalities 
 
 This Handbook offers us an opportunity to clarify what Niteo is and how we operate. It allows greater transparency to our partners, potential new team members, and the wider Open Source community.
 
-The structure of the Handbook mirrors our departments for simple organization. Resilio and Intra are structured the same way.
+The structure of the Handbook mirrors our departments for simple organization. Resilio is structured the same way.
 
 ## The Handbook
 
@@ -51,11 +51,11 @@ The structure of the Handbook mirrors our departments for simple organization. R
 
 * Easy Blog Networks
   * [EasyBlogNetworks.com](https://www.easyblognetworks.com)
-  * [Repository](https://github.com/niteoweb/easyblognetworks) 
+  * [Repository](https://github.com/niteoweb/easyblognetworks)
 * WooCart
   * [WooCart.com](https://woocart.com)
   * [Repository](https://github.com/niteoweb/woocart)
-  * [Public repository](https://github.com/woocart)  
+  * [Public repository](https://github.com/woocart)
 
 
 ## About Niteo and Niteans
