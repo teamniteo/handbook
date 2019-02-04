@@ -39,9 +39,7 @@ TODO
 
 ## Alignment Meeting
 
-After the sprint retrospective we hold another meeting. Attendance on this one is optional, only those interested in the general direction the company is taking normally attend. That said, every Nitean is welcome to participate.
-
-Primarily we look over the quarterly goals to determine how we are achieving them and to give us an idea of what should be included in the following day's sprint planning session.
+After the sprint retrospective we hold another meeting. Attendance is optional but every Nitean is welcome to participate. Primarily we look over the quarterly goals to determine if we are achieving them and to give us an idea of what should be included in the following day's sprint planning session.
 
 The main purpose of the alignment meeting is to adjust our compasses so that we will select the correct user stories in the sprint planning meeting coming the next day. We know we are paddling hard, but are we all paddling in the right direction?
 
