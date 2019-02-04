@@ -42,7 +42,7 @@ The allowance bonus accounts for all the days you are away at the conference and
 
 Conferences count as working days (7.5h per day). Transport to conferences counts too (up to 7.5h per day).
 
-The conference allowance bonus requires that you write a report about the conference when you get back. It can be published any of our blogs or as a Spotlight article in our [Newsletter](https://github.com/niteoweb/operations/tree/master/newsletter).
+The conference allowance bonus requires that you write a report about the conference when you get back. It can be published on any of our blogs or as a Spotlight article in our [Newsletter](https://github.com/niteoweb/operations/tree/master/newsletter).
 
 For example, John attends a 5-day IRL in Istanbul:
 
