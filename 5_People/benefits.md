@@ -14,7 +14,7 @@ In other words, would something boost your productivity and creativity? Good, fe
 
 The current monthly allowance budget as of *January 2018* is:
 
- * Niteans: _€130 ($150)_ 
+ * Niteans: _€130 ($150)_
  * Founders: _€260_
 
 The monthly budgets compound every month, so whatever you do not spend this month, you can use the next month, or the one after.
@@ -42,7 +42,7 @@ The allowance bonus accounts for all the days you are away at the conference and
 
 Conferences count as working days (7.5h per day). Transport to conferences counts too (up to 7.5h per day).
 
-The conference allowance bonus requires that you write a report about the conference when you get back. It can be published on Intra or on any of our blogs.
+The conference allowance bonus requires that you write a report about the conference when you get back. It can be published on any of our blogs or as a Spotlight article in our [Newsletter](https://github.com/niteoweb/operations/tree/master/newsletter).
 
 For example, John attends a 5-day IRL in Istanbul:
 
@@ -73,7 +73,7 @@ Another example: Two months later, John goes to a three-day conference in Barcel
     * €750 (5 * €150/day)
 
     Therefore John charges the company €1900 (€500 + €500 + €600 + €300) in spent allowance. Before the trip, John's allowance budget was €1600 (€1350 + 2x€125) so after the trip, it is now €450 (€1600 + €750 - €1900). The trip was expensive but it sure was nice!
-    
+
 
 ### Extending Your Trip With Vacation Days
 
@@ -93,7 +93,7 @@ Death in the family is 3 extra days of paid leave.
 
 ### Booking Vacation
 
-To book vacation time off, see the Intra [Planned absences](https://intra.niteo.co/resolveuid/dcf71b9c6b17430789ace610c9ac384a) page. 
+To book vacation time off, add an entry to the [Planned Absences](https://github.com/niteoweb/operations/blob/master/absences.md) page.
 
 
 ### Unused Vacation

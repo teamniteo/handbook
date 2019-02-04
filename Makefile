@@ -7,10 +7,10 @@ help:
 
 #
 # The linkcheck target check all links in the repository.
-# 
-.PHONY: linkcheck 
+#
+.PHONY: linkcheck
 linkcheck: ## Check all URLs in the handbook.
-	@docker run -ti --rm -v $(shell pwd):/mnt:ro dkhamsing/awesome_bot --allow-dupe --allow-redirect --allow 403 --white-list https://intra.niteo.co,https://github.com/niteoweb/operations,\
+	@docker run -ti --rm -v $(shell pwd):/mnt:ro dkhamsing/awesome_bot --allow-dupe --allow-redirect --allow 403 --white-list https://github.com/niteoweb/operations,\
 https://github.com/niteoweb/minisites,\
 https://github.com/niteoweb/ebn,\
 https://github.com/niteoweb/woocart,\

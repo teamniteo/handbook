@@ -12,7 +12,7 @@ If all else is completed, you can always read a book, take an online course or j
 ## DevOps and Support
 
  - First focus on whether our systems are running smoothly and that all our customers' issues have been resolved and answered.
- - Review our [handbook] and [intra]) documents, updating as necessary.
+ - Review our [handbook] documents, updating as necessary.
  - If you are DevOps and have had no tasks for some time, you can join the next sprint.
  - If you are support and have had a slow few days, start reading on how we could improve our support. This may include improving our processes or rewriting our responses.
 
@@ -22,9 +22,8 @@ If all else is completed, you can always read a book, take an online course or j
 
 ## Operations
 
- - Review our [handbook] and [intra] documents, updating as necessary.
+ - Review our [handbook], updating as necessary.
  - Ask people what are the current issues they are facing and how we could resolve them.
 
 [backlog]: https://github.com/niteoweb/operations/issues#boards
 [handbook]: https://github.com/niteoweb/handbook
-[intra]: https://intra.niteo.co/
