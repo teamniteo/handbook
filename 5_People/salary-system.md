@@ -16,6 +16,8 @@ This is the Salary Formula:
 (Base * Location Factor) + (Base * Years Factor)
 ```
 
+> Note: all amounts are gross.
+
 ### Base Salary
 
 Niteo Base Salary is calculated by first taking the [*Glassdoor salary for the role in San Francisco*](https://www.glassdoor.com/Salaries/san-francisco-software-engineer-salary-SRCH_IL.0,13_IM759_KO14,31.htm), converting it to EUR and finally discounting it by our *affordability ratio*. 
