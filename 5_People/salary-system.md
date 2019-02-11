@@ -16,7 +16,7 @@ This is the Salary Formula:
 (Base * Location Factor) + (Base * Years Factor)
 ```
 
-> Note: all amounts are gross.
+> Note: all amounts are gross and per-month.
 
 ### Base Salary
 
