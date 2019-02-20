@@ -27,7 +27,7 @@ The passwords stored in a password manager should be much longer randomly genera
 
 ### Two-Factor Authentication (2FA)
 
-Where ever possible enable 2FA (two-factor authentication) for logging into services.
+Whenever possible enable 2FA (two-factor authentication) for logging into services.
 
 * OTP (one-time-password) authentication application, e.g. Google Authenticator, is a really secure option.
 * SMS authentication should be avoided, unless the only 2FA option, as it is vulnerable to attacks.
@@ -39,9 +39,9 @@ Where ever possible enable 2FA (two-factor authentication) for logging into serv
 We always use tunneling to access our internal servers from unknown networks to protect ourselves from traffic sniffing. All newer smartphones have some level of support for a VPN.
 
 
-## Data Encryption
+## Device Data Encryption
 
-All data, without exceptions, needs to be encrypted on the fly. Encrypting just your user-folder is not enough, because some configurations and caches are still stored unencrypted and this presents a high-security risk in case the device is stolen.
+All data on your devices, without exceptions, needs to be encrypted on the fly. Encrypting just your user-folder is not enough, because some configurations and caches are still stored unencrypted and this presents a high-security risk in case the device is stolen.
 
 * iPhone supports hardware level encryption of all your data, you just need to enable it.
 * Android has full disk encryption from version 7.0+ and enabled by default.
@@ -61,7 +61,7 @@ In case one of our devices gets stolen, we need a way to do some theft control. 
 
 ## Syncing
 
-Syncing of data between the device and any other device/service needs to be performed in a secure manner. Syncing over USB, local wired or wireless network that is trusted is fine. Remember a coffee shop or other public wifi cannot be trusted.
+Syncing of data between the device and any other device/service needs to be performed securely. Syncing over USB, local wired or wireless network that is trusted is fine. Remember a coffee shop or other public wifi cannot be trusted.
 
 Syncing through Dropbox, iCloud or Google Sync is *not* allowed as that would mean that all the data is stored unencrypted on their servers.
 
@@ -75,5 +75,5 @@ Always use HTTPS, under all circumstances, if the service does not support this,
 
 Under no circumstances should you send any customer data unencrypted (that includes Slack!). Sharing customer data such as lists of email addresses can be done using either [Resilio or Signal](apps.md) so that no one else has access to these private details.
 
-To share individual customer details, you can securely reference them by using their application ID or customer issue ticket (e.g. Intercom).
+To share individual customer details, you can securely reference them by using their application ID or customer issue ticket (e.g., Intercom).
 
