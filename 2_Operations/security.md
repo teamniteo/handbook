@@ -3,7 +3,7 @@
 ## General Guidelines
 
 * Do not store confidential or sensitive information in plain text.
-* Do not store sensitive information with any of the big 10 cloud providers (MS, Google, Apple, Dropbox, etc.). Store information locally, on our internal infrastructure or with smaller providers (possibly non-US based).
+* Do not store sensitive information with any of the big 10 cloud providers (MS, Google, Apple, Dropbox, etc.). Store information locally, on our internal infrastructure or with smaller providers (preferably non-US based).
 
 ## Passwords
 
