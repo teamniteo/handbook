@@ -1,20 +1,20 @@
 # User Stories
 
-User Stories are well-defined tasks to be done by a Nitean that have a specific, measurable goal and impact. The large majority of issues are written as User Stories and only issues created by support that are reactionary and straightforward are not. Support issues are also not included in sprints.
+User Stories are well-defined tasks to be done by a Nitean that have a specific, measurable goal and impact. The vast majority of issues are written as User Stories, and only issues created by support that are reactionary and straightforward are not. Support issues are also not included in sprints.
 
 ## Writing a User Story
 
-To create a new user story, open a [new issue](https://github.com/niteoweb/operations/issues/new) in the Operations repository and you will find a template is provided to guide you through the process. If you need to create a user story in another repository you will need to copy and paste over this Operations template.
+To create a user story, we open a new issue in the project repositories or the Operations repository if it is unrelated to a specific project. In all three repositories, an issue template is provided to guide you through the process. 
 
 To make the stories more inclusive, we prefer using [Singular they](https://en.wikipedia.org/wiki/Singular_they) instead of `he`, `himself`, etc.
 
 ### Summary
 
-The opening lines of a user story are to be written in simplified, layman's terms for the whole team to understand. The viewpoint of a persona is to be used to fully understand the use-case.
+The opening lines of a user story are to be written in simplified, layman's terms for the whole team to understand. The viewpoint of a persona is to be used to understand the use-case fully.
 
  > As a *persona*, I want ..., so that ...
 
-Whenever possible, think about the end user (product persona) and how the result impacts them. Other possible personas are Nitean, Support, Developer, Marketer and DevOps. That said, very rarely is something not done directly for the user.
+Whenever possible, think about the end user (product persona) and how the result impacts them. Other possible personas are Nitean, Support, Developer, Marketer, and DevOps. That said, very rarely is something not done directly for the user.
 
 ### Description
 
@@ -44,7 +44,7 @@ From initial creation to being worked upon and finally closed, a user story will
 
 1. **New Issues** - New work-in-progress (WIP) user stories, also includes bugs or issues.
 1. **Estimation** - Defined user stories, ready for verifying and story point estimation.
-1. **Backlog** - Waiting for inclusion in a sprint. They are properly defined with assigned story points.
+1. **Backlog** - Waiting for inclusion in a sprint. They are adequately defined with assigned story points.
 1. **To Do** - In the current sprint with a champion assigned to work on it.
 1. **In Progress** - Being worked upon by the champion during the current sprint.
 1. **Review** - Completed with a demo uploaded and awaiting final review.
@@ -52,7 +52,7 @@ From initial creation to being worked upon and finally closed, a user story will
 
 ### Estimation
 
-After writing the user story, in order for inclusion in a sprint, it must be verified and voted upon. To start this process put the user story in the `Estimation` pipeline.
+For the user story to be included in a sprint, it must be verified and voted upon. To start this process put the user story in the `Estimation` pipeline.
 
 The Scrum master and product owner will verify that the user story is well defined. If required they will assign people from whom they want to receive feedback for better definition of the user story. Once these assignees post their feedback, they remove their assignment from the user story.
 
@@ -60,7 +60,7 @@ The Scrum master and product owner will verify that the user story is well defin
 
 Once the user story is verified the Scrum master assigns team members from whom they want to receive story point estimations. Team members vote on a story by adding a comment with their story point estimation to the user story, then remove their assignment from the user story.
 
-So as to not influence anyone else's voting, we hide these estimate values in comments by using the following code snippet:
+To not influence anyone else's voting, we hide these estimate values in comments by using the following code snippet:
 
 ```
 <details>
@@ -83,10 +83,10 @@ With a well-defined story and story points, the user story is now ready to be in
 You are assigned to a user story or issue when something is required from you:
 
 - Provide feedback to further the user story.
-- Estimate the Story Points required to complete the User Story.
+- Estimate the Story Points needed to complete the User Story.
 - Champion the User Story in a sprint.
 
-You must keep your assignment if the User Story is included in the current sprint and is already in progress. This allows us to see who worked on what even when the sprint ends. However if the User Story is not in the current sprint and your task is complete, you may remove your assignment and unsubscribe from notifications.
+You must keep your assignment if the User Story is included in the current sprint and is already in progress. This allows us to see who worked on what even when the sprint ends. However, if the User Story is not in the current sprint and your task is complete, you may remove your assignment and unsubscribe from notifications.
 
 ## Demos
 
