@@ -6,7 +6,7 @@ User Stories are well-defined tasks to be done by a Nitean that have a specific,
 
 To create a User Story, we open a new issue in the project repositories or the Operations repository if it is unrelated to a specific project. In all three repositories, an issue template is provided to guide you through the process. 
 
-To make the stories more inclusive, we prefer using [Singular they](https://en.wikipedia.org/wiki/Singular_they) instead of `he`, `himself`, etc.
+To make the Stories more inclusive, we prefer using [Singular they](https://en.wikipedia.org/wiki/Singular_they) instead of `he`, `himself`, etc.
 
 ### Summary
 
@@ -42,8 +42,8 @@ A [Story Point](https://agilefaq.wordpress.com/2007/11/13/what-is-a-Story-point/
 
 From initial creation to being worked upon and finally closed, a User Story will be moved to different pipelines as it progresses through a sprint. This is a summary of the workflow of a User Story:
 
-1. **New Issues** - New work-in-progress (WIP) user stories, also includes bugs or issues.
-1. **Estimation** - Defined user stories, ready for verifying and Story point estimation.
+1. **New Issues** - New work-in-progress (WIP) User Stories, also includes bugs or issues.
+1. **Estimation** - Defined User Stories, ready for verifying and Story point estimation.
 1. **Backlog** - Waiting for inclusion in a sprint. They are adequately defined with assigned Story points.
 1. **To Do** - In the current sprint with a champion assigned to work on it.
 1. **In Progress** - Being worked upon by the champion during the current sprint.
