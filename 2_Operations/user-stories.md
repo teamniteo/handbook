@@ -36,7 +36,7 @@ The expected outcomes of the User Story which is a list of items stating how the
 
 ## Story Points
 
-A [Story Point](https://agilefaq.wordpress.com/2007/11/13/what-is-a-story-point/) is an arbitrary measure used by Scrum teams to indicate the effort required to implement a User Story. One full-time member on sprint should be able to do 10 Story Points.
+A [Story Point](https://agilefaq.wordpress.com/2007/11/13/what-is-a-story-point/) is an arbitrary measure used by Scrum teams to indicate the effort required to implement a User Story. One full-time member on sprint should be able to do 10 Story Points. That said, there should be 2 Story Points reserved for code reviews, cleanup, writing new User Stories, catchups, and pair programming.
 
 ## Pipelines
 
