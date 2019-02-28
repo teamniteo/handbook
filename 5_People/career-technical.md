@@ -6,32 +6,33 @@ The top two positions are two branches of the technical career:
 * Lead Software Engineer careers means you start taking over managerial tasks and leading people.
 * Principal Software Engineer means you take ownership of all of technical nitty-gritty details in the company. 
 
-## Junior Programmer
+## Junior Programmer / Sysadmin
 
 * Work is thoroughly reviewed with substantial back and forth frequently needed before merging.
-* Basic language features are mastered, but some advanced structures may still be unfamiliar.
+* Basic language/technology features are mastered, but some advanced approaches may still be unfamiliar.
 * Occasional issues following patterns and approaches within existing code bases.
 * Works mostly on clearly defined and scoped individual features or problems.
-* Usually less than 2 years of programming experience.
+* Usually less than 2 years of technical experience.
 
 
-## Junior Software Engineer
+## Junior Software Engineer / DevOps
 
 * Work doesn't necessarily need to be reviewed, but general approach may be.
-* Follows established patterns and approaches within existing code bases with ease.
-* Is able to work on problems and features that are not clearly defined. Comes up with some specifications and API designs on their own.
-* Is able to take problem all the way from research, writing a User Story, implementation, and deployment.
-* Usually at least 2-5 years of programming experience.
+* Follows established patterns and approaches within established best practices bases with ease.
+* Is able to work on problems and features that are not clearly defined. For example, comes up with some specifications and API designs on their own.
+* Is able to take a problem all the way from research, writing a User Story, implementation, and deployment.
+* Can keep production systems online while a senior is on vacation.
+* Usually at least 2-5 years of technical experience.
 
-## Software Engineer
+## Software Engineer / DevOps
 
 * Work happens completely autonomously with no regular need for review.
-* Fully capable of taking substantial features from concept to shipping as the sole programmer.
-* Can provide material feedback on the work of Junior Programmers and Junior Software Engineers.
+* Fully capable of taking substantial features from concept to shipping as the sole engineer.
+* Can provide material feedback on the work of Junior Engineers.
 * Helps with hiring and onboarding.
 * Deep expertise within at least one programming environment.
 * Basic proficiency in at least one additional programming environment.
-* Usually at least 5-8 years of programming experience.
+* Usually at least 5-8 years of technical experience.
 
 ## Lead Software Engineer
 
@@ -39,7 +40,7 @@ The top two positions are two branches of the technical career:
 * Capable of running and directing whole teams for large, long-running projects.
 * Sets and maintains professional standards for the entire organization.
 * Deep, substantial expertise in multiple programming environments.
-* Usually at least 8-12 years of programming experience.
+* Usually at least 8-12 years of technical experience.
 
 ## Principal Software Engineer
 
@@ -49,4 +50,4 @@ The top two positions are two branches of the technical career:
 * Fully capable of designing, owning, and running entirely new, novel systems.
 * Recognized widely in the industry for material contributions to the state of the art.
 * Invents new concepts, pushes the whole organization forward regularly.
-* Usually at least 12-15+ years of programming experience.
+* Usually at least 12-15+ years of technical experience.
