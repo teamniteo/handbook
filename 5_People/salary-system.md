@@ -73,7 +73,7 @@ We use four primary careers for roles: technical, marketings, design, and operat
 
 Looking at salaries, you might feel that higher positions are a bit underpaid while the lower positions are overpaid. The idea is that we slightly overpay the lower positions to get the best juniors, while slightly underpaying higher positions in order to be more lean. At the same time we expect that in higher positions an additional 1000 EUR does not have a high marginal utility and they value our culture and benefits more. That said, we compensate loyalty with the Years Factor, profit sharing and (soon) equity. 
 
-We don't have a hard requirement that you need to hit all checkboxes to be promoted to the next level. You need to hit most of them, consistently. It helps if you are already hitting one or two from the level after the next.
+We don't have a hard requirement that you need to hit all checkboxes to be promoted to the next level. You need to hit most of them, consistently. It helps if you are already hitting one or two from the level after the next. It also helps if you are dealing with customers directly and/or keeping production systems online. 
 
 Before leveling up, you are also expected to:
 * read three books: one industry-specific, one about company culture and one on personal growth (our [recommended reading list](/5_People/booklist.md));
