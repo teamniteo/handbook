@@ -69,10 +69,10 @@ As a curator:
 
 - Announce in #development Zoom session to join into
 - As a curator, meet and greet everyone, especially first-time joiners. 
-- Annonce who is having Lightning talk if one was prepared.
+- Announce who is having the Lightning talk if one was prepared.
 - If you hear crickets, start rolling the ball with a question, an anecdote or a funny story.
 - Make sure no one is talking the whole 30 minutes, everyone should have an opinion!
-- Write a report into Recurring ticket for the meeting.
+- Write a report into the **Recurring** ticket for the meeting.
 
 ## Commits and Pull Requests
 
