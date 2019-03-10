@@ -15,12 +15,12 @@ Sprint meetings replace the daily standup on these days:
  * A **Wednesday** is the start of a sprint with sprint planning.
    * 10:00 CE(S)T for the whole company in the Niteo Zoom room
    * followed immediately by separate plannings for Easy Blog Networks and WooCart, in their own Zoom rooms
+   * followed by [Developers Session](#developers-session)
  * The **Tuesday**, two weeks later, marks the end of the sprint with a sprint retrospective and company alignment meeting.
    * 10:00 CE(S)T for Niteo
    * followed immediately by retrospective for Easy Blog Networks 
    * 11:00 CE(S)T for WooCart
    * 12:00 CE(S)T for Niteo Alignment Meeting
-   * 13:00 CE(S)T for Developers Session
 
 The last Monday morning of the sprint everyone should open up the Scrum board and ask themselves: "How can I help close whatever is still opened?". Repeat the same after lunch and on Tuesday morning.
 
@@ -62,14 +62,17 @@ As an attendee, ask yourself:
 - Did I find a handy tool/method/module that I think we should use?
 - Do I have an idea about implementation we will have in the next sprint, and I want to discuss it?
 - Have I seen a great technical talk and I want to share it so we can discuss it the next time?
+- Do I want to share something I leared in a short lighning talk?
+- Do I need help with the user story I have been asigned to?
 
 As a curator:
 
-- Announce in #operations Zoom session to join into
+- Announce in #development Zoom session to join into
 - As a curator, meet and greet everyone, especially first-time joiners. 
+- Announce who is having the Lightning talk if one was prepared.
 - If you hear crickets, start rolling the ball with a question, an anecdote or a funny story.
 - Make sure no one is talking the whole 30 minutes, everyone should have an opinion!
-- After 30 minutes or less announce that there is time for Lightning talks.
+- Write a report into the **Recurring** ticket for the meeting.
 
 ## Commits and Pull Requests
 
