@@ -76,3 +76,7 @@ Recruitee guides us through the following stages of hiring a new Nitean. A candi
 
 [trial period]: https://github.com/niteoweb/handbook/blob/master/5_People/onboarding.md#trial-period
 [onboarding process]: https://github.com/niteoweb/handbook/blob/master/5_People/onboarding.md
+
+### Hiring etiquette
+
+Whenever an applicant is not progressed to the next stage, make sure to send them a rejection email. If they ask for a feedback on why they were not selected for further consideration, always be constructive. Try to leave a lasting positive impression for all applicants.
