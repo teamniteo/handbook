@@ -20,6 +20,7 @@ Recruitee guides us through the following stages of hiring a new Nitean. A candi
 
    We post the job ads to various free and paid options, on a per-position basis, but here's a general idea:
    * Recruitee posts to 11 free boards automatically (Google for Jobs, Glassdoor, Indeed, etc.).
+   * Premium job board with the most applicant activity is WeWorkRemotely.
    * We post manually to Slovenian boards: slo-tech.com, internetmojster.com, facebook.com/groups/sluzbezadeveloperje.
    * We post to twitter.com/teamniteo and facebook.com/niteo.
    * Sometimes we run an ad campaign on Facebook or buy ads on StackOverflow.
@@ -75,3 +76,7 @@ Recruitee guides us through the following stages of hiring a new Nitean. A candi
 
 [trial period]: https://github.com/niteoweb/handbook/blob/master/5_People/onboarding.md#trial-period
 [onboarding process]: https://github.com/niteoweb/handbook/blob/master/5_People/onboarding.md
+
+### Hiring etiquette
+
+Whenever an applicant is not progressed to the next stage, make sure to send them a rejection email. If they ask for a feedback on why they were not selected for further consideration, always be constructive. Try to leave a lasting positive impression for all applicants.
