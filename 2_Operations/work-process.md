@@ -33,15 +33,15 @@ Our work process is based on [Scrum](https://en.wikipedia.org/wiki/Scrum_(softwa
  * Sprint length is two weeks.
  * Story points commitment: 10 for each full-time member on the sprint. The total team commitment has at least 25% reserved for bug fixes and cleanup.
 
-## Quarterly Planning
-
-TODO
-
 ## Alignment Meeting
 
 After the sprint retrospective we hold another meeting. Attendance is optional but every Nitean is welcome to participate. Primarily we look over the quarterly goals to determine if we are achieving them and to give us an idea of what should be included in the following day's sprint planning session.
 
 The main purpose of the alignment meeting is to adjust our compasses so that we will select the correct user stories in the sprint planning meeting coming the next day. We know we are paddling hard, but are we all paddling in the right direction?
+
+## Quarterly Review and Planning
+
+Every quarter we take time to review, reflect, and plan for the next quarter. There are three tasks for the Quarterly Review and Planning: Partners Meeting, Review, and All Hands Meeting. 
 
 ## Developers Session
 
