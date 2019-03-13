@@ -25,9 +25,9 @@ Turn on your camera during the standup. Try to refrain from doing other things (
 
 ## Sprint Planning
 
-Each sprint start with planning. This is where we choose well-defined User Stories to put in the sprint. We always keep in mind our quarterly goals to make sure we're doing the tasks that are moving us in the right direction.
+Each sprint starts with planning. This is where we choose well-defined User Stories to put in the sprint. We always keep in mind our quarterly goals to make sure we're doing the tasks that are moving us in the right direction.
 
-The Scrum master creates a new [planning issue](https://github.com/niteoweb/operations/issues/new?template=planning.md&title=Planning%20for%20Sprint%20#) before each retrospective.
+The Scrum master creates a new [Sprint issue](https://github.com/niteoweb/opesprintrations/issues/new?template=planning.md&title=Planning%20for%20Sprint%20#) before each planning.
 
 ## Sprint Retrospective 
 
@@ -37,7 +37,7 @@ This is also the time to bring up any other comments about the work process in g
 
 We look at how many story points we assigned, how many were done and the distribution between the departments and types of User Stories.
 
-The Scrum master creates a new [retrospective issue](https://github.com/niteoweb/operations/issues/new?template=retrospective.md&title=Retrospective%20for%20Sprint%20#) before each retrospective. This issue has a template that serves as a checklist for the meeting and helps the Scrum master write up a brief report afterward.
+The Scrum master adds the Sprint Retrospective comment into the Sprint issue. It serves as a checklist for the meeting and helps the Scrum master write up a brief report afterward.
 
 ## Urgent Production Fixes
 
