@@ -41,7 +41,7 @@ The main purpose of the alignment meeting is to adjust our compasses so that we 
 
 ## Quarterly Review and Planning
 
-Every quarter we take time to review, reflect, and plan for the next quarter. There are three tasks for the Quarterly Review and Planning: Partners Meeting, Review, and All Hands Meeting. 
+Every quarter we take time to review, reflect, and plan for the next quarter. There are three tasks for the Quarterly Review and Planning: Partners Meeting, Quarterly Review, and All Hands Meeting. 
 
 ## Developers Session
 
