@@ -16,6 +16,7 @@ https://github.com/niteoweb/ebn,\
 https://github.com/niteoweb/woocart,\
 https://github.com/niteoweb/support,\
 https://github.com/niteoweb/finances,\
+https://github.com/niteoweb/sprint,\
 http://docs.niteo.co,\
 http://books.niteo.co,\
 http://videos.niteo.co,\
