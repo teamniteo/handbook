@@ -42,7 +42,7 @@ The structure of the Handbook mirrors our departments for simple organization. R
   * [Hiring](/5_People/hiring.md)
   * [Onboarding](/5_People/onboarding.md)
 * Work Environment
-  * [Catchup Meetings](/5_People/catchup-meetings.md)
+  * [One on One Meetings](/5_People/one-on-one-meetings.md)
   * [Nitean Recognition](/5_People/nitean-recognition.md)
   * [Recommended Reading List](/5_People/booklist.md)
 
