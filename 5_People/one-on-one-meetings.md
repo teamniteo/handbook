@@ -1,6 +1,6 @@
 # One on One Meetings
 
-All Niteans have informal 1-on-1 meetings every two weeks with a senior team member in order to catch up. This feedback is important as everyone works remotely so we have less contact and less of an idea of what's going on with individuals. We want to know how we can help everyone work and feel better in the company.
+All Niteans have informal One on One meetings every two weeks with a senior team member in order to catch up. This feedback is important as everyone works remotely so we have less contact and less of an idea of what's going on with individuals. We want to know how we can help everyone work and feel better in the company.
 
 This is your opportunity to discuss anything you want so they should be treated as more of a *beer in a coffee shop* than an *interview-style* meeting.
 
