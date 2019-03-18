@@ -6,6 +6,10 @@ We've done a lot of research before creating a system that works for us and big 
 
 Salary System is a constant work in progress and we always strive to make it better and fairer for everyone in the company. The spreadsheet with all the data and calculations is available on Resilio, People folder.
 
+**Salary Calculator**
+
+Find [the salary calculator on our website](https://niteo.co/salary-calculator).
+
 ## Salary Formula
 
 Our salary formula consists of three variables: Base Salary for the role, Location Factor, and Years Factor. 
