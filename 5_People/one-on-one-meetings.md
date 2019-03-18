@@ -23,7 +23,7 @@ Use these questions as a guide for things to discuss and not as a questionnaire 
 
 * What's on your mind?
 * How has the previous week of work been for you? Are there any blockers we can discuss or remove?
-* How do you feel about your workload? (high, low, or just right)
+* Which were your big wins/highlights since we last talked?
 * Do you feel there is enough feedback about your work?
 * How can I help you ...? (be more productive/happier at work/enjoy work more/etc.) 
 * Are there any meetings or discussions you feel you should be a part of that you're not? Are you included in any you don't want to be a part of?
@@ -35,7 +35,7 @@ Use these questions as a guide for things to discuss and not as a questionnaire 
 * What are the biggest time wasters for you?
 * What is an ideal, productive day at work for you? Walk me through the day.
 * Do you feel challenged at work? Are you learning new things?
-* When was the time you enjoyed working here the most?
+* How do you feel about your workload? (high, low, or just right)
 * Are you happy working here?
 * Do you feel like you’re on the same page with your team? How often do you think you need meetings to ensure you stay that way?
 * What’s a recent situation you wish you handled differently? What would you change?
