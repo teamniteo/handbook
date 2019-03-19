@@ -1,10 +1,10 @@
 # Hiring
 
-## Hiring collaboration
+## Hiring Collaboration
 
 [Recruitee](https://recruitee.com/en) is an all-in-one recruiting SaaS. We use it to source and evaluate candidates, track applicants and keep all information in one place so we can then make informed decisions on who to hire.
 
-## Hiring process
+## Hiring Process
 
 ### Overview
 
@@ -12,7 +12,7 @@ We strive to have a bureaucracy- and ego-free hiring process that provides a wel
 
 That should be your mindset when conducting interviews: you are not searching for an ideal candidate. You are only on the lookout for big "no-no"'s. If someone lacks some skills, they can acquire them. If someone is used to different type of tools or processes, they can learn ours. Look for problem-solving prowess, ability to communicate what went wrong and ownership of mistakes.
 
-### Hiring workflow
+### Hiring Workflow
 
 Recruitee guides us through the following stages of hiring a new Nitean. A candidate should expect to wait up to 5 business days between each step of the process.
 
@@ -77,6 +77,6 @@ Recruitee guides us through the following stages of hiring a new Nitean. A candi
 [trial period]: https://github.com/niteoweb/handbook/blob/master/5_People/onboarding.md#trial-period
 [onboarding process]: https://github.com/niteoweb/handbook/blob/master/5_People/onboarding.md
 
-### Hiring etiquette
+### Hiring Etiquette
 
 Whenever an applicant is not progressed to the next stage, make sure to send them a rejection email. If they ask for a feedback on why they were not selected for further consideration, always be constructive. Try to leave a lasting positive impression for all applicants.
