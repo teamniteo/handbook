@@ -17,6 +17,7 @@ https://github.com/niteoweb/woocart,\
 https://github.com/niteoweb/support,\
 https://github.com/niteoweb/finances,\
 https://github.com/niteoweb/sprint,\
+https://github.com/niteoweb/my-niteo-career,\
 http://docs.niteo.co,\
 http://books.niteo.co,\
 http://videos.niteo.co,\
