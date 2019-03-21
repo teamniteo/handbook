@@ -79,8 +79,9 @@ Use these questions as a guide for things to discuss and not as a questionnaire 
 * What do you like to do in your free time? What are your hobbies?
 
 
-### Manager's Notes
+### Senior's Notes
 
+* Review the [Nitean Happiness](https://niteo.grafana.net/d/000000152/nitean-happiness). Are they happy? If not, how can you address it?
 * What work have they done recently that you liked? Praise them specifically on what you want to see more of.
 * What aspect of their work are they an unsung hero for doing? Recognize their efforts you might be taking for granted.
 * How could they improve some of their recent work? Take 5-10 minutes to find some constructive feedback to give.
