@@ -4,7 +4,7 @@ All Niteans have informal One on One meetings every two weeks with a senior team
 
 This is your opportunity to discuss anything you want so they should be treated as more of a *beer in a coffee shop* than an *interview-style* meeting.
 
-One on One notes and Career Path are saved in a private repository you create in your GitHub account. You can fork and copy contents of [the example repository](https://github.com/niteoweb/my-niteo-career).
+Notes and tracking of One on One's is done in a private repository you create in your own GitHub account, so that you are the master of your private information. Follow the instructions on [the example repository](https://github.com/niteoweb/my-niteo-career).
 
 
 ## Schedule
