@@ -1,10 +1,10 @@
-# One on One Meetings
+# Catchups
 
-All Niteans have informal One on One meetings every two weeks with a senior team member in order to catch up. This feedback is important as everyone works remotely so we have less contact and less of an idea of what's going on with individuals. We want to know how we can help everyone work and feel better in the company. It's also an opportunity to discuss your career at Niteo.
+Once every sprint (i.e. two weeks) Niteans have Catchup meetings (also called One on Ones) with a senior team member in order to catch up. This feedback is important as everyone works remotely so we have less contact and less of an idea of what's going on with individuals. We want to know how we can help everyone work and feel better in the company. It's also an opportunity to discuss your career at Niteo.
 
 This is your opportunity to discuss anything you want so they should be treated as more of a *beer in a coffee shop* than an *interview-style* meeting.
 
-One on One notes and Career Path are saved in a private repository you create in your GitHub account. You can fork and copy contents of [the example repository](https://github.com/niteoweb/my-niteo-career).
+Catchups and Career Path notes are stored in your private [Niteo Career](https://github.com/niteoweb/niteo-career) repository.
 
 
 ## Schedule
@@ -19,15 +19,15 @@ These meetings are primarily for you so feel free to set an agenda and lead the 
 
 ## Discussion Points
 
-Use these questions as a guide for things to discuss and not as a questionnaire because One on One is not a "question and answer" meeting.
+Use these questions as a guide for things to discuss and not as a questionnaire because a Catchup is not a "question and answer" meeting.
 
-### Weekly 
+### Weekly
 
 * What's on your mind?
 * How has the previous week of work been for you? Are there any blockers we can discuss or remove?
 * Which were your big wins/highlights since we last talked?
 * Do you feel there is enough feedback about your work?
-* How can I help you ...? (be more productive/happier at work/enjoy work more/etc.) 
+* How can I help you ...? (be more productive/happier at work/enjoy work more/etc.)
 * Are there any meetings or discussions you feel you should be a part of that you're not? Are you included in any you don't want to be a part of?
 * Do you have any half-baked ideas for projects, the company or anything else?
 
