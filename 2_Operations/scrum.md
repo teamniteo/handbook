@@ -19,7 +19,7 @@ For each sprint, a new milestone is created with the name `Sprint #X` where `X` 
 
 ## Daily Standup
 
-Daily standup meetings are short meetings every day where we go over the work done on the previous day and to be done the same/next day. It is also where we discuss any blockers and where project managers can keep a tab on workload. Every project has its own standup time.
+Daily standup meetings are short meetings every day where we go over the work done on the previous day and to be done the same/next day. It is also where we discuss any blockers and where project managers can keep a tab on workload. The order for Niteans on standups is alphabetically. So the person whose first name starts with `A` goes first. Every project has its own standup time.
 
 Turn on your camera during the standup. Try to refrain from doing other things (browsing, doing support, etc.) during the meeting -- it rarely takes more than 15 minutes and we should all pay attention to everyone else for this period.
 
