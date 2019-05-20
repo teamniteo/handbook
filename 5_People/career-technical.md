@@ -1,12 +1,14 @@
-# Technical Career
+# Engineering Career
 
-You start as a coder or sysadmin, working on small, well defined and isolated tasks. Then you immediately need to become an engineer that gets loosely defined problems/features and creates solutions for them. You need to do this because we are not a development agency and most of our work does not come from some outside specification, but from problems we and our customers discover day-to-day. 
+You start as a coder, a sysadmin or a data analyst, working on small, well defined and isolated tasks. Then you immediately need to become an engineer that gets loosely defined problems/features and creates solutions for them. You need to do this because we are not a development agency and most of our work does not come from some outside specification, but from problems we and our customers discover day-to-day. 
 
-The top two positions are two branches of the technical career:
+Since we are a software company, the base salary comes from the "Software Engineer" family of positions on Glassdoor. But we don't differentiate between different engineering careers. In other words, a data scientist is paid the same as a frontend developer and the same as a DevOps engineer.
+
+The top two positions are two branches of the engineering career:
 * Lead Engineer means you start taking over managerial tasks and leading people.
-* Principal Engineer means you take ownership of all of technical nitty-gritty details in the company. 
+* Principal Engineer means you take ownership of all of technical nitty-gritty details in the company.
 
-## Junior Programmer / Sysadmin
+## Junior Programmer / Sysadmin / Scientist 
 
 * Work is thoroughly reviewed with substantial back and forth frequently needed before merging.
 * Basic language/technology features are mastered, but some advanced approaches may still be unfamiliar.
@@ -15,7 +17,7 @@ The top two positions are two branches of the technical career:
 * Usually less than 2 years of technical experience.
 
 
-## Junior Software/DevOps Engineer
+## Junior Engineer
 
 * Work doesn't necessarily need to be reviewed, but general approach may be.
 * Follows established patterns and approaches within existing code bases with ease.
@@ -24,14 +26,14 @@ The top two positions are two branches of the technical career:
 * Can keep production systems online while their colleagues are on vacation.
 * Usually at least 2-5 years of engineering experience.
 
-## Software/DevOps Engineer
+## Engineer
 
 * Work happens completely autonomously with no regular need for review.
 * Fully capable of taking substantial features from concept to shipping as the sole engineer.
 * Can provide material feedback on the work of Junior Engineers.
 * Helps with hiring and onboarding.
 * Deep expertise within at least one programming environment.
-* Basic proficiency in at least one additional programming environment.
+* Proficiency in at least one additional programming environment.
 * Usually at least 5-8 years of engineering experience.
 
 ## Lead Engineer
