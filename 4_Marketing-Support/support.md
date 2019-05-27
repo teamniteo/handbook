@@ -6,7 +6,7 @@ Read everything we have on our project websites (don’t forget the footer links
 
 ## General Instructions
 
-1. Try to reply to customers as soon as possible. Always process tickets from oldest to newest.
+1. Do not reply to tickets which are assigned to other agents, unless they are away and won't be back within 24 hours.
 
 2. Do not leave the customer without a reply for more than one work day. If nothing else, let them know we're looking into the issue. Nothing is worse than being ignored by support when you have issues.
 
@@ -16,7 +16,7 @@ Read everything we have on our project websites (don’t forget the footer links
 
 5. Make sure you read the ticket history with that person before replying. It might have information that’s relevant to the new ticket.
 
-6. Be nice to all who send an email even if they’re very rude (and some will be). Keep calm, reply with facts and thank them for any feedback. If they’re worried about their refund, cancellation or anything else, let them know we’ll do our best to fix things in their interest.
+6. Be nice to all who send an email even if they are not. Keep calm, reply with facts and thank them for any feedback. If they’re worried about their refund, cancellation or anything else, let them know we’ll do our best to fix things in their interest.
 
 7. The conversation can be informal and smilies are allowed when in context.
 
