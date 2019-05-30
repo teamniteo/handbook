@@ -23,6 +23,16 @@ These are the books that strongly influenced our company and are therefore highl
 * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change, Camille Fournier](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 * [The Mom Test, Rob Fitzpatrick](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742)
 
+## Engineering
+
+* [The Mythical Man-Month, Frederick P. Brooks Jr.](https://www.amazon.co.uk/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
+* [The Pragmatic Programmer, Andrew Hunt](https://www.amazon.co.uk/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
+* [Design patterns, Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides](https://www.amazon.co.uk/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+* [Extreme Programming Explained, Kent Beck](https://www.amazon.co.uk/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
+* [Refactoring: Improving the Design of Existing Code, Martin Fowler and Kent Beck](https://www.amazon.co.uk/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
+* [Classic Computer Science Problems in Python, David Kopec](https://www.manning.com/books/classic-computer-science-problems-in-python)
+* Some on https://github.com/Junnplus/awesome-python-books are good too.
+
 ## Personal Growth
 
 * [Barking Up the Wrong Tree, Eric Barker](https://www.amazon.com/Barking-Wrong-Tree-Surprising-Everything/dp/0062416049)
