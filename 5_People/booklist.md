@@ -9,8 +9,9 @@ These are the books that strongly influenced our company and are therefore highl
 * [Remote: Office Not Required, David Heinemeier Hansson and Jason Fried](https://www.amazon.com/Remote-Office-Not-Required/dp/0804137501)
 * [The Year Without Pants, Scott Berkun](https://www.amazon.com/Year-Without-Pants-WordPress-com-Future/dp/1118660633)
 
+## Industry
 
-## Business and Marketing
+### Business and Marketing
 
 * [Blue Ocean Strategy, W. Chan Kim and Renée Mauborgne](https://www.amazon.com/Blue-Ocean-Strategy-Uncontested-Competition/dp/1591396190)
 * [Crossing The Chasm, Geoffrey A. Moore](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream-ebook/dp/B00DB3D81G)
@@ -23,7 +24,7 @@ These are the books that strongly influenced our company and are therefore highl
 * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change, Camille Fournier](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 * [The Mom Test, Rob Fitzpatrick](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742)
 
-## Engineering
+### Engineering
 
 * [The Mythical Man-Month, Frederick P. Brooks Jr.](https://www.amazon.co.uk/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
 * [The Pragmatic Programmer, Andrew Hunt](https://www.amazon.co.uk/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
