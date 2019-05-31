@@ -32,6 +32,12 @@ These are the books that strongly influenced our company and are therefore highl
 * [Extreme Programming Explained, Kent Beck](https://www.amazon.co.uk/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
 * [Refactoring: Improving the Design of Existing Code, Martin Fowler and Kent Beck](https://www.amazon.co.uk/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
 * [Classic Computer Science Problems in Python, David Kopec](https://www.manning.com/books/classic-computer-science-problems-in-python)
+* [Elm in Action, Richard Feldman](https://www.manning.com/books/elm-in-action)
+* [JavaScript: The Good Parts, Douglas Crockford](https://www.goodreads.com/book/show/2998152-javascript)
+* [You Don't Know JS, Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
+* [React in patterns, Krasimir Tsonev](https://krasimir.gitbooks.io/react-in-patterns/content/)
+* [The Road to React, Robin Wieruch](https://roadtoreact.com/)
+* [Redux Book, Henrik Joreteg](https://read.reduxbook.com/)
 * Some on https://github.com/Junnplus/awesome-python-books are good too.
 
 ## Personal Growth
