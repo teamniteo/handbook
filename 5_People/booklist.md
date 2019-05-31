@@ -49,3 +49,4 @@ These are the books that strongly influenced our company and are therefore highl
 * [The Elements of Eloquence, Mark Forsyth](https://www.amazon.com/Elements-Eloquence-Perfect-English-Phrase-ebook/dp/B00KFEJN3Q)
 * [Tools of Titans, Tim Ferris](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788)
 * [Tribe of Mentors, Tim Ferris](https://www.amazon.de/Tribe-Mentors-Short-Advice-World/dp/1328994961)
+* [Nonviolent Communication: A Language of Life, Marshall B. Rosenberg](https://www.amazon.com/Nonviolent-Communication-Language-Marshall-Rosenberg/dp/1892005034)
