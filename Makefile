@@ -1,9 +1,17 @@
+chapters := README.md $(wildcard ?_*/*.md) 
+
+all: dist
+
 .PHONY: help
 help:
 	@echo "Usage: make [target]\n"
 	@echo "Targets:"
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | sort \
 		| awk 'BEGIN {FS = ":.*?## "}; {printf "  %-25s %s\n", $$1, $$2}'
+
+.PHONY: clean
+clean:
+	@rm -rf dist/
 
 #
 # The linkcheck target check all links in the repository.
@@ -26,3 +34,23 @@ https://github.com/orgs/niteoweb/teams,\
 https://github.com/niteoweb/easyblognetworks,\
 https://apps.rackspace.com/%0D%0A \
 --skip-save-results `find . -iname "*.md"`
+
+dist: dist/niteo-handbook.epub
+	@mkdir -p dist/
+	@echo "> Download [epub version of this book](./niteo-handbook.epub)\n" \
+		> dist/header.md
+
+	@cat dist/header.md $(chapters) \
+		| pandoc \
+			--from gfm \
+			--output dist/index.html \
+		  --metadata title="Niteo Handbook"
+	
+dist/niteo-handbook.epub: $(chapters)
+	@mkdir -p dist/
+	@cat $(chapters) \
+		| pandoc \
+			--from gfm \
+			--output dist/niteo-handbook.epub \
+		  --metadata title="Niteo Handbook"
+	
