@@ -1,3 +1,7 @@
+chapters := README.md $(wildcard ?_*/*.md) 
+
+all: dist
+
 .PHONY: help
 help:
 	@echo "Usage: make [target]\n"
@@ -26,3 +30,14 @@ https://github.com/orgs/niteoweb/teams,\
 https://github.com/niteoweb/easyblognetworks,\
 https://apps.rackspace.com/%0D%0A \
 --skip-save-results `find . -iname "*.md"`
+
+dist: dist/niteo-handbook.epub
+
+dist/niteo-handbook.epub: $(chapters)
+	@mkdir -p dist/
+	@cat $(chapters) \
+		| pandoc \
+			--from gfm \
+			--output dist/niteo-handbook.epub \
+		  --metadata title="Niteo Handbook"
+	
