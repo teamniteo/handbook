@@ -39,6 +39,7 @@ These are the books that strongly influenced our company and are therefore highl
 * [The Road to React, Robin Wieruch](https://roadtoreact.com/)
 * [Redux Book, Henrik Joreteg](https://read.reduxbook.com/)
 * Some on https://github.com/Junnplus/awesome-python-books are good too.
+* [To Mock a Mockingbird](https://en.wikipedia.org/wiki/To_Mock_a_Mockingbird)
 
 ## Personal Growth
 
