@@ -59,6 +59,7 @@ Use these questions as a guide for things to discuss and not as a questionnaire 
 * What's not fun about working here? What do you enjoy most about working here?
 * Are we clearly explaining how the company is doing right now and where we want to go?
 * Do you think our company is treating everyone fairly?
+* Imagine you are leaving Niteo tomorrow. What would you tell us we are doing wrong?
 
 
 ### Team
