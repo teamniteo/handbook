@@ -30,7 +30,7 @@ The resulting profit-share payout is calculated with this formula:
 
     profit-share = (Nitean's points) / (Total points) * (Available profit)
 
-The payout will then be split over the following three months of salary payments.
+Profit sharing payouts are done once every quarter.
 
 ### Future
 
