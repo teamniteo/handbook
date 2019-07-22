@@ -26,6 +26,8 @@ https://github.com/niteoweb/support,\
 https://github.com/niteoweb/finances,\
 https://github.com/niteoweb/sprint,\
 https://github.com/niteoweb/my-niteo-career,\
+https://github.com/settings/replies,\
+https://github.com/notifications,\
 http://docs.niteo.co,\
 http://books.niteo.co,\
 http://videos.niteo.co,\
