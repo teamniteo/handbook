@@ -15,7 +15,7 @@ In the end, we are working for our customers, and having everyone involved in th
   * [EBN - Support Tools](https://github.com/niteoweb/easyblognetworks/blob/master/support/support-tools-and-processes.md)
   * [EBN - Support Issues Checklist](https://github.com/niteoweb/easyblognetworks/blob/master/support/support-issues-checklist.md)
   * [EBN - Blog Problems Checklist](https://github.com/niteoweb/easyblognetworks/blob/master/support/blog-problems-checklist.md)
-* We use [Intercom](https://app.intercom.io/) for handling support emails. For EOS, we have a predefined account which you'll need to personalize when you're on duty. Login credentials are on 1Password under *Team* vault. Update the profile by clicking on your name found at the bottom left corner of the page.
+* We use [Intercom](https://app.intercom.io/) for handling support emails. You will need to set up your own account if you don't have one yet. Ping @marbeann for an invite.
 * Filter available tickets by selecting the `unassigned` folder.
 * Everyone has *Staff* access to the EBN app, this allows you to log in to internal [*Blog Dashboard*](https://github.com/niteoweb/easyblognetworks/blob/master/support/blog-dashboard.md) app.
 * We have the #ebn-support channel for support-related discussions and the #ebn-server-ops channel for server statuses and warnings.
@@ -27,10 +27,11 @@ Report for EOS once every month. Having it as a full working day duty affords be
 
 ### III. Schedule
 
-Everyone will set their own schedule and keep with it. At the start of the month, update the [recurring Sprint Story](https://github.com/niteoweb/operations/issues/510) with your preferred date.
+Everyone will set their own schedule and keep with it. Update the [recurring Sprint Story](https://github.com/niteoweb/easyblognetworks/issues/238) with your preferred date during sprint planning.
 
 # Further Reading:
 
-* [Signal v Noise](https://signalvnoise.com/posts/3676-everyone-on-support)
-* [Groove](https://www.groovehq.com/support/customer-service-team)
-* [Zapier](https://zapier.com/learn/customer-support/everyone-on-support/)
+* [Signal v Noise: Everyone on Support](https://signalvnoise.com/posts/3676-everyone-on-support)
+* [Groove: How To Establish a Culture of “Everyone Does Support”](https://www.groovehq.com/support/customer-service-team)
+* [Zapier: Why Everyone–Even Executives–Should Spend Time in Customer Service](https://zapier.com/learn/customer-support/everyone-on-support/)
+* [Freshdesk: Why Everyone in SaaS Needs to Do Customer Support](https://freshdesk.com/help-desk-software/saas-customer-support-for-everyone-blog/)
