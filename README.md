@@ -1,4 +1,5 @@
 # The Niteo Handbook
+[![CircleCI](https://circleci.com/gh/niteoweb/handbook/tree/master.svg?style=svg)](https://circleci.com/gh/niteoweb/handbook/tree/master)
 
 ## Introduction
 
