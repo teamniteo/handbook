@@ -6,7 +6,7 @@ As Niteans, we believe in celebrating small wins and recognizing achievements. B
 
 To encourage peer recognition, we're using the [Bonus.ly](https://bonus.ly/) platform which enables Niteans to give each other micro-bonuses in the form of +1s. Big or small of an act, if it made you happy, recognize and reward it.
 
-We took a page from the head of Google’s People Operations, Laszlo Bock, and created our own version of the [_wall-of-happy_](https://plus.google.com/+LaszloBock/posts/UzxkRpkvyf7). Instead of a physical wall where kudos are printed out, we have a Slack channel `#recognition` where you can see a steady stream of kudos and reactions.
+We took a page from the head of Google’s People Operations, Laszlo Bock, and created our own version of the [wall-of-happy](https://bucketlistrewards.com/wp-content/uploads/2017/12/WR-Photo-Wall-of-Happy-G-LI-Twitter.jpg). Instead of a physical wall where kudos are printed out, we have a Slack channel `#recognition` where you can see a steady stream of kudos and reactions.
 
 Monitor the leaderboard on the [Bonusly analytics page](https://bonus.ly/analytics/leaderboards).
 
