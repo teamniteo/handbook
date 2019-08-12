@@ -34,6 +34,10 @@ Usually, it takes about ten working days to get through the onboarding issue, bu
 
 All Niteans issue invoices to the company. The invoice must include: your full name and address, company name and address, date of issue, invoice number, services done, amount and IBAN bank account. You can use an online [invoice generator](https://invoice-generator.com/) if you don't have your own.
 
+### Invoicing the company
+
+As a remote-first company, Niteans are from all around the globe. This means though that tax and accounting regulations differ per country. If you need help with setting your business, we might have Niteans who are from the same country, and can guide you on the necessary steps to undertake. 
+
 ### Payments outside IBAN area
 
 For Niteans outside of IBAN area, the bank transfer might be a suboptimal solution due to high bank fees. For these, we use TransferWise.
