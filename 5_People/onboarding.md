@@ -36,7 +36,7 @@ All Niteans issue invoices to the company. The invoice must include: your full n
 
 ### Invoicing the company
 
-All Niteans are hired as contractors and all responsibilities for taxes and accounting fall on you. This means you need to have a business or sole proprietorship open. If you need help with opening your business, we might have Niteans who are from the same country and can help you, so make sure to ask.
+As a remote-first company, Niteans are from all around the globe and are hired as contractors. This means you need to have a business or sole proprietorship open. And since the tax and accounting regulations differ per country, the responsibilities for this fall on you. If you need help with opening your business, we might have Niteans who are from the same country and can help you, so make sure to ask.
 
 ### Payments outside IBAN area
 
