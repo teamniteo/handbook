@@ -2,9 +2,17 @@
 
 User Stories are well-defined tasks to be done by a Nitean that have a specific, measurable goal and impact. The vast majority of issues are written as User Stories, and only issues created by support that are reactionary and straightforward are not. Support issues are also not included in sprints.
 
+All User Stories are located in their project repositories:
+- EBN project: `niteoweb/easyblognetworks`
+- KAI project: `niteoweb/kai`
+- WooCart project: `niteoweb/woocart`
+- Company issues: `niteoweb/operations`
+
+We have many repositories for each project but we write all User Stories in the main repository.
+
 ## Writing a User Story
 
-To create a User Story, we open a new issue in the project repositories or the Operations repository if it is unrelated to a specific project. In all three repositories, an issue template is provided to guide you through the process. 
+To create a User Story, we open a new issue in the project repositories or the Operations repository if it is unrelated to a specific project. In all three repositories, an issue template is provided to guide you through the process.
 
 To make the Stories more inclusive, we prefer using [Singular they](https://en.wikipedia.org/wiki/Singular_they) instead of `he`, `himself`, etc.
 
