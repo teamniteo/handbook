@@ -6,7 +6,7 @@ Join the channels `#operations`, `#watercooler`, `#out-of-office`, and any other
 
 However, questions such as "where can I find X", "how do I do Y" and "what is Z" should be posted into public channels. Since more Niteans can chip in you will get your answer faster.
 
-If you are on the receiving end of a question or message, that should really be posted in a public channel, reply with the following: `Hey! Let's take this to one of our public channels, so others can learn or chip in. I'll re-post and reply there.`. 
+If you are on the receiving end of a question or message, that should really be posted in a public channel, reply with the following: `Hey! Let's take this to one of our public channels, so others can learn or chip in. I'll re-post and reply there.`.
 
 Here is how we set reminders for daily standups in Slack:
 
@@ -40,9 +40,31 @@ Slack can be a [big distraction](https://m.signalvnoise.com/is-group-chat-making
 
 Signal is to be used primarily for sending confidential information that must never be shared over Slack, and timely instant messaging at conferences and IRLs. All other instant messaging should remain on Slack.
 
-## OpenVPN
+## VPN
 
-We use OpenVPN to securely tunnel internet traffic when connecting to our projects or internal services.
+We use NordVPN to securely tunnel Internet traffic when we are not on our home network.
+
+#### Usage
+
+1. Go to https://nordvpn.com and install their app. It works both on desktop and mobile devices.
+1. Login with your @niteo.co NordVPN credentials.
+1. Under Dedicated IP section in the dropdown menu click ..., open Servers tab and click "heart" icon for our German Dedicated Server.
+1. Do the same for our US Dedicated Server.
+1. Connect to one or the other to get access to our protected services.
+1. For private use like torrenting, make sure you are using one of the shared servers that NordVPN provides, and not our two dedicated servers.
+
+#### iOS specifics
+
+The NordVPN iOS app does not support connecting to Dedicated Servers so you won't have access to our protected services on your phone.
+
+However, since NordVPN uses OpenVPN under the hood, there is a neat workaround:
+
+1. Follow https://support.nordvpn.com/Connectivity/iOS/1086536932/Manual-OpenVPN-connection-setup-on-iPad-iPhone.htm to install the OpenVPN app.
+1. Open https://nordvpn.com/ovpn/ with your phone, scroll down to our German server and click Download UDP.
+1. Do the same for TCP.
+1. Now do both for our US server.
+1. Profit!
+
 
 ## Resilio
 

@@ -36,7 +36,7 @@ Whenever possible enable 2FA (two-factor authentication) for logging into servic
 
 ## VPN
 
-We always use tunneling to access our internal servers from unknown networks to protect ourselves from traffic sniffing. All newer smartphones have some level of support for a VPN.
+Unless we are on our home network, we always use Virtual-Private-Network tunneling to  protect ourselves from traffic sniffing. Our VPN provider NordVPN is supported on all major desktop and mobile devices.
 
 
 ## Device Data Encryption
