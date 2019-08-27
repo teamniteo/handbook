@@ -53,6 +53,10 @@ We use NordVPN to securely tunnel Internet traffic when we are not on our home n
 1. Connect to one or the other to get access to our protected services.
 1. For private use like torrenting, make sure you are using one of the shared servers that NordVPN provides, and not our two dedicated servers.
 
+#### MacOS specifics
+
+The NordVPN MacOS app that comes from the App Store does not support connecting to Dedicated Servers. You need to use their "OpenVPN" app.
+
 #### iOS specifics
 
 The NordVPN iOS app does not support connecting to Dedicated Servers so you won't have access to our protected services on your phone.
