@@ -78,8 +78,8 @@ However, since NordVPN uses OpenVPN under the hood, there is a neat workaround:
 ### Linux with Network Manager (Gnome, KDE)
 
 1. Follow https://nordvpn.com/tutorials/linux/openvpn/
-1. Import UDP or TCP profile for server de545 for Germany.
-1. Import UDP or TCP profile for server us2928 for United States.
+1. Import UDP or TCP profile **de545** for Germany.
+1. Import UDP or TCP profile **us2928** for United States.
 
 ## Resilio
 
