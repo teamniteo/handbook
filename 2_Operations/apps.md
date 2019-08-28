@@ -69,6 +69,17 @@ However, since NordVPN uses OpenVPN under the hood, there is a neat workaround:
 1. Now do both for our US server.
 1. Profit!
 
+#### Linux CLI
+
+1. Follow https://nordvpn.com/tutorials/linux/application/
+1. ```nordvpn c de545``` or ```nordvpn c Germany/Dedicated_IP``` for server in Germany.
+1. ```nordvpn c us2928``` or ```nordvpn c United_States/Dedicated_IP``` for server in US.
+
+### Linux with Network Manager (Gnome, KDE)
+
+1. Follow https://nordvpn.com/tutorials/linux/openvpn/
+1. Import UDP or TCP profile **de545** for Germany.
+1. Import UDP or TCP profile **us2928** for United States.
 
 ## Resilio
 
