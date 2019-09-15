@@ -24,6 +24,7 @@ Recruitee guides us through the following stages of hiring a new Nitean. A candi
    * We post manually to Slovenian boards: slo-tech.com, internetmojster.com, facebook.com/groups/sluzbezadeveloperje.
    * We post to twitter.com/teamniteo and facebook.com/niteo.
    * Sometimes we run an ad campaign on Facebook or buy ads on StackOverflow.
+   * A good checklist to run through to make sure we're not missing any key information: https://gallery.mailchimp.com/9aa99d8f1f6d718def69e9c86/files/d2f6edcf-0b01-4b8e-9453-8ef417b48c7a/Job_Posting_Best_Practices.pdf
 
 **2. Application**
 
