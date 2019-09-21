@@ -23,6 +23,7 @@ These are the books that strongly influenced our company and are therefore highl
 * [The Hard Thing About Hard Things, Ben Horowitz](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
 * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change, Camille Fournier](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 * [The Mom Test, Rob Fitzpatrick](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742)
+* [Radical Candor by Kim Scott](https://www.radicalcandor.com/the-book/)
 
 ### Engineering
 
