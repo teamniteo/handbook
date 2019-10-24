@@ -37,7 +37,7 @@ There are settings you can change to decrease distractions. In the Slack app, cl
 - **Notify me about**: choose `Direct messages, mentions & keywords`. If you still get too many pings, try using `Nothing`. Uncheck `Notify me about replies to threads I'm following`.
 - **Sound & appearance**: check `Mute all sounds from Slack`, audio pings are extremely distracting. Uncheck `Bounce Slack's icon when receiving a notification`, another really annoying distraction.
 
-When you need time for undistracted work we encourage you to quit Slack completely. Make sure that other Niteans that depend on your feedback know that you're away. But unless there's a fire, a few hours of uninterrupted will only benefit everyone.
+When you need time for undistracted work we encourage you to **quit Slack completely**. Make sure that other Niteans that depend on your feedback know that you're away. But unless there's a fire, a few hours of uninterrupted will only benefit everyone.
 
 ## Signal
 
