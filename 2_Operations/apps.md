@@ -28,9 +28,16 @@ How to know which channel to write to? Write to the most specific channel. If yo
 
 Although we use Slack for our day-to-day communication, it is not a fully secure messaging system, since the messages are stored and accessible on their servers. Therefore do not transfer passwords, keys or confidential information using Slack. Instead use Signal which is secured with end-to-end encryption.
 
-#### Do Not Disturb
+#### Decreasing Distractions
 
-Slack can be a [big distraction](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d) especially if you're always receiving notifications or checking for replies. When you need time for undistracted work we encourage you to Snooze notifications for a preset period or quit Slack. Make sure that other Niteans that depend on your feedback know that you're away.
+Slack can be a [big distraction](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d) especially if you're always receiving notifications or checking for replies. 
+
+There are settings you can change to decrease distractions. In the Slack app, click on Niteo on top and go to Preferences. Notifications settings will open and these are the recommended settings:
+
+- **Notify me about**: choose `Direct messages, mentions & keywords`. If you still get too many pings, try using `Nothing`. Uncheck `Notify me about replies to threads I'm following`.
+- **Sound & appearance**: check `Mute all sounds from Slack`, audio pings are extremely distracting. Uncheck `Bounce Slack's icon when receiving a notification`, another really annoying distraction.
+
+When you need time for undistracted work we encourage you to quit Slack completely. Make sure that other Niteans that depend on your feedback know that you're away. But unless there's a fire, a few hours of uninterrupted will only benefit everyone.
 
 ## Signal
 
