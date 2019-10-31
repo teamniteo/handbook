@@ -28,4 +28,8 @@ The more +1's (peer recognition) you get, the more points you collect. Other Nit
 
 To keep things interesting, Niteans can redeem their points from the [list of awesome rewards](https://bonus.ly/company/catalog_items?show=custom&country=SI) we have.
 
+We have a reward for shipping if you want the items delivered to your doorstep. This can only be redeemed once for every quarter so make sure to redeem all the items you want shipped.
+
+One other way for collecting rewards is on IRLs. Just make sure to redeem the items at least a week before so they can be included in the preparation and packing.
+
 While trialists can already start collecting points, only permanent Niteans can redeem.
