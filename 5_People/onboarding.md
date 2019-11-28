@@ -8,9 +8,9 @@ Congratulations on completing the interview process, and joining us here at Nite
 
 We don't believe in long interview processes with tricky questions and unrealistic tasks. We rather hire someone for a trial period to see if we fit nicely together.
 
-The trial period lasts somewhere between 3 to 6 months. The trialist receives 70% of the salary in the first two months, 80% in the next two months, and 90% after that. The salary is calculated based on hours done in a month.
+The trial period lasts somewhere between 3 to 6 months. The trialist receives 70% of the salary's hourly rate in the first two months, 80% in the next two months, and 90% after that. The payout equals to hours done in the month, not as a fixed salary amount (as it's common with contractors).
 
-As a trialist you will not be included in [profit sharing](https://github.com/niteoweb/handbook/blob/master/5_People/profit-sharing.md) and other [benefits](https://github.com/niteoweb/handbook/blob/master/5_People/benefits.md), nor entitled to a [severance](https://github.com/niteoweb/handbook/blob/master/5_People/salary-system.md#severance-policy) package.
+As a trialist you will not be included in [profit sharing](https://github.com/niteoweb/handbook/blob/master/5_People/profit-sharing.md) and other [benefits](https://github.com/niteoweb/handbook/blob/master/5_People/benefits.md), nor entitled to a  [overtime](https://github.com/niteoweb/handbook/blob/master/5_People/salary-system.md#working-hours), or [severance](https://github.com/niteoweb/handbook/blob/master/5_People/salary-system.md#severance-policy) package.
 
 ## Anonymous Feedback
 
