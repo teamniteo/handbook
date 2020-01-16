@@ -28,7 +28,7 @@ This is the Salary Formula:
 
 Niteo Base Salary is calculated by first taking the [*Salary.com salary base for the role in United States*](https://www.salary.com/research), converting it to EUR and finally discounting it by our *affordability ratio*. 
 
-##### But what about EUR/USD fluctuations?
+##### What about EUR/USD fluctuations?
 
 To avoid day-to-day currency fluctuations we take [the 10-year exchange rate average](https://www.ofx.com/en-au/forex-news/historical-exchange-rates/yearly-average-rates/) to convert the Salary.com amounts from USD to EUR, Niteo's primary currency. The exchange rate for 2020 is _1.20_.
 
@@ -46,7 +46,6 @@ Location factor takes into account the living costs. We determine them by compar
 
 For the purposes of the Salary System, we take your official permanent residence (address stated in your passport), and do not change it for seasonal relocations or longer travel. 
 
-WIP @zupo
 We pay Niteans relatively more in inexpensive cities, increasing their local purchasing power. We do this by compressing the Location Factor of cities below affordability ratio upwards by 2/3 of the distance between location and affordability ratio. Inversely, cities above the affordability ratio are compressed downwards by 2/3 of the distance between location and affordability.
 
 In other words, if you live in an inexpensive country, your salary will be _decreased_ less and if you live in an expensive country, your salary will be _increased_ less by the location factor. 
