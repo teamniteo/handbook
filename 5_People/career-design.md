@@ -13,7 +13,7 @@ The top two positions are two branches of the design career:
 * Follows existing design patterns, works within our existing look and feel.
 * Can create wireframes with static screens.
 * Usually less than 2 years of design experience.
-* Salary.com role name for base salary: Web Designer I
+* Salary.com role name for base salary: `Web Designer I`
 
 ## Designer
 
@@ -22,7 +22,7 @@ The top two positions are two branches of the design career:
 * Can create detailed interactive prototypes demonstrating flows, interactions, and animations.
 * Understands the basics of writing modern HTML/CSS.
 * Usually at least 2-5 years of design experience.
-* Salary.com role name for base salary: Web Designer II
+* Salary.com role name for base salary: `Web Designer II`
 
 
 ## Senior Designer
@@ -33,7 +33,7 @@ The top two positions are two branches of the design career:
 * Makes regular, material contributions to the look-and-feel of our general aesthetic and brands.
 * Fully capable of writing modern HTML/CSS and basic proficiency in Javascript.
 * Usually at least 5-8 years of design experience.
-* Salary.com role name for base salary: Web Designer III
+* Salary.com role name for base salary: `Web Designer III`
 
 
 ## Lead Designer
@@ -41,7 +41,7 @@ The top two positions are two branches of the design career:
 * Basically a Senior Designer taking on additional managerial work.
 * Capable of running and directing whole teams for large, long-running projects.
 * Usually at least 8-12 years of design experience.
-* Salary.com role name for base salary: Web Designer IV
+* Salary.com role name for base salary: `Web Designer IV`
 
 
 ## Principal Designer
@@ -52,5 +52,5 @@ The top two positions are two branches of the design career:
 * Moves the industry forward by introducing novel techniques, approaches, or ideas.
 * Completely comfortable discussing complex application logic with programmers.
 * Usually at least 12-15+ years of design experience.
-* Salary.com role name for base salary: Web Art Director
+* Salary.com role name for base salary: `Web Art Director`
 
