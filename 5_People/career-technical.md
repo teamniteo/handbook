@@ -8,7 +8,7 @@ The top two positions are two branches of the engineering career:
 * Lead Engineer means you start taking over managerial tasks and leading people.
 * Principal Engineer means you take ownership of all of technical nitty-gritty details in the company.
 
-## Junior Engineer / Sysadmin / Scientist 
+## Junior Engineer
 
 * Work is thoroughly reviewed with substantial back and forth frequently needed before merging.
 * Basic language/technology features are mastered, but some advanced approaches may still be unfamiliar.
