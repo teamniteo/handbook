@@ -26,7 +26,7 @@ You start at the tech support desk answering enquiries by understanding the user
 * Communicates with programmers and project leads about the product development.
 * Salary.com role name for base salary: `IT Project Manager I`
 
-## Operations Manager
+## Project Manager
 
 * Deep knowledge about a project and its users by regularly talking to users either in person or by phone. 
 * Is responsible that everything is running smoothly on the project.
@@ -34,7 +34,7 @@ You start at the tech support desk answering enquiries by understanding the user
 * Usually at least 2-3 years of project domain knowledge.
 * Salary.com role name for base salary: `IT Project Manager II`
 
-## Senior Operations Manager
+## Operations Manager
 
 * Basically a Chief Operations Office.
 * Handles PeopleOps, accounting, salaries, taxes, and everything else that needs to be done.
