@@ -2,7 +2,7 @@
 
 You start as a coder, a sysadmin or a data analyst, working on small, well defined and isolated tasks. Then you immediately need to become an engineer that gets loosely defined problems/features and creates solutions for them. You need to do this because we are not a development agency and most of our work does not come from some outside specification, but from problems we and our customers discover day-to-day. 
 
-Since we are a software company, the base salary comes from the "Software Engineer" family of positions on Glassdoor. But we don't differentiate between different engineering careers. In other words, a data scientist is paid the same as a frontend developer and the same as a DevOps engineer.
+Since we are a software company, the base salary comes from the "Software Engineer" family of positions on Salary.com. But we don't differentiate between different engineering careers. In other words, a data scientist is paid the same as a frontend developer and the same as a DevOps engineer.
 
 The top two positions are two branches of the engineering career:
 * Lead Engineer means you start taking over managerial tasks and leading people.
