@@ -26,37 +26,32 @@ This is the Salary Formula:
 
 #### Base Salary
 
-Niteo Base Salary is calculated by first taking the [*Glassdoor salary for the role in San Francisco*](https://www.glassdoor.com/Salaries/san-francisco-software-engineer-salary-SRCH_IL.0,13_IM759_KO14,31.htm), converting it to EUR and finally discounting it by our *affordability ratio*. 
-
-##### Why San Francisco?
-
-We take San Francisco because we assume it has the best data for the tech sector.
+Niteo Base Salary is calculated by first taking the [*Salary.com salary base for the role in United States*](https://www.salary.com/research), converting it to EUR and finally discounting it by our *affordability ratio*. 
 
 ##### But what about EUR/USD fluctuations?
 
-To avoid day-to-day currency fluctuations we take [the 10-year exchange rate average](https://www.ofx.com/en-au/forex-news/historical-exchange-rates/yearly-average-rates/) to convert the Glassdoor amounts from USD to EUR, Niteo's primary currency. The exchange rate for 2019 is _1.23_.
+To avoid day-to-day currency fluctuations we take [the 10-year exchange rate average](https://www.ofx.com/en-au/forex-news/historical-exchange-rates/yearly-average-rates/) to convert the Salary.com amounts from USD to EUR, Niteo's primary currency. The exchange rate for 2020 is _1.20_.
 
 ##### Affordability Ratio
 
-We are not a VC funded Sillicon Valey startup who scales for the sake of scaling and often does not care how much things cost. We strive to be profitable so [every Nitean gets a cut](https://github.com/niteoweb/handbook/blob/master/5_People/profit-sharing.md). Hence, we discount Glassdor amounts by an *affordability ratio*, which we get by averaging Numbeo Location Ratios of Amsterdam, Barcelona, Berlin, and Lisbon. The affordability ratio for 2019 is _0.53_.
+We are not a VC funded Sillicon Valey startup who scales for the sake of scaling and often does not care how much things cost. We strive to be profitable so [every Nitean gets a cut](https://github.com/niteoweb/handbook/blob/master/5_People/profit-sharing.md). Hence, we discount Salary.com amounts by an *affordability ratio*. The affordability ratio for 2020 is _0.49_.
 
 ##### How often do base salaries get calculated?
 
 Once a year, in January, during our [bi-annual IRL](https://blog.niteo.co/irls/). Same for the affordability ratio.
 
-
 #### Location Factor
 
-Location factor takes into account the living costs. We determine them by comparing Numbeo's [cost of living between San Francisco and the Nitean's city](https://www.numbeo.com/cost-of-living/compare_cities.jsp?country1=United+States&city1=San+Francisco%2C+CA&country2=Germany&city2=Berlin) and calculating the *Numbeo Location Ratio*. 
+Location factor takes into account the living costs. We determine them by comparing Numbeo's [cost of living between United States and the Nitean's country](https://www.numbeo.com/cost-of-living/compare_cities.jsp?country1=United+States&city1=San+Francisco%2C+CA&country2=Germany&city2=Berlin) and calculating the *Numbeo Location Ratio*. 
 
-For the purposes of the Salary System, we take your official permanent residence (address stated in your passport), and do not change it for seasonal relocations or longer travel. If your city is not in Numbeo, or has less than 180 entries in the last 18 months, find the nearest city that qualifies.
+For the purposes of the Salary System, we take your official permanent residence (address stated in your passport), and do not change it for seasonal relocations or longer travel. 
 
+WIP @zupo
 We pay Niteans relatively more in inexpensive cities, increasing their local purchasing power. We do this by compressing the Location Factor of cities below affordability ratio upwards by 2/3 of the distance between location and affordability ratio. Inversely, cities above the affordability ratio are compressed downwards by 2/3 of the distance between location and affordability.
 
-In other words, if you live in an inexpensive city, your salary will be _decreased_ less and if you live in an expensive city, your salary will be _increased_ less by the location factor. 
+In other words, if you live in an inexpensive country, your salary will be _decreased_ less and if you live in an expensive country, your salary will be _increased_ less by the location factor. 
 
-This way we are motivated to hire in inexpensive regions, while at the same time providing a better salary for those Niteans. All things being the same, we will always hire a Nitean from a less expensive city.
-
+This way we are motivated to hire in inexpensive regions, while at the same time providing a better salary for those Niteans. All things being the same, we will always hire a Nitean from a less expensive country.
 
 #### Years Factor
 
