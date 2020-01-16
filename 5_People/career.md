@@ -28,29 +28,23 @@ This is the Salary Formula:
 
 Niteo Base Salary is calculated by taking the [*Salary.com salary base for the role in United States*](https://www.salary.com/research) and converting it to EUR. 
 
-##### What about EUR/USD fluctuations?
-
 To avoid day-to-day currency fluctuations we take [the 10-year exchange rate average](https://www.ofx.com/en-au/forex-news/historical-exchange-rates/yearly-average-rates/) to convert the Salary.com amounts from USD to EUR, Niteo's primary currency. The exchange rate for 2020 is _1.20_.
 
-##### Affordability Ratio
-
-We are not a VC funded Sillicon Valey startup who scales for the sake of scaling and often does not care how much things cost. We strive to be profitable so [every Nitean gets a cut](https://github.com/niteoweb/handbook/blob/master/5_People/profit-sharing.md). Hence, we discount Salary.com amounts by an *affordability ratio*. The affordability ratio for 2020 is _0.49_.
-
-##### How often do base salaries get calculated?
-
-Once a year, in January, during our [bi-annual IRL](https://blog.niteo.co/irls/). Same for the affordability ratio.
+Base salaries get calculated once a year, in January, during our [bi-annual IRL](https://blog.niteo.co/irls/). 
 
 #### Location Factor
 
-Location factor takes into account the living costs. We determine them by comparing Numbeo's [cost of living between United States and the Nitean's country](https://www.numbeo.com/cost-of-living/compare_cities.jsp?country1=United+States&city1=San+Francisco%2C+CA&country2=Germany&city2=Berlin) and calculating the *Numbeo Location Ratio*. 
+Location factor takes into account the living costs. We determine them by comparing Numbeo's [Cost of Living Plus Rent Index value between United States and the Nitean's country](https://www.numbeo.com/cost-of-living/compare_countries_result.jsp?country1=United+States&country2=Germany) and calculating the *Cost of Living*. Example: if Country A is 30% cheaper based on Cost of Living Plus Rent Index, then this country's Cost of Living is 0.7.
 
 For the purposes of the Salary System, we take your official permanent residence (address stated in your passport), and do not change it for seasonal relocations or longer travel. 
 
-We pay Niteans relatively more in inexpensive cities, increasing their local purchasing power. We do this by compressing the Location Factor of cities below affordability ratio upwards by 2/3 of the distance between location and affordability ratio. Inversely, cities above the affordability ratio are compressed downwards by 2/3 of the distance between location and affordability.
+#### Affordability Ratio
 
-In other words, if you live in an inexpensive country, your salary will be _decreased_ less and if you live in an expensive country, your salary will be _increased_ less by the location factor. 
+Since we cannot afford to pay US-level salaries, we use Affordability Ratio to decrease Cost of Living values, which effectively decreases our salaries. The value is set somewhat arbitrarily, to match our salaries before the introduction of the Salary System in Niteo. We adjust the Affordability Ratio in January, based on the previous year's performance.
 
-This way we are motivated to hire in inexpensive regions, while at the same time providing a better salary for those Niteans. All things being the same, we will always hire a candidate from a less expensive country.
+For each country, we compress the Cost of Living towards our Affordability Ratio. This means that if `cost_of_living` is higher than `affordability`, we decrease `cost_of_living` by 2/3 of the difference. If `cost_of_living` is lower than `affordability`, we increase `cost_of_living` by 2/3 of the difference.
+
+In other words, if you live in an inexpensive country, your salary will be _decreased_ less and if you live in an expensive country, your salary will be _increased_ less by the location factor. This way we are motivated to hire in inexpensive regions, while at the same time providing a better salary for those Niteans. All things being the same, we will always hire a candidate from a less expensive country.
 
 #### Years Factor
 
