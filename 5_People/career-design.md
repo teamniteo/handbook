@@ -28,7 +28,7 @@ The top two positions are two branches of the design career:
 ## Senior Designer
 
 * Work happens completely autonomously without regular need for review.
-* Can run point on projects, taking them from concept to shipping as the sole designer (alongside a developer).
+* Can run point on projects, taking them from concept to shipping as the sole designer (alongside a programmer).
 * Sets and maintains professional standards for the entire organization.
 * Makes regular, material contributions to the look-and-feel of our general aesthetic and brands.
 * Fully capable of writing modern HTML/CSS and basic proficiency in Javascript.
