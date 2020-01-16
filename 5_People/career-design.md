@@ -1,6 +1,6 @@
 # Design Career
 
-You start as a (graphics) designer, working on small, well defined and isolated tasks. Then you immediately need to become a product person that gets loosely defined problems/features to research and define solutions for.
+You start as a web designer, working on small, well defined and isolated tasks. Then you immediately need to become a product person that gets loosely defined problems/features to research and define solutions for.
 
 The top two positions are two branches of the design career:
 * Lead Designer careers means you start taking over managerial tasks, leading entire projects. 
@@ -11,7 +11,6 @@ The top two positions are two branches of the design career:
 * Work is reviewed with the occasional need for material direction or implementation changes.
 * Works primarily on tightly scoped, single element, routine tasks with another Nitean.
 * Follows existing design patterns, works within our existing look and feel.
-* Can write basic HTML/CSS with guidance.
 * Can create wireframes with static screens.
 * Usually less than 2 years of design experience.
 
@@ -26,7 +25,7 @@ The top two positions are two branches of the design career:
 ## Senior Designer
 
 * Work happens completely autonomously without regular need for review.
-* Can run point on projects, taking them from concept to shipping as the sole designer (alongside a programmer).
+* Can run point on projects, taking them from concept to shipping as the sole designer (alongside a developer).
 * Sets and maintains professional standards for the entire organization.
 * Makes regular, material contributions to the look-and-feel of our general aesthetic and brands.
 * Fully capable of writing modern HTML/CSS and basic proficiency in Javascript.
