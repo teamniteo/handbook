@@ -26,7 +26,7 @@ This is the Salary Formula:
 
 #### Base Salary
 
-Niteo Base Salary is calculated by first taking the [*Salary.com salary base for the role in United States*](https://www.salary.com/research), converting it to EUR and finally discounting it by our *affordability ratio*. 
+Niteo Base Salary is calculated by taking the [*Salary.com salary base for the role in United States*](https://www.salary.com/research) and converting it to EUR. 
 
 ##### What about EUR/USD fluctuations?
 
