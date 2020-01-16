@@ -50,7 +50,7 @@ We pay Niteans relatively more in inexpensive cities, increasing their local pur
 
 In other words, if you live in an inexpensive country, your salary will be _decreased_ less and if you live in an expensive country, your salary will be _increased_ less by the location factor. 
 
-This way we are motivated to hire in inexpensive regions, while at the same time providing a better salary for those Niteans. All things being the same, we will always hire a Nitean from a less expensive country.
+This way we are motivated to hire in inexpensive regions, while at the same time providing a better salary for those Niteans. All things being the same, we will always hire a candidate from a less expensive country.
 
 #### Years Factor
 
