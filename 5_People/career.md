@@ -1,4 +1,6 @@
-# Niteo Salary System
+# Career in Niteo
+
+## Salary System
 
 Instead of lengthy and often biased per-person negotiations, Niteo uses a Salary System to set salaries. Our goal is to have a fair and objective way to set salaries for all positions with as little subjective input as possible. The system excludes negotiations for individual salaries, and thus leveling the playfield, no matter your position, life situation, or willingness to negotiate. 
 
@@ -10,7 +12,7 @@ Salary System is a constant work in progress and we always strive to make it bet
 
 Find [the salary calculator on our website](https://niteo.co/salary-calculator).
 
-## Salary Formula
+### Salary Formula
 
 Our salary formula consists of three variables: Base Salary for the role, Location Factor, and Years Factor. 
 
@@ -22,28 +24,28 @@ This is the Salary Formula:
 
 > Note: all amounts are gross and per-month.
 
-### Base Salary
+#### Base Salary
 
 Niteo Base Salary is calculated by first taking the [*Glassdoor salary for the role in San Francisco*](https://www.glassdoor.com/Salaries/san-francisco-software-engineer-salary-SRCH_IL.0,13_IM759_KO14,31.htm), converting it to EUR and finally discounting it by our *affordability ratio*. 
 
-#### Why San Francisco?
+##### Why San Francisco?
 
 We take San Francisco because we assume it has the best data for the tech sector.
 
-#### But what about EUR/USD fluctuations?
+##### But what about EUR/USD fluctuations?
 
 To avoid day-to-day currency fluctuations we take [the 10-year exchange rate average](https://www.ofx.com/en-au/forex-news/historical-exchange-rates/yearly-average-rates/) to convert the Glassdoor amounts from USD to EUR, Niteo's primary currency. The exchange rate for 2019 is _1.23_.
 
-#### Affordability Ratio
+##### Affordability Ratio
 
 We are not a VC funded Sillicon Valey startup who scales for the sake of scaling and often does not care how much things cost. We strive to be profitable so [every Nitean gets a cut](https://github.com/niteoweb/handbook/blob/master/5_People/profit-sharing.md). Hence, we discount Glassdor amounts by an *affordability ratio*, which we get by averaging Numbeo Location Ratios of Amsterdam, Barcelona, Berlin, and Lisbon. The affordability ratio for 2019 is _0.53_.
 
-#### How often do base salaries get calculated?
+##### How often do base salaries get calculated?
 
 Once a year, in January, during our [bi-annual IRL](https://blog.niteo.co/irls/). Same for the affordability ratio.
 
 
-### Location Factor
+#### Location Factor
 
 Location factor takes into account the living costs. We determine them by comparing Numbeo's [cost of living between San Francisco and the Nitean's city](https://www.numbeo.com/cost-of-living/compare_cities.jsp?country1=United+States&city1=San+Francisco%2C+CA&country2=Germany&city2=Berlin) and calculating the *Numbeo Location Ratio*. 
 
@@ -56,7 +58,7 @@ In other words, if you live in an inexpensive city, your salary will be _decreas
 This way we are motivated to hire in inexpensive regions, while at the same time providing a better salary for those Niteans. All things being the same, we will always hire a Nitean from a less expensive city.
 
 
-### Years Factor
+#### Years Factor
 
 Understanding how we operate makes a Nitean more productive and more valuable to the company. We reward this by the Years Factor. Each year after the first, the Nitean will receive a bonus to their base. The bonus decreases with every year, as every year there is less to learn about specifics of our work. We calculate the Years Factor using the [natural logarithm](https://en.wikipedia.org/wiki/Natural_logarithm): `LN(years)/10`
 
