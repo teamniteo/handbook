@@ -36,7 +36,7 @@ You start at the tech support desk answering enquiries by understanding the user
 
 ## Operations Manager
 
-* Basically a Chief Operations Office.
+* Basically a Chief Operations Officer.
 * Handles PeopleOps, accounting, salaries, taxes, and everything else that needs to be done.
 * Leads organization of events, like IRL. 
 * Usually at least 5-8 years of being in Niteo.
