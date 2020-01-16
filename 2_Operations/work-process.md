@@ -5,9 +5,10 @@
 
 * Every **Monday and Thursday** morning we hold a daily standup meeting:
    * 10:00 CE(S)T for the whole company in the Niteo Zoom room
-   * followed immediately by separate standups for Easy Blog Networks and WooCart, in their own Zoom rooms
-* Every other **weekday** morning we hold a daily standup meeting:
-   * 10:00 CE(S)T separate standups for Easy Blog Networks and WooCart, in their own Zoom rooms
+   * followed immediately by separate standups for Easy Blog Networks/Kafkai and WooCart, in their own Zoom rooms
+* Every **Tuesday and Wednesday** morning we only have project standup meetings:
+   * 10:00 CE(S)T separate standups for Easy Blog Networks/Kafkai and WooCart, in their own Zoom rooms
+* No standups on **Fridays**. This way Niteans can either be more productive (focus on their Stories) or take a day off (see [Vacation policy](https://github.com/niteoweb/handbook/blob/master/5_People/benefits.md#vacation)). Same as any other vacation off, make sure that your backup Nitean is available to handle any potential issues.
 * Every weekday Niteans should check their [GitHub notifications](https://github.com/notifications) so that they don't miss things that involve them.
 
 Sprint meetings replace the daily standup on these days:
@@ -74,7 +75,6 @@ While working on user stories we often need to change code or text that we keep 
 To ensure that your commits and Pull Requests contain everything necessary for a successful review, read through the [Git](/3_Development/git.md) guide for the best practices.
 
 When a User Story or Pull Request is getting close to being completed but there are still open issues, Niteans should have a discussion on Zoom. We don't want to see long PR discussions on GitHub. The **author** of the issue should ping people on Slack and get them on Zoom to polish things.
-
 
 ## Continual Improvement
 
