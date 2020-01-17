@@ -52,3 +52,13 @@ Sometimes the result of a user story is an agreement that we should do a certain
 There are a bunch of tasks we have to do every month/quarter/year. To make sure they get assigned enough time for proper execution, we include them in sprints as user stories. The only difference is, they don't need user story demo recordings since they happen so often and are repetitive.
 
 For every month/quarter that a recurring task is required we (re)open the issue and create a comment for the new month/quarter.
+
+## On-Calls
+
+Sometimes, things break in the middle of the night or on weekends. The great thing about being a remote-first team is that we cover different time zones so there is almost always someone available. The solution for the weekend is to have Niteans on-call.
+
+Being on-call means being available for any critical, urgent issues that may arise. Some examples of this are servers offline or the product app is down. Each on-call day (Saturday and Sunday) counts as a 2-hour workday, even if there were no emergencies. Any work more than two hours counts as regular work.
+
+Niteans can be on-call only if they already pass basic support training or has already reported for [Everyone on Support](https://github.com/niteoweb/handbook/blob/master/4_Marketing-Support/everyone-on-support.md).
+
+Every [sprint planning](https://github.com/niteoweb/handbook/blob/master/2_Operations/scrum.md#sprint-planning), the Niteans on-call for the two weekends will be assigned and noted on the Sprint issue.
