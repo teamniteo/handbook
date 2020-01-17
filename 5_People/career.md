@@ -1,4 +1,4 @@
-# Career in Niteo
+# Career at Niteo
 
 ## Salary System
 
