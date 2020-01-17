@@ -5,7 +5,7 @@ You start at the tech support desk answering enquiries by understanding the user
 ## Tech Support I
 
 * Handles a large range of support questions, many of them with technical issues to resolve.
-* Writes and improves support documentation.
+* Writes and improves documentation.
 * Can write detailed bug reports for programmers to resolve an issue.
 * Usually at least 2 years of tech support experience.
 * Salary.com role name for base salary: `Technical Support Analyst I`
