@@ -57,7 +57,7 @@ For every month/quarter that a recurring task is required we (re)open the issue 
 
 Sometimes, things break in the middle of the night or on weekends. The great thing about being a [remote-first team](https://www.amazon.com/Remote-Office-Not-Required/dp/0804137501) is that we cover different time zones so there is almost always someone available. The solution for the weekend is to have Niteans on-call.
 
-Being on-call means being available for any critical, urgent issues that may arise. Some examples of this are servers offline or the product app is down. Each on-call day (Saturday and Sunday) counts as a 2-hour workday, even if there were no emergencies. Any work more than two hours counts as one regular workday.
+Being on-call means being available for any critical, urgent issues that may arise. Some examples of this are servers offline or the product app is down. Each on-call day (Saturday and Sunday) counts as a 2-hour workday, even if there were no emergencies. Any work more than two hours counts as regular work.
 
 Niteans can be on-call only if they already pass basic support training or has already reported for [Everyone on Support](https://github.com/niteoweb/handbook/blob/master/4_Marketing-Support/everyone-on-support.md).
 
