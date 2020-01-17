@@ -36,7 +36,7 @@ The structure of the Handbook mirrors our departments for simple organization. R
 ### People
 
 * Career paths, Compensation and Benefits
-  * [Career in Niteo](/5_People/career.md)
+  * [Career at Niteo](/5_People/career.md)
   * [Benefits](/5_People/benefits.md)
   * [Profit Sharing](/5_People/profit-sharing.md)
 * Hiring and Onboarding
