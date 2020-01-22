@@ -1,19 +1,19 @@
 # Marketing Career
 
-Facebook Ads, Google Ads, SEO, Content (includes Copywriting) and Analytics are the five pillars of marketing in Niteo. You start with proficiency in one of them, then move up by mastering the chosen pillar and gaining working knowledge of the rest.
+Paid ads (Facebook, Google, others), SEO, Content (includes Copywriting) and Analytics are the four pillars of marketing in Niteo. You start with proficiency in one of them, then move up by mastering the chosen pillar and gaining working knowledge of the rest.
 
 After that you are on you own to decide which pillar to use at which time and you are responsible for profitability. The highest levels are all about creating and cashing in on opportunities for existing and new projects.
 
 ## Junior Digital Marketer
 
-* Proficiency in one of five pillars of marketing in Niteo.
+* Proficiency in one of four pillars of marketing in Niteo.
 * Regular review of tactics is necessary.
 * Usually less than 2 years of digital marketing experience.
 * Salary.com role name for base salary: `Digital Marketing Analyst I`
 
 ## Digital Marketer
 
-* Mastery of one of five pillars of marketing in Niteo, proficiency in the rest.
+* Mastery of one of four pillars of marketing in Niteo, proficiency in the rest.
 * Occassional review of tactics is necessary.  
 * Usually at least 2-5 years of digital marketing experience.
 * Salary.com role name for base salary: `Digital Marketing Analyst II`
@@ -31,7 +31,7 @@ After that you are on you own to decide which pillar to use at which time and yo
 * Finds and creates opportunities for existing and new projects. 
 * Leads a team (developer + designer) that executes the opportunity.
 * Responsibility for the profitability of the project or opportunity.
-* Big karma points: had at least one business in their lifetime.
+* Karma points: had at least one business in their lifetime.
 * Usually at least 8-12 years of marketing/business experience.
 * Salary.com role name for base salary: `Digital Marketing Manager`
 
