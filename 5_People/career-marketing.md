@@ -31,7 +31,7 @@ After that you are on you own to decide which pillar to use at which time and yo
 * Finds and creates opportunities for existing and new projects. 
 * Leads a team (developer + designer) that executes the opportunity.
 * Responsibility for the profitability of the project or opportunity.
-* Karma points: had at least one business in their lifetime.
+* Karma points: ran a business in their lifetime.
 * Usually at least 8-12 years of marketing/business experience.
 * Salary.com role name for base salary: `Digital Marketing Manager`
 
