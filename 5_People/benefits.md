@@ -122,7 +122,7 @@ There is a total of 20 sick days per year available before unpaid vacation is ca
 
 ## Parental Leave
 
-All new parents are entitled to a 100 days parental leave which will expire after 18 months. Parental leave day is calculated the same way as a sick leave - counts as six hours of work done.
+All new parents are entitled to a 100 days parental leave which expires after 18 months. Parental leave day is calculated the same way as a sick leave - as six hours of work done.
 
 Parental leave days are capped at 80% of the salary at level 3. Monthly allowance and profit sharing are reduced by the number of parental leave days each month.
 
