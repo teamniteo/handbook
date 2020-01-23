@@ -7,7 +7,7 @@ Our work process is based on [Scrum](https://en.wikipedia.org/wiki/Scrum_(softwa
  * We schedule our work into two week long *sprints*.
  * We manage our sprints with GitHub and ZenHub.
  
-The role of a product owner is to defend the users while the role of a scrum master is to defend the developers. This means that a symbiotic relationship has to exist in order to create a balanced product.
+To put it in simple terms: **product owner defends the users, scrum master defends the team**. Ideally, this relationship brings the best results for users while not overworking the developers.
 
 Read about [writing User Stories and issues](user-stories.md).
 
