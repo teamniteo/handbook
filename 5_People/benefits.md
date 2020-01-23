@@ -2,7 +2,7 @@
 
 ## Profit Sharing
 
-We believe every Nitean should take part in the distribution of the company profits. So every quarter, if the company is doing well, we reward those who stay with us. Read more in the main document about [Profit sharing](profit-sharing.md).
+We believe every Nitean should take part in the success of the company. If the company is doing well, we pay out a share of the profits every quarter. Read more in the main document about [Profit sharing](profit-sharing.md).
 
 ## Productivity Allowance
 
@@ -86,8 +86,6 @@ Everyone is entitled to 165 hours of vacation leave (22 days) in any calendar ye
 
 Parents get one extra day of paid leave every quarter.
 
-Birth of a child is 20 extra days of paid leave.
-
 Death in the family is three extra days of paid leave.
 
 
@@ -118,7 +116,14 @@ We are from different parts of the World, and we have different customs when it 
 
 ## Sick Leave
 
-Everyone has the right to sick leave on days when they don't feel capable of working. A day of sick leave counts as 6 hours of work done and will be automatically added to your "worked hours". Sick leave can and should be used when taking care of an ill child or spouse.
+Everyone has the right to sick leave on days when they don't feel capable of working. A day of sick leave counts as six hours of work done and will be automatically added to your "worked hours". Sick leave can and should be used when taking care of an ill child or spouse.
 
-There is a total of 20 sick days per year available before unpaid vacation is calculated. For more than five consecutive sick days, a doctor's note is required.
+There is a total of 20 sick days per year available before unpaid vacation is calculated. For more than five consecutive sick days, a doctor's note is required. If sick for more than 5 days in a month, the salary for those days is capped at 80% of the salary at level 3.
 
+## Parental Leave
+
+All new parents are entitled to a 100 days parental leave which expires after 18 months. Parental leave day is calculated the same way as a sick leave - as six hours of work done.
+
+Parental leave days are capped at 80% of the salary at level 3. Monthly allowance and profit sharing are reduced by the number of parental leave days each month.
+
+We strongly encourage parents to take a minimum of one month parental leave directly after the birth of the child.
