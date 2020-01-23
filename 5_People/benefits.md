@@ -86,8 +86,6 @@ Everyone is entitled to 165 hours of vacation leave (22 days) in any calendar ye
 
 Parents get one extra day of paid leave every quarter.
 
-Birth of a child is 20 extra days of paid leave.
-
 Death in the family is three extra days of paid leave.
 
 
