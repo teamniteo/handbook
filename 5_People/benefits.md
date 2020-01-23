@@ -2,7 +2,7 @@
 
 ## Profit Sharing
 
-We believe every Nitean should take part in the distribution of the company profits. So every quarter, if the company is doing well, we reward those who stay with us. Read more in the main document about [Profit sharing](profit-sharing.md).
+We believe every Nitean should take part in the success of the company. So every quarter, if the company is doing well, we pay out a share of the profits. Read more in the main document about [Profit sharing](profit-sharing.md).
 
 ## Productivity Allowance
 
