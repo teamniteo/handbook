@@ -118,7 +118,14 @@ We are from different parts of the World, and we have different customs when it 
 
 ## Sick Leave
 
-Everyone has the right to sick leave on days when they don't feel capable of working. A day of sick leave counts as 6 hours of work done and will be automatically added to your "worked hours". Sick leave can and should be used when taking care of an ill child or spouse.
+Everyone has the right to sick leave on days when they don't feel capable of working. A day of sick leave counts as six hours of work done and will be automatically added to your "worked hours". Sick leave can and should be used when taking care of an ill child or spouse.
 
-There is a total of 20 sick days per year available before unpaid vacation is calculated. For more than five consecutive sick days, a doctor's note is required.
+There is a total of 20 sick days per year available before unpaid vacation is calculated. For more than five consecutive sick days, a doctor's note is required. Similar to parental leave, if sick for more than 5 days in a month, the salary at level 3 is capped 80%.
 
+## Parental Leave
+
+All new parents are entitled to a 100 days parental leave which will expire after 18 months. Parental leave day is calculated the same way as a sick leave - counts as six hours of work done.
+
+Parental leave days are capped at 80% of the salary at level 3. Monthly allowance and profit sharing are reduced by the number of parental leave days each month.
+
+We strongly encourage parents to take a minimum of one month parental leave directly after the birth of the child.
