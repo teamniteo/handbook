@@ -6,6 +6,8 @@ Our work process is based on [Scrum](https://en.wikipedia.org/wiki/Scrum_(softwa
  * We work asynchronously, so keep scheduled meetings to the bare minimum.
  * We schedule our work into two week long *sprints*.
  * We manage our sprints with GitHub and ZenHub.
+ 
+To put it in simple terms: **product owner defends the users, scrum master defends the team**. Ideally, this relationship brings the best results for users while not overworking the developers.
 
 Read about [writing User Stories and issues](user-stories.md).
 
