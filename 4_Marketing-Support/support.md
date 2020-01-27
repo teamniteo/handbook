@@ -67,6 +67,10 @@ Pre-prepared replies to most common questions are available on the Intercom user
 
 If you have the need to create a new canned reply, you can do so by clicking on the ribbon icon found in the bottom part of the reply box, and selecting `Create`. Managing canned replies can be done by clicking on the `Manage` option.
 
+### Tagging Tickets
+
+Support tickets should be tagged so that we can keep track of common issues. You can tag a ticket by clicking the tag button next to the messages received from the user. We generally only tag the top message, but if the topic changes or there are additional issues you should tag those messages as well.
+
 ### Submit Statuses
 
 Regular replies are always ‘Send and close’. If there is still something you need to do after replying (like reporting a bug and getting back to the user with a solution), click on the dropdown menu and send with the appropriate snooze time.
