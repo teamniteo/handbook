@@ -37,8 +37,10 @@ You start at the tech support desk answering enquiries by understanding the user
 ## Operations Manager
 
 * Basically a Chief Operations Officer.
-* Handles PeopleOps, accounting, salaries, taxes, and everything else that needs to be done.
-* Leads organization of events, like IRL. 
+* Is significantly involved in at least one project, and has good knowledge about all other projects.
+* Handles PeopleOps, regularly checks in with Niteans.
+* Handles accounting, salaries, taxes, and finance reports.
+* Leads organization of IRLs and other events. 
 * Usually at least 5-8 years of being in Niteo.
 * Salary.com role name for base salary: `IT Project Manager III`
 
