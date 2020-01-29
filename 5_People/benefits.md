@@ -81,7 +81,7 @@ You are encouraged to extend your trip and take vacation days to see the place y
 
 ### Luxury IRL
 
-Our [IRL meetups](https://github.com/niteoweb/handbook/blob/7744d24d08fb739c8840dd9281b2ca66cb3d700e/2_Operations/how-we-work.md#communication) are always fun. To amp things up and get the most out of these events, each Nitean will give some of their allowance (everyone gives the same amount) but the company will still shoulder the same amount as before. This will allow us to explore more options without the budget constraint.
+Our [IRL meetups](https://github.com/niteoweb/handbook/blob/master/2_Operations/how-we-work.md#communication) are always fun. To amp things up and get the most out of these events, each Nitean will give some of their allowance (everyone gives the same amount) but the company will still shoulder the same amount as before. This will allow us to explore more options without the budget constraint.
 
 Since every Nitean still gets a ton of allowance bonus when travelling to IRLs, and most of us have too much allowance anyhow, giving some of these allowances to party like Gatsby on IRLs is a good team investment for a bi-annual meetup.
 
