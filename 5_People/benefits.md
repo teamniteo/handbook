@@ -79,6 +79,11 @@ Another example: Two months later, John goes to a three-day conference in Barcel
 
 You are encouraged to extend your trip and take vacation days to see the place you travel to. Or the place where your layover is. We are already paying for your ticket, so might as well get the most of it, right?
 
+### Luxury IRL
+
+Our [IRL meetups](https://github.com/niteoweb/handbook/blob/master/2_Operations/how-we-work.md#communication) are always fun. To amp things up and get the most out of these events, each Nitean will give some of their allowance (everyone gives the same amount) but the company will still shoulder the same amount as before. This will allow us to explore more options without the budget constraint.
+
+Since every Nitean still gets a ton of allowance bonus when travelling to IRLs, and most of us have too much allowance anyhow, giving some of these allowances to party like Gatsby on IRLs is a good team investment for a bi-annual meetup.
 
 ## Vacation
 
