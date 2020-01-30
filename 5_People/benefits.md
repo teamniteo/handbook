@@ -107,7 +107,7 @@ Unused vacation hours in a calendar year can be carried over to the next year bu
 
 If you've used up all your allocated vacation days, you can take more vacation days but they will be unpaid.
 
-Please ensure however, that your department and associated work will not suffer during your absence. Also, note that your quarterly profit share amount will be affected by the number of unpaid vacation days you take. See [Profit sharing](profit-sharing.md#present) for further details. On top of this, unpaid time off will reduce your monthly and yearly [allowance](https://github.com/niteoweb/handbook/blob/master/5_People/benefits.md#allowance-budget). 
+Please ensure however, that your department and associated work will not suffer during your absence. Also, note that your quarterly profit share amount will be affected by the number of unpaid vacation days you take. See [Profit sharing](profit-sharing.md#present) for further details. On top of this, unpaid vacation will reduce your monthly and yearly [allowance](https://github.com/niteoweb/handbook/blob/master/5_People/benefits.md#allowance-budget). 
 
 If the unpaid time off exceeds six consecutive months, there should be an offboarding/onboarding process.
 
