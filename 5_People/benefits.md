@@ -111,9 +111,7 @@ Please ensure however, that your department and associated work will not suffer 
 
 If the unpaid vacation exceeds six consecutive months, there should be an offboarding/onboarding process.
 
-If your unpaid vacation exceeds 12 months, you will also need to resign your position but will have priority when/if you come back. 
-
-The project team should be involved in the evaluation of unpaid vacation requests to prevent abuse.
+If your unpaid vacation exceeds 12 months, you will need to resign your position but will have priority when/if you come back. The project team should be involved in the evaluation of unpaid vacation requests to prevent abuse.
 
 ## Public Holidays
 
