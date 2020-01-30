@@ -105,10 +105,13 @@ Unused vacation hours in a calendar year can be carried over to the next year bu
 
 ### Unpaid Vacation
 
-If all your allocated vacation days have been taken you can take further vacation days, but they will be unpaid.
+If you've used up all your allocated vacation days, you can take more vacation days but they will be unpaid.
 
-Please ensure however, that your department and associated work will not suffer during your absence. Also, note that your quarterly profit share amount will be affected by the number of unpaid vacation days your take. See [Profit sharing](profit-sharing.md#present) for further details.
+Please ensure however, that your department and associated work will not suffer during your absence. Also, note that your quarterly profit share amount will be affected by the number of unpaid vacation days you take. See [Profit sharing](profit-sharing.md#present) for further details. On top of this, unpaid vacation will reduce your monthly and yearly [allowance](https://github.com/niteoweb/handbook/blob/master/5_People/benefits.md#allowance-budget). 
 
+If the unpaid vacation exceeds six consecutive months, there should be an offboarding/onboarding process.
+
+If your unpaid vacation exceeds 12 months, you will need to resign your position but will have priority when/if you come back. The project team should be involved in the evaluation of unpaid vacation requests to prevent abuse.
 
 ## Public Holidays
 
