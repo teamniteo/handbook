@@ -101,7 +101,7 @@ To book vacation time off, add an entry to the [Planned Absences](https://github
 
 ### Unused Vacation
 
-Unused vacation hours in a calendar year can be carried over to the next year but must be used by the 1st of July otherwise you will forfeit them.
+Unused vacation hours in a calendar year can be carried over to the next year but must be used by the 1st of July. Please make sure to take enough time off to spend your vacation hours before this deadline, we hate taking them away from you!
 
 ### Unpaid Vacation
 
