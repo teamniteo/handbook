@@ -18,9 +18,8 @@ Sprint meetings replace the daily standup on these days:
    * followed immediately by separate plannings for Woocart, Easy Blog Networks and Kafkai, in their own Zoom rooms
    * followed by [Developers Session](#developers-session)
  * The **Tuesday**, two weeks later, marks the end of the sprint with a sprint retrospective.
-   * 10:00 CE(S)T for WooCart
-   * followed immediately by retrospective for Easy Blog Networks then Kafkai
-   * 12:00 CE(S)T for Niteo
+   * 10:00 CE(S)T for Niteo
+   * followed immediately by retrospective for WooCart, Easy Blog Networks then Kafkai
 
 The last Monday morning of the sprint everyone should open up the Scrum board and ask themselves: "How can I help close whatever is still opened?". Repeat the same after lunch and on Tuesday morning.
 
