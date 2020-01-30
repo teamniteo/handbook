@@ -5,9 +5,9 @@
 
 * Every **Monday and Thursday** morning we hold a daily standup meeting:
    * 10:00 CE(S)T for the whole company in the Niteo Zoom room
-   * followed immediately by separate standups for Easy Blog Networks/Kafkai and WooCart, in their own Zoom rooms
+   * followed immediately by separate standups for WooCart, Easy Blog Networks and Kafkai, in their own Zoom rooms
 * Every **Tuesday and Wednesday** morning we only have project standup meetings:
-   * 10:00 CE(S)T separate standups for Easy Blog Networks/Kafkai and WooCart, in their own Zoom rooms
+   * 10:00 CE(S)T separate standups for WooCart, Easy Blog Networks and Kafkai, in their own Zoom rooms
 * No standups on **Fridays**. This way Niteans can either be more productive (focus on their Stories) or take a day off (see [Vacation policy](https://github.com/niteoweb/handbook/blob/master/5_People/benefits.md#vacation)). Same as any other vacation off, make sure that your backup Nitean is available to handle any potential issues.
 * Every weekday Niteans should check their [GitHub notifications](https://github.com/notifications) so that they don't miss things that involve them.
 
@@ -15,12 +15,11 @@ Sprint meetings replace the daily standup on these days:
 
  * A **Wednesday** is the start of a sprint with sprint planning.
    * 10:00 CE(S)T for the whole company in the Niteo Zoom room
-   * followed immediately by separate plannings for Easy Blog Networks and WooCart, in their own Zoom rooms
+   * followed immediately by separate plannings for Woocart, Easy Blog Networks and Kafkai, in their own Zoom rooms
    * followed by [Developers Session](#developers-session)
  * The **Tuesday**, two weeks later, marks the end of the sprint with a sprint retrospective.
-   * 10:00 CE(S)T for EBN
-   * followed immediately by retrospective for WooCart
-   * 11:30 CE(S)T for Niteo
+   * 10:00 CE(S)T for Niteo
+   * followed immediately by retrospective for WooCart, Easy Blog Networks then Kafkai
 
 The last Monday morning of the sprint everyone should open up the Scrum board and ask themselves: "How can I help close whatever is still opened?". Repeat the same after lunch and on Tuesday morning.
 
