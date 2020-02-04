@@ -104,3 +104,32 @@ Resilio is a secure BitTorrent-based Dropbox-like service for teams.
 * Up to 143 characters for filenames: We use Synology NAS devices to act as always-online peers. The data on these devices is stored on encrypted volumes. These volumes have a limit of up to 143 characters filenames.
 * No sharing files with anyone that does not have Resilio installed.
 * Syncing speeds to people outside of Europe is not great, since the vast majority of peers (including always online peers Somnus and Morpheus) are located in Europe.
+
+## Internal Stack Overflow
+We use **Stack Overflow for Teams** for knowledge management. It can be used for technical inquiries as well as questions related to the company or projects.
+
+### Usage:
+#### Search:
+* It's always a good idea to search for the questions you have in the [Internal Stack Overflow](https://stackoverflow.com/c/niteo/questions) before posting it on Slack or GitHub to avoid wasting other Niteans' time. 
+
+* To search for a topic or a question you can either visit our [Internal Stack Overflow](https://stackoverflow.com/c/niteo/questions) or search from Slack: `/stack search <keywords>`
+
+Example:
+`/stack search good resources to learn nix` will give results of all the relevent questions.
+
+#### Post a Question
+Before posting a question:
+  * Check if a similar question has already been asked.
+  * Make sure that the question is relevant to the company.
+
+To post a question you can either visit the [Internal Stack Overflow](https://stackoverflow.com/c/niteo/questions/ask) or ask the Stack Overflow bot in Slack to make a draft of the question.
+
+To make a draft of the question in Slack, click the `actions` button on the message you want to post and choose `Ask on Teams`.
+
+> Note: Make sure to apply relevant tags to the question to improve searchability.
+
+#### Answering a question
+While answering a question:
+  * Be specific and accurate. To give more information, provide a link to the source.
+
+You can answer the questions by visiting [Internal Stack Overflow](https://stackoverflow.com/c/niteo/questions)
