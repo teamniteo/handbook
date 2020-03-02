@@ -50,13 +50,13 @@ For example, John attends a 5-day IRL in Istanbul:
     * IRL venue and accommodation is covered by Niteo.
     * John spends extra €100 on snacks and a massage at the airport.
     * John gets his salary in EUR.
-    * John's monthly Allowance is 125 EUR.
+    * John's monthly Allowance is 130 EUR.
 
     The conference bonus is calculated like so (with a day of travel each way):
 
-    * €1050 (7 * €150/day)
+    * €1085 (7 * €155/day)
 
-Therefore John charges the company €700 (€600 + €100) in spent Allowance. Before the trip, John's allowance budget was €1000, so after the trip, it is now €1350 (€1000 + €1050 - €700).
+Therefore John charges the company €700 (€600 + €100) in spent Allowance. Before the trip, John's allowance budget was €1000, so after the trip, it is now €1385 (€1000 + €1085 - €700).
 
 
 Another example: Two months later, John goes to a three-day conference in Barcelona:
@@ -66,13 +66,13 @@ Another example: Two months later, John goes to a three-day conference in Barcel
     * Hotel and food are €600.
     * John spends extra €300 on niceties that make his trip more enjoyable.
     * John gets his salary in EUR.
-    * John's monthly Allowance is 125 EUR.
+    * John's monthly Allowance is 130 EUR.
 
     The conference bonus is calculated like so (with a day of travel each way):
 
-    * €750 (5 * €150/day)
+    * €775 (5 * €155/day)
 
-    Therefore John charges the company €1900 (€500 + €500 + €600 + €300) in spent Allowance. Before the trip, John's allowance budget was €1600 (€1350 + 2x€125), so after the trip, it is now €450 (€1600 + €750 - €1900). The trip was expensive, but it sure was nice!
+    Therefore John charges the company €1900 (€500 + €500 + €600 + €300) in spent Allowance. Before the trip, John's allowance budget was €1645 (€1385 + 2x€130), so after the trip, it is now €475 (€1600 + €775 - €1900). The trip was expensive, but it sure was nice!
 
 
 ### Extending Your Trip With Vacation Days
