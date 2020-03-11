@@ -61,6 +61,7 @@ As an attendee, ask yourself:
 As a curator:
 
 - Announce in #development Zoom session to join into
+- Prepare joke or something funny to share
 - As a curator, meet and greet everyone, especially first-time joiners.
 - Announce who is having the Lightning talk if one was prepared.
 - If you hear crickets, start rolling the ball with a question, an anecdote or a funny story.
