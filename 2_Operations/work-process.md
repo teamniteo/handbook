@@ -61,7 +61,7 @@ As an attendee, ask yourself:
 As a curator:
 
 - Announce in #development Zoom session to join into
-- Prepare joke or something funny to share
+- Prepare a joke or something funny to share.
 - As a curator, meet and greet everyone, especially first-time joiners.
 - Announce who is having the Lightning talk if one was prepared.
 - If you hear crickets, start rolling the ball with a question, an anecdote or a funny story.
@@ -81,4 +81,3 @@ When a User Story or Pull Request is getting close to being completed but there 
 Big cleanups (of code, documentation, or anything else) happen rarely. They are hard to organize, and to motivate for. Instead of doing big cleanups every few months (years?) when pain levels are high enough, we prefer to do constant tiny improvements with an approach called [Continual Improvement](https://en.wikipedia.org/wiki/Continual_improvement_process).
 
 For Niteo, this means that every Pull Request (except Priority Lane issues) should include at least one minor cleanup commit alongside the main PR commit. It does not need to be related to the main commit, it can be improvements for anything in the repository, however trivial. This can include code and documentation updates, typo fixes, or removal of something that no longer makes sense.
-
