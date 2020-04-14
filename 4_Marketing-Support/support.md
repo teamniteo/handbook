@@ -1,6 +1,6 @@
 # Handling Support Requests
 
-Email support is managed by [Help Scout](https://www.helpscout.com/), a customer messaging platform that supports multiple channels. Support requests are sent via our contact forms, directly to support email address, in-app webhooks, social media pages (Facebook and Twitter), and through Help Scout Beacons (live chat).
+Email support is managed by [Help Scout](https://www.helpscout.com/), a customer messaging platform that supports multiple channels. Support requests are sent via our contact forms, directly to support email address, in-app webhooks, and through Help Scout Beacons (live chat).
 
 Read everything we have on our project websites (don’t forget the footer links), project's support folder, project's blog, and help center – multiple times. Most questions visitors and users ask are answered on these pages.
 
