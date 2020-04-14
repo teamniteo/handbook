@@ -1,8 +1,8 @@
 # Handling Support Requests
 
-Email support is managed by [Intercom](https://app.intercom.io), a customer messaging platform that supports multiple channels. Support requests are sent via our contact forms, directly to support email address, social media pages (Facebook and Twitter), and through Intercom's Messenger (live chat).
+Email support is managed by [Help Scout](https://www.helpscout.com/), a customer messaging platform that supports multiple channels. Support requests are sent via our contact forms, directly to support email address, in-app webhooks, social media pages (Facebook and Twitter), and through Help Scout Beacons (live chat).
 
-Read everything we have on our project websites (don’t forget the footer links), project's support folder, project's blog and help center – multiple times. Most questions visitors and users ask are answered on these pages.
+Read everything we have on our project websites (don’t forget the footer links), project's support folder, project's blog, and help center – multiple times. Most questions visitors and users ask are answered on these pages.
 
 ## General Instructions
 
@@ -42,11 +42,11 @@ Support related issues and topics are discussed on the product's support channel
 
 ## Live Chat Support
 
-Intercom's Messenger app is available on our salespages. This makes it easier for customers to contact us for issues, requests or sales questions.
+Help Scout Beacons are added on our sales pages and in-app. This makes it easier for customers to contact us for issues, requests or sales questions. Since we're supporting multiple projects, make sure to toggle the custom availability by mailbox on first log in.
 
-With Intercom, everything is in one dashboard - live chat and support emails. There's no need to switch pages so you can treat live chat conversations as another ticket to resolve. 
+There's a special tab that shows all incoming live chat requests. Until someone replies to a live chat, it will remain unassigned. When the user ends the conversation, the chat is automatically moved to the Closed folder. Missed live chat requests are converted to another support email request.
 
-We have Operator Bots enabled so the customers are always referred to relevant help articles first.
+We have enabled help articles to be read, searched, and rated in Beacon so users can do a self-help first.
 
 **Important:** Always have your head with you when doing live chat support. It's a great venue to steal information or to exploit someone's account. Read [this article](https://medium.com/@espringe/amazon-s-customer-service-backdoor-be375b3428c4#.gspnzg3id). Again and again.
 
@@ -59,21 +59,21 @@ Sample scenario: the user wants you to change their login email.
 
 There are other scenarios but the general idea is that don't give anything to a user unless properly verified. One verification process is asking them to log in to their account then checking the logs for the login event.
 
-## Using Intercom
+## Using Help Scout
 
-### Canned Replies
+### Saved Replies
 
-Pre-prepared replies to most common questions are available on the Intercom user interface. You can use them and edit them as necessary. 
+Pre-prepared replies to most common questions are available on the Help Scout user interface. You can use them and quickly add a new one by clicking on the text icon inside the reply box.
 
-If you have the need to create a new canned reply, you can do so by clicking on the ribbon icon found in the bottom part of the reply box, and selecting `Create`. Managing canned replies can be done by clicking on the `Manage` option.
+Managing existing saved replies and creating new ones can be done by clicking on the gear icon found on the Mailbox sidebar, go to `Saved Replies` and then select `New Saved Replies`. 
 
 ### Submit Statuses
 
-Regular replies are always ‘Send and close’. If there is still something you need to do after replying (like reporting a bug and getting back to the user with a solution), click on the dropdown menu and send with the appropriate snooze time.
+Regular replies are always ‘Send Reply’. This will automatically close the ticket and shows the next active. If there is still something you need to do (like reporting a bug and getting back to the user with a solution), the dropdown menu gives you more options like staying on the same page or going back to the root mailbox folder.
 
-### Spam Emails
+### Managing Conversations
 
-We handle spam by blocking the address. Just click on the hamburger menu button found at the top right corner beside the customer's name.
+Help Scout has all the necessary tools to manage inbox folders like merging tickets, deleting duplicates, easy email forwarding, and unfollowing threads. All these are hidden under the menu button inside the message box.
 
 ### Email Close
 
