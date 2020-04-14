@@ -42,7 +42,7 @@ Support related issues and topics are discussed on the product's support channel
 
 ## Live Chat Support
 
-Help Scout Beacons are added on our sales pages and in-app. This makes it easier for customers to contact us for issues, requests or sales questions. Since we're supporting multiple projects, make sure to toggle the custom availability by mailbox on first log in.
+Help Scout Beacons are added on our sales pages and in-app. This makes it easier for customers to contact us for issues, requests or sales questions. Since we're supporting multiple projects, make sure to toggle your custom availability by mailbox on first login in the top right menu.
 
 There's a special tab that shows all incoming live chat requests. Until someone replies to a live chat, it will remain unassigned. When the user ends the conversation, the chat is automatically moved to the Closed folder. Missed live chat requests are converted to another support email request.
 
