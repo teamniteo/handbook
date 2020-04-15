@@ -87,4 +87,4 @@ If a question is too difficult to answer, re-assign it to someone qualified to t
 
 Help Centers are where the instructions and common questions by customers are answered. Every product has its own Help Center which should be updated regularly - add new information and remove outdated ones if any.
 
-You can search and insert relevant help articles without leaving the Intercom dashboard. On the reply box, just click on the note icon and enter a keyword, then add it to your reply.
+You can search and insert relevant help articles without leaving the Help Scout dashboard. On the reply box, type a related keyword on the Docs search bar and it will return all relevant articles. You have the option to view the doc, insert it as link to your reply or edit the article.
