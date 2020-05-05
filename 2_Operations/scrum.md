@@ -19,9 +19,9 @@ Support tasks take priority over sprint for support and DevOps team.
 
 For each sprint, a new milestone is created with the name `Sprint #X` where `X` is the number of the sprint (e.g. `Sprint #4`). On Scrum sprint planning each user story that is added to the planning sprint must be also added to the new milestone. With this ZenHub will automatically generate a burndown chart and we avoid having an additional label (`Sprint #X` label).
 
-## Daily Standup
+## Standup Meetings
 
-Daily standup meetings are short meetings every day where we go over the work done on the previous day and to be done the same/next day. It is also where we discuss any blockers and where project managers can keep a tab on workload. The order for Niteans on standups is alphabetically. So the person whose first name starts with `A` goes first. Every project has its own standup time.
+Standup meetings are short meetings every Monday and Thursday where we go over the work done and what still needs to be done. It is also where we discuss any blockers and where project managers can keep a tab on workload. Company discussions, announcements and updates are also done on these meetings. The order for Niteans on standups is alphabetical on Nitean's first name. Every project has its own standup time.
 
 Turn on your camera during the standup. Try to refrain from doing other things (browsing, doing support, etc.) during the meeting -- it rarely takes more than 15 minutes and we should all pay attention to everyone else for this period.
 
