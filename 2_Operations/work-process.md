@@ -9,7 +9,7 @@
 * Every other **Tuesday and Wednesday** morning we have [Scrum meetings](https://github.com/niteoweb/handbook/blob/master/2_Operations/scrum.md):
    * Retrospective on Tuesday, Planning on Wednesday
    * 10:00 CE(S)T for the whole company in the Niteo Zoom room
-   * followed immediately by separate standups for WooCart, Easy Blog Networks and Kafkai, in their own Zoom rooms
+   * followed immediately by separate meetings for WooCart, Easy Blog Networks and Kafkai, in their own Zoom rooms
 
 Niteans are encouraged to take Fridays off for a long weekend. Same as any other vacation off, make sure that your backup Nitean is available to handle any potential issues (see [Vacation policy](https://github.com/niteoweb/handbook/blob/master/5_People/benefits.md#vacation)).
 
