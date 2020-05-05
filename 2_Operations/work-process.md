@@ -9,9 +9,11 @@
 
 We're straying away from daily standups since there is visible increase in prodcutivity when we started implementing no standup days. Regular Zoom meetings are still happening amongst Niteans when and where needed. 
 
-Niteans are also encouraged to take Fridays off for a long weekened. Same as any other vacation off, make sure that your backup Nitean is available to handle any potential issues (see [Vacation policy](https://github.com/niteoweb/handbook/blob/master/5_People/benefits.md#vacation)).
+Niteans are also encouraged to take Fridays off for a long weekend. Same as any other vacation off, make sure that your backup Nitean is available to handle any potential issues (see [Vacation policy](https://github.com/niteoweb/handbook/blob/master/5_People/benefits.md#vacation)).
 
 * Every weekday Niteans should check their [GitHub notifications](https://github.com/notifications) so that they don't miss things that involve them.
+
+* We have bi-weekly Sprint Planning and Restrospective. See our [Scrum process](https://github.com/niteoweb/handbook/blob/master/2_Operations/scrum.md).
 
 Sprint meetings replace the daily standup on these days:
 
