@@ -21,7 +21,7 @@ For each sprint, a new milestone is created with the name `Sprint #X` where `X` 
 
 ## Standup Meetings
 
-Standup meetings are short meetings every other Mondays and Thursday where we go over the work done and what still needs to be done. It is also where we discuss any blockers and where project managers can keep a tab on workload. Company discussions, announcements and updates are also done on these meetings. The order for Niteans on standups is alphabetically. So the person whose first name starts with `A` goes first. Every project has its own standup time.
+Standup meetings are short meetings every Monday and Thursday where we go over the work done and what still needs to be done. It is also where we discuss any blockers and where project managers can keep a tab on workload. Company discussions, announcements and updates are also done on these meetings. The order for Niteans on standups is alphabetical on Nitean's first name. Every project has its own standup time.
 
 Turn on your camera during the standup. Try to refrain from doing other things (browsing, doing support, etc.) during the meeting -- it rarely takes more than 15 minutes and we should all pay attention to everyone else for this period.
 
