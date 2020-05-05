@@ -7,7 +7,7 @@
    * 10:00 CE(S)T for the whole company in the Niteo Zoom room
    * followed immediately by separate standups for WooCart, Easy Blog Networks and Kafkai, in their own Zoom rooms
 
-We're straying away from daily standups since there is visible increase in prodcutivity when we started implementing no standup days. Regular Zoom meetings are still happening amongst Niteans when and where needed. 
+We're straying away from daily standups since there is visible increase in productivity when we started implementing no-standup days. Regular Zoom meetings are still happening amongst Niteans when and where needed. 
 
 Niteans are also encouraged to take Fridays off for a long weekend. Same as any other vacation off, make sure that your backup Nitean is available to handle any potential issues (see [Vacation policy](https://github.com/niteoweb/handbook/blob/master/5_People/benefits.md#vacation)).
 
