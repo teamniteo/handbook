@@ -6,7 +6,7 @@ This document describes how we manage the distribution of the company's profit, 
 
 Profit is distributed at the end of each quarter, based on the performance of the company. We believe in donating to good causes and reserve 10% of this profit with the hope of making a big impact upon them. The remaining percentage of the profit is split three-ways (30% per part) based on how we perceive time: the past, the present and the future.
 
-The profit will only be paid-out if cash reserves are high enough to cover 12 months of salaries and regular expenses. Just in case we lose our primary revenue stream and need to rely on the reserves.
+The profit is paid-out if cash reserves are high enough to cover 12 months of expenses. One month of expenses is a 3-month average of salaries times 1.3 to include other expenses while keeping it simple.
 
 
 ### Past
