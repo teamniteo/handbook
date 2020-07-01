@@ -36,7 +36,7 @@ Base salaries get calculated once a year, in January, during our [bi-annual IRL]
 
 Location factor takes into account the living costs. We determine them by comparing Numbeo's [Cost of Living Plus Rent Index value between United States and the Nitean's country](https://www.numbeo.com/cost-of-living/compare_countries_result.jsp?country1=United+States&country2=Germany) and calculating the *Cost of Living*. Example: if Country A is 30% cheaper based on Cost of Living Plus Rent Index, then this country's Cost of Living is 0.7.
 
-For the purposes of the Salary System, we take your official permanent residence (address stated in your passport), and do not change it for seasonal relocations or longer travel. 
+For the purposes of the Salary System, we take your official permanent residence, and do not change it for seasonal relocations or longer travel. 
 
 #### Affordability Ratio
 
