@@ -16,7 +16,7 @@ In addition there are ad-hoc in-person meetups that happen about once or twice a
 
 We work in 2-week Scrum Sprints described in detail in the [work process](work-process.md) document.
 
-Project and task management is currently done with [GitHub and ZenHub](/2_Operations/apps.md). Support handles tickets through Intercom.
+Project and task management is currently done with [GitHub and ZenHub](/2_Operations/apps.md). Support handles tickets through Help Scout.
 
 We track cash flow with [Xero](https://www.xero.com/). Finance reports are published to [niteoweb/finances](https://github.com/niteoweb/finances) on a monthly basis and are viewable to all full-time team members.
 
