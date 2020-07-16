@@ -6,9 +6,12 @@ We believe every Nitean should take part in the success of the company. If the c
 
 ## Productivity Allowance
 
-The Productivity Allowance is a monthly budget that can be used to pay for any expenses that you believe can improve your work. Some examples of such expenses (but definitely not a finite list): attending a conference, a training or a similar event, an online course, a new phone, computer or monitor, a good microphone and camera for meetings, a good work chair or a standing desk, an Internet connection with a static IP at a reputable provider, a membership of a local hackerspace, a gadget such as a Kindle or a smartwatch, a Raspberry PI to play around with and learn new things, etc. You can also use your Allowance for a gym membership or similar sports activity.
+The Productivity Allowance is a monthly budget that, coupled with common sense, can be used to pay for any expenses that you believe can improve your mental health, physical health, or productivity. It can not be used to buy things that could potentially be dangerous to you. Also, make sure to leave enough Allowance to be able to participate in conferences or replace equipment if anything breaks.
 
-In other words, would something boost your productivity and creativity? Good, feel free to buy it with your Allowance, no questions asked.
+Here's a real-world example list of what Niteans have spent their Allowances on:
+transportation, food/drinks, and accommodation related to conferences or IRL meetups, HDD disks, smartphones, phone bills, technical courses, english courses, meetups, books, apps, smartwatches, air diffusers, laptops, computer components, mice and keyboards, varius cables and chargers, stationery, suitcases, portable SSD's, powerbanks, headphones, Raspberry Pi's, monitors, donations, domain names, internet connections, chairs, desks, coworking spaces, routers, yoga mats, board games, gym memberships, iPads, Apple Pencils, Yubikeys, swimming pool tickets, blenders, physiotherapy, 3D printers, scanners, and running shoes.
+
+In other words, would something boost your productivity, creativity, or help improve your overall health? Good, feel free to buy it with your Allowance, no questions asked.
 
 ### Allowance Budget
 
