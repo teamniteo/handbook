@@ -74,7 +74,7 @@ To not influence anyone else's voting, we hide these estimate values in comments
 <details>
   <summary>Story Point estimate</summary>
   SP:
-</details><br>
+</details>
 ```
 
 *This snippet can be added to GitHub [saved replies](https://github.com/settings/replies) for reuse.*
