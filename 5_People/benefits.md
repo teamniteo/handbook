@@ -11,6 +11,8 @@ The Productivity Allowance is a monthly budget that, coupled with common sense, 
 Here's a real-world example list of what Niteans have spent their Allowances on:
 transportation, food/drinks, and accommodation related to conferences or IRL meetups, HDD disks, smartphones, phone bills, technical courses, English courses, meetups, books, apps, smartwatches, air diffusers, laptops, computer components, mice and keyboards, various cables and chargers, stationery, suitcases, portable SSD's, power banks, headphones, Raspberry Pi's, monitors, donations, domain names, internet connections, chairs, desks, coworking spaces, routers, yoga mats, board games, gym memberships, iPads, Apple Pencils, Yubikeys, swimming pool tickets, blenders, physiotherapy, 3D printers, scanners, and running shoes.
 
+And here's a real-world example list of what Niteans were denied spending their Allowances on: moped, e-scooter.
+
 In other words, would something boost your productivity, creativity, or help improve your overall health? Good, feel free to buy it with your Allowance, no questions asked.
 
 ### Allowance Budget
