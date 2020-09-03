@@ -52,46 +52,16 @@ Signal is to be used primarily for sending confidential information that must ne
 
 ## VPN
 
-We use NordVPN to securely tunnel Internet traffic when we are not on our home network.
+We use NordVPN Teams to securely tunnel Internet traffic when we are not on our home network.
 
 #### Usage
 
-1. Go to https://nordvpn.com and install their app. It works both on desktop and mobile devices.
-1. Login with your @niteo.co NordVPN credentials.
-1. Under Dedicated IP section in the dropdown menu click ..., open Servers tab and click "heart" icon for our German Dedicated Server.
-1. Do the same for our US Dedicated Server.
-1. Connect to one or the other to get access to our protected services.
-1. For private use like torrenting, make sure you are using one of the shared servers that NordVPN provides, and not our two dedicated servers.
+1. Go to https://nordvpnteams.com/download/ and install their app. It works on Windows/macOS and Android/iOS.
+1. See your invitation email for the link to activate your account and get your login credentials.
+1. Open the app and connect to `niteo` under `Organization gateways`.
 
-If you're connected to the VPN, you put your computer to sleep and then relocate (i.e. you connect to a different WiFi), you will need to reconnect to the same VPN server for the internet to work.
-
-#### MacOS specifics
-
-The NordVPN MacOS app that comes from the App Store does not support connecting to Dedicated Servers. You need to use their "OpenVPN" app.
-
-#### iOS specifics
-
-The NordVPN iOS app does not support connecting to Dedicated Servers so you won't have access to our protected services on your phone.
-
-However, since NordVPN uses OpenVPN under the hood, there is a neat workaround:
-
-1. Follow https://support.nordvpn.com/Connectivity/iOS/1086536932/Manual-OpenVPN-connection-setup-on-iPad-iPhone.htm to install the OpenVPN app.
-1. Open https://nordvpn.com/ovpn/ with your phone, scroll down to our German server and click Download UDP.
-1. Do the same for TCP.
-1. Now do both for our US server.
-1. Profit!
-
-#### Linux CLI
-
-1. Follow https://nordvpn.com/tutorials/linux/application/
-1. ```nordvpn c de545``` or ```nordvpn c Germany/Dedicated_IP``` for server in Germany.
-1. ```nordvpn c us2928``` or ```nordvpn c United_States/Dedicated_IP``` for server in US.
-
-### Linux with Network Manager (Gnome, KDE)
-
-1. Follow https://nordvpn.com/tutorials/linux/openvpn/
-1. Import UDP or TCP profile **de545** for Germany.
-1. Import UDP or TCP profile **us2928** for United States.
+- For private use like torrenting, make sure you are using one of the shared servers that NordVPN provides, and not our organization gateway.
+- If you're connected to the VPN, put your computer to sleep, and then relocate (i.e. you connect to a different WiFi), you will need to reconnect to the same VPN server for the internet to work.
 
 ## Resilio
 
