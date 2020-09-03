@@ -56,12 +56,23 @@ We use NordVPN Teams to securely tunnel Internet traffic when we are not on our 
 
 #### Usage
 
-1. Go to https://nordvpnteams.com/download/ and install their app. It works on Windows/macOS and Android/iOS.
+1. Go to https://nordvpnteams.com/download/ and install their app. It works on both desktop and mobile.
 1. See your invitation email for the link to activate your account and get your login credentials.
 1. Open the app and connect to `niteo` under `Organization gateways`.
-
 - For private use like torrenting, make sure you are using one of the shared servers that NordVPN provides, and not our organization gateway.
 - If you're connected to the VPN, put your computer to sleep, and then relocate (i.e. you connect to a different WiFi), you will need to reconnect to the same VPN server for the internet to work.
+
+#### Linux (OpenVPN)
+For linux you have to ask one of the [partners](https://github.com/orgs/niteoweb/teams/partners) to get the required files for you.
+
+Partner:
+  - As an admin go to https://cp.nordvpnteams.com/downloads.
+  - Under Manual configuration, select the team member, the correct gateway, and download the `OpenVPN UDP config`.
+  - Copy the username and password.
+
+Nitean:
+  - For Debian based system go to Settings > Network and select `Import a saved VPN configuration` under VPN, point to the `.ovpn` file, and fill out the username and password.
+  - For other systems you can refer to the distribution manual for instructions.
 
 ## Resilio
 
