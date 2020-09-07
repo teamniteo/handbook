@@ -4,11 +4,11 @@
 ## Schedule
 
 * Every **Monday and Thursday** morning we hold a standup meeting:
-   * 10:00 CE(S)T for the whole company in the Niteo Zoom room
+   * 12:00 UTC for the whole company in the Niteo Zoom room
    * followed immediately by separate standups for WooCart, Easy Blog Networks and Kafkai, in their own Zoom rooms
 * Every other **Tuesday and Wednesday** morning we have [Scrum meetings](https://github.com/niteoweb/handbook/blob/master/2_Operations/scrum.md):
    * Retrospective on Tuesday, Planning on Wednesday
-   * 10:00 CE(S)T for the whole company in the Niteo Zoom room
+   * 12:00 UTC for the whole company in the Niteo Zoom room
    * followed immediately by separate meetings for WooCart, Easy Blog Networks and Kafkai, in their own Zoom rooms
 
 Niteans are encouraged to take Fridays off for a long weekend. Same as any other vacation off, make sure that your backup Nitean is available to handle any potential issues (see [Vacation policy](https://github.com/niteoweb/handbook/blob/master/5_People/benefits.md#vacation)).
@@ -18,13 +18,13 @@ Niteans are encouraged to take Fridays off for a long weekend. Same as any other
 Sprint meetings replace the daily standup on these days:
 
  * A **Wednesday** is the start of a sprint with sprint planning.
-   * 10:00 CE(S)T for the whole company in the Niteo Zoom room
+   * 12:00 UTC for the whole company in the Niteo Zoom room
    * followed immediately by separate plannings for Woocart, Easy Blog Networks and Kafkai, in their own Zoom rooms
-   * followed by [Developers Session](#developers-session)
  * The **Tuesday**, two weeks later, marks the end of the sprint with a sprint retrospective.
-   * 10:00 CE(S)T for Niteo
+   * 12:00 UTC for Niteo
    * followed immediately by retrospective for WooCart, Easy Blog Networks then Kafkai
-
+ * The **Thursday** after sprint planning, we have the [Developers Session](#developers-session) immediately after standups.
+ 
 The last Monday morning of the sprint everyone should open up the Scrum board and ask themselves: "How can I help close whatever is still opened?". Repeat the same after lunch and on Tuesday morning.
 
 For each new sprint, the Scrum master will create a sprint release that is used to store the user story screencast demos. The template for this release is copied from [RELEASE_TEMPLATE.md](https://github.com/niteoweb/operations/raw/master/.github/RELEASE_TEMPLATE.md) in the operations repo.
