@@ -53,3 +53,4 @@ These are the books that strongly influenced our company and are therefore highl
 * [Tools of Titans, Tim Ferris](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788)
 * [Tribe of Mentors, Tim Ferris](https://www.amazon.de/Tribe-Mentors-Short-Advice-World/dp/1328994961)
 * [Nonviolent Communication: A Language of Life, Marshall B. Rosenberg](https://www.amazon.com/Nonviolent-Communication-Language-Marshall-Rosenberg/dp/1892005034)
+* [Introduction to Critical Thinking, YouTube Series](https://www.youtube.com/playlist?list=PLtKNX4SfKpzX_bhh4LOEWEGy3pkLmFDmk)
