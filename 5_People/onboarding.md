@@ -42,13 +42,13 @@ As a remote-first company, Niteans are from all around the globe and are hired a
 
 ### Payments outside IBAN area
 
-For Niteans outside of IBAN area, the bank transfer might be a suboptimal solution due to high bank fees. For these, we use TransferWise.
+For Niteans outside of IBAN area, the bank transfer might be a suboptimal solution due to high bank fees. For these, we use [Wise](https://wise.com/).
 
 If you would like to receive money with this method, please make sure your invoices include all of the required recipient and bank information. Also, add a note to the invoice:
 
-> Please transfer the payment using TransferWise.
+> Please transfer the payment using Wise.
 
-We can only send local currency with this method. Your salary will be recalculated into local currency automatically by TransferWise.
+We can only send local currency with this method. Your salary will be recalculated into local currency automatically by Wise.
 
 **Recipient Information**
 - Full Name
