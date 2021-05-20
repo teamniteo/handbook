@@ -45,6 +45,7 @@ These are the books that strongly influenced our company and are therefore highl
 
 ## Personal Growth
 
+* [Basics of personal finances for Niteans](https://github.com/niteoweb/handbook/blob/5_People/personal-finances.md)
 * [Barking Up the Wrong Tree, Eric Barker](https://www.amazon.com/Barking-Wrong-Tree-Surprising-Everything/dp/0062416049)
 * [Creativity, Inc., Ed Catmull and Amy Wallace](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012)
 * [Predictably Irrational, Dan Ariely](https://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248)
