@@ -53,7 +53,7 @@ Talk to a local accountant as different jurisdictions have different rules for d
 
 ## Investing
 
-Investing is a vast topic, and financial advisers will try to persuade you that you need them to navigate the market. But for most people investing can be simple, and advisers can do more harm than good. 
+Investing is a vast topic, and financial advisors will try to persuade you that you need them to navigate the market. But for most people investing can be simple, and advisors can do more harm than good. 
 
 ### Basics of investing
 
@@ -89,7 +89,7 @@ We'll be buying whole-market index funds for stocks and bonds.
 
 ### Funds and portfolio split
 
-The lowest cost funds by a large and reputable fund. Niteo, Dejan, and Nejc all invest in [Vanguard's](https://en.wikipedia.org/wiki/The_Vanguard_Group) funds:
+We're looking to invest in the lowest cost funds by a large and reputable fund. Niteo, Dejan, and Nejc all invest in [Vanguard's](https://en.wikipedia.org/wiki/The_Vanguard_Group) funds:
 
 - VWRA for the global stock market 
 - BNDW for the global bond market
@@ -99,11 +99,9 @@ How should you split your portfolio between the two assets? The most popular spl
 
 ### How to invest and where to learn more
 
-There are many options for online brokerages but you'll want to stick with old-school as the nice-looking apps usually have caveats. Niteo, Dejan, and Nejc use Interactive Brokers, and even though they have a horrible interface, they are the recommended choice available in most countries.
+There are many options for online brokerages but you'll want to stick with old-school as the nice-looking apps usually have caveats. Niteo, Dejan, and Nejc use Interactive Brokers, and even though they have a terrible interface, they are the recommended choice available in most countries.
 
-Talk to an accountant or a financial adviser (who does not want to sell you a managed fund) about your options, especially taxes.
-
-If you have a house loan but want to invest, see [Ben Felix's video on the topic](https://www.youtube.com/watch?v=AKc01jo1qLw).
+Talk to an accountant or a financial advisor (who does not want to sell you a managed fund) about your options, especially taxes.
 
 If you'd like to learn more about investing, [Ben Felix's YouTube channel](https://www.youtube.com/channel/UCDXTQ8nWmx_EhZ2v-kp7QxA) is a great source.
 
@@ -114,4 +112,5 @@ If you'd like to learn more about investing, [Ben Felix's YouTube channel](https
 - For 30% of your portfolio, buy Vanguard's fund BNDW for the global bond market.
 - Invest whenever your savings hit $5000.
 - Buy and hold until retirement.
+- If you have a house loan but want to invest, see [Ben Felix's video on the topic](https://www.youtube.com/watch?v=AKc01jo1qLw).
 
