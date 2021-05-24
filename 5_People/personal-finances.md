@@ -76,7 +76,7 @@ There are two types of funds:
 
 As mentioned, data shows managed funds do not beat the market so our portfolio will only hold index funds.
 
-And there are two main types of assets we're interested in:
+There are two main types of assets we're interested in:
 
 - Stocks are shares of companies, be it Google and Microsoft, or a small $50M company in Japan. 
 - Bonds are loans with a fixed interest rate, given by governments, municipalities, or corporations for short- or long-term (months to decades).
