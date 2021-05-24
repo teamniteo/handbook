@@ -1,6 +1,6 @@
 # Personal Finances
 
-Some Niteans have asked about investing and personal finance management, so we've prepared this short document for everyone interested.
+Some Niteans have asked about investing and personal finance management, so we've prepared this short document for everyone interested. Don't consider this as financial advice but as an introduction into personal finances and investing.
 
 ## Basics
 
@@ -14,9 +14,9 @@ After you know your numbers, you can do the next steps.
 
 ### Emergency fund and loans
 
-Investing is risky, and there can be years where the return is negative. That is also the worst time to sell your investments. Therefore you should always keep a 6-month emergency fund.
+Investing is risky, and there can be years where the return is negative. If you invested at the top before the 2008 crisis, you lost 50% by the beginning of 2009 and needed at least four years to get back to zero. That is also the worst time to sell your investments. Therefore you should always keep a 6-month emergency fund.
 
-There is an easy 5-8% return per year for many people with zero risks. What is it? Paying off your (short-term) loans. Save money and pay for furniture, car, or any other large purchase in cash.
+There is an easy risk-free 5-8% return per year for many people. What is it? Paying off your (short-term) loans. Save money and pay for furniture, car, or any other large purchase in cash.
 
 
 ## Optimizing taxes
@@ -65,7 +65,7 @@ We're assuming that:
 
 When it comes to investing in stocks (company shares) and bonds (loans with fixed interest from governments and corporations), data has shown nobody can beat the market average long-term (decades). Therefore, your goal is to replicate the market as much as possible and at the lowest cost possible. Stock picking, while fun, is closer to the lottery than investing. You might get lucky, but more probably, you'll have less at the end than if you invested in the market. Therefore, we'll be investing in funds that own billions worth of stocks and bonds.
 
-What is the average yearly yield for long-term investing? [5.2%](https://rationalreminder.ca/podcast/146) which compounded doubles your money every 14 years. That does not sound like a lot but it is *after* inflation. In the same timeframe, inflation would decrease your purchasing power by 29% ([data from 2007-2021](https://smartasset.com/investing/inflation-calculator)).
+What is the historical average yearly yield for long-term investing? [5.2%](https://rationalreminder.ca/podcast/146) which compounded doubles your money every 14 years. That does not sound like a lot but it is *after* inflation. In the same timeframe, inflation would decrease your purchasing power by 29% ([data from 2007-2021](https://smartasset.com/investing/inflation-calculator)).
 
 ### How to build your portfolio
 
