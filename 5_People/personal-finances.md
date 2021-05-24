@@ -60,6 +60,7 @@ Investing is a vast topic, and financial advisors will try to persuade you that 
 We're assuming that:
 
 - You're investing for the long term (decades, not years, much less months).
+- You have at least $5000 to invest and plan to add regularly every year.
 - You don't need the money now or in a year (better yet: only after retirement). 
 - You have the discipline to keep to a strategy even when it looks like it's not working. This means not selling when there is a panic in a market.
 
