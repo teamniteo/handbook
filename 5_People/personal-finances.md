@@ -101,7 +101,7 @@ How should you split your portfolio between the two assets? The most popular spl
 
 There are many options for online brokerages but you'll want to stick with old-school as the nice-looking apps usually have caveats. Niteo, Dejan, and Nejc use Interactive Brokers, and even though they have a horrible interface, they are the recommended choice available in most countries.
 
-Talk to an accountant or a financial professional (who does not want to sell you a managed fund) about your options, especially taxes.
+Talk to an accountant or a financial adviser (who does not want to sell you a managed fund) about your options, especially taxes.
 
 If you have a house loan but want to invest, see [Ben Felix's video on the topic](https://www.youtube.com/watch?v=AKc01jo1qLw).
 
