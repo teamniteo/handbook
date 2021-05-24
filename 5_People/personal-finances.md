@@ -65,7 +65,7 @@ We're assuming that:
 
 When it comes to investing in stocks (company shares) and bonds (loans with fixed interest from governments and corporations), data has shown nobody can beat the market average long-term (decades). Therefore, your goal is to replicate the market as much as possible and at the lowest cost possible. Stock picking, while fun, is closer to the lottery than investing. You might get lucky, but more probably, you'll have less at the end than if you invested in the market. Therefore, we'll be investing in funds that own billions worth of stocks and bonds.
 
-What is the average yearly yield for long-term investing? <a href="https://rationalreminder.ca/podcast/146" target="_blank">5.2%</a>. It does not sound much but compounded it doubles your money every 14 years and that's after inflation which would in the same time frame decrease your purchasing power by X%.
+What is the average yearly yield for long-term investing? [5.2%](https://rationalreminder.ca/podcast/146) which compounded doubles your money every 14 years. That does not sound like a lot but it is *after* inflation. In the same timeframe, inflation would decrease your purchasing power by 29% ([data from 2007-2021](https://smartasset.com/investing/inflation-calculator)).
 
 ### How to build your portfolio
 
