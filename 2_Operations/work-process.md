@@ -4,11 +4,11 @@
 
 * Every **Monday and Thursday** morning we hold a standup meeting:
    * 12:00 UTC for the whole company in the Niteo Zoom room
-   * followed immediately by separate standups for Easy Blog Networks, Kafkai, and WooCart in their own Zoom rooms
+   * followed immediately by separate standups for Pareto, Kafkai, WooCart/StageWoo, and Easy Blog Networks in their own Zoom rooms
 * Every other **Tuesday and Wednesday** morning we have [Scrum meetings](https://github.com/niteoweb/handbook/blob/master/2_Operations/scrum.md):
    * Retrospective on Tuesday, Planning on Wednesday
    * 12:00 UTC for the whole company in the Niteo Zoom room
-   * followed immediately by separate meetings for Easy Blog Networks, Kafkai, and WooCart in their own Zoom rooms
+   * followed immediately by separate meetings for Pareto, Kafkai, WooCart/StageWoo, and Easy Blog Networks in their own Zoom rooms
 
 Niteans are encouraged to take Fridays off for a long weekend. Same as any other vacation off, make sure that your backup Nitean is available to handle any potential issues (see [Vacation policy](https://github.com/niteoweb/handbook/blob/master/5_People/benefits.md#vacation)).
 
@@ -18,10 +18,10 @@ Sprint meetings replace the daily standup on these days:
 
  * A **Wednesday** is the start of a sprint with sprint planning.
    * 12:00 UTC for the whole company in the Niteo Zoom room
-   * followed immediately by separate plannings for Easy Blog Networks, Kafkai, and WooCart in their own Zoom rooms
+   * followed immediately by separate plannings for Pareto, Kafkai, WooCart/StageWoo, and Easy Blog Networks in their own Zoom rooms
  * The **Tuesday**, two weeks later, marks the end of the sprint with a sprint retrospective.
    * 12:00 UTC for Niteo
-   * followed immediately by retrospective for Easy Blog Networks, Kafkai then WooCart
+   * followed immediately by retrospective for Pareto, Kafkai, WooCart/StageWoo, and Easy Blog Networks
  * The **Thursday** after sprint planning, we have the [Developers Session](#developers-session) immediately after standups.
  
 The last Monday morning of the sprint everyone should open up the Scrum board and ask themselves: "How can I help close whatever is still opened?". Repeat the same after lunch and on Tuesday morning.
