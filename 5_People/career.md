@@ -102,8 +102,9 @@ While many of us are good friends, we are still a business, not a family. Unlike
 
 * The person needs to know at least 1 month in advance that their position could be canceled in the near term.
 * The person needs to know that if we will be hiring for the same position again in the future, they will have priority over completely new people.
-* All Partners need to agree with cancellation.
+* All Partners need to agree with the cancellation.
 * When cancellation is agreed, the person should be notified immediately by the immediate supervisor (usually the one doing the onboarding or has the most interaction with). From this point onwards, the person is no longer required to work, but is encouraged to take their time to hand off to other people in Niteo anything they feel is valuable. After hand-off is finished, they are free to do whatever.
-* Every Nitean (except Trialists) is entitled to a severance package according to the following formula:
+* Every Nitean (except Trialists) is entitled to a severance package paid in monthly payouts according to the following formula:
   * up to one year: 1 month base salary,
-  * more than one year: 2 months base salary + 1 month for each additional year, up to max 12 months total.
+  * more than one year: 2 months base salary + 1 month for each additional year, capped at 6 months,
+  * base salary is capped at 80% of level 3 salary which is the same for parental and sick leave.
