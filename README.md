@@ -21,6 +21,7 @@ The structure of the Handbook mirrors our departments for simple organization. R
   * [Managing Docs](/2_Operations/managing-docs.md)
   * [Apps We Use](/2_Operations/apps.md)
   * [Security Policy](/2_Operations/security.md)
+  * [Personal Finances](5_People/personal-finances.md)
 
 ### Development and Design
 
