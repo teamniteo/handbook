@@ -17,7 +17,7 @@ Assets:
 
 Reserves in more risky or illiquid assets. The currency split is irrelevant because most of these assets are global investments. Up to 70% of all reserves can be in this pool.
 
-- real estate (20% of total) with [Niteo House](https://house.niteo.co) (EUR)
+- real estate (max 20% of total) with [Niteo House](https://house.niteo.co) (EUR)
 - stock ETFs (max 30% of total) with Vanguard VWRA (global stocks in USD)
 - private funds (max 30% of total) with Calm Company Fund, Ben Tossel's No-Code Fund, etc.
 - loans (max 10% of total)
