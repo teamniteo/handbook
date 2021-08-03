@@ -17,6 +17,7 @@ The structure of the Handbook mirrors our departments for simple organization. R
   * [How We Work](/2_Operations/how-we-work.md)
   * [Work Process](/2_Operations/work-process.md) and [Scrum](/2_Operations/scrum.md)
   * [Find Your Next Task](/2_Operations/next-task.md)
+  * [Investment Strategy](/2_Operations/investment-strategy.md)
 * Guides
   * [Managing Docs](/2_Operations/managing-docs.md)
   * [Apps We Use](/2_Operations/apps.md)
