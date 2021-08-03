@@ -26,6 +26,6 @@ Reserves in more risky or illiquid assets. The currency split is irrelevant beca
 
 ## Summary
 
-Keep in mind the above percentages are maximum for each asset class and are not supposed to be all maxed out (that's why the total comes out to 110%). For example: if we have maxed out real estate, stock ETFs and private funds, we're already over the recommended maximum for long-term pool.
+Keep in mind the above percentages are maximum for each asset class and are not supposed to be all maxed out (that's why the total comes out to 110%). For example: if we have maxed out real estate, stock ETFs and private funds, we're already over the recommended maximum for long-term pool, and need to refrain from buying more crypto.
 
 Refer to [Scrooge](https://scrooge.niteo.co) to see the current state of reserves.
