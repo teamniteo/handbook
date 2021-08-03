@@ -6,7 +6,7 @@ To not lose this considerable chunk of money to inflation, we invest it into app
 
 ## Short-Term Pool
 
-Reserves in safe and liquid assets. We try to keep the currency equally split between EUR and USD. Around 30% of total reserves.
+Reserves in safe and liquid assets. We try to keep the currency equally split between EUR and USD to not have all our eggs in one basket. Minimum 30% of all reserves should be in this pool so that we have cash on hand if we need to act quick.
 
 Assets:
 - cash on bank accounts (minimum 15% of total, default reserve)
