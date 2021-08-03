@@ -10,7 +10,7 @@ Reserves in safe and liquid assets. We try to keep the currency equally split be
 
 Assets:
 - cash on bank accounts (minimum 15% of total, default reserve)
-- bonds (15% of total) with Vanguard BNDW (total world bonds in USD)
+- bonds (15% of total) with [Vanguard BNDW](https://investor.vanguard.com/etf/profile/overview/bndw) (World-wide investment-grade bonds, in USD)
 
 
 ## Long-Term Pool
