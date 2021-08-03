@@ -1,7 +1,8 @@
 # Investment Strategy
 
-Niteo keeps reserves to [cover close to 12 months of average expenses](/5_People/profit-sharing.md). To not lose this money to inflation, we invest it into appreciating assets.
-
+At Niteo, we like to be anti-fragile so that we can focus on the long term. We want to be able to survive an economic crisis or our projects suddenly spiraling out. For this reason, we keep monetary reserves to [cover close to 12 months of average expenses](/5_People/profit-sharing.md).	 
+ 
+To not lose this considerable chunk of money to inflation, we invest it into appreciating assets.
 
 ## Short-Term Pool
 
