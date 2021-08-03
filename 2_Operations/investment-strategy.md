@@ -19,7 +19,7 @@ Reserves in more risky or illiquid assets. The currency split is irrelevant beca
 
 - real estate (max 20% of total) with [Niteo House](https://house.niteo.co) (EUR)
 - stock ETFs (max 30% of total) with [Vanguard VWRA](https://www.vanguardinvestments.dk/portal/instl/dk/en/product.html#/fundDetail/etf/portId=9679/assetCode=equity/?overview) (global stocks, in USD)
-- private funds (max 30% of total) with Calm Company Fund, Ben Tossel's No-Code Fund, etc.
+- private funds (max 30% of total) with [Calm Company Fund](https://calmfund.com/), [Ben Tossel's No-Code Fund](https://angel.co/v/back/ben-tossell), etc.
 - loans (max 10% of total)
 - FOMO (max 5%) -> crypto stuff, individual stocks
 
