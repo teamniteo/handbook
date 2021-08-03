@@ -8,7 +8,7 @@ Niteo keeps reserves to [cover close to 12 months of average expenses](/5_People
 Reserves in safe and liquid assets. We try to keep the currency equally split between EUR and USD. Around 30% of total reserves.
 
 Assets:
-- cash on bank accounts
+- cash on bank accounts (minimum 15% of total, default reserve)
 - bonds (15% of total) with Vanguard BNDW (total world bonds in USD)
 
 
