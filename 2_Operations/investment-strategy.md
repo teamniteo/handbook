@@ -15,7 +15,7 @@ Assets:
 
 ## Long-Term Pool
 
-Reserves in more risky or illiquid assets. The currency split is not relevant because most of these assets compensate for the difference between EUR and USD. Around 70% of total reserves.
+Reserves in more risky or illiquid assets. The currency split is irrelevant because most of these assets are global investments. Up to 70% of all reserves can be in this pool.
 
 - real estate (20% of total) with [Niteo House](https://house.niteo.co) (EUR)
 - stock ETFs (max 30% of total) with Vanguard VWRA (global stocks in USD)
