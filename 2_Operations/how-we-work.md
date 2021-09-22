@@ -6,7 +6,7 @@ Niteo is a distributed team spread around the World. Here's a quick overview of 
 
 Written communication can sometimes be misinterpreted and could lead to the other person's heartrate going up.
 A bad example of this can be: "Hey, do you have some time to talk?".
-If a senior Nitean sent such a message to a trialist, they might interpret it as "Oh no, I did something wrong" and start stressing out completely unnecessarily, since the senior Nitean just wanted to ask them if they have any dietary or other preferences for the upcoming IRL.
+If a senior Nitean sent such a message to a trialist, they might interpret it as "Oh no, I did something wrong" and start stressing out completely unnecessarily, since the senior Nitean just wanted to ask them if they have any dietary or other preferences for the upcoming IRL. Or imagine sending over `Hey, do you have some time to talk on Monday?`. There goes the weekend!
 To avoid that, we encourage Niteans to state what they want from the other person, what they would like to talk about, and where they would like to talk about it, e.g. chat, voice, or video.
 A good example of this can be: "Hey, I'd like your opinion on which approach is better for the project. Can we meet on Zoom?".
 
