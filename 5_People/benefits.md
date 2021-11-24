@@ -22,9 +22,9 @@ The current monthly allowance budget as of *January 2021* is:
  * Niteans: _€125 ($150)_
  * Founders: _€255_
 
-The monthly budgets compound every month, so whatever you do not spend this month, you can use the next month, or the one after.
+The monthly budgets compound every month, so whatever you do not spend this month, you can use the next month, or the one after. The maximum allowance balance you can keep is 18 months.
 
-You can request an increase in your Allowance if you feel the current one doesn't cover all the expenses for you. You can spend a few months of future allowance balance. The maximum allowance balance you can keep is 18 months. That said, it's smart to keep at least a few months allowance, just in case something breaks.
+You can request an increase in your Allowance if you feel the current one doesn't cover all the expenses for you. You can spend a few months of future allowance balance. That said, it's smart to keep at least a few months allowance, just in case something breaks.
 
 If they attended a conference in the previous year, each Nitean gets a €1000 ($1220) additional budget on the 1st of January every year.
 
