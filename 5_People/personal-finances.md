@@ -1,6 +1,6 @@
 # Personal Finances
 
-Some Niteans have asked about investing and personal finance management, so we've prepared this short document for everyone interested. Don't consider this as financial advice but as an introduction into personal finances and investing.
+Some Niteans have asked about investing and personal finance management, so we've prepared this short document for everyone interested. Don't consider this as financial advice but as an introduction to personal finances and investing.
 
 ## Basics
 
@@ -8,7 +8,7 @@ Some Niteans have asked about investing and personal finance management, so we'v
 
 The first step of managing personal finances is tracking your spending. It's a similar thing as with company accounting. You track and categorize your income, expenses, and balance.
 
-There are many options for tracking personal finances, from SaaS to apps, desktop software, free and paid. Dejan and Nejc use [Banktivity](https://www.banktivity.com/) on MacOS. We're not fans, but it does the job well.
+There are many options for tracking personal finances, from SaaS to apps, desktop software, free and paid. Dejan and Nejc use [Banktivity](https://www.banktivity.com/) on macOS. We're not fans, but it does the job well.
 
 After you know your numbers, you can do the next steps.
 
@@ -23,7 +23,7 @@ There is an easy risk-free 5-8% return per year for many people. What is it? Pay
 
 Niteans are either sole proprietors or have companies that charge Niteo for the work. When you have a registered business, you can legitimately and legally save money on taxes when purchasing things for your company. This can be a computer, phone, desk, chair, software, or anything else you need for your job (and was not paid directly by Niteo).
 
-You have two options to purchase something: either out-of-pocket from your savings or your company's pocket. The second option brings you large savings. 
+You have two options to purchase something: either out-of-pocket from your savings or your company's pocket. The second option brings you considerable savings. 
 
 Let's look at an example of a computer purchase. In our first example, we'll buy our computer after we've paid taxes in the company. This tax can be corporate profit tax or, more often, salary taxes.
 
@@ -66,7 +66,7 @@ We're assuming that:
 
 When it comes to investing in stocks (company shares) and bonds (loans with fixed interest from governments and corporations), data has shown nobody can beat the market average long-term (decades). Therefore, your goal is to replicate the market as much as possible and at the lowest cost possible. Stock picking, while fun, is closer to the lottery than investing. You might get lucky, but more probably, you'll have less at the end than if you invested in the market. Therefore, we'll be investing in funds that own billions worth of stocks and bonds.
 
-What is the historical average yearly yield for long-term investing? [5.2%](https://rationalreminder.ca/podcast/146) which compounded doubles your money every 14 years. That does not sound like a lot but it is *after* inflation. In the same timeframe, inflation would decrease your purchasing power by 29% ([data from 2007-2021](https://smartasset.com/investing/inflation-calculator)).
+What is the historical average yearly yield for long-term investing? [5.2%](https://rationalreminder.ca/podcast/146) which compounded doubles your money every 14 years. That does not sound like a lot, but it is *after* inflation. In the same timeframe, inflation would decrease your purchasing power by 30% ([data from 2007-2021](https://smartasset.com/investing/inflation-calculator)).
 
 ### How to build your portfolio
 
@@ -79,12 +79,12 @@ As mentioned, data shows managed funds do not beat the market, so our portfolio 
 
 There are two main types of assets we're interested in:
 
-- Stocks are shares of companies, be it Google and Microsoft, or a small $50M company in Japan. 
+- Stocks are shares of companies, be it Google and Microsoft or a small $50M company in Japan. 
 - Bonds are loans with a fixed interest rate, given by governments, municipalities, or corporations for short- or long-term (months to decades).
 
 Stocks are high-yield and high-risk, bonds are low-yield and low-risk. We'll be using both in our portfolio. The younger you are, the more you can have in stocks (for higher yield), but the closer you get to retirement, the more you should have in bonds (for less risk).
 
-In both cases, you want global exposure. There are times when the US has the better yield and in other cases, emerging markets or Europe might have a better yield. Since nobody can predict the future, we just take the whole market. 
+In both cases, you want global exposure. There are times when the US has a better yield, and in other cases, emerging markets or Europe might have a better yield. Since nobody can predict the future, we just take the whole market. 
 
 We'll be buying whole-market index funds for stocks and bonds. 
 
@@ -92,7 +92,7 @@ We'll be buying whole-market index funds for stocks and bonds.
 
 We're looking to invest in the lowest cost funds by a large and reputable fund. Niteo, Dejan, and Nejc all invest in [Vanguard's](https://en.wikipedia.org/wiki/The_Vanguard_Group) funds:
 
-- VWRA for the global stock market 
+- VWRA for the global stock market (listed as VWCE in EUR)
 - BNDW for the global bond market
 
 How should you split your portfolio between the two assets? The most popular split is 70% stocks and 30% bonds. If you're young and have the stomach for higher volatility (change in portfolio value), you can go higher with the stocks. When you're closer to retirement, you start adding more to bonds.
@@ -100,7 +100,7 @@ How should you split your portfolio between the two assets? The most popular spl
 
 ### How to invest and where to learn more
 
-There are many options for online brokerages but you'll want to stick with old-school as the nice-looking apps usually have caveats. Niteo, Dejan, and Nejc use Interactive Brokers, and even though they have a terrible interface, they are the recommended choice available in most countries.
+There are many options for online brokerages, but you'll want to stick with old-school as the nice-looking apps usually have caveats. Niteo, Dejan, and Nejc use Interactive Brokers, and even though they have a terrible interface, they are the recommended choice available in most countries.
 
 Talk to an accountant or a financial advisor (who does not want to sell you a managed fund) about your options, especially taxes.
 
@@ -114,4 +114,3 @@ If you'd like to learn more about investing, [Ben Felix's YouTube channel](https
 - Invest whenever your savings hit $5000.
 - Buy and hold until retirement.
 - If you have a house loan but want to invest, see [Ben Felix's video on the topic](https://www.youtube.com/watch?v=AKc01jo1qLw).
-
