@@ -63,7 +63,7 @@ We use NordVPN Teams to securely tunnel Internet traffic when we are not on our 
 - If you're connected to the VPN, put your computer to sleep, and then relocate (i.e. you connect to a different WiFi), you will need to reconnect to the same VPN server for the internet to work.
 
 #### Linux (OpenVPN)
-For linux you have to ask one of the [partners](https://github.com/orgs/niteoweb/teams/partners) to get the required files for you.
+For linux you have to ask one of the [partners](https://github.com/orgs/teamniteo/teams/partners) to get the required files for you.
 
 Partner:
   - As an admin go to https://cp.nordvpnteams.com/downloads.

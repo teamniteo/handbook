@@ -4,7 +4,7 @@ Once every sprint (i.e. two weeks) Niteans have Catchup meetings (also called On
 
 This is your opportunity to discuss anything you want so they should be treated as more of a *beer in a coffee shop* than an *interview-style* meeting.
 
-Catchups and Career Path notes are stored in your private [Niteo Career](https://github.com/niteoweb/niteo-career) repository.
+Catchups and Career Path notes are stored in your private [Niteo Career](https://github.com/teamniteo/niteo-career) repository.
 
 
 ## Schedule

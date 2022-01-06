@@ -24,7 +24,7 @@ We work in 2-week Scrum Sprints described in detail in the [work process](work-p
 
 Project and task management is currently done with [GitHub and ZenHub](/2_Operations/apps.md). Support handles tickets through Help Scout.
 
-We track cash flow with [Xero](https://www.xero.com/). Finance reports are published to [niteoweb/finances](https://github.com/niteoweb/finances) on a monthly basis and are viewable to all full-time team members.
+We track cash flow with [Xero](https://www.xero.com/). Finance reports are published to [teamniteo/finances](https://github.com/teamniteo/finances) on a monthly basis and are viewable to all full-time team members.
 
 Monthly company newsletter covers the main events of the month and is a great reference point for digging deeper into parts of the company one does not know that well.
 

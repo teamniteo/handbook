@@ -18,22 +18,22 @@ clean:
 #
 .PHONY: linkcheck
 linkcheck: ## Check all URLs in the handbook.
-	@docker run -ti --rm -v $(shell pwd):/mnt:ro dkhamsing/awesome_bot --allow-dupe --allow-redirect --allow 403 --white-list https://github.com/niteoweb/operations,\
-https://github.com/niteoweb/minisites,\
-https://github.com/niteoweb/ebn,\
-https://github.com/niteoweb/woocart,\
-https://github.com/niteoweb/support,\
-https://github.com/niteoweb/finances,\
-https://github.com/niteoweb/sprint,\
-https://github.com/niteoweb/my-niteo-career,\
+	@docker run -ti --rm -v $(shell pwd):/mnt:ro dkhamsing/awesome_bot --allow-dupe --allow-redirect --allow 403 --white-list https://github.com/teamniteo/operations,\
+https://github.com/teamniteo/minisites,\
+https://github.com/teamniteo/ebn,\
+https://github.com/teamniteo/woocart,\
+https://github.com/teamniteo/support,\
+https://github.com/teamniteo/finances,\
+https://github.com/teamniteo/sprint,\
+https://github.com/teamniteo/my-niteo-career,\
 https://github.com/settings/replies,\
 https://github.com/notifications,\
 http://docs.niteo.co,\
 http://books.niteo.co,\
 http://videos.niteo.co,\
 https://github.com/issues/assigned,\
-https://github.com/orgs/niteoweb/teams,\
-https://github.com/niteoweb/easyblognetworks,\
+https://github.com/orgs/teamniteo/teams,\
+https://github.com/teamniteo/easyblognetworks,\
 https://apps.rackspace.com/%0D%0A \
 --skip-save-results `find . -iname "*.md"`
 
