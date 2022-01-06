@@ -1,5 +1,5 @@
 # The Niteo Handbook
-[![CircleCI](https://circleci.com/gh/niteoweb/handbook/tree/master.svg?style=svg)](https://circleci.com/gh/niteoweb/handbook/tree/master)
+[![CircleCI](https://circleci.com/gh/teamniteo/handbook/tree/master.svg?style=svg)](https://circleci.com/gh/teamniteo/handbook/tree/master)
 
 ## Introduction
 
@@ -54,10 +54,10 @@ The structure of the Handbook mirrors our departments for simple organization. R
 
 * Easy Blog Networks
   * [EasyBlogNetworks.com](https://www.easyblognetworks.com)
-  * [Repository](https://github.com/niteoweb/easyblognetworks)
+  * [Repository](https://github.com/teamniteo/easyblognetworks)
 * WooCart
   * [WooCart.com](https://woocart.com)
-  * [Repository](https://github.com/niteoweb/woocart)
+  * [Repository](https://github.com/teamniteo/woocart)
   * [Public repository](https://github.com/woocart)
 
 
@@ -71,7 +71,7 @@ The structure of the Handbook mirrors our departments for simple organization. R
 
 Please help us keep these documents up to date, not just with fixing typos and broken links, but also updating it with the ongoing changes to our work processes. And if there's something you don't like in the way we work, open an Issue where we can discuss better solutions. For new people joining Niteo, take advantage of being new to question or show us how to improve things. We welcome this input, as an outside viewpoint can often jolt us from our well worn ways.
 
-This Handbook is inspired by [GitLab's](https://about.gitlab.com/handbook/) and [Basecamp's](https://github.com/basecamp/handbook) handbooks and is always a *Work-In-Progress*. To update it, create a Pull Request with the proposed changes or [open an Issue](https://github.com/niteoweb/handbook/issues) to start a discussion.
+This Handbook is inspired by [GitLab's](https://about.gitlab.com/handbook/) and [Basecamp's](https://github.com/basecamp/handbook) handbooks and is always a *Work-In-Progress*. To update it, create a Pull Request with the proposed changes or [open an Issue](https://github.com/teamniteo/handbook/issues) to start a discussion.
 
 ## Join us!
 

@@ -25,5 +25,5 @@ If all else is completed, you can always read a book, take an online course or j
  - Review our [handbook], updating as necessary.
  - Ask people what are the current issues they are facing and how we could resolve them.
 
-[backlog]: https://github.com/niteoweb/operations/issues#boards
-[handbook]: https://github.com/niteoweb/handbook
+[backlog]: https://github.com/teamniteo/operations/issues#boards
+[handbook]: https://github.com/teamniteo/handbook

@@ -47,7 +47,7 @@ The allowance bonus accounts for all the days you are away at the conference and
 
 Conferences count as working days (7.5h per day). Transport to conferences counts too (up to 7.5h per day).
 
-The conference allowance bonus requires that you write a report about the conference when you get back. It can be published on any of our blogs or as a Spotlight article in our [Newsletter](https://github.com/niteoweb/operations/tree/master/newsletter).
+The conference allowance bonus requires that you write a report about the conference when you get back. It can be published on any of our blogs or as a Spotlight article in our [Newsletter](https://github.com/teamniteo/operations/tree/master/newsletter).
 
 For example, John attends a 5-day IRL in Istanbul:
 
@@ -86,7 +86,7 @@ You are encouraged to extend your trip and take vacation days to see the place y
 
 ### Luxury IRL
 
-Our [IRL meetups](https://github.com/niteoweb/handbook/blob/master/2_Operations/how-we-work.md#communication) are always fun. To amp things up and get the most out of these events, each Nitean will give some of their allowance (everyone gives the same amount) but the company will still shoulder the same amount as before. This will allow us to explore more options without the budget constraint.
+Our [IRL meetups](https://github.com/teamniteo/handbook/blob/master/2_Operations/how-we-work.md#communication) are always fun. To amp things up and get the most out of these events, each Nitean will give some of their allowance (everyone gives the same amount) but the company will still shoulder the same amount as before. This will allow us to explore more options without the budget constraint.
 
 Since every Nitean still gets a ton of allowance bonus when travelling to IRLs, and most of us have too much allowance anyhow, giving some of these allowances to party like Gatsby on IRLs is a good team investment for a bi-annual meetup.
 
@@ -101,7 +101,7 @@ Death in the family is three extra days of paid leave.
 
 ### Booking Vacation
 
-To book vacation time off, add an entry to the [Planned Absences](https://github.com/niteoweb/operations/blob/master/absences.md) page.
+To book vacation time off, add an entry to the [Planned Absences](https://github.com/teamniteo/operations/blob/master/absences.md) page.
 
 
 ### Unused Vacation
@@ -112,7 +112,7 @@ Unused vacation hours in a calendar year can be carried over to the next year bu
 
 If you've used up all your allocated vacation days, you can take more vacation days but they will be unpaid.
 
-Please ensure however, that your department and associated work will not suffer during your absence. Also, note that your quarterly profit share amount will be affected by the number of unpaid vacation days you take. See [Profit sharing](profit-sharing.md#present) for further details. On top of this, unpaid vacation will reduce your monthly and yearly [allowance](https://github.com/niteoweb/handbook/blob/master/5_People/benefits.md#allowance-budget). 
+Please ensure however, that your department and associated work will not suffer during your absence. Also, note that your quarterly profit share amount will be affected by the number of unpaid vacation days you take. See [Profit sharing](profit-sharing.md#present) for further details. On top of this, unpaid vacation will reduce your monthly and yearly [allowance](https://github.com/teamniteo/handbook/blob/master/5_People/benefits.md#allowance-budget).
 
 If the unpaid vacation exceeds six consecutive months, there should be an offboarding/onboarding process.
 

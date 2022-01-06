@@ -5,12 +5,12 @@
 * Every **Monday and Thursday** morning we hold a standup meeting:
    * 12:00 UTC for the whole company in the Niteo Zoom room
    * followed immediately by separate standups for Easy Blog Networks, Pareto, Kafkai, and WooCart/SyncWoo in their own Zoom rooms
-* Every other **Tuesday and Wednesday** morning we have [Scrum meetings](https://github.com/niteoweb/handbook/blob/master/2_Operations/scrum.md):
+* Every other **Tuesday and Wednesday** morning we have [Scrum meetings](https://github.com/teamniteo/handbook/blob/master/2_Operations/scrum.md):
    * Retrospective on Tuesday, Planning on Wednesday
    * 12:00 UTC for the whole company in the Niteo Zoom room
    * followed immediately by separate meetings for Easy Blog Networks, Pareto, Kafkai, and WooCart/SyncWoo in their own Zoom rooms
 
-Niteans are encouraged to take Fridays off for a long weekend. Same as any other vacation off, make sure that your backup Nitean is available to handle any potential issues (see [Vacation policy](https://github.com/niteoweb/handbook/blob/master/5_People/benefits.md#vacation)).
+Niteans are encouraged to take Fridays off for a long weekend. Same as any other vacation off, make sure that your backup Nitean is available to handle any potential issues (see [Vacation policy](https://github.com/teamniteo/handbook/blob/master/5_People/benefits.md#vacation)).
 
 * Every weekday Niteans should check their [GitHub notifications](https://github.com/notifications) so that they don't miss things that involve them.
 
@@ -26,7 +26,7 @@ Sprint meetings replace the daily standup on these days:
  
 The last Monday morning of the sprint everyone should open up the Scrum board and ask themselves: "How can I help close whatever is still opened?". Repeat the same after lunch and on Tuesday morning.
 
-For each new sprint, the Scrum master will create a sprint release that is used to store the user story screencast demos. The template for this release is copied from [RELEASE_TEMPLATE.md](https://github.com/niteoweb/operations/raw/master/.github/RELEASE_TEMPLATE.md) in the operations repo.
+For each new sprint, the Scrum master will create a sprint release that is used to store the user story screencast demos. The template for this release is copied from [RELEASE_TEMPLATE.md](https://github.com/teamniteo/operations/raw/master/.github/RELEASE_TEMPLATE.md) in the operations repo.
 
 ## Scrum
 

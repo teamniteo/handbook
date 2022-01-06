@@ -40,10 +40,10 @@ repo that this commit is in, it's fine to just use the issue number.
 Otherwise, use the long format with organization/repo prefix.
 
 Refs: #123.
-Refs: niteoweb/operations#123.
+Refs: teamniteo/operations#123.
 Refs:
   - #134
-  - niteoweb/operations#145
+  - teamniteo/operations#145
 
 
 Bonus karma points for reading [this detailed essay about good commits](https://chris.beams.io/posts/git-commit/).
@@ -54,14 +54,14 @@ A few examples of excellent commits:
 > Blogs that are not older than 1 day should not be flagged by `Check Backups`
 > check.
 >
-> Ref: https://github.com/niteoweb/ebn/issues/3489
+> Ref: https://github.com/teamniteo/ebn/issues/3489
 
 > Create a GitHub issue when Provision DNS fails.
 >
 > When Provision DNS fails create a GitHub issue, label it as "Blog"
 > and assign it to niko (@nkk0) and adam (@by-cx).
 >
-> Ref: https://github.com/niteoweb/ebn/issues/3788
+> Ref: https://github.com/teamniteo/ebn/issues/3788
 
 > Fix remaining flake8 errors
 >
@@ -98,13 +98,13 @@ Similarly to commits, Pull Requests should look like this:
 > Pull Request belongs.
 >
 > Refs #123.
-> Refs niteoweb/operations#123.
+> Refs teamniteo/operations#123.
 
 A few examples of excellent Pull Requests:
- * https://github.com/niteoweb/ebn/pull/3520
- * https://github.com/niteoweb/ebn/pull/3566
- * https://github.com/niteoweb/ebn/pull/3573
- * https://github.com/niteoweb/ebn/pull/3422
+ * https://github.com/teamniteo/ebn/pull/3520
+ * https://github.com/teamniteo/ebn/pull/3566
+ * https://github.com/teamniteo/ebn/pull/3573
+ * https://github.com/teamniteo/ebn/pull/3422
 
 
 ### Keep Nitean in the loop

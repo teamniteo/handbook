@@ -10,13 +10,13 @@ We don't believe in long interview processes with tricky questions and unrealist
 
 The trial period lasts somewhere between 3 to 6 months. The trialist receives 70% of the salary's hourly rate in the first two months, 80% in the next two months, and 90% after that. The payout equals to hours done in the month, not as a fixed salary amount (as it's common with contractors).
 
-As a trialist you will not be included in [profit sharing](https://github.com/niteoweb/handbook/blob/master/5_People/profit-sharing.md) and other [benefits](https://github.com/niteoweb/handbook/blob/master/5_People/benefits.md), nor entitled to an [overtime](https://github.com/niteoweb/handbook/blob/master/5_People/career.md#working-hours), or [severance](https://github.com/niteoweb/handbook/blob/master/5_People/career.md#severance-policy) package. 
+As a trialist you will not be included in [profit sharing](https://github.com/teamniteo/handbook/blob/master/5_People/profit-sharing.md) and other [benefits](https://github.com/teamniteo/handbook/blob/master/5_People/benefits.md), nor entitled to an [overtime](https://github.com/teamniteo/handbook/blob/master/5_People/career.md#working-hours), or [severance](https://github.com/teamniteo/handbook/blob/master/5_People/career.md#severance-policy) package.
 
 For our bi-annual In-Real-Life (IRL) meetups, we buy tickets for Trialists in the last month before IRL, even for trialists that start in the weeks before IRL.
 
 ## Anonymous Feedback
 
-If at any time during your onboarding, or any later time, you feel like you need to provide feedback to Nejc and Dejan privately and/or anonymously, please use the [feedback form](https://niteoweb.github.io/feedback).
+If at any time during your onboarding, or any later time, you feel like you need to provide feedback to Nejc and Dejan privately and/or anonymously, please use the [feedback form](https://teamniteo.github.io/feedback).
 
 ## GitHub
 

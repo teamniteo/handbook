@@ -29,7 +29,7 @@ Turn on your camera during the standup. Try to refrain from doing other things (
 
 Each sprint starts with planning. This is where we choose well-defined User Stories to put in the sprint. We always keep in mind our quarterly goals to make sure we're doing the tasks that are moving us in the right direction.
 
-The Scrum master creates a new [Sprint issue](https://github.com/niteoweb/sprint/issues/new?template=planning.md&title=Planning%20for%20Sprint%20#) before each planning.
+The Scrum master creates a new [Sprint issue](https://github.com/teamniteo/sprint/issues/new?template=planning.md&title=Planning%20for%20Sprint%20#) before each planning.
 
 ## Sprint Retrospective 
 
@@ -61,6 +61,6 @@ Sometimes, things break in the middle of the night or on weekends. The great thi
 
 Being on-call means being available for any critical, urgent issues that may arise. Some examples of this are servers offline or the product app is down. Each on-call day (Saturday and Sunday) counts as a 2-hour workday, even if there were no emergencies. Any work more than two hours counts as regular work.
 
-Niteans can be on-call only if they already pass basic support training or has already reported for [Everyone on Support](https://github.com/niteoweb/handbook/blob/master/4_Marketing-Support/everyone-on-support.md).
+Niteans can be on-call only if they already pass basic support training or has already reported for [Everyone on Support](https://github.com/teamniteo/handbook/blob/master/4_Marketing-Support/everyone-on-support.md).
 
-Every [sprint planning](https://github.com/niteoweb/handbook/blob/master/2_Operations/scrum.md#sprint-planning), the Niteans on-call for the two weekends will be assigned and noted on the Sprint issue.
+Every [sprint planning](https://github.com/teamniteo/handbook/blob/master/2_Operations/scrum.md#sprint-planning), the Niteans on-call for the two weekends will be assigned and noted on the Sprint issue.

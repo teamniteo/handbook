@@ -3,12 +3,12 @@
 ### Easy Blog Networks
 
 * Website: [easyblognetworks.com](https://www.easyblognetworks.com)
-* [Repository](https://github.com/niteoweb/easyblognetworks) 
+* [Repository](https://github.com/teamniteo/easyblognetworks)
 
 ### WooCart
 
 * Website: [woocart.com](https://woocart.com)
-* [Repository](https://github.com/niteoweb/woocart)
+* [Repository](https://github.com/teamniteo/woocart)
 * [Public repository](https://github.com/woocart)  
 
 ## Project Template
