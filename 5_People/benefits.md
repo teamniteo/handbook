@@ -69,7 +69,7 @@ Another example: Two months later, John goes to a three-day conference in Barcel
     * Conference fee is 500€.
     * Flights, trains and, taxis are 500€.
     * Hotel and food are 600€.
-    * John spends extra €300 on niceties that make his trip more enjoyable.
+    * John spends extra 300€ on niceties that make his trip more enjoyable.
     * John gets his salary in EUR.
     * John's monthly Allowance is 125€.
 
