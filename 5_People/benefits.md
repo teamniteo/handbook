@@ -75,7 +75,7 @@ Another example: Two months later, John goes to a three-day conference in Barcel
 
     The conference bonus is calculated like so (with a day of travel each way):
 
-    * €800 (5 * 160/day)
+    * €800 (5 * €160/day)
 
     Therefore John charges the company €1900 (€500 + €500 + €600 + €300) in spent Allowance. Before the trip, John's allowance budget was €1670 (€1420 + 2x€125), so after the trip, it is now €570 (€1670 + €800 - €1900). The trip was expensive, but it sure was nice!
 
