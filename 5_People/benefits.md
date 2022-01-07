@@ -19,7 +19,7 @@ In other words, would something boost your productivity, creativity, or help imp
 
 The current monthly allowance budget as of *January 2022* is:
 
- * Niteans: _€135 ($150)_
+ * Niteans: _€135 ($155)_
  * Founders: _€265_
 
 The monthly budgets compound every month, so whatever you do not spend this month, you can use the next month, or the one after. The maximum allowance balance you can keep is 18 months.
