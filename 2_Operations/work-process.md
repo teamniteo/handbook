@@ -22,7 +22,7 @@ Sprint meetings replace the daily standup on these days:
  * The **Tuesday**, two weeks later, marks the end of the sprint with a sprint retrospective.
    * 12:00 UTC for Niteo
    * followed immediately by retrospective for Easy Blog Networks and Pareto, synchronously in their own Zoom rooms
- * The **Thursday** after sprint planning, there is no daily standups. [Developers Session](#developers-session) are scheduled immediately after a standup the following week, either Monday or Thursday, depending on everyone's availability.
+ * The **Thursday** after sprint planning, there is no daily standups. [Developers Session](#developers-session) is scheduled immediately after a standup the following week, either Monday or Thursday, depending on everyone's availability.
  
 The last Monday morning of the sprint everyone should open up the Scrum board and ask themselves: "How can I help close whatever is still opened?". Repeat the same after lunch and on Tuesday morning.
 
