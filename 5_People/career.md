@@ -85,7 +85,11 @@ Read more about the careers and their roles:
 
 Each month everyone is expected to work (on average) 7.5 hours per working day in that month (lunch time not included). 
 
-Any additional hours are considered as overtime hours and are worth 130% of your hourly wage (which is your monthly salary divided by 150). Overtime is calculated on a monthly basis. Meaning in a month with 20 working days, all hours above 150 (7.5*20). Overtime cannot be calculated on a daily or weekly basis. Trialists are paid per hour and as such do not receive overtime.
+Any additional hours are considered as overtime hours and are worth 1.3 times the amount in vacation hours.
+The reason for this is that we don't want to encourage people to work overtime, however we do understand that people work best in different ways.
+Some people might prefer to work flat 7.5 hours every day while others might prefer to work long hours one month and than take it easier the following month.
+This system of rewarding overtime with vacation hours should then allow everyone to work the way they want.
+Overtime is calculated on a monthly basis and cannot be calculated on a daily or weekly basis. Meaning in a month with 20 working days, all hours above 150 (7.5*20). Trialists do not yet have vacation hours and as such are not eligible to work overtime.
 
 
 ### Tracking Actual Working Hours
