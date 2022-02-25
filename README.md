@@ -1,5 +1,5 @@
 # The Niteo Handbook
-[![CircleCI](https://circleci.com/gh/teamniteo/handbook/tree/master.svg?style=svg)](https://circleci.com/gh/teamniteo/handbook/tree/master)
+[![Check Links](https://github.com/teamniteo/handbook/actions/workflows/links.yml/badge.svg)](https://github.com/teamniteo/handbook/actions/workflows/links.yml)
 
 ## Introduction
 
