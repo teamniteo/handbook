@@ -108,10 +108,10 @@ While many of us are good friends, we are still a business, not a family. Unlike
 
 * The person is given two notices prior to termination. There should be a minimum of one month between notices, approved by one founder. Notices expire a year after the last one was given.
 * The person needs to be fully aware that they are being issued a notice. These are documented on their [catchup note](https://github.com/teamniteo/handbook/blob/master/5_People/catchups.md).
-* On the second notice, [productivity allowance](https://github.com/teamniteo/handbook/blob/master/5_People/benefits.md#productivity-allowance) is capped at €100 per purchase total. Any amount larger needs to be approved. The immediate supervisor should prepare and discuss with the Nitean the steps they need to take to fix the reason for the notice.
-* The person needs to know that if we will be hiring for the same position again in the future, they will have priority over completely new people.
-* All Partners need to agree with the cancellation.
-* When cancellation is agreed, the person should be notified immediately by the immediate supervisor (usually the one doing the onboarding or has the most interaction with). From this point onwards, the person is no longer required to work, but is encouraged to take their time to hand off to other people in Niteo anything they feel is valuable. After hand-off is finished, they are free to do whatever.
+* On the second notice, [productivity allowance](https://github.com/teamniteo/handbook/blob/master/5_People/benefits.md#productivity-allowance) is capped at €100 per purchase. Any amount larger needs to be approved. The immediate supervisor should prepare and discuss with the Nitean the steps they need to take to fix the reason for the notice.
+* All Partners need to agree with the termination.
+* When termination is agreed, the person should be notified immediately by the immediate supervisor (usually the one doing the onboarding or has the most interaction with). From this point onwards, the focus is on the work handover that can take up to a maximum of 14 days.
+* The person needs to know that if we will be hiring for the same position again in the future, they are welcome to apply and will have priority over completely new people.
 * Every Nitean (except Trialists) is entitled to a severance package paid in monthly payouts according to the following formula:
   * up to one year permanent: 1 month base salary,
   * more than one year permanent: 2 months base salary + 1 month for each additional year, capped at 6 months,
