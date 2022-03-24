@@ -119,4 +119,4 @@ While many of us are good friends, we are still a business, not a family. Unlike
 
 ### Resignation
 
-When a resignation is tendered, [Benefits](https://github.com/teamniteo/handbook/blob/master/5_People/benefits.md) are automatically canceled. There is a minimum 30 days and max 60 days for turnover period.
+When a resignation is tendered, [Benefits](https://github.com/teamniteo/handbook/blob/master/5_People/benefits.md) are automatically canceled. There is a minimum of 30 days and a maximum of 60 days for the handover period.
