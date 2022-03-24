@@ -106,9 +106,9 @@ Everyone tracks working hours for themselves. At the end of each month, add your
 
 While many of us are good friends, we are still a business, not a family. Unlike a family, people join and leave us from time to time. Whenever we have to let someone go, this is how we do it.
 
-* The person is given three notices, the third one being the final chance. There should be minimum one month in between notices, approved by one founder. A notice expires after six months.
+* The person is given two notices prior to termination. There should be a minimum of one month between notices, approved by one founder. Notices expire a year after the last one was given.
 * The person needs to be fully aware that they are being issued a notice. These are documented on their [catchup note](https://github.com/teamniteo/handbook/blob/master/5_People/catchups.md).
-* On second notice, [productivity allowance](https://github.com/teamniteo/handbook/blob/master/5_People/benefits.md#productivity-allowance) is capped at €100 (any amount larger needs to be approved). The immediate supervisor should prepare and discuss with the Nitean the steps/tasks that they need to do to pick up their performance.
+* On the second notice, [productivity allowance](https://github.com/teamniteo/handbook/blob/master/5_People/benefits.md#productivity-allowance) is capped at €100 per purchase total. Any amount larger needs to be approved. The immediate supervisor should prepare and discuss with the Nitean the steps they need to take to fix the reason for the notice.
 * The person needs to know that if we will be hiring for the same position again in the future, they will have priority over completely new people.
 * All Partners need to agree with the cancellation.
 * When cancellation is agreed, the person should be notified immediately by the immediate supervisor (usually the one doing the onboarding or has the most interaction with). From this point onwards, the person is no longer required to work, but is encouraged to take their time to hand off to other people in Niteo anything they feel is valuable. After hand-off is finished, they are free to do whatever.
