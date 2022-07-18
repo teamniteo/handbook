@@ -50,17 +50,6 @@ The structure of the Handbook mirrors our departments for simple organization. R
   * [Recommended Reading List](/5_People/booklist.md)
 
 
-### Projects
-
-* Easy Blog Networks
-  * [EasyBlogNetworks.com](https://www.easyblognetworks.com)
-  * [Repository](https://github.com/teamniteo/easyblognetworks)
-* WooCart
-  * [WooCart.com](https://woocart.com)
-  * [Repository](https://github.com/teamniteo/woocart)
-  * [Public repository](https://github.com/woocart)
-
-
 ## About Niteo and Niteans
 
 * [About Niteo](https://niteo.co/about)
