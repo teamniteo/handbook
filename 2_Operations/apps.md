@@ -11,10 +11,23 @@ If you are on the receiving end of a question or message that should really be p
 Here is how we set reminders for daily standups in Slack:
 
 ```
-TODO @am-on please update the instructions for these
+Set up reminders on the week they should be posted before reminder post time.
 
-/remind #ebn "@here Standup in 10 minutes! Join zoom.us/j/xxx early and say Hi! Write an #out-of-office message if not attending." at 9:50 every weekday
-/remind #ebn "@here Standup starting now!" at 9:59 every weekday
+Sprint planning / sprint retro week:
+/remind #operations every two weeks on Tuesday at 8:00 UTC "@here Reminder that stories need to be closed an hour before retro starts."
+/remind #operations every two weeks on Tuesday at 11:50 UTC "Sprint retrospective in 10 minutes!"
+/remind #operations every two weeks on Tuesday at 11:59 UTC "@here Sprint retrospective starting now!"
+/remind #operations every two weeks on Wednesday at 10:50 UTC "@here Add your stories to the To Do pipeline."
+/remind #operations every two weeks on Wednesday at 11:50 UTC "Sprint planning in 10 minutes!"
+/remind #operations every two weeks on Wednesday at 11:59 UTC "@here Sprint planning starting now!"
+
+Second week of the sprint:
+/remind #operations every two weeks on Thursday at 11:50 UTC “Standup in 10 minutes! Join the appropriate Zoom room or write an #out-of-office message if not attending”
+/remind #operations every two weeks on Thursday at 11:59 UTC “@here Standup starting now!”
+
+Weekly:
+/remind #operations every Monday at 11:50 UTC “Standup in 10 minutes! Join the appropriate Zoom room or write an #out-of-office message if not attending”
+/remind #operations every Monday at 11:59 UTC “@here Standup starting now!”
 ```
 
 #### Channels
