@@ -55,7 +55,7 @@ Although we use Slack for our day-to-day communication, it is not a fully secure
 
 #### Usage
 
-Signal is to be used primarily for sending confidential information that must never be shared over Slack. All other instant messaging should remain on Slack.
+Signal is to be used primarily for sending confidential information that must never be shared over Slack, and timely instant messaging at conferences and IRLs. All other instant messaging should remain on Slack.
 
 ## VPN
 
