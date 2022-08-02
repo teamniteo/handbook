@@ -36,7 +36,7 @@ Slack channels are separated into company-level and project-level channels. Proj
 
 How to know which channel to write to? Write to the most specific channel. If your topic does not have a dedicated channel, bubble up to the "parent" channel. Example:
 * I want to ask something about Pareto's codebase. Pareto does not (yet) have the `#pareto-dev` channel, so I "bubble up" to `#pareto` channel.
-* I want to share an implementation idea for [Docsy](http://docsy.org/). Docsy does not (yet) have the `#docsy` channel, so I "bubble up" to `#development` channel.
+* I want to share an implementation idea for one of our project ideas. As it does not (yet) have its own channel, I "bubble up" to `#development` channel.
 
 #### Decreasing Distractions
 
