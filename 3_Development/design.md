@@ -8,7 +8,7 @@ There is a dedicated channel `#design` for designers to discuss relevant work.
 
 ### Sharing Files
 
-We use [Dropbox+Boxcryptor](../dropbox_boxcryptor.md) to share files between the team, with a dedicated `Design` folder for designers to use. Use sub-folders to group related project files. It should be named using a short two or three-word description (separated by hyphens), along with the associated GitHub repository and issue number e.g. `niteo.co-design-ops#401`
+We use [Dropbox+Boxcryptor](https://github.com/teamniteo/handbook/blob/master/2_Operations/apps.md#dropboxboxcryptor) to share files between the team, with a dedicated `Design` folder for designers to use. Use sub-folders to group related project files. It should be named using a short two or three-word description (separated by hyphens), along with the associated GitHub repository and issue number e.g. `niteo.co-design-ops#401`
 
 ## Tools
 
