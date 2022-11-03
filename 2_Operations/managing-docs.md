@@ -4,11 +4,10 @@ We use the following services for storing information:
 
 - **[GitHub](https://github.com/teamniteo)** - Code repository, company and project documentation, and ticketing system for all our projects.
 - **[ZenHub](https://www.zenhub.com/)** - Agile project management within GitHub.
-- **[Books](http://books.niteo.co)** - Our digital library.
-- **[Videos](http://videos.niteo.co)** - A collection of videos of our talks in public and private events, conferences, meetups, IRLs, etc.
 - **[Grafana](http://niteo.grafana.net)** - Company and project dashboards.
 - **[Zoho Docs](https://docs.zoho.eu/home)** - Alternative to Google Docs, mostly used for spreadsheets.
-- **[Resilio](https://www.resilio.com/)** - Similar to Dropbox, but faster and more secure.
+- **[Dropbox](https://www.dropbox.com/)** - Cloud file sharing.
+- **[Boxcryptor](https://www.boxcryptor.com/)** - End-to-end file encryption for Dropbox. 
 - **[1Password](https://my.1password.com/)** - All passwords and keys are stored in 1Password team account.
 
 ## What Goes Where?
