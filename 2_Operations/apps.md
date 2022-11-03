@@ -94,14 +94,13 @@ Nitean:
   - For a Debian-based system, go to Settings > Network and select `Import a saved VPN configuration` under VPN, point to the `.ovpn` file, and fill out the username and password.
   - For other systems, you can refer to the distribution manual for instructions.
 
-## Resilio
+## Dropbox+Boxcryptor
 
-Resilio is a secure BitTorrent-based Dropbox-like service for teams.
+Dropbox is one of the best file sharing services out there. We have a Business account that gives us terabytes of data.
 
+On top of Dropbox we use Boxcryptor, to give us end-to-end encryption of our files.
 
-#### Limitations
+For nicer search experience using Alfred on macOS:
+  * Add `~/Library/CloudStorage/Boxcryptor-Dropbox/Niteans` to `Search Scope` under `Default Results` configuration pane. 
+  * Add `~/home/<user>/Niteo Dropbox/Niteans` to `Prevent Spotlight from searching these locations:`.
 
-* Trialists get access to files on a need-to-have basis. Their mentor opens up Resilio, clicks the plus icon, and selects `Share file` to share a file with the trialist.
-* Up to 143 characters for filenames: We use Synology NAS devices to act as always-online peers. The data on these devices is stored on encrypted volumes. These volumes have a limit of up to 143 characters filenames.
-* No sharing files with anyone that does not have Resilio installed.
-* Syncing speeds to people outside of Europe is not great since the vast majority of peers (including always online peers Somnus and Morpheus) are located in Europe.
