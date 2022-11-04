@@ -7,7 +7,7 @@ For the last decade, we have been accumulating the knowledge and practicalities 
 
 This Handbook offers us an opportunity to clarify what Niteo is and how we operate. It allows greater transparency to our partners, potential new team members, and the wider Open Source community.
 
-The structure of the Handbook mirrors our departments for simple organization. Resilio is structured the same way.
+The structure of the Handbook mirrors our departments for simple organization. Boxcryptor (on Dropbox) is structured the same way.
 
 ## The Handbook
 
