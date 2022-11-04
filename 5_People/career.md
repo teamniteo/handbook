@@ -6,7 +6,7 @@ Instead of lengthy and often biased per-person negotiations, Niteo uses a Salary
 
 We've done a lot of research before creating a system that works for us and big thanks go to companies who publish details about their own Salary Systems. These include [Basecamp](https://m.signalvnoise.com/how-we-pay-people-at-basecamp/), [Travis CI](https://www.youtube.com/watch?v=N8u9H6JDAzo), [Buffer](https://buffer.com/salary/data-scientist-2/average/), and others. We hope that by publishing ours, we inspire other companies to do the same.
 
-Salary System is a constant work in progress and we always strive to make it better and fairer for everyone in the company. The spreadsheet with all the data and calculations is available on `Boxcryptor/Niteans/5_People/Salary System`.
+Salary System is a constant work in progress and we always strive to make it better and more fair for everyone in the company. The spreadsheet with all the data and calculations is available on `Boxcryptor/Niteans/5_People/Salary System`.
 
 **Salary Calculator**
 
