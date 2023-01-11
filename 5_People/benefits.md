@@ -30,7 +30,7 @@ If they attended a conference in the previous year, each Nitean gets a €1000 (
 
 Every Nitean, when they transition from Trialist to a Permanent position, starts with an allowance budget that is proportional to how many months remain in the year (€1000 in January, €500 in July, etc.)
 
-## Conferences
+## Travel Bonus
 
 We encourage you to attend conferences to improve your knowledge of a subject area and network with similar minded people. Try to give notice at least 10-14 days before attending a conference.
 
