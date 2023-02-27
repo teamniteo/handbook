@@ -15,13 +15,15 @@ Assets:
 
 ## Long-Term Pool
 
-Reserves in more risky or illiquid assets. The currency split is irrelevant because most of these assets are global investments. Up to 70% of all reserves can be in this pool.
+Reserves in more risky or illiquid assets. The currency split is irrelevant because most of these assets are global investments. Up to 70% of all reserves can be in this pool. Most of these should be ETFs, as they are less illiquid than others[^1].
 
+- stock ETFs (max 40% of total) with [Vanguard VWRA](https://www.vanguardinvestments.dk/portal/instl/dk/en/product.html#/fundDetail/etf/portId=9679/assetCode=equity/?overview) (global stocks, in USD)
+- private funds (max 20% of total) with [Calm Company Fund](https://calmfund.com/), [Ben Tossel's No-Code Fund](https://angel.co/v/back/ben-tossell), etc.
 - real estate (max 20% of total) with [Niteo House](https://house.niteo.co) (EUR)
-- stock ETFs (max 30% of total) with [Vanguard VWRA](https://www.vanguardinvestments.dk/portal/instl/dk/en/product.html#/fundDetail/etf/portId=9679/assetCode=equity/?overview) (global stocks, in USD)
-- private funds (max 30% of total) with [Calm Company Fund](https://calmfund.com/), [Ben Tossel's No-Code Fund](https://angel.co/v/back/ben-tossell), etc.
 - loans (max 10% of total)
 - FOMO (max 5%) -> crypto stuff, individual stocks
+
+[^1]: About ETF liquidity: Generally, we consider ETFs illiquid, as they shouldn't be traded often -- market timing does not work. We must, under no circumstances, sell ETFs "when markets are bad", or just generally, at a loss. The only permitted time to sell ETFs is when we have a clear investment to make in our projects, with a good idea about ROI. For example, we have a solid marketing funnel that brings 150% ROI. We need cash to shovel money into the funnel. We can sell equity in the project, we can take credit, or we can sell some ETFs (but only at a profit!) instead. 
 
 
 ## Summary
