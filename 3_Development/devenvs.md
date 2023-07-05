@@ -92,5 +92,5 @@ copying path '/nix/store/pd44mbj4rraiwhdv0ffanmhrbl8nd7sh-python3.9-nodeenv-1.7.
 ```
 
 A few more things to note:
-* CI uses a per-repo authkey that is set as an organization-level secret on GitHub Actions, so all runners get access to `niteo` cache. CI builds on Linux and uploads Linux binaries to cache.
+* CI uses a per-repo authkey that is set as an organization-level secret on GitHub Actions, so all runners get access to the `niteo` cache. CI builds on Linux and uploads Linux binaries to the cache.
 * Niteans mostly use Macs. Whenever a Nitean runs `make lock` to upgrade the development environment, as a last step, this command uploads new binaries to Cachix by running `nix-build shell.nix -A inputDerivation | cachix push niteo`.
