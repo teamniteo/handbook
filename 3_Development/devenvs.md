@@ -15,7 +15,7 @@ Python 3.11.4
 0.19.1
 ```
 
-After changing any dependency version, run `make lock` to make sure all pins are set. 
+After changing any dependency version (for example, running `poetry update pyjokes`), run `make lock` to make sure all pins are set. 
 
 ## Shell convenience - direnv
 
