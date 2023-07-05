@@ -2,7 +2,7 @@
 
 ## Initial setup
 
-We use [Nix](https://nixos.org/) to install all project dependencies, such as the correct Python, Node, Elm versions. Hence you need to have Nix installed before you can start coding on our projects. Follow the [Getting Nix](https://nixos.org/download.html) guide to install Nix. Then you can run `nix-shell` to drop into a shell the contains all project dependencies.
+We use [Nix](https://nixos.org/) to install all project dependencies, such as the correct Python, Node, and Elm versions. Hence you need to have Nix installed before you can start coding on our projects. Follow the [Getting Nix](https://nixos.org/download.html) guide to install Nix. You can then run `nix-shell` to drop into a shell that contains all project dependencies.
 
 ```shell
 ~$ git clone git@github.com:teamniteo/minisites.git
