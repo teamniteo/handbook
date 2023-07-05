@@ -40,7 +40,7 @@ With direnv configured, every time you open a new terminal and `cd` into a proje
 
 Additionally, since nix-shell environments are temporary by default, any time you run `nix-garbage-collect` your project environment will get removed, so you will have to wait longer the next time you `cd` into the project folder, since Nix will have to build things again.
 
-Both of these problems can be overcome by using the `nix-direnv` plugin for direnv. Follow install instructions on https://github.com/nix-community/nix-direnv/, or see how @zupo has [done it on his MacOS](https://github.com/zupo/dotfiles/commit/b77595522ac34bb9819da8967d96a72770e6a58e):
+Both of these problems can be overcome by using the `nix-direnv` plugin for direnv. Follow install instructions on https://github.com/nix-community/nix-direnv/, or see how @zupo has [done it on his Mac](https://github.com/zupo/dotfiles/commit/b77595522ac34bb9819da8967d96a72770e6a58e):
 Here's an example of how the first `cd` takes 3 seconds, and the following one just 0.06 seconds!
 
 ```shell
