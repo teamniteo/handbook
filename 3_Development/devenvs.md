@@ -65,7 +65,7 @@ direnv: export +AR +AS +CC +CONFIG_SHELL +CXX +DETERMINISTIC_BUILD +FRONTEND +HO
 
 ## Speed convenience - Cachix
 
-Nix downloads most dependencies as binaries from [the public Nix cache](http://cache.nixos.org/). However, some binaries need to be compiled during the initial build, for stuff that is private to the project. In order to avoid lengthy compilations, we use [Cachix](https://cachix.org) to supplement the official Nix cache with our private cache. On every push to main, our CI uploads binaries for Linux to our Cachix cache. When you `cd` into the project repo, Nix first tries to downloads our private binaries from Cachix, and only builds them if they are not (yet) available, saving you heaps of time.
+Nix downloads most dependencies as binaries from [the public Nix cache](http://cache.nixos.org/). However, for stuff that is private to the project, the binaries need to be compiled during the initial build. In order to avoid lengthy compilations, we use [Cachix](https://cachix.org) to supplement the official Nix cache with our private cache. On every push to the main branch, our CI uploads binaries for Linux to our Cachix cache. When you `cd` into the project repo, Nix first tries to download our private binaries from Cachix and only builds them if they are not (yet) available, saving you heaps of time.
 
 First, [login into Cachix](https://app.cachix.org/) with your GitHub account. Then go to [`/personal-auth-tokens`](https://app.cachix.org/personal-auth-tokens) to create a personal token. Type `niteo` as Description and select `never` for `Expires`. Save the newly generated token to clipboard.
 
