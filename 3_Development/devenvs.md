@@ -15,6 +15,8 @@ Python 3.11.4
 0.19.1
 ```
 
+After changing any dependency version, run `make lock` to make sure all pins are set. 
+
 ## Shell convenience - direnv
 
 Using `nix-shell` directly does not have the best UX. A better approach is to use your native shell, but just inject the project dependencies into it. We use [direnv](http://direnv.com/) to do this. Then you no longer have to remember to run `nix-shell` because *direnv* will load the project dependencies into your shell when you `cd` into the project.
@@ -33,6 +35,8 @@ minisites$ elm --version
 minisites$ cd ..
 direnv: unloading
 ```
+
+If you make a change to any of the nix files, you can use `direnv reload` instead of `cd`-ing out and back into the project folder.
 
 ## Speed convenience - nix-direnv
 
