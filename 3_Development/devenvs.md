@@ -36,7 +36,7 @@ direnv: unloading
 
 ## Speed convenience - nix-direnv
 
-With direnv configured, every time you open a new terminal and `cd` into a project project, you have to wait a few seconds for Nix to do its magic and prepare a shell for you. This gets a bit annoying after some time.
+With direnv configured, every time you open a new terminal and `cd` into a project, you have to wait a few seconds for Nix to do its magic and prepare a shell for you. This gets a bit annoying after some time.
 
 Additionally, since nix-shell environments are temporary by default, any time you run `nix-garbage-collect` your project environment will get removed, so you will have to wait longer the next time you `cd` into the project folder, since Nix will have to build things again.
 
