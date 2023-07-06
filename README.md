@@ -28,7 +28,7 @@ The structure of the Handbook mirrors our departments for simple organization. B
 
 * [Design Process](/3_Development/design.md)
 * [Git Conventions and Best Practices](/3_Development/git.md)
-* [Development Environments](/3_Development/devenvs.md)
+* [Development Environments with Nix](/3_Development/devenvs.md)
 
 ### Marketing and Support
 
