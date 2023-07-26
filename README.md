@@ -41,6 +41,7 @@ The structure of the Handbook mirrors our departments for simple organization. B
   * [Career at Niteo](/5_People/career.md)
   * [Benefits](/5_People/benefits.md)
   * [Profit Sharing](/5_People/profit-sharing.md)
+  * [Temporary Reductions](/5_People/reductions.md)
 * Hiring and Onboarding
   * [Hiring](/5_People/hiring.md)
   * [Onboarding](/5_People/onboarding.md)
