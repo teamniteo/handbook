@@ -8,6 +8,8 @@ Profit is distributed at the end of each quarter, based on the performance of th
 
 The profit is paid out if cash reserves are high enough to cover nine months of expenses. We define the required reserves as nine months of the last six months' average expenses.
 
+We also pay out a yearly profit. To "force" ourselves into having a yearly profit, we put a pre-defined amount into a separate account ("profit budget") each month, and mark it as an expense. So if we just break zero operationally, we still have some profits to pay from this separate account at the end of the year. The profit from this account is paid out even if the yearly operational profit is negative, but only after we cover cash reserves for nine months of expenses.
+
 ### Past
 
 This part rewards the people that have believed in the company in the past, have invested in it, have lent money to it, etc. The priority of payouts are as follows:
