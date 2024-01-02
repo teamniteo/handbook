@@ -28,9 +28,9 @@ The passwords stored in a password manager should be much longer randomly genera
 
 ### Two-Factor Authentication (2FA)
 
-Whenever possible enable 2FA (two-factor authentication) for logging into services.
+Whenever possible, enable 2FA (two-factor authentication) for logging into services.
 
-* OTP (one-time-password) authentication application, e.g. Google Authenticator, is a really secure option.
+* Using 1Password to [store OTP](https://support.1password.com/one-time-passwords/) (one-time-password) tokens is convenient and safe.
 * SMS authentication should be avoided, unless the only 2FA option, as it is vulnerable to attacks.
 * [U2F](https://en.wikipedia.org/wiki/Universal_2nd_Factor) hardware token is the most secure, requiring a physical device e.g. Yubikey. Further details in [U2F explained](https://www.howtogeek.com/232314/u2f-explained-how-google-microsoft-and-others-are-creating-universal-two-factor-authentication-tokens/).
 
