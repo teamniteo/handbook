@@ -20,7 +20,7 @@ In addition there are ad-hoc in-person meetups that happen about once or twice a
 
 ## Project And Company Management
 
-We work in 2-week Scrum Sprints described in detail in the [work process](work-process.md) document.
+We organize our work using a Kanban board which is described in detail in the [work process](work-process.md) and [kanban](kanban.md) documents.
 
 Project and task management is currently done with [GitHub and ZenHub](/2_Operations/apps.md). Support handles tickets through Help Scout.
 

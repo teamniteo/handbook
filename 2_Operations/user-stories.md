@@ -1,11 +1,12 @@
 # User Stories
 
-User Stories are well-defined tasks to be done by a Nitean that have a specific, measurable goal and impact. The vast majority of issues are written as User Stories, and only issues created by support that are reactionary and straightforward are not. Support issues are also not included in sprints.
+User Stories are well-defined tasks to be done by a Nitean that have a specific, measurable goal and impact. The vast majority of issues are written as User Stories, and only issues created by support that are reactionary and straightforward are not.
 
-All User Stories are located in their project repositories:
+Once important enough, all User Stories go into the project's repository.
 - EBN project: [`teamniteo/easyblognetworks`](https://github.com/teamniteo/easyblognetworks/)
-- KAI project: [`teamniteo/kai`](https://github.com/teamniteo/kai)
-- WooCart project: [`teamniteo/woocart`](https://github.com/teamniteo/woocart)
+- Niteo House project: [`teamniteo/house`](https://github.com/teamniteo/house/)
+- Pareto project: [`teamniteo/pareto`](https://github.com/teamniteo/pareto/)
+- SEO Domain Finder project: [`teamniteo/sdf`](https://github.com/teamniteo/sdf/)
 - Company issues: [`teamniteo/operations`](https://github.com/teamniteo/operations/)
 
 We have many repositories for each project but we write all User Stories in the main repository.
@@ -36,7 +37,7 @@ Finally, take a bit of time to consider at least one pitfall (downside) to imple
 
 The Best Practices are a list of items that should relate to the Story and guide the writing of the Expectations for completion of the Story.
 
-All major features should have a blog post written. If you are not sure if it should be written or not, ask the Scrum master or product owner. The marketing team writes and reviews the details of the actual blog post.
+All major features should have a blog post written. If you are not sure if it should be written or not, ask the project lead. The marketing team writes and reviews the details of the actual blog post.
 
 ### Expectations (Acceptance Criteria)
 
@@ -44,29 +45,28 @@ The expected outcomes of the User Story which is a list of items stating how the
 
 ## Story Points
 
-A [Story Point](https://agilefaq.wordpress.com/2007/11/13/what-is-a-story-point/) is an arbitrary measure used by Scrum teams to indicate the effort required to implement a User Story. One full-time member on sprint should be able to do 10 Story Points. That said, there should be 2 Story Points reserved for code reviews, cleanup, writing new User Stories, catchups, mentoring, and pair programming.
+A [Story Point](https://agilefaq.wordpress.com/2007/11/13/what-is-a-story-point/) is an arbitrary measure used by Scrum teams to indicate the effort required to implement a User Story. Story points are not a representation of time, but rather a combination of Risk, Repetition, and Complexity. However, we typically think of one story point as the amount of work a person can do in one day.
 
 ## Pipelines
 
-From initial creation to being worked upon and finally closed, a User Story will be moved to different pipelines as it progresses through a sprint. This is a summary of the workflow of a User Story:
+From initial creation to being worked upon and finally closed, a User Story will be moved to different pipelines as it progresses through the Kanban board. This is a summary of the workflow of a User Story:
 
 1. **New Issues** - New work-in-progress (WIP) User Stories, also includes bugs or issues.
 1. **Estimation** - Defined User Stories, ready for verifying and Story point estimation.
-1. **Backlog** - Waiting for inclusion in a sprint. They are adequately defined with assigned Story points.
-1. **To Do** - In the current sprint with a champion assigned to work on it.
-1. **In Progress** - Being worked upon by the champion during the current sprint.
+1. **Backlog** - Waiting to be started. They are adequately defined with assigned Story points and are typically also assigned to a Nitean.
+1. **In Progress** - Currently being worked upon by the assignee.
 1. **Review** - Completed with a demo uploaded and awaiting final review.
 1. **Closed** - All defined expectations have been met.
 
 ### Estimation
 
-For the User Story to be included in a sprint, it must be verified and voted upon. To start this process put the User Story in the `Estimation` pipeline.
+For the User Story to be moved to the **Backlog**, it must be verified and voted upon. To start this process put the User Story in the **Estimation** pipeline.
 
-The Scrum master and product owner will verify that the User Story is well defined. If required they will assign people from whom they want to receive feedback for better definition of the User Story. Once these assignees post their feedback, they remove their assignment from the User Story.
+The project lead will verify that the User Story is well defined. If required they will assign people from whom they want to receive feedback for better definition of the User Story. Once these assignees post their feedback, they remove their assignment from the User Story.
 
 #### Voting
 
-Once the User Story is verified the Scrum master assigns team members from whom they want to receive Story point estimations. Team members vote on a Story by adding a comment with their Story point estimation to the User Story, then remove their assignment from the User Story.
+Once the User Story is verified the author assigns team members from whom they want to receive Story point estimations. Team members vote on a Story by adding a comment with their Story point estimation to the User Story, then remove their assignment from the User Story.
 
 To not influence anyone else's voting, we hide these estimate values in comments by using the following code snippet:
 
@@ -81,9 +81,9 @@ To not influence anyone else's voting, we hide these estimate values in comments
 
 ### Backlog
 
-After a User Story in `Estimation` pipeline has been voted upon, the Scrum master checks for consensus on the Story points and sets the estimation to that value then moves the User Story to the top of the `Backlog` pipeline.
+After a User Story in **Estimation** pipeline has been voted upon, the project lead checks for consensus on the Story points and sets the estimation to that value then moves the User Story to the **Backlog** pipeline.
 
-With a well-defined Story and Story points, the User Story is now ready to be included in the next sprint.
+With a well-defined Story and Story points, the User Story is now ready to be worked on.
 
 
 ## Assignment
@@ -92,9 +92,9 @@ You are assigned to a User Story or issue when something is required from you:
 
 - Provide feedback to further the User Story.
 - Estimate the Story Points needed to complete the User Story.
-- Champion the User Story in a sprint.
+- Work on the User Story to complete the expected goals.
 
-You must keep your assignment if the User Story is included in the current sprint and is already in progress. This allows us to see who worked on what even when the sprint ends. However, if the User Story is not in the current sprint and your task is complete, you may remove your assignment and unsubscribe from notifications.
+You must keep your assignment to the User Story from when you work on it until it is reviewed and closed. This allows us to see who worked on what even when the User Story is closed.
 
 ## Demos
 

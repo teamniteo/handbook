@@ -24,11 +24,11 @@ These are the stages that the designers follow to create a new application or we
 
 ### Wireframe
 
-Product Owner and Marketing talk about the goals of the application or website. They will outline the first content and explain the requirements to the designers and the creation of a wireframe model will be the result (a monochrome sketch). A Mockup is a wireframe with more detail and is only done when such detail is required (usually for sales pages).
+Project lead and marketing talk about the goals of the application or website. They will outline the first content and explain the requirements to the designers and the creation of a wireframe model will be the result (a monochrome sketch). A Mockup is a wireframe with more detail and is only done when such detail is required (usually for sales pages).
 
 ### Design Mockup
 
-A mood board (a collage consisting of images and text) is created to enable collaboration on the style of the product. Once a consensus is reached, the details of the wireframe and mood board are captured in a graphical design mockup. The final version will be approved by the Product Owner and the process moves on to implementing the design.
+A mood board (a collage consisting of images and text) is created to enable collaboration on the style of the product. Once a consensus is reached, the details of the wireframe and mood board are captured in a graphical design mockup. The final version will be approved by the project lead and the process moves on to implementing the design.
 
 ### Implementation
 

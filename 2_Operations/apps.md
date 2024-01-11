@@ -8,26 +8,14 @@ We found that a lot of discussions, even work-related, naturally flow into priva
 
 If you are on the receiving end of a question or message that should really be posted on a public channel, reply with the following: `Hey! Let's take this to one of our public channels so that others can learn or chip in. I'll re-post and reply there.`.
 
-Here is how we set reminders for daily standups in Slack:
+Here is how we set reminders for meetings in Slack:
 
 ```
 Set up reminders on the week they should be posted before reminder post time.
 
-Sprint planning / sprint retro week:
-/remind #operations every two weeks on Tuesday at 8:00 UTC "@here Reminder that stories need to be closed an hour before retro starts."
-/remind #operations every two weeks on Tuesday at 11:50 UTC "Sprint retrospective in 10 minutes!"
-/remind #operations every two weeks on Tuesday at 11:59 UTC "@here Sprint retrospective starting now!"
-/remind #operations every two weeks on Wednesday at 10:50 UTC "@here Add your stories to the To Do pipeline."
-/remind #operations every two weeks on Wednesday at 11:50 UTC "Sprint planning in 10 minutes!"
-/remind #operations every two weeks on Wednesday at 11:59 UTC "@here Sprint planning starting now!"
-
-Second week of the sprint:
-/remind #operations every two weeks on Thursday at 11:50 UTC “Standup in 10 minutes! Join the appropriate Zoom room or write an #out-of-office message if not attending”
-/remind #operations every two weeks on Thursday at 11:59 UTC “@here Standup starting now!”
-
 Weekly:
-/remind #operations every Monday at 11:50 UTC “Standup in 10 minutes! Join the appropriate Zoom room or write an #out-of-office message if not attending”
-/remind #operations every Monday at 11:59 UTC “@here Standup starting now!”
+/remind #operations every Monday at 11:50 UTC “Meeting in 10 minutes! Join the appropriate Zoom room or write an #out-of-office message if not attending”
+/remind #operations every Monday at 11:59 UTC “@here Meeting starting now!”
 ```
 
 #### Channels
@@ -40,14 +28,14 @@ How to know which channel to write to? Write to the most specific channel. If yo
 
 #### Decreasing Distractions
 
-Slack can be a [big distraction](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d), especially if you're constantly receiving notifications or checking for replies. 
+Slack can be a [big distraction](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d), especially if you're constantly receiving notifications or checking for replies.
 
 There are settings you can change to decrease distractions. In the Slack app, click on Niteo on top and go to Preferences. Notifications settings will open, and these are the recommended settings:
 
-- **Notify me about**: choose `Direct messages, mentions & keywords`. Uncheck `Notify me about replies to threads I'm following`. If you still get too many pings, try using `Nothing`. 
-- **Sound & appearance**: check `Mute all sounds from Slack`, audio pings are extremely distracting. Uncheck `Bounce Slack's icon when receiving a notification`, another really annoying distraction. Unchecking `Include a preview of the message in each notification` will help you keep focus by notifying you of the message but not what it's about (where your brain automatically starts thinking about it). If you always need Slack empty of the red icon and click through everything to "clean it", uncheck `Show a badge on Mac on Slack's icon to indicate new activity`. 
+- **Notify me about**: choose `Direct messages, mentions & keywords`. Uncheck `Notify me about replies to threads I'm following`. If you still get too many pings, try using `Nothing`.
+- **Sound & appearance**: check `Mute all sounds from Slack`, audio pings are extremely distracting. Uncheck `Bounce Slack's icon when receiving a notification`, another really annoying distraction. Unchecking `Include a preview of the message in each notification` will help you keep focus by notifying you of the message but not what it's about (where your brain automatically starts thinking about it). If you always need Slack empty of the red icon and click through everything to "clean it", uncheck `Show a badge on Mac on Slack's icon to indicate new activity`.
 
-We encourage you to **quit Slack** when you need time for undistracted work. Make sure that other Niteans that depend on your feedback know that you're away. But unless there's a fire, a few hours of uninterrupted work will only benefit everyone. 
+We encourage you to **quit Slack** when you need time for undistracted work. Make sure that other Niteans that depend on your feedback know that you're away. But unless there's a fire, a few hours of uninterrupted work will only benefit everyone.
 
 You can also use the **bell icon** (Notifications) to disable all notifications for a specific time period. However, this still shows the number of received messages in the Slack app icon (which is a distraction in itself).
 
@@ -98,9 +86,6 @@ Nitean:
 
 Dropbox is one of the best file sharing services out there. We have a Business account that gives us terabytes of data.
 
-On top of Dropbox we use Boxcryptor, to give us end-to-end encryption of our files.
-
 For nicer search experience using Alfred on macOS:
-  * Add `~/Library/CloudStorage/Boxcryptor-Dropbox/Niteans` to `Search Scope` under `Default Results` configuration pane. 
+  * Add `~/Library/CloudStorage/Boxcryptor-Dropbox/Niteans` to `Search Scope` under `Default Results` configuration pane.
   * Add `~/home/<user>/Niteo Dropbox/Niteans` to `Prevent Spotlight from searching these locations:`.
-
