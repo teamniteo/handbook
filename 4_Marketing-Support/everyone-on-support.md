@@ -27,7 +27,7 @@ Report for EOS once every month. Having it as a full working day duty affords be
 
 ### III. Schedule
 
-Everyone will set their own schedule and keep with it. Update the [recurring Sprint Story](https://github.com/teamniteo/easyblognetworks/issues/238) with your preferred date during sprint planning.
+Everyone will set their own schedule and keep with it. Update the [recurring User Story](https://github.com/teamniteo/easyblognetworks/issues/238) with your preferred date during the Monday Meeting.
 
 # Further Reading:
 

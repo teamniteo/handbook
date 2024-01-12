@@ -5,11 +5,21 @@
 * Website: [easyblognetworks.com](https://www.easyblognetworks.com)
 * [Repository](https://github.com/teamniteo/easyblognetworks)
 
-### WooCart
+### Niteo House
 
-* Website: [woocart.com](https://woocart.com)
-* [Repository](https://github.com/teamniteo/woocart)
-* [Public repository](https://github.com/woocart)  
+* Website: [house.niteo.co](https://house.niteo.co)
+* [Repository](https://github.com/teamniteo/house)
+
+### Pareto Security
+
+* Website: [paretosecurity.com](https://paretosecurity.com)
+* [Repository](https://github.com/teamniteo/pareto)
+* [Public Repository](https://github.com/ParetoSecurity/pareto-mac)
+
+### SEO Domain Finder
+
+* Website: [seodomainfinder.com](https://seodomainfinder.com)
+* [Repository](https://github.com/teamniteo/sdf)
 
 ## Project Template
 
@@ -38,7 +48,7 @@ Elevator pitches: spoken and for reading online.
 
 Links to personas.
 
-## The Team 
+## The Team
 
 `[handle: primary role, secondary role(s)]`
 
