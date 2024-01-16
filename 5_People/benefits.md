@@ -17,7 +17,7 @@ In other words, would something boost your productivity, creativity, or help imp
 
 ### Allowance Budget
 
-The current monthly allowance budget as of *January 2023* is:
+The current monthly allowance budget as of *January 2024* is:
 
  * Niteans: _€150 ($180)_
  * Founders: _€305_
