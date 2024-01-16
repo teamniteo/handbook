@@ -3,7 +3,7 @@
 ## Schedule
 
 * Every **Monday** we have a [meeting](https://github.com/teamniteo/handbook/blob/master/2_Operations/kanban.md#monday-meetings):
-   * 12:00 UTC for the whole company in the Niteo Zoom room followed immediately by separate meetings for the projects in their own Zoom rooms.
+   * 12:00 UTC for the whole company in the #operations channel huddle followed immediately by separate meetings for the projects in their own channel huddles.
 
 * Every weekday Niteans should check their [GitHub notifications](https://github.com/notifications) so that they don't miss things that involve them.
 
@@ -39,7 +39,7 @@ As an attendee, ask yourself:
 
 As a curator:
 
-- Organize which time to have the session and annoince it in #development when it's time to join and which Zoom room to use.
+- Organize which time to have the session and annoince it in #development when it's time to join and which Slack huddle to use.
 - Prepare a joke or something funny to share.
 - As a curator, meet and greet everyone, especially first-time joiners.
 - Announce who is having the Lightning talk if one was prepared.
@@ -53,7 +53,7 @@ While working on user stories we often need to change code or text that we keep 
 
 To ensure that your commits and Pull Requests contain everything necessary for a successful review, read through the [Git](/3_Development/git.md) guide for the best practices.
 
-When a User Story or Pull Request is getting close to being completed but there are still open issues, Niteans should have a discussion on Zoom. We don't want to see long PR discussions on GitHub. The **author** of the issue should ping people on Slack and get them on Zoom to polish things.
+When a User Story or Pull Request is getting close to being completed but there are still open issues, Niteans should have a discussion. We don't want to see long PR discussions on GitHub. The **author** of the issue should ping people on Slack and get them on Slack huddle to polish things.
 
 ## Continual Improvement
 
