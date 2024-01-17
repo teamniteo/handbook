@@ -14,7 +14,7 @@ Here is how we set reminders for meetings in Slack:
 Set up reminders on the week they should be posted before reminder post time.
 
 Weekly:
-/remind #operations every Monday at 11:50 UTC “Meeting in 10 minutes! Join the appropriate huddle or write an #out-of-office message if not attending”
+/remind #operations every Monday at 11:50 UTC “Meeting in 10 minutes! Join the appropriate Slack's huddle or write an #out-of-office message if not attending”
 /remind #operations every Monday at 11:59 UTC “@here Meeting starting now!”
 ```
 
