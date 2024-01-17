@@ -40,7 +40,7 @@ Recruitee guides us through the following stages of hiring a new Nitean. A candi
 
 **4. Phone Screen**
 
-   A chat over Skype, Hangouts or Zoom with @marbeann. Calls can last anywhere between 10 to 30 minutes. The goal is to confirm the candidate is able to communicate via video conferencing. Is their connection OK? Is their English OK? Can they hold a discussion on a subject?
+   A chat over Zoom with @marbeann. Calls can last anywhere between 10 to 30 minutes. The goal is to confirm the candidate is able to communicate via video conferencing. Is their connection OK? Is their English OK? Can they hold a discussion on a subject?
 
    @marbeann also confirms the following:
    * Weekly commitment for the trial period (full- or part-time).
