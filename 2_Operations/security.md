@@ -74,7 +74,7 @@ Always use HTTPS, under all circumstances, if the service does not support this,
 
 ## Sharing Customer Data
 
-Under no circumstances should you send any customer data unencrypted (that includes Slack!). Sharing customer data such as lists of email addresses can be done using either [Boxcryptor or Signal](apps.md) so that no one else has access to these private details.
+Under no circumstances should you send any customer data unencrypted (that includes Slack!). Sharing customer data such as lists of email addresses can be done using [Signal](apps.md) so that no one else has access to these private details.
 
 To share individual customer details, you can securely reference them by using their application ID or customer issue ticket (e.g., Help Scout).
 
