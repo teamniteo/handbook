@@ -82,10 +82,10 @@ Nitean:
   - For a Debian-based system, go to Settings > Network and select `Import a saved VPN configuration` under VPN, point to the `.ovpn` file, and fill out the username and password.
   - For other systems, you can refer to the distribution manual for instructions.
 
-## Dropbox+Boxcryptor
+## Dropbox
 
 Dropbox is one of the best file sharing services out there. We have a Business account that gives us terabytes of data.
 
 For nicer search experience using Alfred on macOS:
-  * Add `~/Library/CloudStorage/Boxcryptor-Dropbox/Niteans` to `Search Scope` under `Default Results` configuration pane.
+  * Add `~/Library/CloudStorage/Dropbox/Niteans` to `Search Scope` under `Default Results` configuration pane.
   * Add `~/home/<user>/Niteo Dropbox/Niteans` to `Prevent Spotlight from searching these locations:`.
