@@ -5,6 +5,9 @@
 * Do not store confidential or sensitive information in plain text.
 * Do not store sensitive information with any of the big 10 cloud providers (MS, Google, Apple, Dropbox, etc.). Store information locally, on our internal infrastructure or with smaller providers (preferably non-US based).
 * Go through the [UK's NCSC training](https://www.ncsc.gov.uk/training/v4/Top+tips/Web+package/content/index.html#/), [EdApp's Cyber Security](https://www.edapp.com/course/cyber-security-15/), and [ESET's Cybersecurity Awareness Training](https://www.eset.com/us/business/cybertraining/).
+* Take the following Quizzes to learn to detect Phishing:
+  * https://phishingquiz.withgoogle.com/
+  * https://www.phishingbox.com/phishing-iq-test/results.php
 
 ## Passwords
 
