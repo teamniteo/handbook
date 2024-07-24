@@ -92,7 +92,7 @@ We'll be buying whole-market index funds for stocks and bonds.
 
 We're looking to invest in the lowest cost funds by a large and reputable fund. Niteo, Dejan, and Nejc all invest in [Vanguard's](https://en.wikipedia.org/wiki/The_Vanguard_Group) funds:
 
-- VWRA for the global stock market (listed as VWCE in EUR)
+- VWCE for the global stock market (listed as VWCE in EUR)
 - VAGF for the global bond market
 
 How should you split your portfolio between the two assets? The most popular split is 70% stocks and 30% bonds. If you're young and have the stomach for higher volatility (change in portfolio value), you can go higher with the stocks. When you're closer to retirement, you start adding more to bonds.
@@ -109,7 +109,7 @@ If you'd like to learn more about investing, [Ben Felix's YouTube channel](https
 ### TL;DR
 
 - Open an Interactive Brokers account.
-- For 70% of your portfolio, buy Vanguard's fund VWRA for the global stock market.
+- For 70% of your portfolio, buy Vanguard's fund VWCE for the global stock market.
 - For 30% of your portfolio, buy Vanguard's fund VAGF for the global bond market.
 - Invest whenever your savings hit $5000.
 - Buy and hold until retirement.
