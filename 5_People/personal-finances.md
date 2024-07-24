@@ -114,3 +114,4 @@ If you'd like to learn more about investing, [Ben Felix's YouTube channel](https
 - Invest whenever your savings hit $5000.
 - Buy and hold until retirement.
 - If you have a house loan but want to invest, see [Ben Felix's video on the topic](https://www.youtube.com/watch?v=AKc01jo1qLw).
+- Another great resource is https://indexfundinvestor.eu/. 
