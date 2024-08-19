@@ -89,3 +89,26 @@ Dropbox is one of the best file sharing services out there. We have a Business a
 For nicer search experience using Alfred on macOS:
   * Add `~/Library/CloudStorage/Dropbox/Niteans` to `Search Scope` under `Default Results` configuration pane.
   * Add `~/home/<user>/Niteo Dropbox/Niteans` to `Prevent Spotlight from searching these locations:`.
+
+
+## AI
+
+We can't imagine modern tech world without the help of various AI tools. The list below is the base of what every Nitean should have installed and integrated into their daily work, but is in no way a definitive list; if you finds something else that works for you, by all means, use it! 
+
+#### GitHub Copilot
+
+Not the sharpest AI model, but the best integrated one. Especially when using VSCode, it gently suggest code and even text, math solutions in Markdown files on-the-fly, as you write. "Free" productivity gain, no need to change your habits at all. 
+
+Sign up at https://github.com/features/copilot/plans and mark the expense as your [Productivity Allowance](https://github.com/teamniteo/handbook/blob/main/5_People/benefits.md#productivity-allowance).
+
+Make sure you untick `Allow GitHub to use my code snippets from the code editor for product improvements` on https://github.com/settings/copilot.
+
+#### ChatGPT
+
+We have a company account for OpenAI's ChatGPT, find the credentials in 1Password.
+
+Top tip: there is no need for a personal account, you can use the [Temporary Chat](https://help.openai.com/en/articles/8914046-temporary-chat-faq) feature to ask for personal/stupid/non-work stuff.  
+
+### ClaudeAI
+
+Another popular chat model, which we also have a company account for. Find the credentials in 1Password.
