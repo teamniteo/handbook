@@ -60,27 +60,20 @@ Signal is to be used primarily for sending confidential information that must ne
 
 ## VPN
 
-We use NordVPN Teams to securely tunnel Internet traffic when we are not on our home network.
+We use WireGuard to securely tunnel Internet traffic and allow access to certain resources when we are not on our home network.
 
 #### Usage
 
-1. Go to https://nordvpnteams.com/download/ and install their app. It works on both desktop and mobile.
-1. See your invitation email for the link to activate your account and get your login credentials.
-1. Open the app and connect to `niteo` under `Organization gateways`.
-- For private use like torrenting, make sure you are using one of the shared servers that NordVPN provides and not our organization gateway.
-- If you're connected to the VPN, put your computer to sleep, and then relocate (i.e. you connect to a different WiFi), you will need to reconnect to the same VPN server for the internet to work.
+1. Go to https://www.wireguard.com/install/ and install the app. It works on both desktop and mobile.
+1. Find or add your device in the [VPNix repo](https://github.com/teamniteo/vpnix/tree/main/nitean-devices) and download the `.conf` file for desktop or display the `.png` file for mobile. We have multiple regions so make sure you select the one closest to you. E.g. `VPNix-de-...` for Europe or `VPNix-us-...` for the Americas.
+1. Open up the WireGuard app and click on `Import Tunnel(s) from File...` on desktop or tap on `Create from QR code` on mobile.
+1. Activate the VPN connection and you're good to go!
 
-#### Linux (OpenVPN)
-For Linux, you have to ask one of the [partners](https://github.com/orgs/teamniteo/teams/partners) to get the required files for you.
+Note that you can only have one active connection per configuration at a time so make sure you add all your devices to [this file](https://github.com/teamniteo/vpnix/blob/main/nitean-devices/nitean-devices.yaml) to get unique configuration files per device.
 
-Partner:
-  - As an admin, go to https://cp.nordvpnteams.com/downloads.
-  - Under Manual configuration, select the team member, the correct gateway, and download the `OpenVPN UDP config`.
-  - Copy the username and password.
+#### Linux
+For NixOS, see the documentation in the [VPNix repo's readme file](https://github.com/teamniteo/vpnix/blob/main/README.md#nixos). For other Linux distros, please refer to the [wg-quick documentation](https://git.zx2c4.com/wireguard-tools/about/src/man/wg-quick.8).
 
-Nitean:
-  - For a Debian-based system, go to Settings > Network and select `Import a saved VPN configuration` under VPN, point to the `.ovpn` file, and fill out the username and password.
-  - For other systems, you can refer to the distribution manual for instructions.
 
 ## Dropbox
 
