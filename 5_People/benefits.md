@@ -19,14 +19,14 @@ In other words, would something boost your productivity, creativity, or help imp
 
 The current monthly allowance budget as of *January 2024* is:
 
- * Niteans: _€150 ($180)_
+ * Niteans: _€150
  * Founders: _€305_
 
 The monthly budgets compound every month, so whatever you do not spend this month, you can use the next month, or the one after. The maximum allowance balance you can keep is 18 months.
 
 You can request an increase in your Allowance if you feel the current one doesn't cover all the expenses for you. You can spend a few months of future allowance balance. That said, it's smart to keep at least a few months allowance, just in case something breaks.
 
-If they attended a conference in the previous year, each Nitean gets a €1000 ($1195) additional budget on the 1st of January every year.
+If they attended a conference in the previous year, each Nitean gets a €1000 additional budget on the 1st of January every year.
 
 Every Nitean, when they transition from Trialist to a Permanent position, starts with an allowance budget that is proportional to how many months remain in the year (€1000 in January, €500 in July, etc.)
 
@@ -40,9 +40,9 @@ All conference expenses such as transport, accommodation, food, etc., are covere
 
 The allowance bonus accounts for all the days you are away at the conference and depends on the amount of traveling and accommodation required:
 
-* €50 ($60)/day for local conferences, in or near your home city.
-* €180 ($215)/day for international conferences.
-* €305 ($365)/day for intercontinental conferences.
+* €50/day for local conferences, in or near your home city.
+* €180/day for international conferences.
+* €305/day for intercontinental conferences.
 * Bonus 50%/conference day if you give a 30-60min talk at the conference or tending our booth.
 
 Conferences count as working days (7.5h per day). Transport to conferences counts too (up to 7.5h per day).

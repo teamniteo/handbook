@@ -29,25 +29,25 @@ Let's look at an example of a computer purchase. In our first example, we'll buy
 
 |     Out-of-pocket         |      | 
 |--------------|------| 
-| Revenue      | $2000 | 
-| Income       | $2000 | 
-| Tax 20%      | $400  | 
+| Revenue      | €2000 | 
+| Income       | €2000 | 
+| Tax 20%      | €400  | 
 |              |      | 
-| Computer     | $1000 | 
-| Your balance | $600  | 
+| Computer     | €1000 | 
+| Your balance | €600  | 
 
 Now, let's look at an example where we buy the computer as a company expense.
 
 |   Company expense           |      | 
 |--------------|------| 
-| Revenue      | $2000 | 
-| Computer     | $1000 | 
-| Income       | $1000 | 
-| Tax 20%      | $200  | 
+| Revenue      | €2000 | 
+| Computer     | €1000 | 
+| Income       | €1000 | 
+| Tax 20%      | €200  | 
 |              |      | 
-| Your balance | $800  | 
+| Your balance | €800  | 
 
-As you can see, we've saved $200 by purchasing the computer for the company instead of ourselves. You can do this with all legitimate expenses for your company.
+As you can see, we've saved €200 by purchasing the computer for the company instead of ourselves. You can do this with all legitimate expenses for your company.
 
 Talk to a local accountant as different jurisdictions have different rules for different types of companies.
 
@@ -60,7 +60,7 @@ Investing is a vast topic, and financial advisors will try to persuade you that 
 We're assuming that:
 
 - You're investing for the long term (decades, not years, much less months).
-- You have at least $5000 to invest and plan to add regularly every year.
+- You have at least €5000 to invest and plan to add regularly every year.
 - You don't need the money now or in a year (better yet: only after retirement). 
 - You have the discipline to keep to a strategy even when it looks like it's not working. This means not selling when there is a panic in a market.
 
@@ -111,7 +111,7 @@ If you'd like to learn more about investing, [Ben Felix's YouTube channel](https
 - Open an Interactive Brokers account.
 - For 70% of your portfolio, buy Vanguard's fund VWCE for the global stock market.
 - For 30% of your portfolio, buy Vanguard's fund VAGF for the global bond market.
-- Invest whenever your savings hit $5000.
+- Invest whenever your savings hit €5000.
 - Buy and hold until retirement.
 - If you have a house loan but want to invest, see [Ben Felix's video on the topic](https://www.youtube.com/watch?v=AKc01jo1qLw).
 - Another great resource is https://indexfundinvestor.eu/. 
