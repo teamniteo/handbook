@@ -71,7 +71,7 @@ Another example: Two months later, John goes to a three-day conference in Barcel
     * Hotel and food are €600.
     * John spends extra €300 on niceties that make his trip more enjoyable.
     * John gets his salary in EUR.
-    * John's monthly Allowance is €150.
+    * John's monthly Allowance is €155.
 
     The conference bonus is calculated like so (with a day of travel each way):
 
