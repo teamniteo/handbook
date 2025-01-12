@@ -100,8 +100,8 @@ Make sure you untick `Allow GitHub to use my code snippets from the code editor 
 
 We have a company account for OpenAI's ChatGPT, find the credentials in 1Password.
 
-Top tip: there is no need for a personal account, you can use the [Temporary Chat](https://help.openai.com/en/articles/8914046-temporary-chat-faq) feature to ask for personal/stupid/non-work stuff.  
+Top tip: there is no need for a personal account, you can use the [Temporary Chat](https://help.openai.com/en/articles/8914046-temporary-chat-faq) feature to ask for personal/stupid/non-work stuff. It is actually better to use the company account since we pay for the most expensive model. 
 
 ### ClaudeAI
 
-Another popular chat model, which we also have a company account for. Find the credentials in 1Password.
+Another popular chat model, which we also have a company account for. To log in, find the username in 1Password, then go to #mail-to-slack to receive the login link. 
