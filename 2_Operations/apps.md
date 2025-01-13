@@ -1,5 +1,11 @@
 # Apps We Use
 
+## Kagi Search
+
+Kagi is a great replacement for Google. It respects your privacy because it is a paid service. Its results are better because there are no sponsorsed links. It's fully configurable and it has [Lenses](https://help.kagi.com/kagi/features/lenses.html).
+
+Ping @zupo to get an invite link, then download their extension to plug it into your browser. 
+
 ## Slack
 
 Join the channels `#operations`, `#watercooler`, `#out-of-office`, and any other channels you find interesting. Our default mode of operation is to use public channels for all communication. The only things to be discussed in private are off-work chit-chat, constructive criticism, and planning one-on-one meetings.
