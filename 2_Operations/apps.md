@@ -4,7 +4,7 @@
 
 Kagi is a great replacement for Google. It respects your privacy because it is a paid service. Its results are better because there are no sponsorsed links. It's fully configurable and it has [Lenses](https://help.kagi.com/kagi/features/lenses.html).
 
-Ping @zupo to get an invite link.
+Ping @zupo to get an invite link, then download their extension to plug it into your browser. 
 
 ## Slack
 
