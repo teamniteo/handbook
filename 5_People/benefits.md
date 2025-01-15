@@ -8,12 +8,11 @@ We believe every Nitean should take part in the success of the company. If the c
 
 The Productivity Allowance is a monthly budget that, coupled with common sense, can be used to pay for any expenses that you believe can improve your mental health, physical health, or productivity. It can not be used to buy things that could potentially be dangerous to you. Also, make sure to leave enough Allowance to be able to participate in conferences or replace equipment if anything breaks.
 
-Here's a real-world example list of what Niteans have spent their Allowances on:
-transportation, food/drinks, accommodation, and travel insurance related to conferences or IRL meetups, HDD disks, smartphones, phone bills, technical courses, English courses, meetups, books, apps, smartwatches, air diffusers, laptops, computer components, mice and keyboards, various cables and chargers, stationery, suitcases, portable SSD's, power banks, headphones, Raspberry Pi's, monitors, donations, domain names, internet connections, chairs, desks, coworking spaces, routers, yoga mats, board games, gym memberships, iPads, Apple Pencils, Yubikeys, swimming pool tickets, blenders, physiotherapy, 3D printers, scanners, and running shoes.
+Here's a real-world example list of what Niteans have spent their Allowances on: transportation, food/drinks, accommodation, and travel insurance related to conferences or IRL meetups, HDD disks, smartphones, phone bills, technical courses, English courses, meetups, books, apps, smartwatches, air diffusers, laptops, computer components, mice and keyboards, various cables and chargers, stationery, suitcases, portable SSDs, power banks, headphones, Raspberry Pi's, monitors, donations, domain names, internet connections, chairs, desks, coworking spaces, routers, yoga mats, gym memberships, iPads, Apple Pencils, Yubikeys, swimming pool tickets, physiotherapy, 3D printers, scanners.
 
-And here's a real-world example list of what Niteans were denied spending their Allowances on: moped, e-scooter, medical insurance.
+And here's a real-world example list of what Niteans were denied spending their Allowances on: moped, e-scooter, medical insurance, food delivery.
 
-In other words, would something boost your productivity, creativity, or help improve your overall health? Good, feel free to buy it with your Allowance, no questions asked.
+In other words, would something boost your productivity, creativity, or help improve your overall health? Good, feel free to buy it with your Allowance.
 
 ### Allowance Budget
 
@@ -29,6 +28,10 @@ You can request an increase in your Allowance if you feel the current one doesn'
 If they attended a conference in the previous year, each Nitean gets a €1000 additional budget on the 1st of January every year.
 
 Every Nitean, when they transition from Trialist to a Permanent position, starts with an allowance budget that is proportional to how many months remain in the year (€1000 in January, €500 in July, etc.)
+
+### Spending Allowance
+
+You can purchase from your own pocket and request a reimbursement, or you can use the company allowance card for online purchases. For more information, see [Allowance payments](https://github.com/teamniteo/ops/blob/master/administration/allowance-payments.md).
 
 ## Travel Bonus
 
