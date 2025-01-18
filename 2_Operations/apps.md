@@ -1,5 +1,7 @@
 # Apps We Use
 
+Apart from the ones below, we use a bunch of other apps. Before you purchase a license for any app, search our 1Password vault, we might already have it! 
+
 ## Kagi Search
 
 Kagi is a great replacement for Google. It respects your privacy because it is a paid service. Its results are better because there are no sponsorsed links. It's fully configurable and it has [Lenses](https://help.kagi.com/kagi/features/lenses.html).
