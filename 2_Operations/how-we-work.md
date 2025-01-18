@@ -10,25 +10,26 @@ A bad example of this can be: "Hey, do you have some time to talk?". If a senior
 
 To avoid that, we encourage Niteans to state what they want from the other person, what they would like to talk about, and where they would like to talk about it, e.g. chat, voice, or video.
 
-A good example of this can be: "Hey, I'd like your opinion on which approach is better for the project. Can we meet on huddle?".
+A good example of this can be: "Hey, I'd like your opinion on which approach is better for the project. Can we meet on Zoom?".
 
-Instant messaging is done through Slack on different channels (operations, support, development etc.). We have standups on Slack huddles every Monday and Thursday at 12 noon UTC, where everyone has a minute or two to say what they’re working on and if they need any help.
+Instant messaging is done through Slack on different channels (operations, support, development etc.). We have weekly all-hands on Zoom every Monday at 12 noon UTC, where we plan the week ahead. 
 
-Twice a month, senior team members have [Catchups](../5_People/catchups.md) with everyone on the team to keep themselves in the loop.
+Once a month, senior team members have [Catchups](../5_People/catchups.md) with everyone on the team to keep themselves in the loop.
 
-About once or twice a year we fly the whole team somewhere nice and we’ll have an *IRL* (in-real-life) meetup. Here we discuss company status, projects and the future in a group setting. IRLs normally happen in January and in July, perfect timing to review the (half-)year. Every Nitean is encouraged to attend in person, but we provide remote access as well. It's OK to remotely attend an IRL every now and then, but generally we expect everyone to be there in person.
+Twice a year we fly the whole team somewhere nice and we’ll have an *IRL* (in-real-life) meetup. Here we discuss company status, projects and the future in a group setting. IRLs normally happen in January and in July, perfect timing to review the (half-)year. Every Nitean is encouraged to attend in person, but we provide remote access as well. It's OK to remotely attend an IRL every now and then, but generally we expect everyone to be there in person.
 
-In addition there are ad-hoc in-person meetups that happen about once or twice a month, as needed. Some of us might get together to watch a talk at a local conference or we go to lunch together to discuss project work.
+In addition there are ad-hoc in-person meetups that happen every now and then. Some of us get together to watch a talk at a local conference, to eat lunch together while discussing project work or to hike a nearby hill.
 
 ## Project And Company Management
 
 We organize our work using a Kanban board which is described in detail in the [work process](work-process.md) and [kanban](kanban.md) documents.
 
-Project and task management is currently done with [GitHub and ZenHub](/2_Operations/apps.md). Support handles tickets through Help Scout.
-
-We track cash flow with [Xero](https://www.xero.com/). Finance reports are published to [teamniteo/finances](https://github.com/teamniteo/finances) on a monthly basis and are viewable to all full-time team members.
+Task management is done with [GitHub Projects](/2_Operations/apps.md). Support handles tickets through [Help Scout]]([/2_Operations/apps.md](https://www.helpscout.com/)).
 
 Monthly company newsletter covers the main events of the month and is a great reference point for digging deeper into parts of the company one does not know that well.
+
+We track cash flow with [Xero](https://www.xero.com/). Finance reports are published as part of the monthly newsletter and are viewable to all full-time Niteans.
+
 
 ## Development
 
