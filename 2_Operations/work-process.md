@@ -19,7 +19,7 @@ Every quarter we take time to review, reflect, and plan for the next quarter. Th
 
 We are a remote company and as such sharing of ideas and lessons learned is impaired by the fact that we don't have the time or space to do that effectively. In the long term, this is hurting everyone and as such the Developers Session is a way to discuss recent ideas, questions and novelties.
 
-In order to prevent excessive bike-shedding, Developers Session is limited to 60 minutes.
+In order to prevent excessive [bike-shedding](https://en.wikipedia.org/wiki/Law_of_triviality), Developers Session is limited to 60 minutes.
 
 ### Agenda
 
