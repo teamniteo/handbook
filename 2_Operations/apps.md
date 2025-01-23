@@ -8,6 +8,12 @@ Kagi is a great replacement for Google. It respects your privacy because it is a
 
 Ping @zupo to get an invite link, then download their extension to plug it into your browser. 
 
+## Zoom
+
+Our main meeting place is the Niteo Zoom room. All meetings here are automatically recorded to the cloud. If you miss a meeting and want to catch up, go to https://www.zoom.us/recording/ and find it there (login credentials in 1Password). Additionally, the recordings are archived and transcribed to Dropbox on a monthly basis, so we can use them as training data for AI agents. 
+
+If you want to have a meeting that is not recorded, you can either manually pause the recording, or use Slack Huddle. 
+
 ## Slack
 
 Join the channels `#operations`, `#watercooler`, `#out-of-office`, and any other channels you find interesting. Our default mode of operation is to use public channels for all communication. The only things to be discussed in private are off-work chit-chat, constructive criticism, and planning one-on-one meetings.
