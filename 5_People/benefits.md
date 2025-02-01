@@ -18,7 +18,7 @@ In other words, would something boost your productivity, creativity, or help imp
 
 The current monthly allowance budget as of *January 2024* is:
 
- * Niteans: _€155
+ * Niteans: _€155_
  * Founders: _€310_
 
 The monthly budgets compound every month, so whatever you do not spend this month, you can use the next month, or the one after. The maximum allowance balance you can keep is 18 months.
