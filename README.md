@@ -46,7 +46,6 @@ The structure of the Handbook mirrors our departments for simple organization. D
   * [Onboarding](/5_People/onboarding.md)
 * Work Environment
   * [Catchups](/5_People/catchups.md)
-  * [Nitean Recognition](/5_People/nitean-recognition.md)
   * [Recommended Reading List](/5_People/booklist.md)
 
 
