@@ -63,9 +63,9 @@ There are other scenarios but the general idea is that don't give anything to a 
 
 ### Saved Replies
 
-Pre-prepared replies to most common questions are available on the Help Scout user interface. You can use them and quickly add a new one by clicking on the text icon inside the reply box.
+Prepared replies to most common questions are available on the Help Scout user interface. You can use them and quickly add a new one by clicking on the text icon inside the reply box.
 
-Managing existing saved replies and creating new ones can be done by clicking on the gear icon found on the Mailbox sidebar, go to `Saved Replies` and then select `New Saved Replies`. 
+Managing existing saved replies and creating new ones can be done by clicking on the gear icon found on the Mailbox sidebar, go to `Saved Replies` and then select `New Saved Reply`. 
 
 ### Submit Statuses
 
@@ -81,7 +81,7 @@ At the end of each email (where relevant) add the canned reply “Let me know if
 
 ### Reassigning Difficult Questions
 
-If a question is too difficult to answer, re-assign it to someone qualified to take over the issue. Try to add a note to summarize the issue or your own take to it.
+If a question is too difficult to answer, re-assign it to someone qualified to take over the issue. Try to add a note to summarize the issue or your own take on it.
 
 ### Help Center
 

@@ -17,7 +17,7 @@ In the end, we are working for our customers, and having everyone involved in th
   * [EBN - Blog Problems Checklist](https://github.com/teamniteo/easyblognetworks/blob/master/support/blog-problems-checklist.md)
 * We use [Help Scout](https://secure.helpscout.net/) for handling support emails. You will need to set up your own account if you don't have one yet. Ping @marbeann for an invite.
 * Filter available tickets by selecting the `unassigned` folder.
-* Everyone has *Staff* access to the EBN app, this allows you to log in to internal [*Blog Dashboard*](https://github.com/teamniteo/easyblognetworks/blob/master/support/blog-dashboard.md) app.
+* Everyone has *Staff* access to the EBN app, this allows you to log in to the internal [*Blog Dashboard*](https://github.com/teamniteo/easyblognetworks/blob/master/support/blog-dashboard.md) app.
 * We have the #ebn-support channel for support-related discussions and the #ebn-server-ops channel for server statuses and warnings.
 * All support documents can be found in the project support folder ([EBN](https://github.com/teamniteo/easyblognetworks/tree/master/support)). Make sure you go through them regularly and suggest improvements where needed.
 

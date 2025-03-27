@@ -7,7 +7,7 @@ Once important enough, all User Stories go into the project's repository.
 - Niteo House project: [`teamniteo/house`](https://github.com/teamniteo/house/)
 - Pareto project: [`teamniteo/pareto`](https://github.com/teamniteo/pareto/)
 - SEO Domain Finder project: [`teamniteo/sdf`](https://github.com/teamniteo/sdf/)
-- Company issues: [`teamniteo/operations`](https://github.com/teamniteo/operations/)
+- Company issues: [`teamniteo/operations`](https://github.com/teamniteo/ops/)
 
 We have many repositories for each project but we write all User Stories in the main repository.
 
@@ -23,7 +23,7 @@ The opening lines of a User Story are to be written in simplified, layman's term
 
  > As a *persona*, I want ..., so that ...
 
-Whenever possible, think about the end user (product persona) and how the result impacts them. Other possible personas are Nitean, Support, Developer, Marketer, and DevOps. That said, very rarely is something not done directly for the user.
+Whenever possible, think about the end user (product persona) and how the result impacts them. Other possible personas are Nitean, Support, Developer, Marketer, and DevOps. That said, it's rare for anything to be done without the user in mind.
 
 ### Description
 
@@ -49,14 +49,15 @@ A [Story Point](https://agilefaq.wordpress.com/2007/11/13/what-is-a-story-point/
 
 ## Pipelines
 
-From initial creation to being worked upon and finally closed, a User Story will be moved to different pipelines as it progresses through the Kanban board. This is a summary of the workflow of a User Story:
+From initial creation to being worked on and finally closed, a User Story will be moved to different pipelines as it progresses through the Kanban board. This is a summary of the workflow of a User Story:
 
 1. **New Issues** - New work-in-progress (WIP) User Stories, also includes bugs or issues.
 1. **Estimation** - Defined User Stories, ready for verifying and Story point estimation.
 1. **Backlog** - Waiting to be started. They are adequately defined with assigned Story points and are typically also assigned to a Nitean.
-1. **In Progress** - Currently being worked upon by the assignee.
+1. **This Week** - The selection of work items to be done this week.
+1. **In Progress** - Currently being worked on by the assignee.
 1. **Review** - Completed with a demo uploaded and awaiting final review.
-1. **Closed** - All defined expectations have been met.
+1. **Done** - All defined expectations have been met.
 
 ### Estimation
 

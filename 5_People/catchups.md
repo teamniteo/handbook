@@ -1,6 +1,6 @@
 # Catchups
 
-Once every few weeks, Niteans have Catchup meetings (also called One on Ones) with a senior team member in order to catch up. This feedback is important as everyone works remotely so we have less contact and less of an idea of what's going on with individuals. We want to know how we can help everyone work and feel better in the company. It's also an opportunity to discuss your career at Niteo.
+Once every few weeks, Niteans have Catchup meetings (also called 1:1 or one-on-one) with a senior team member in order to catch up. This feedback is important as everyone works remotely so we have less contact and less of an idea of what's going on with individuals. We want to know how we can help everyone work and feel better in the company. It's also an opportunity to discuss your career at Niteo.
 
 This is your opportunity to discuss anything you want so they should be treated as more of a *beer in a coffee shop* than an *interview-style* meeting.
 

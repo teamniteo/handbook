@@ -43,4 +43,3 @@ You start at the tech support desk answering enquiries by understanding the user
 * Leads organization of IRLs and other events. 
 * Usually at least 5-8 years of being in Niteo.
 * Salary.com role name for base salary: `IT Project Manager III`
-
