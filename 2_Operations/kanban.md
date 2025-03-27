@@ -12,7 +12,7 @@ User Stories that are dependent on each other should be merged into one bigger u
 
 ## Monday Meetings
 
-Each Monday we have a meeting to review the Kanban board and check in with our [OKRs](https://en.wikipedia.org/wiki/Objectives_and_key_results). We typically have one meeting per project starting with Operations.
+Each Monday we have a meeting to review the Kanban board and check in with our [OKRs](https://github.com/teamniteo/handbook/blob/main/2_Operations/how-we-work.md#setting-goals). We typically have one meeting per project starting with Operations.
 
 Turn on your camera during the meeting. Try to refrain from doing other things (browsing, doing support, etc.) during the meeting -- we only have this meeting and it doesn't take a lot of time so we should all pay attention to everyone else for this period.
 
@@ -24,7 +24,7 @@ For every month/quarter that a recurring task is required we (re)open the issue 
 
 ## Find Your Next Task
 
-Make sure you are completing your assigned tasks first since they are our current focus. If you've finished all of them, go through the issues in our [backlog] and or ask the project lead what to do next.
+Make sure you are completing your assigned tasks first since they are our current focus. If you've finished all of them, go through the issues in our backlog or ask the project lead what to do next.
 
 If you're a developer, you can also search the codebase and documentation for "TODO", "XXX" and similar strings. Try to understand why it's there and create an issue for it. If you like the task, you can start working on it immediately.
 
@@ -36,6 +36,6 @@ Sometimes, things break in the middle of the night or on weekends. The great thi
 
 Being on-call means being available for any critical, urgent issues that may arise. Some examples of this are servers offline or the product app is down. Each on-call day (Saturday and Sunday) counts as a 2-hour workday, even if there were no emergencies. Any work more than two hours counts as regular work.
 
-Niteans can be on-call only if they already pass basic support training or have already reported for [Everyone on Support](https://github.com/teamniteo/handbook/blob/master/4_Marketing-Support/everyone-on-support.md).
+Niteans can be on-call only if they already pass basic support training or have already reported for [Everyone on Support](https://github.com/teamniteo/handbook/blob/main/4_Marketing-Support/everyone-on-support.md).
 
-Every [Monday Meeting](https://github.com/teamniteo/handbook/blob/master/2_Operations/kanban.md#monday-meetings), we assign who will be on-call for the next weekend and note it in the [Monday Meeting issue](https://github.com/teamniteo/operations/blob/master/.github/ISSUE_TEMPLATE/monday_meeting.md).
+Every [Monday Meeting](https://github.com/teamniteo/handbook/blob/main/2_Operations/kanban.md#monday-meetings), we assign who will be on-call for the next weekend and note it in the [Monday Meeting issue](https://github.com/teamniteo/ops/blob/master/.github/ISSUE_TEMPLATE/monday_meeting.md).

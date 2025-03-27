@@ -8,7 +8,7 @@ We believe every Nitean should take part in the success of the company. If the c
 
 The Productivity Allowance is a monthly budget that, coupled with common sense, can be used to pay for any expenses that you believe can improve your mental health, physical health, or productivity. It can not be used to buy things that could potentially be dangerous to you. Also, make sure to leave enough Allowance to be able to participate in conferences or replace equipment if anything breaks.
 
-Here's a real-world example list of what Niteans have spent their Allowances on: transportation, food/drinks, accommodation, and travel insurance related to conferences or IRL meetups, HDD disks, smartphones, phone bills, technical courses, English courses, meetups, books, apps, smartwatches, air diffusers, laptops, computer components, mice and keyboards, various cables and chargers, stationery, suitcases, portable SSDs, power banks, headphones, Raspberry Pi's, monitors, donations, domain names, internet connections, chairs, desks, coworking spaces, routers, yoga mats, gym memberships, iPads, Apple Pencils, Yubikeys, swimming pool tickets, physiotherapy, 3D printers, scanners.
+Here's a real-world example list of what Niteans have spent their Allowances on: transportation, food/drinks, accommodation and travel insurance related to conferences or IRL meetups, storage drives, smartphones, phone bills, technical courses, English courses, meetups, books, apps, smartwatches, air diffusers, laptops, computer components, mice and keyboards, various cables and chargers, stationery, suitcases, power banks, headphones, Raspberry Pi's, monitors, donations, domain names, internet connections, chairs, desks, coworking spaces, routers, yoga mats, gym memberships, iPads, Apple Pencils, Yubikeys, swimming pool tickets, physiotherapy, 3D printers, scanners.
 
 And here's a real-world example list of what Niteans were denied spending their Allowances on: moped, e-scooter, medical insurance, food delivery.
 
@@ -16,7 +16,7 @@ In other words, would something boost your productivity, creativity, or help imp
 
 ### Allowance Budget
 
-The current monthly allowance budget as of *January 2024* is:
+The current monthly allowance budget as of *January 2025* is:
 
  * Niteans: _€155_
  * Founders: _€310_
@@ -25,7 +25,7 @@ The monthly budgets compound every month, so whatever you do not spend this mont
 
 You can request an increase in your Allowance if you feel the current one doesn't cover all the expenses for you. You can spend a few months of future allowance balance. That said, it's smart to keep at least a few months allowance, just in case something breaks.
 
-If they attended a conference in the previous year, each Nitean gets a €1000 additional budget on the 1st of January every year.
+If they attended at least three conference days in the previous year, each Nitean gets a €1000 allowance bonus on the 1st of January every year.
 
 Every Nitean, when they transition from Trialist to a Permanent position, starts with an allowance budget that is proportional to how many months remain in the year (€1000 in January, €500 in July, etc.)
 
@@ -50,7 +50,7 @@ The allowance bonus accounts for all the days you are away at the conference and
 
 Conferences count as working days (7.5h per day). Transport to conferences counts too (up to 7.5h per day).
 
-The conference allowance bonus requires that you write a report about the conference when you get back. It can be published on any of our blogs or as a Spotlight article in our [Newsletter](https://github.com/teamniteo/operations/tree/master/newsletter).
+The conference allowance bonus requires that you write a report about the conference when you get back. It can be published on any of our blogs or as a Spotlight article in our [Newsletter](https://github.com/teamniteo/ops/tree/master/newsletter).
 
 For example, John attends a 5-day IRL in Istanbul:
 
@@ -89,7 +89,7 @@ You are encouraged to extend your trip and take vacation days to see the place y
 
 ### Luxury IRL
 
-Our [IRL meetups](https://github.com/teamniteo/handbook/blob/master/2_Operations/how-we-work.md#communication) are always fun. To amp things up and get the most out of these events, each Nitean will give some of their allowance (everyone gives the same amount) but the company will still shoulder the same amount as before. This will allow us to explore more options without the budget constraint.
+Our [IRL meetups](https://github.com/teamniteo/handbook/blob/main/2_Operations/how-we-work.md#communication) are always fun. To amp things up and get the most out of these events, each Nitean will give some of their allowance (everyone gives the same amount) but the company will still shoulder the same amount as before. This will allow us to explore more options without the budget constraint.
 
 Since every Nitean still gets a ton of allowance bonus when travelling to IRLs, and most of us have too much allowance anyhow, giving some of these allowances to party like Gatsby on IRLs is a good team investment for a bi-annual meetup.
 
@@ -104,7 +104,7 @@ Death in the family is three extra days of paid leave.
 
 ### Booking Vacation
 
-To book vacation time off, add an entry to the [Planned Absences](https://github.com/teamniteo/operations/blob/master/absences.md) page.
+To book vacation time off, add an entry to the [Planned Absences](https://github.com/teamniteo/ops/blob/master/absences.md) page.
 
 
 ### Unused Vacation
@@ -115,7 +115,7 @@ Unused vacation hours in a calendar year can be carried over to the next year bu
 
 If you've used up all your allocated vacation days, you can take more vacation days but they will be unpaid.
 
-Please ensure however, that your department and associated work will not suffer during your absence. Also, note that your quarterly profit share amount will be affected by the number of unpaid vacation days you take. See [Profit sharing](profit-sharing.md#present) for further details. On top of this, unpaid vacation will reduce your monthly and yearly [allowance](https://github.com/teamniteo/handbook/blob/master/5_People/benefits.md#allowance-budget).
+Please ensure however, that your department and associated work will not suffer during your absence. Also, note that your quarterly profit share amount will be affected by the number of unpaid vacation days you take. See [Profit sharing](profit-sharing.md#present) for further details. On top of this, unpaid vacation will reduce your monthly and yearly [allowance](https://github.com/teamniteo/handbook/blob/main/5_People/benefits.md#allowance-budget).
 
 If the unpaid vacation exceeds six consecutive months, there should be an offboarding/onboarding process.
 

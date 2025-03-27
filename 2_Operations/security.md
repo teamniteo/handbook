@@ -3,7 +3,7 @@
 ## General Guidelines
 
 * Do not store confidential or sensitive information in plain text.
-* Do not store sensitive information with any of the big 10 cloud providers (MS, Google, Apple, Dropbox, etc.). Store information locally, on our internal infrastructure or with smaller providers (preferably non-US based).
+* Do not store sensitive information with any of the big 10 cloud providers (MS, Google, Apple, personal Dropbox accounts, etc.). Store information locally, on our internal infrastructure or with smaller providers (preferably non-US based).
 * Go through the [UK's NCSC training](https://www.ncsc.gov.uk/training/v4/Top+tips/Web+package/content/index.html#/), [EdApp's Cyber Security](https://www.edapp.com/course/cyber-security-15/), and [ESET's Cybersecurity Awareness Training](https://www.eset.com/us/business/cybertraining/).
 * Take the following Quizzes to learn to detect Phishing:
   * https://phishingquiz.withgoogle.com/
@@ -40,7 +40,7 @@ Whenever possible, enable 2FA (two-factor authentication) for logging into servi
 
 ## VPN
 
-Unless we are on our home network, we always use Virtual-Private-Network tunneling to  protect ourselves from traffic sniffing. Our VPN provider NordVPN is supported on all major desktop and mobile devices.
+Unless we are on our home network, we always use Virtual-Private-Network tunneling to  protect ourselves from traffic sniffing. We use our own in-house VPN, built on WireGuard, which supports all major desktop and mobile platforms.
 
 
 ## Device Data Encryption
@@ -67,7 +67,7 @@ In case one of our devices gets stolen, we need a way to do some theft control. 
 
 Syncing of data between the device and any other device/service needs to be performed securely. Syncing over USB, local wired or wireless network that is trusted is fine. Remember a coffee shop or other public wifi cannot be trusted.
 
-Syncing through Dropbox, iCloud or Google Sync is *not* allowed as that would mean that all the data is stored unencrypted on their servers.
+Syncing through personal Dropbox accounts, iCloud, or Google Sync is *not* allowed as that would mean that all the data is stored unencrypted on their servers.
 
 
 ## Webservices
@@ -80,4 +80,3 @@ Always use HTTPS, under all circumstances, if the service does not support this,
 Under no circumstances should you send any customer data unencrypted (that includes Slack!). Sharing customer data such as lists of email addresses can be done using [Signal](apps.md) so that no one else has access to these private details.
 
 To share individual customer details, you can securely reference them by using their application ID or customer issue ticket (e.g., Help Scout).
-

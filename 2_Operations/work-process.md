@@ -2,14 +2,14 @@
 
 ## Schedule
 
-* Every **Monday** we have a [Monday Meeting ("MM")](https://github.com/teamniteo/handbook/blob/master/2_Operations/kanban.md#monday-meetings):
-   * 12:00 UTC for the whole company in the Niteo Zoom room followed immediately by separate meetings for the projects in their own Zoom channels.
+* Every **Monday** we have a [Monday Meeting ("MM")](https://github.com/teamniteo/handbook/blob/main/2_Operations/kanban.md#monday-meetings):
+   * 12:00 UTC – Company-wide meeting in the Niteo Zoom room followed immediately by project-specific meetings on Zoom or in each project’s Slack channel huddle.
 
 * Every weekday Niteans should check their [GitHub notifications](https://github.com/notifications) so that they don't miss things that involve them.
 
 * A [Developers Session](#developers-session) is scheduled when we have a fair amount of items to talk about and is typically held right after the Monday Meeting.
 
-Niteans are encouraged to take Fridays off for a long weekend. Same as any other vacation off, make sure that your backup Nitean is available to handle any potential issues (see [Vacation policy](https://github.com/teamniteo/handbook/blob/master/5_People/benefits.md#vacation)).
+Niteans are encouraged to take Fridays off for a long weekend. Same as any other vacation off, make sure that your backup Nitean is available to handle any potential issues (see [Vacation policy](https://github.com/teamniteo/handbook/blob/main/5_People/benefits.md#vacation)).
 
 ## Quarterly Review and Planning
 
@@ -35,12 +35,12 @@ As an attendee, ask yourself:
 
 As a curator:
 
-- Organize which time to have the session and announce it in #development when it's time to join and paste a link to the Zoom room.
+- Organize which time to have the session and announce it in the #development Slack channel when it's time to join and paste a link to the Zoom room.
 - Prepare a joke or something funny to share.
 - As a curator, meet and greet everyone, especially first-time joiners.
 - If you hear crickets, start rolling the ball with a question, an anecdote or a funny story.
 - Make sure no one is talking the whole 30 minutes, everyone should have an opinion!
-- Write a report into the **Recurring** ticket for the meeting.
+- Write a report into the **Recurring** GitHub issue for the meeting.
 
 ## Commits and Pull Requests
 
@@ -52,6 +52,6 @@ When a User Story or Pull Request is getting close to being completed but there 
 
 ## Continual Improvement
 
-Big cleanups (of code, documentation, or anything else) happen rarely. They are hard to organize, and to motivate for. Instead of doing big cleanups every few months (years?) when pain levels are high enough, we prefer to do constant tiny improvements with an approach called [Continual Improvement](https://en.wikipedia.org/wiki/Continual_improvement_process).
+Big cleanups (of code, documentation, or anything else) happen rarely as they are hard to organize and motivate for. Instead of doing big cleanups every few months (years?) when pain levels are high enough, we prefer to do constant tiny improvements with an approach called [Continual Improvement](https://en.wikipedia.org/wiki/Continual_improvement_process).
 
 For Niteo, this means that most Pull Request should include at least one minor cleanup commit alongside the main PR commit. It does not need to be related to the main commit, it can be improvements for anything in the repository, however trivial. This can include code and documentation updates, typo fixes, or removal of something that no longer makes sense.

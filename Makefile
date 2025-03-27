@@ -18,7 +18,7 @@ clean:
 #
 .PHONY: linkcheck
 linkcheck: ## Check all URLs in the handbook.
-	@docker run -ti --rm -v $(shell pwd):/mnt:ro dkhamsing/awesome_bot --allow-dupe --allow-redirect --allow 403 --white-list https://github.com/teamniteo/operations,\
+	@docker run -ti --rm -v $(shell pwd):/mnt:ro dkhamsing/awesome_bot --allow-dupe --allow-redirect --allow 403 --white-list https://github.com/teamniteo/ops,\
 https://github.com/teamniteo/easyblognetworks,\
 https://github.com/teamniteo/ebn,\
 https://github.com/teamniteo/finances,\
@@ -28,9 +28,6 @@ https://github.com/teamniteo/my-niteo-career,\
 https://github.com/teamniteo/pareto,\
 https://github.com/teamniteo/sdf,\
 https://github.com/teamniteo/support,\
-http://docs.niteo.co,\
-http://books.niteo.co,\
-http://videos.niteo.co,\
 https://github.com/issues/assigned,\
 https://github.com/notifications,\
 https://github.com/orgs/teamniteo/teams,\

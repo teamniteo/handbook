@@ -53,4 +53,3 @@ The top two positions are two branches of the design career:
 * Completely comfortable discussing complex application logic with programmers.
 * Usually at least 12-15+ years of design experience.
 * Salary.com role name for base salary: `Web Art Director`
-
