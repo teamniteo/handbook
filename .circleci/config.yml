@@ -1,6 +1,6 @@
 # Circle CI Configuration
 # linkcheck validates all the links in all the markdown files.
-# Validates only when a PR is raised for the main branch.
+# Validates only when a PR is created for the main branch.
 
 version: 2.0
 jobs:
