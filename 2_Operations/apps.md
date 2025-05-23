@@ -130,6 +130,7 @@ Claude top tips:
 * `claude --version` needs to be 1.0+ so you get access to the latest models
 * As of 1.0+ version, run `/login` and select the `Claude app` as login method. This makes your usage be part of our subscription, and you are not charged per API call! Running `/cost` should say " ... your subscription includes Claude Code usage"
 * Use the `/model` command to switch from default `Claude Sonnet 4` to `Claude Opus 4` model for really complex tasks. Much slower and more expensive, but worth a try if the default model gets stuck. Remember to revert back to Sonnet after you are done.
+* If you hit the rate limit, use `codex` for a while -- limits are reset every 5 hours.
 
 Codex top tips:
 * To use the latest models, go to `https://platform.openai.com/api-keys`, login with Niteo account, create an API key for yourself and export it in your terminal as `OPENAI_API_KEY`.
