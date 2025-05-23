@@ -118,7 +118,7 @@ The current recommended models are:
 * `o4-mini` and `Claude Sonnet 4` for general use
 * `o4-mini-high` and `Claude Opus 4` for complex use, and both with `Research` feature/skill enabled for research tasks involving browsing the Internet
 
-Top tip: you might be afraid to ask "stupid"/personal/sensitive questions for fear of other Niteans seeing them, and resort to using a personal account. Don't! We're paying to have access to the best and fastest models, and you will get far better results using the Niteo account! Just use the [Temporary Chat](https://help.openai.com/en/articles/8914046-temporary-chat-faq) feature to ask for personal/stupid/non-work stuff! 
+Top tip: you might be afraid to ask "stupid"/personal/sensitive questions for fear of other Niteans seeing them, and resort to using a personal account. Don't! We're paying to have access to the best and fastest models, and you will get far better results using the Niteo account. Just use the [Temporary Chat](https://help.openai.com/en/articles/8914046-temporary-chat-faq) feature to ask for personal/stupid/non-work stuff.
 
 #### Codex and Claude Code
 
