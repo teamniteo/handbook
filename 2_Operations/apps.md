@@ -106,16 +106,34 @@ We can't imagine modern tech world without the help of various AI tools. The lis
 
 Not the sharpest AI model, but the best integrated one. Especially when using VSCode, it gently suggest code and even text, math solutions in Markdown files on-the-fly, as you write. "Free" productivity gain, no need to change your habits at all. 
 
-Sign up at https://github.com/features/copilot/plans and mark the expense as your [Productivity Allowance](https://github.com/teamniteo/handbook/blob/main/5_People/benefits.md#productivity-allowance).
+Sign up for $100/year Pro account at https://github.com/features/copilot/plans and mark the expense as your [Productivity Allowance](https://github.com/teamniteo/handbook/blob/main/5_People/benefits.md#productivity-allowance).
 
-Make sure you untick `Allow GitHub to use my code snippets from the code editor for product improvements` on https://github.com/settings/copilot.
+Make sure you untick `Allow GitHub to use my code snippets from the code editor for product improvements` on https://github.com/settings/copilot. On the same page, under Features, enable `Anthropic Claude Sonnet 4 in Copilot` and `OpenAI o4-mini in Copilot`.
 
-#### ChatGPT
+#### ChatGPT and Claude
 
-We have a company account for OpenAI's ChatGPT, find the credentials in 1Password.
+We have a maxed-out company account for OpenAI's [ChatGPT](https://chatgpt.com/) and Anthropic's [Claude](https://claude.ai/). Find credentials in 1Password. If you are asked for a "login code" or "verification code", look for it in #mail-to-slack Slack channel and ping @zupo if it is not there.
 
-Top tip: there is no need for a personal account, you can use the [Temporary Chat](https://help.openai.com/en/articles/8914046-temporary-chat-faq) feature to ask for personal/stupid/non-work stuff. It is actually better to use the company account since we pay for the most expensive model. 
+The current recommended models are:
+* `o4-mini` and `Claude Sonnet 4` for general use
+* `o4-mini-high` and `Claude Opus 4` for complex use, and both with `Research` feature/skill enabled for research tasks involving browsing the Internet
 
-### ClaudeAI
+Top tip: you might be afraid to ask "stupid"/personal/sensitive questions for fear of other Niteans seeing them, and resort to using a personal account. Don't! We're paying to have access to the best and fastest models, and you will get far better results using the Niteo account! Just use the [Temporary Chat](https://help.openai.com/en/articles/8914046-temporary-chat-faq) feature to ask for personal/stupid/non-work stuff! 
 
-Another popular chat model, which we also have a company account for. To log in, find the username in 1Password, then go to #mail-to-slack to receive the login link. 
+#### Codex and Claude Code
+
+Both OpenAI and Anthropic also ship a terminal tool. These are the best way to interact with their AI models for code-related tasks. Instead of copy/pasting your code into the browser, you `cd` into your project locally and run [`codex`](https://openai.com/codex/) or [`claude`](https://www.anthropic.com/claude-code). You are dropped into an AI prompt and you can ask it to write a test, add a new feature, or just paste the error log. The tool will then automagically upload the correct files into the model's context and do what you asked it to.
+
+For complex tasks, it makes sense to open two terminal windows, with each tool in one, so you can ask them both for a solution and then decide which solution is better. Always start with `claude` first, since we get a very generous amount of usage with our subscription, while with `codex` we pay for every usage in addition to our subscripton.
+
+Claude top tips:
+* `claude --version` needs to be 1.0+ so you get access to the latest models
+* As of 1.0+ version, run `/login` and select the `Claude app` as login method. This makes your usage be part of our subscription, and you are not charged per API call! Running `/cost` should say " ... your subscription includes Claude Code usage"
+* Use the `/model` command to switch from default `Claude Sonnet 4` to `Claude Opus 4` model for really complex tasks. Much slower and more expensive, but worth a try if the default model gets stuck. Remember to revert back to Sonnet after you are done.
+
+Codex top tips:
+* To use the latest models, go to `https://platform.openai.com/api-keys`, login with Niteo account, create an API key for yourself and export it in your terminal as `OPENAI_API_KEY`.
+* Use the `/model` command to select the `o4-mini` model.
+
+
+
