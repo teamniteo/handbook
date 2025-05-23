@@ -124,7 +124,7 @@ Top tip: you might be afraid to ask "stupid"/personal/sensitive questions for fe
 
 Both OpenAI and Anthropic also ship a terminal tool. These are the best way to interact with their AI models for code-related tasks. Instead of copy/pasting your code into the browser, you `cd` into your project locally and run [`codex`](https://openai.com/codex/) or [`claude`](https://www.anthropic.com/claude-code). You are dropped into an AI prompt and you can ask it to write a test, add a new feature, or just paste the error log. The tool will then automagically upload the correct files into the model's context and do what you asked it to.
 
-For complex tasks, it makes sense to open two terminal windows, with each tool in one, so you can ask them both for a solution and then decide which solution is better. Always start with `claude` first, since we get a very generous amount of usage with our subscription, while with `codex` we pay for every usage in addition to our subscripton.
+For complex tasks, it makes sense to open two terminal windows, with each tool in one, so you can ask them both for a solution and then decide which solution is better. Always start with `claude` first, since we get a very generous amount of usage with our subscription, while with `codex` we pay for every usage in addition to our subscription.
 
 Claude top tips:
 * `claude --version` needs to be 1.0+ so you get access to the latest models
