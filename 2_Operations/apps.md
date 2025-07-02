@@ -121,6 +121,8 @@ The current recommended models are:
 
 Top tip: you might be afraid to ask "stupid"/personal/sensitive questions for fear of other Niteans seeing them, and resort to using a personal account. Don't! We're paying to have access to the best and fastest models, and you will get far better results using the Niteo account. Just use the [Temporary Chat](https://help.openai.com/en/articles/8914046-temporary-chat-faq) feature to ask for personal/stupid/non-work stuff.
 
+Top tip: you might want to have a nice structured history of prompts, so that you can refer to them later. Use the "Projects" feature for that! 
+
 #### Codex and Claude Code
 
 Both OpenAI and Anthropic also ship a terminal tool. These are the best way to interact with their AI models for code-related tasks. Instead of copy/pasting your code into the browser, you `cd` into your project locally and run [`codex`](https://openai.com/codex/) or [`claude`](https://www.anthropic.com/claude-code). You are dropped into an AI prompt and you can ask it to write a test, add a new feature, or just paste the error log. The tool will then automagically upload the correct files into the model's context and do what you asked it to.
