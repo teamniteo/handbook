@@ -104,6 +104,3 @@ When a User Story is completed a short screencast is required to demonstrate tha
 ## Final Review
 
 We don't close our own User Stories: we always want to have another person look over it before closing, just in case we missed something. To do this, when you're done with your work, put the story into Review state and wait for someone else to close it.
-
-
-We don't close our own tickets; we always want to have another person look over the User Story before closing, to see if we missed anything.
