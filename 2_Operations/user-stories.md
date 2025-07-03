@@ -100,3 +100,7 @@ You must keep your assignment to the User Story from when you work on it until i
 ## Demos
 
 When a User Story is completed a short screencast is required to demonstrate that the goals of the Story were achieved. Make the demo as short as possible (< 1min) and focus on the result of the Story and not so much on how you've done it.
+
+## Closing tickets
+
+We don't close our own tickets; we always want to have another person look over the User Story before closing, to see if we missed anything.
