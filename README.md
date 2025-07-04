@@ -9,6 +9,10 @@ This Handbook offers us an opportunity to clarify what Niteo is and how we opera
 
 The structure of the Handbook mirrors our departments for simple organization. Dropbox is structured the same way.
 
+## We're hiring!
+
+At Niteo we regularly contribute back to the Open Source community. If you do too, we'd like to invite you to [join our team](https://niteo.co/careers)!
+
 ## The Handbook
 
 ### Operations
