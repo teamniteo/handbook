@@ -100,3 +100,7 @@ You must keep your assignment to the User Story from when you work on it until i
 ## Demos
 
 When a User Story is completed a short screencast is required to demonstrate that the goals of the Story were achieved. Make the demo as short as possible (< 1min) and focus on the result of the Story and not so much on how you've done it.
+
+## Final Review
+
+We don't close our own User Stories: we always want to have another person look over it before closing, just in case we missed something. To do this, when you're done with your work, put the story into Review state and wait for someone else to close it.
