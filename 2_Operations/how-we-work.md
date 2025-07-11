@@ -21,7 +21,7 @@ To avoid that, we encourage Niteans to state what they want from the other perso
 A good example of this can be:
 > "Hey, I'd like your opinion on which approach is better for the project. Can we meet on Zoom?".
 
-Instant messaging is done through Slack on different channels (operations, support, development etc.). We have weekly all-hands on Zoom every Monday at 12 noon UTC, where we plan the week ahead. 
+Instant messaging is done through Slack on different channels (operations, support, development etc.). We have weekly all-hands on Zoom every Monday at 13 CE(S)T, where we plan the week ahead. 
 
 Once a month, senior team members have [Catchups](../5_People/catchups.md) with everyone on the team to keep themselves in the loop.
 
