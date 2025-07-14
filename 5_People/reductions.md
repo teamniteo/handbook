@@ -10,7 +10,7 @@ We know that this is a subject that is difficult to approach but we believe we h
 Introducing deferred salaries.
 
 ## Deferred Salaries
-Each permanent Nitean can choose to defer a part of their monthly salary, up to a maximum of 30%, and not get it paid out immediately. Instead, when the company is profitable, they get paid back 130% of what they deferred. Niteans can adjust the amount they defer on every IRL (twice a year).
+Each permanent Nitean can choose to defer a part of their monthly salary, up to a maximum of 30%, and not get it paid out immediately. Instead, when the company is profitable, they get paid back 130% of what they deferred. Niteans can adjust the amount they defer on every IRL (twice a year). If the repayment period is less than a year, the interest is calculated based on full months loaned (30% / 12 months = 2.5% / month).
 
 If a Nitean quits or is fired before they are paid back, they lose the 30% interest but will eventually get paid back 100% of what they risked.
 
