@@ -3,7 +3,7 @@
 ## Schedule
 
 * Every **Monday** we have a [Monday Meeting ("MM")](https://github.com/teamniteo/handbook/blob/main/2_Operations/kanban.md#monday-meetings):
-   * 12:00 UTC – Company-wide meeting in the Niteo Zoom room followed immediately by project-specific meetings on Zoom or in each project’s Slack channel huddle.
+   * 13:00 CE(S)T – Company-wide meeting in the Niteo Zoom room followed immediately by project-specific meetings on Zoom or in each project’s Slack channel huddle.
 
 * Every weekday Niteans should check their [GitHub notifications](https://github.com/notifications) so that they don't miss things that involve them.
 
