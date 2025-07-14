@@ -12,11 +12,7 @@ We also pay out a yearly profit. To "force" ourselves into having a yearly profi
 
 ### Past
 
-This part rewards the people who have previously believed in the company, invested in it, lent money to it, etc. The priority of payouts are as follows:
-
-1. Bank loans (to decrease interest rates)
-2. Business loans
-3. Founder payouts
+This part rewards the people who have previously believed in the company and invested their time, capital, and effort into building it. Specifically, it is used to pay dividends to founders and co-owners based on their ownership stakes.
 
 
 ### Present
