@@ -19,7 +19,7 @@ After changing any dependency version (for example, running `poetry update pyjok
 
 ## Shell convenience - direnv
 
-Using `nix-shell` directly does not have the best UX. A better approach is to use your native shell, but just inject the project dependencies into it. We use [direnv](http://direnv.com/) to do this. Then you no longer have to remember to run `nix-shell` because *direnv* will load the project dependencies into your shell when you `cd` into the project.
+Using `nix-shell` directly does not have the best UX. A better approach is to use your native shell, but just inject the project dependencies into it. We use [direnv](https://direnv.net/) to do this. Then you no longer have to remember to run `nix-shell` because *direnv* will load the project dependencies into your shell when you `cd` into the project.
 
 ```shell
 ~$ cd minisites
