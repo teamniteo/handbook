@@ -70,7 +70,7 @@ Looking at salaries, you might feel that higher positions are a bit underpaid wh
 
 We don't have a hard requirement that you need to hit all checkboxes to be promoted to the next level. You need to hit most of them, consistently. It helps if you are already hitting one or two from the level after the next. It also helps if you are dealing with customers directly and/or keeping production systems online.
 
-**Use of AI & Productivity Tools**
+**Use of AI Tools**
 
 Everyone at Niteo, regardless of position or track, is expected to be comfortable using LLMs and other AI tools. This doesn’t mean being an expert prompt engineer, but it does mean:
 
