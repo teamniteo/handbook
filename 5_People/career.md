@@ -70,6 +70,16 @@ Looking at salaries, you might feel that higher positions are a bit underpaid wh
 
 We don't have a hard requirement that you need to hit all checkboxes to be promoted to the next level. You need to hit most of them, consistently. It helps if you are already hitting one or two from the level after the next. It also helps if you are dealing with customers directly and/or keeping production systems online.
 
+**Use of AI Tools**
+
+Everyone at Niteo, regardless of position or track, is expected to be comfortable using LLMs and other AI tools. This doesn’t mean being an expert prompt engineer, but it does mean:
+
+- staying curious and proactive in exploring new tools that can support your daily work,
+- using them to reduce repetitive tasks and accelerate problem solving,
+- and continually improving your workflow by adopting new, relevant tools.
+
+Being effective at leveraging these tools is part of professional growth at every level.
+
 Before leveling up, you are also expected to:
 * read three books: one industry-specific, one about company culture and one on personal growth (our [recommended reading list](/5_People/booklist.md));
 * attend one intensive online or in-person course (example: Coursera, or advanced English course);
