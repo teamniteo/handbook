@@ -1,6 +1,6 @@
 # Design Career
 
-You start as a web designer, working on small, well defined and isolated tasks. Then you immediately need to become a product person that gets loosely defined problems/features to research and define solutions for.
+You start as a web designer, which for us includes website design, graphics, UI, and UX responsibilities, working on small, well-defined, and isolated tasks. Then you immediately need to become a product person who tackles loosely defined problems and features, researching and defining solutions.
 
 The top two positions are two branches of the design career:
 * Lead Designer careers means you start taking over managerial tasks, leading entire projects. 
