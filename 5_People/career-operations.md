@@ -8,7 +8,7 @@ You start at the customer support desk answering enquiries by understanding the 
 * Writes and improves documentation.
 * Can write detailed bug reports for programmers to resolve an issue.
 * Usually at least 2 years of customer support experience.
-* Salary.com role name for base salary: `Customer Support Representative`
+* Salary.com role name for base salary: `Customer Support Specialist`
 
 ## Technical Support
 
