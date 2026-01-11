@@ -14,7 +14,7 @@ Each permanent Nitean can choose to defer a part of their monthly salary, up to 
 
 If a Nitean quits or is fired before they are paid back, they lose the 30% interest but will eventually get paid back 100% of what they risked.
 
-The company pays the deferred salaries back when there is operational profit. The profit first goes into filling up the [required reserves](profit-sharing.md#the-concept) (if needed), then half of what remains goes to paying out deferred salaries and the other half goes to standard [profit sharing](profit-sharing.md). While this system is in place, we don't pay out any donations.
+The company pays the deferred salaries back when there is operational profit or profit budget to share. The profit first goes into filling up the [required reserves](profit-sharing.md#the-concept) (if needed), then half of what remains goes to paying out deferred salaries and the other half goes to standard [profit sharing](profit-sharing.md). While this system is in place, we don't pay out any donations.
 
 The maximum total deferred salaries is the average monthly loss in the last two quarters. The minimum total is half of that. If the minimum total is not reached, we will follow the plan below in order to reach it.
 
