@@ -16,10 +16,10 @@ In other words, would something boost your productivity, creativity, or help imp
 
 ### Allowance Budget
 
-The current monthly allowance budget as of *January 2025* is:
+The current monthly allowance budget as of *January 2026* is:
 
- * Niteans: _€155_
- * Founders: _€310_
+ * Niteans: _€160_
+ * Founders: _€315_
 
 The monthly budgets compound every month, so whatever you do not spend this month, you can use the next month, or the one after. The maximum allowance balance you can keep is 18 months.
 
@@ -44,8 +44,8 @@ All conference expenses such as transport, accommodation, food, etc., are covere
 The allowance bonus accounts for all the days you are away at the conference and depends on the amount of traveling and accommodation required:
 
 * €50/day for local conferences, in or near your home city.
-* €185/day for international conferences.
-* €310/day for intercontinental conferences.
+* €190/day for international conferences.
+* €315/day for intercontinental conferences.
 * Bonus 50%/conference day if you give a 30-60min talk at the conference or tending our booth.
 
 Conferences count as working days (7.5h per day). Transport to conferences counts too (up to 7.5h per day).
@@ -58,13 +58,13 @@ For example, John attends a 5-day IRL in Istanbul:
     * IRL venue and accommodation is covered by Niteo.
     * John spends extra €100 on snacks and a massage at the airport.
     * John gets his salary in EUR.
-    * John's monthly Allowance is €155.
+    * John's monthly Allowance is €160.
 
     The conference bonus is calculated like so (with a day of travel each way):
 
-    * €1295 (7 * €185/day)
+    * €1330 (7 * €190/day)
 
-Therefore John charges the company €700 (€600 + €100) in spent Allowance. Before the trip, John's allowance budget was 1000€, so after the trip, it is now €1595 (€1000 + €1295 - €700).
+Therefore John charges the company €700 (€600 + €100) in spent Allowance. Before the trip, John's allowance budget was 1000€, so after the trip, it is now €1630 (€1000 + €1330 - €700).
 
 
 Another example: Two months later, John goes to a three-day conference in Barcelona:
@@ -74,13 +74,13 @@ Another example: Two months later, John goes to a three-day conference in Barcel
     * Hotel and food are €600.
     * John spends extra €300 on niceties that make his trip more enjoyable.
     * John gets his salary in EUR.
-    * John's monthly Allowance is €155.
+    * John's monthly Allowance is €160.
 
     The conference bonus is calculated like so (with a day of travel each way):
 
-    * €925 (5 * 185€/day)
+    * €950 (5 * €190/day)
 
-    Therefore John charges the company €1900 (€500 + €500 + €600 + €300) in spent Allowance. Before the trip, John's allowance budget was €1905 (€1595 + 2x€155), so after the trip, it is now €930 (€1860 + €925 - 1900€). The trip was expensive, but it sure was nice!
+    Therefore John charges the company €1900 (€500 + €500 + €600 + €300) in spent Allowance. Before the trip, John's allowance budget was €1950 (€1630 + 2x€160), so after the trip, it is now €1000 (€1950 + €950 - €1900). The trip was expensive, but it sure was nice!
 
 
 ### Extending Your Trip With Vacation Days
