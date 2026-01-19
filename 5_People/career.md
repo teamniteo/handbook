@@ -96,7 +96,7 @@ Read more about the careers and their roles:
 
 Each month everyone is expected to work (on average) 7.5 hours per working day in that month (lunch time not included).
 
-Any additional hours are considered as overtime hours and are worth 1.3 times the amount in vacation hours.
+Any additional hours are considered as overtime hours and are worth 1.3 times the amount in vacation hours (1:1 for part-time Niteans).
 The reason for this is that we don't want to encourage people to work overtime, however we do understand that people work best in different ways.
 Some people might prefer to work flat 7.5 hours every day while others might prefer to work long hours one month and then take it easier the following month.
 This system of rewarding overtime with vacation hours should allow everyone to work the way they want.
