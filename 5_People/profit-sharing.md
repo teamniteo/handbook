@@ -36,10 +36,8 @@ This part stays in the company's bank account and is used for investing in the f
 
 ## Donations
 
-The remaining part of the profit share is what we donate to charities and causes we believe in. Everyone in the company can submit a potential recipient of these donations with the organization getting the most votes receiving the money.
+The remaining part of the profit share goes into donation budget for the following year. We donate to charities and organizations that support software that we use every day. 
 
-The organization voting takes place at the end of each quarter, with every Nitean casting a vote. There are four votes to cast: three votes worth 1 point and one vote worth 3 points. The list of organizations and the voting tally is kept in a [Google spreadsheet](https://docs.google.com/spreadsheets/d/1UZl9-uycPe-Ntauqgp2NNabx-NBBlqrI_FH6u5erI1Q/) (for permanent Niteans only).
-
-The organization with the most total "points" (current quarter plus previous quarters) gets the profit share donation. Then, its points are reset to zero (if the organization wins by more than 1 point, the difference is carried over to the next month). Other organizations keep their points for the next quarter. If there is a tie, the Partners decide the winner.
+The donation commitee (currently @karantan and @zupo) decide how much and who to donate to on a case-by-case basis. If there is unspent donation budget at the end of the year, it is put into profit budget to be paid out. 
 
 You can see the organizations we've donated to on the [About Niteo page](https://niteo.co/about).
