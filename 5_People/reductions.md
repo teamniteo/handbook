@@ -23,7 +23,7 @@ A Nitean chooses to defer €1,000 of their monthly salary on IRL#N. They keep t
 
 In the same time period, all Niteans defer €60,000 in total.
 
-After the second profitable quarter, the company has €100,000 of profit and is €20,000 below the [required reserves](profit-sharing.md#the-concept). This leaves €60,000 for paying back deferred salaries and €20,000 for profit sharing. T
+After the second profitable quarter, the company has €100,000 of profit and is €20,000 below the [required reserves](profit-sharing.md#the-concept). This leaves €60,000 for paying back deferred salaries and €20,000 for profit sharing.
 
 ## Expense Reduction Plan
 1. Set a goal to save X per month.
