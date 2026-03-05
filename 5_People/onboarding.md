@@ -63,4 +63,3 @@ We can only send local currency with this method. Your salary will be recalculat
 - Postcode & City
 - Country
 - SWIFT/BIC Code
-   - India: IFSC Code
