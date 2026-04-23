@@ -5,21 +5,17 @@
 * Website: [easyblognetworks.com](https://www.easyblognetworks.com)
 * [Repository](https://github.com/teamniteo/easyblognetworks)
 
-### Niteo House
-
-* Website: [house.niteo.co](https://house.niteo.co)
-* [Repository](https://github.com/teamniteo/house)
-
 ### Pareto Security
 
 * Website: [paretosecurity.com](https://paretosecurity.com)
 * [Repository](https://github.com/teamniteo/pareto)
 * [Public Repository](https://github.com/ParetoSecurity/pareto-mac)
 
-### SEO Domain Finder
+### Niteo House
 
-* Website: [seodomainfinder.com](https://seodomainfinder.com)
-* [Repository](https://github.com/teamniteo/sdf)
+* Website: [house.niteo.co](https://house.niteo.co)
+* [Repository](https://github.com/teamniteo/house)
+
 
 ## Project Template
 
