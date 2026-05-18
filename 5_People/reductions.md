@@ -10,16 +10,16 @@ We know that this is a subject that is difficult to approach but we believe we h
 Introducing deferred salaries.
 
 ## Deferred Salaries
-Each permanent Nitean can choose to defer a part of their monthly salary, up to a maximum of 30%, and not get it paid out immediately. Instead, when the company is profitable, they get paid back 130% of what they deferred. Niteans can adjust the amount they defer on every IRL (twice a year). If the repayment period is less than a year, the interest is calculated based on full months loaned (30% / 12 months = 2.5% / month, non-cumulative).
+Each permanent Nitean can choose to defer a part of their monthly salary, up to a maximum of 30%, and not get it paid out immediately. Instead, when the company is profitable, they get paid back 124% of what they deferred. Niteans can adjust the amount they defer on every IRL (twice a year). If the repayment period is less than a year, the interest is calculated based on full months loaned (24% / 12 months = 2% / month, non-cumulative).
 
-If a Nitean quits or is fired before they are paid back, they lose the 30% interest but will eventually get paid back 100% of what they risked.
+If a Nitean quits or is fired before they are paid back, they lose the 24% interest but will eventually get paid back 100% of what they risked.
 
 The company pays the deferred salaries back when there is operational profit or profit budget to share. The profit first goes into filling up the [required reserves](profit-sharing.md#the-concept) (if needed), then what remains goes to paying out deferred salaries and what still remains goes to standard [profit sharing](profit-sharing.md). While this system is in place, we don't pay out any donations.
 
 The maximum total deferred salaries is the average monthly loss in the last two quarters. The minimum total is half of that. If the minimum total is not reached, we will follow the plan below in order to reach it.
 
 ### Theoretical Example
-A Nitean chooses to defer €1,000 of their monthly salary on IRL#N. They keep their decision until IRL#N+1 (6 months later). This means they defer 6 x €1,000 of their salary, and as such, they are eligible for a €6,525 payout: 6 x €1,000 principal plus 6 x €25 + 5 x €25 + 4x 25€ + 3 x €25 + 2 x €25 + 1 x €25 == €525 interest. Each monthly deferral earns 2.5% for each month it was held.
+A Nitean chooses to defer €1,000 of their monthly salary on IRL#N. They keep their decision until IRL#N+1 (6 months later). This means they defer 6 x €1,000 of their salary, and as such, they are eligible for a €6,420 payout: 6 x €1,000 principal plus 6 x €20 + 5 x €20 + 4 x €20 + 3 x €20 + 2 x €20 + 1 x €20 == €420 interest. Each monthly deferral earns 2% for each month it was held.
 
 In the same time period, all Niteans defer €60,000 in total.
 
