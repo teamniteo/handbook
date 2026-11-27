@@ -104,7 +104,7 @@ Death in the family is three extra days of paid leave.
 
 ### Booking Vacation
 
-To book vacation time off, add an entry to the [Planned Absences](https://github.com/teamniteo/ops/blob/master/absences.md) page.
+To book vacation time off, add an entry to the [Planned Absences](https://github.com/teamniteo/ops/blob/main/administration/absences.md) page.
 
 
 ### Unused Vacation
